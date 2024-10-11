@@ -28,6 +28,10 @@ https://upload.wikimedia.org/wikipedia/commons/c/c8/Bubble-sort-example-300px.gi
 1. Consider any one element. Pick the elements on far left and right, and then sort the three into order. Now place them back in their position based on order.
 
 
+``` cpp
+init x = 3;
 
 
 
+
+```
