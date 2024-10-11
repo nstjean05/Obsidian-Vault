@@ -1,0 +1,158 @@
+{
+  "main": {
+    "id": "0accf22efc56a780",
+    "type": "split",
+    "children": [
+      {
+        "id": "a027693e86cde421",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "57068ac4ab1943d7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "(Ch.8) Searching and Sorting.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1e6a9623b6cbb3cb",
+    "type": "split",
+    "children": [
+      {
+        "id": "90e48b3d4453cc97",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b7bafca48f2d6c08",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "0492444b7e950a68",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f351fdb2f32c067b",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "1c1db9715e53cd8f",
+    "type": "split",
+    "children": [
+      {
+        "id": "4a0ac4c7533c095a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "71a152ccc9e749fd",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "(Ch.8) Searching and Sorting.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a020b70d837b324f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "(Ch.8) Searching and Sorting.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "bea9e47c7afb6b6a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "65ca5408de734e91",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "(Ch.8) Searching and Sorting.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "57068ac4ab1943d7",
+  "lastOpenFiles": [
+    "(Ch.8) Searching and Sorting.md",
+    "2024-09-26.md",
+    "Untitled 1.canvas",
+    "2024-10-10.md",
+    "Untitled.canvas"
+  ]
+}
