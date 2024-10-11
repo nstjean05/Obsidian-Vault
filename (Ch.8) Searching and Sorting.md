@@ -8,6 +8,21 @@
 Example:
 https://upload.wikimedia.org/wikipedia/commons/6/6d/Selsort_de_0.gif
 
+```java
+public static <T>
+	boolean linearSearch(T[] data, int min, int max, T target)
+	{
+		int index = min;
+		boolean found = false;
+		while (!found && index <= max)
+		{
+		found = data[index].equals(target);
+		index++;
+	}
+	return found;
+}
+```
+
 **Method 2: Insertion Sort**
 1. Consider the first element of the list to be a sorted sublist of length 1.
 2. Consider a second item from the list, and check from left to right until it is between a smaller and larger number.
@@ -28,10 +43,6 @@ https://upload.wikimedia.org/wikipedia/commons/c/c8/Bubble-sort-example-300px.gi
 1. Consider any one element. Pick the elements on far left and right, and then sort the three into order. Now place them back in their position based on order.
 
 
-``` cpp
-init x = 3;
-
-
-
-
+``` java
+System.out.println("Hello World");
 ```
