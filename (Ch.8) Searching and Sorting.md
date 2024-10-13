@@ -5,7 +5,7 @@
 4. Swap the smallest element into P2.
 5. Continue this until each element is in order.
 
-Example:
+Examples:
 https://upload.wikimedia.org/wikipedia/commons/6/6d/Selsort_de_0.gif
 
 ```java
@@ -28,7 +28,7 @@ public static <T>
 2. Consider a second item from the list, and check from left to right until it is between a smaller and larger number.
 3. Continue until all elements are sorted.
 
-Example:
+Examples:
 https://upload.wikimedia.org/wikipedia/commons/0/0f/Insertion-sort-example-300px.gif
 
 **Method 3: Bubble Sort**
@@ -36,7 +36,7 @@ https://upload.wikimedia.org/wikipedia/commons/0/0f/Insertion-sort-example-300px
 2. Compare E2 and E3. Swap if necessary.
 3. Compare E3 and E4. Swap if nececssary.
 4. Continue until all elements are sorted.
-Example:
+Examples:
 https://upload.wikimedia.org/wikipedia/commons/c/c8/Bubble-sort-example-300px.gif
 
 **Method 4: Quick Sort**
