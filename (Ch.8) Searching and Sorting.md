@@ -8,8 +8,6 @@
 Example:
 https://upload.wikimedia.org/wikipedia/commons/6/6d/Selsort_de_0.gif
 
-
-
 ```java
 public static <T>
 	boolean linearSearch(T[] data, int min, int max, T target)
@@ -50,8 +48,3 @@ System.out.println("Hello World");
 ```
 
 #computer-science
-
->[!question]+ What did noah said on lecture?
-qkweopqwkepo 
-> ewokwopr k 
->    \-  "Noah" 
