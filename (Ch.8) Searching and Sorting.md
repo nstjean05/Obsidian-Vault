@@ -34,7 +34,7 @@ https://upload.wikimedia.org/wikipedia/commons/0/0f/Insertion-sort-example-300px
 **Method 3: Bubble Sort**
 1. Compare the Element 1 (E1) and E2. If the one on the right is greater than the left, swap their positions.
 2. Compare E2 and E3. Swap if necessary.
-3. Compare E3 and E4. Swap if nececssary.
+3. Compare E3 and E4. Swap if necessary.
 4. Continue until all elements are sorted.
 Examples:
 https://upload.wikimedia.org/wikipedia/commons/c/c8/Bubble-sort-example-300px.gif
