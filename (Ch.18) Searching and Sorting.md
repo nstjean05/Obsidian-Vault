@@ -82,6 +82,8 @@ void bubbleSort(T[] data)
 
 ### Method 4: Quick Sort
 1. Consider any one element. Pick the elements on far left and right, and then sort the three into order. Now place them back in their position based on order.
+###### Animated Example:
+https://commons.wikimedia.org/wiki/File:Quicksort-example.gif
 ###### Code Example:
 ```java
 public static <T extends Comparable<T>>
@@ -164,3 +166,12 @@ System.out.println("Hello World");
 
 
 ![[Pasted image 20241015153947.png]]
+
+
+
+
+
+
+<details>
+
+</details>
