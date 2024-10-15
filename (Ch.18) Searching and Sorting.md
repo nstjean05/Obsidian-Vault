@@ -9,7 +9,7 @@
 ###### Run-Time Complexity:
 O(n^2) - Horrible Efficiency.
 ###### Animated Example:
-https://upload.wikimedia.org/wikipedia/commons/6/6d/Selsort_de_0.gif
+![https://upload.wikimedia.org/wikipedia/commons/6/6d/Selsort_de_0.gif](https://upload.wikimedia.org/wikipedia/commons/6/6d/Selsort_de_0.gif)
 ###### Code Example:
 ```java
 public static <T>
@@ -32,7 +32,7 @@ public static <T>
 2. Consider a second item from the list, and check from left to right until it is between a smaller and larger number.
 3. Continue until all elements are sorted.
 ###### Animated Example:
-https://upload.wikimedia.org/wikipedia/commons/0/0f/Insertion-sort-example-300px.gif
+![https://upload.wikimedia.org/wikipedia/commons/0/0f/Insertion-sort-example-300px.gif](https://upload.wikimedia.org/wikipedia/commons/0/0f/Insertion-sort-example-300px.gif)
 ###### Code Example:
 ```java
 public static <T extends Comparable<T>>
@@ -167,11 +167,3 @@ System.out.println("Hello World");
 
 ![[Pasted image 20241015153947.png]]
 
-
-
-
-
-
-<details>
-
-</details>
