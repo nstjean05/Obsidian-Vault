@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "(Ch.8) Searching and Sorting.md",
+                "file": "(Ch.18) Searching and Sorting.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "(Ch.8) Searching and Sorting.md",
+                "file": "(Ch.18) Searching and Sorting.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "(Ch.8) Searching and Sorting.md",
+                "file": "(Ch.18) Searching and Sorting.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "(Ch.8) Searching and Sorting.md"
+                "file": "(Ch.18) Searching and Sorting.md"
               }
             }
           }
@@ -162,7 +162,7 @@
   "active": "57068ac4ab1943d7",
   "lastOpenFiles": [
     "computer science.md",
-    "(Ch.8) Searching and Sorting.md",
+    "(Ch.18) Searching and Sorting.md",
     "Chapter 7 algorithm.md",
     "Pasted image 20241011142209.png",
     "Pasted image 20241011142032.png",
