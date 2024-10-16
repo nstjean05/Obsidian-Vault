@@ -137,13 +137,13 @@ int partition(T[] data, int min, int max)
 	{
 		// search for an element that is > the partition element
 		while (left < right && data[left].compareTo(partitionelement) <= 0)
-		left++;
+			left++;
 		// search for an element that is < the partition element
 		while (data[right].compareTo(partitionelement) > 0)
-		right--;
+			right--;
 		// swap the elements
 		if (left < right)
-		swap(data, left, right);
+			swap(data, left, right);
 	}
 	// move the partition element into place
 	swap(data, min, right);
