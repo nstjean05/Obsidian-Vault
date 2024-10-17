@@ -50,4 +50,15 @@
 - For any element stored in position n:
 	- The element's left child is stored in array position (2n+1)
 	- The element's right child is stored in array position (2*(N+1))
-- If the tree is not complete, or at leasrt 
+- If the tree is not near complete, then is approach is a massive waste of array space.
+![[Pasted image 20241017155511.png]]
+###### Computed Child Links
+- Each element of the array is stored in an object, which stores a reference to the tree element and the array index of each child.
+- Array positions are allocated on a first-come, first-serve basis.
+- 
+## Tree Traversals
+###### Preorder
+- Visit the root, then traverse subtrees L to R.
+
+###### Inorder
+- 
