@@ -12,11 +12,17 @@
 
 ![[Pasted image 20241017151737.png]]
 
-### Tree Classifications
-###### Criteria
+#### Tree Classifications
+###### Order of the Tree
 - Maximum number of children a node is allowed to have.
-	- Called *Order of the Tree*.
-	- *General* Trees have no limit to the number of children a node may have.
-	- A Tree which has limits
+###### General Trees
+- No limit to the number of children a node may have.
+###### n-ary Tree
+- A tree that limits each node to no more than ***n*** children.
+###### Binary Trees
+- Nodes may have at most two children.
+###### Balanced Trees
+- All leaves of a tree are within one level of one another. ![[Pasted image 20241017153245.png]]
+
 
 
