@@ -30,8 +30,21 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "a180a69d3570680c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ch. 19 Trees.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -81,7 +94,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "1c1db9715e53cd8f",
@@ -97,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "(Ch.18) Searching and Sorting.md",
+                "file": "Ch. 19 Trees.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "(Ch.18) Searching and Sorting.md",
+                "file": "Ch. 19 Trees.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "(Ch.18) Searching and Sorting.md"
+                "file": "Ch. 19 Trees.md"
               }
             }
           }
@@ -146,7 +160,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -159,11 +174,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "57068ac4ab1943d7",
+  "active": "a180a69d3570680c",
   "lastOpenFiles": [
+    "Ch. 19 Trees.md",
+    "(Ch.18) Searching and Sorting.md",
     "Pasted image 20241015153947.png",
     "computer science.md",
-    "(Ch.18) Searching and Sorting.md",
     "Chapter 7 algorithm.md",
     "Pasted image 20241011142209.png",
     "Pasted image 20241011142032.png",
