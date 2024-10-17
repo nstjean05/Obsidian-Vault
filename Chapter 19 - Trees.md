@@ -1,4 +1,4 @@
-### What is a Tree?
+## What is a Tree?
 - A tree is a non-linear structure in which elements are organized hierarchically.
 - Each element is stored in a node, and connected by edges.
 	- Connecting to a node will change the level that node is on.
@@ -37,3 +37,17 @@
 - Only tree **c** is ***full***, as is is the only one where all leaves are of the same height.
 ![[Pasted image 20241017153841.png]]
 
+## Implementing Trees
+
+##### Linked Structures
+- This is the most obvious choice for implementing trees.
+
+##### Array-Based
+- Although these are a less obvious implementation, they are still sometimes useful.
+- They may be used if the tree is full or complete.
+- Below are two strategies.
+###### Computed Child Links
+- For any element stored in position n:
+	- The element's left child is stored in array position (2n+1)
+	- The element's right child is stored in array position (2*(N+1))
+- If the tree is not complete, or at leasrt 
