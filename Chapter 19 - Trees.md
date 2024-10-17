@@ -22,7 +22,18 @@
 ###### Binary Trees
 - Nodes may have at most two children.
 ###### Balanced Trees
-- All leaves of a tree are within one level of one another. ![[Pasted image 20241017153245.png]]
+- All leaves of a tree are within one level of one another.
+###### Full Tree
+- An n-ary tree is *full* if both:
+	- All leaves are at the same height;
+	- Every non-leaf node has *exactly* n children.
+###### Complete Tree
+- A Tree is complete if:
+	- It is full, or full to the next-to-last level.
+	- Nodes have either n or zero children.
 
-
+###### Example
+- Each of the trees (a, b, c) are ***complete*** - they are full to at least the second-last level, and all nodes either have n or zero children.
+- Only tree **c** is ***full***, as is is the only one where all leaves are of the same height.
+![[Pasted image 20241017153841.png]]
 
