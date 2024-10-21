@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chapter 19 - Trees.md",
+                "file": "(Ch.18) Searching and Sorting.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chapter 19 - Trees.md",
+                "file": "(Ch.18) Searching and Sorting.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Chapter 19 - Trees.md",
+                "file": "(Ch.18) Searching and Sorting.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Chapter 19 - Trees.md"
+                "file": "(Ch.18) Searching and Sorting.md"
               }
             }
           },
@@ -158,10 +158,12 @@
   },
   "active": "57068ac4ab1943d7",
   "lastOpenFiles": [
-    "Chapter 18 - Searching and Sorting.md",
-    "Chapter 19 - Trees.md",
-    "Pasted image 20241017155511.png",
     "Chapter 7 algorithm.md",
+    "Pasted image 20241017155511.png",
+    "computer science.md",
+    "(Ch.18) Searching and Sorting.md",
+    "Chapter 19 - Trees.md",
+    "Chapter 18 - Searching and Sorting.md",
     "Images/Pasted image 20241011142209.png",
     "Images",
     "Images/Pasted image 20241017153841.png",
@@ -169,8 +171,6 @@
     "Images/Pasted image 20241017153245.png",
     "Images/Pasted image 20241017151737.png",
     "Images/Pasted image 20241015153947.png",
-    "(Ch.18) Searching and Sorting.md",
-    "computer science.md",
     "Untitled.canvas",
     "2024-10-17.md",
     "Pasted image 20241011142032.png",
