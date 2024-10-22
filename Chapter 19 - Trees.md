@@ -1,3 +1,4 @@
+#computer-science
 ## What is a Tree?
 - A tree is a non-linear structure in which elements are organized hierarchically.
 - Each element is stored in a node, and connected by edges.

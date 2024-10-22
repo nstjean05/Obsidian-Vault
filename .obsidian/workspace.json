@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "(Ch.18) Searching and Sorting.md",
+                "file": "Chapter 19 - Trees.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "(Ch.18) Searching and Sorting.md",
+                "file": "Chapter 19 - Trees.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "(Ch.18) Searching and Sorting.md",
+                "file": "Chapter 19 - Trees.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "(Ch.18) Searching and Sorting.md"
+                "file": "Chapter 19 - Trees.md"
               }
             }
           },
@@ -158,11 +158,11 @@
   },
   "active": "57068ac4ab1943d7",
   "lastOpenFiles": [
-    "README.md",
+    "(Ch.18) Searching and Sorting.md",
     "Chapter 7 algorithm.md",
+    "README.md",
     "Pasted image 20241017155511.png",
     "computer science.md",
-    "(Ch.18) Searching and Sorting.md",
     "Chapter 19 - Trees.md",
     "Chapter 18 - Searching and Sorting.md",
     "Images/Pasted image 20241011142209.png",
