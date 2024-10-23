@@ -49,7 +49,9 @@
 	- Burned Persepolis (Persian Capital) to the ground.
 - Died of severe fever in 323 b.c. at nearly 33 years old.
 
-[![File:Excellent map of Alexander’s conquests using the Latin nomenclature, published in Germany in 1893.jpg](https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Excellent_map_of_Alexander%E2%80%99s_conquests_using_the_Latin_nomenclature%2C_published_in_Germany_in_1893.jpg/800px-Excellent_map_of_Alexander%E2%80%99s_conquests_using_the_Latin_nomenclature%2C_published_in_Germany_in_1893.jpg?20060321051312)](https://upload.wikimedia.org/wikipedia/commons/c/cb/Excellent_map_of_Alexander%E2%80%99s_conquests_using_the_Latin_nomenclature%2C_published_in_Germany_in_1893.jpg)
+[![File:Excellent map of Alexander’s conquests using the Latin nomenclature, published in Germany in 1893.jpg](https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Excellent_map_of_Alexander%E2%80%99s_conquests_using_the_Latin_nomenclature%2C_published_in_Germany_in_1893.jpg/800px-Excellent_map_of_Alexander%E2%80%99s_conquests_using_the_Latin_nomenclature%2C_published_in_Germany_in_1893.jpg?20060321051312)](https://upload.wikimedia.org/wikipedia/commons/c/cb/Excellent_map_of_Alexander%E2%80%99s_conquests_using_the_Latin_nomenclature%2C_published_in_Germany_in_1893.jpg)Alexander's Empire at the time of his death.
+
+
 
 
 
