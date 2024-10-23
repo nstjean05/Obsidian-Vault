@@ -20,4 +20,12 @@
 	- Captivity in Egypt and wandering the Desert with Moses.
 	- All of these are a result of Israelite sin (Exiled to Babylon).
 - Literature of this period prophesies a grand return from exile.
+- Even once some of them were in Palestine, they regarded themselves as being in exile, as they were being occupied by an outside force.
+	- Ex. Seleucids, Romans.
+- To the Jews of this time, return from exile was inseparable from the forgiveness of sins.
+	- If (Still Oppressed) Then (Not Forgiven)
+- The motif of exile is found throughout literature from the Babylonian to  Rabbinic periods.
+
+##### 1.2.2 Cyrus the Great
 - 
+
