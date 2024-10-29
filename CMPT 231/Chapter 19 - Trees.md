@@ -59,16 +59,33 @@
 - Each element of the array is stored in an object, which stores a reference to the tree element and the array index of each child.
 - Array positions are allocated on a first-come, first-serve basis.
 ## Tree Traversals
-###### Pre-Order
+
+**Pre-Order**
 - Visit the root, then traverse subtrees L to R.
-###### In-Order
+
+**In-Order**
 - Traverse the left subtree, root, then right subtree.
-###### Post-Order
+
+**Post-Order**
 - Traverse subtrees from L --> R, then visit the root.
-###### Level-Order
+
+**Level-Order**
 - Visit each node, at each level, top to bottom, left to right.
 
 ![[Pasted image 20241029151339.png]]
 
-
+## Binary Tree ADT
+- ADT = Abstract Data Type (or Class)
+###### Operation - Description
+getRoot --- Returns a reference to the root of the binary tree.
+	isEmpty --- Determines if the tree is empty.
+	size --- Returns the number of elements in the tree.
+	contains --- Determines whether a specified target is in the tree.
+	find --- Retyrns a reference to the specified target if it is found.
+	toString --- Returns a string representation of the tree.
+	iteratorInOrder --- Returns an iterator for an inorder traversal of the tree.
+	interatorPreOrder --- ... preorder traversal ...
+	interatorPostOrder --- ... postorder ...
+	iteratorLevelOrder --- ... levelorder ...
+	
 
