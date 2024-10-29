@@ -77,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "1c1db9715e53cd8f",
@@ -177,6 +176,9 @@
   },
   "active": "bffa50b65746d481",
   "lastOpenFiles": [
+    "CMPT 231/computer science.md",
+    "CMPT 231/Chapter 18 - Searching and Sorting.md",
+    "CMPT 231/Chapter 19 - Trees.md",
     "Pasted image 20241029151339.png",
     "RELS 112D/Module 1 - New Testament Historical Context.md",
     "README.md",
@@ -184,9 +186,6 @@
     "RELS 112D",
     "CMPT 231",
     "Images/Pasted image 20241017155511.png",
-    "CMPT 231/Chapter 18 - Searching and Sorting.md",
-    "CMPT 231/Chapter 19 - Trees.md",
-    "CMPT 231/computer science.md",
     "(Ch.18) Searching and Sorting.md",
     "Images/Pasted image 20241011142209.png",
     "Images",

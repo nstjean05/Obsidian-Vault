@@ -77,15 +77,17 @@
 ## Binary Tree ADT
 - ADT = Abstract Data Type (or Class)
 ###### Operation - Description
-getRoot --- Returns a reference to the root of the binary tree.
-	isEmpty --- Determines if the tree is empty.
-	size --- Returns the number of elements in the tree.
-	contains --- Determines whether a specified target is in the tree.
-	find --- Retyrns a reference to the specified target if it is found.
-	toString --- Returns a string representation of the tree.
-	iteratorInOrder --- Returns an iterator for an inorder traversal of the tree.
-	interatorPreOrder --- ... preorder traversal ...
-	interatorPostOrder --- ... postorder ...
-	iteratorLevelOrder --- ... levelorder ...
-	
-
+	getRoot            - Returns a reference to the root of the binary tree.
+	isEmpty.           - Determines if the tree is empty.
+	size               - Returns the number of elements in the tree.
+	contains           - Determines whether a specified target is in the tree.
+	find               - Returns a reference to the specified target if it's found.
+	toString           - Returns a string representation of the tree.
+	iteratorInOrder    - Returns an iterator for an inorder traversal of the tree.
+	interatorPreOrder  - ... preorder traversal ...
+	interatorPostOrder - ... postorder ...
+	iteratorLevelOrder - ... levelorder ...
+## Expression Trees
+- A tree that shows that relationship between operators and operands of an expression.
+- Evaluated from the bottom-up.
+- The following example uses a 
