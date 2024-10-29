@@ -36,6 +36,7 @@
 ###### Example
 - Each of the trees (a, b, c) are ***complete*** - they are full to at least the second-last level, and all nodes either have n or zero children.
 - Only tree **c** is ***full***, as is is the only one where all leaves are of the same height.
+
 ![[Pasted image 20241017153841.png]]
 
 ## Implementing Trees
@@ -52,14 +53,22 @@
 	- The element's left child is stored in array position (2n+1)
 	- The element's right child is stored in array position (2*(N+1))
 - If the tree is not near complete, then is approach is a massive waste of array space.
+
 ![[Pasted image 20241017155511.png]]
 ###### Computed Child Links
 - Each element of the array is stored in an object, which stores a reference to the tree element and the array index of each child.
 - Array positions are allocated on a first-come, first-serve basis.
-- 
 ## Tree Traversals
-###### Preorder
+###### Pre-Order
 - Visit the root, then traverse subtrees L to R.
+###### In-Order
+- Traverse the left subtree, root, then right subtree.
+###### Post-Order
+- Traverse subtrees from L --> R, then visit the root.
+###### Level-Order
+- Visit each node, at each level, top to bottom, left to right.
 
-###### Inorder
-- 
+![[Pasted image 20241029151339.png]]
+
+
+

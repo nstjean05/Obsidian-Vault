@@ -161,7 +161,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -176,6 +177,7 @@
   },
   "active": "bffa50b65746d481",
   "lastOpenFiles": [
+    "Pasted image 20241029151339.png",
     "RELS 112D/Module 1 - New Testament Historical Context.md",
     "README.md",
     "CMPT 231/Chapter 7 algorithm.md",
