@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "RELS 112D/Module 1 - New Testament Historical Context.md",
+                "file": "CMPT 231/Chapter 19 - Trees.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Module 1 - New Testament Historical Context"
+              "title": "Chapter 19 - Trees"
             }
           }
         ]
@@ -140,10 +140,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Chapter 7 algorithm.md"
+                "file": "CMPT 231/Chapter 19 - Trees.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Chapter 7 algorithm"
+              "title": "Outline of Chapter 19 - Trees"
             }
           },
           {
@@ -161,8 +161,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -177,8 +176,8 @@
   },
   "active": "bffa50b65746d481",
   "lastOpenFiles": [
-    "README.md",
     "RELS 112D/Module 1 - New Testament Historical Context.md",
+    "README.md",
     "CMPT 231/Chapter 7 algorithm.md",
     "RELS 112D",
     "CMPT 231",
