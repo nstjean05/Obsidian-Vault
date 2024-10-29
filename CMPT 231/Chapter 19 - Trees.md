@@ -100,13 +100,9 @@ import jsjf.exceptions.*;
 import java.util.*;
 import java.io.*;
 /**
-* PostfixEvaluator this modification of our stack example uses a
-* stack to create an expression tree from a VALID integer postfix expression
-* and then uses a recursive method from the ExpressionTree class to
-* evaluate the tree.
-*
-* @author Java Foundations
-* @version 4.0
+* PostfixEvaluator - this uses a stack to create an expression tree from a 
+* VALID integer postfix expression and then uses a recursive method from 
+* the ExpressionTree class to evaluate the tree.
 */
 public class PostfixEvaluator
 {
@@ -169,8 +165,17 @@ public class PostfixEvaluator
 	*/
 	public String getTree()
 	{
-	return (treeStack.peek()).printTree();
+		return (treeStack.peek()).printTree();
 	}
 }
 ```
 
+## Decision Trees
+- A tree whose nodes represent decision points, and children represent the available options.
+- Represents the possible conclusions that may be drawn.
+- A simple decision tree, with yes/no questions, can be modelled as a binary tree.
+- Very useful in diagnostic situations.
+
+## Implementing Binary Trees with Links
+- One strategy for implementing binary trees places the left child of element n at position (2n+1), and the right child at position 2(n+1).
+- A stored link strategy for an array-based tree allows array positions to be allocated contiguously, regardless of whether the tree is complete.
