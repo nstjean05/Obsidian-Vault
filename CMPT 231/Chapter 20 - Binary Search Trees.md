@@ -27,4 +27,8 @@
 	2. Node has 1 child.
 		- The deleted node is replaced by the child.
 	3. Node has 2 children.
-		- 
+		- A replacement node is chosen to be the new parent.
+		- Two ways of choosing:
+			- Inorder Successor - the node containing the next highest value.
+			- Inorder Predecessor - predecessor of p is the node q which comes just before p in the binary tree's inorder traversal.
+- 
