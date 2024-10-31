@@ -9,4 +9,22 @@
 	2. Compare target element at current node.
 	3. Move left if target < node, move right if target > node.
 	4. Concludes when the target == node.
-	5. 
+## Why BSTs?
+- They provide good logarithmic time performance in both the best and average cases.
+- The below complexities were found while using a binary search algorithm:
+![[Pasted image 20241031154007.png]]
+
+## Adding a Node to a BST
+- Adding is similar to finding elements (Start at root, follow path.)
+- Adds as a leaf node.
+- Below adds 77, 24, 58, 82, 17, 40, and 97 to a BST:
+![[Pasted image 20241031154300.png]]
+
+## Removing a Node from a BST
+- There are three possible situations when removing a node:
+	1. Node is a leaf.
+		- Can simply be removed.
+	2. Node has 1 child.
+		- The deleted node is replaced by the child.
+	3. Node has 2 children.
+		- 
