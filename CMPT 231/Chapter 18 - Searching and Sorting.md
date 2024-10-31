@@ -81,9 +81,11 @@ void bubbleSort(T[] data)
 ```
 
 ### Method 4: Quick Sort
-1. Consider any one element. Pick the elements on far left and right, and then sort the three into order. Now place them back in their position based on order.
+1. Select one element in the list to be the 'partition element.'
+2. Organize the list such lesser elements are on the left, and greater elements are on the right, of the partition.
+3. Apply the quick sort algorithm (recursively) to either side.
 ###### Animated Example:
-https://commons.wikimedia.org/wiki/File:Quicksort-example.gif
+[![File:Sorting quicksort anim.gif](https://upload.wikimedia.org/wikipedia/commons/6/6a/Sorting_quicksort_anim.gif?20110708165612)](https://upload.wikimedia.org/wikipedia/commons/6/6a/Sorting_quicksort_anim.gif)
 ###### Code Example:
 ```java
 public static <T extends Comparable<T>>
@@ -163,6 +165,28 @@ https:Link
 ``` java
 System.out.println("Hello World");
 ```
+
+### Method X: YYY Sort
+###### Steps:
+1. 
+###### Run-Time Complexity:
+O(n) - Excellent/Good/Fair/Bad/Horrible
+###### Animated Example:
+https:Link
+###### Code Example:
+
+``` java
+System.out.println("Hello World");
+```
+
+
+
+
+
+
+
+
+
 
 
 ![[Pasted image 20241015153947.png]]
