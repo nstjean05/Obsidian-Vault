@@ -92,7 +92,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "1c1db9715e53cd8f",
@@ -189,7 +190,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b7bafca48f2d6c08",
+  "active": "2d50f82528c70146",
   "lastOpenFiles": [
     "CMPT 231/Chapter 19 - Trees.md",
     "CMPT 231/Chapter 20 - Binary Search Trees.md",
