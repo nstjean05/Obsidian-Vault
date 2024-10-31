@@ -43,7 +43,6 @@
 
 ##### Linked Structures
 - This is the most obvious choice for implementing trees.
-
 ##### Array-Based
 - Although these are a less obvious implementation, they are still sometimes useful.
 - They may be used if the tree is full or complete.

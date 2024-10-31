@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CMPT 231/Chapter 18 - Searching and Sorting.md",
+                "file": "CMPT 231/Chapter 19 - Trees.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Chapter 18 - Searching and Sorting"
+              "title": "Chapter 19 - Trees"
             }
           }
         ]
@@ -176,9 +176,9 @@
   },
   "active": "bffa50b65746d481",
   "lastOpenFiles": [
+    "CMPT 231/Chapter 18 - Searching and Sorting.md",
     "CMPT 231/Chapter 19 - Trees.md",
     "Images/Pasted image 20241029155339.png",
-    "CMPT 231/Chapter 18 - Searching and Sorting.md",
     "CMPT 231/computer science.md",
     "Images/Pasted image 20241029151339.png",
     "RELS 112D/Module 1 - New Testament Historical Context.md",
