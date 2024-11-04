@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chapter 7 algorithm.md",
+                "file": "CMPT 231/Chapter 20 - Binary Search Trees.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Chapter 7 algorithm"
+              "title": "Backlinks for Chapter 20 - Binary Search Trees"
             }
           },
           {
@@ -128,12 +128,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Chapter 7 algorithm.md",
+                "file": "CMPT 231/Chapter 20 - Binary Search Trees.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Chapter 7 algorithm"
+              "title": "Outgoing links from Chapter 20 - Binary Search Trees"
             }
           },
           {
@@ -155,10 +155,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CMPT 231/Chapter 19 - Trees.md"
+                "file": "CMPT 231/Chapter 20 - Binary Search Trees.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Chapter 19 - Trees"
+              "title": "Outline of Chapter 20 - Binary Search Trees"
             }
           },
           {
@@ -172,11 +172,11 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 200,
+    "width": 387.5,
     "collapsed": true
   },
   "left-ribbon": {
