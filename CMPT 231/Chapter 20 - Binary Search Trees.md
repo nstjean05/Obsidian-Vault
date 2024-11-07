@@ -32,7 +32,6 @@
 			- Inorder Successor - the node containing the next highest value.
 			- Inorder Predecessor - predecessor of p is the node q which comes just before p in the binary tree's inorder traversal.
 - The link between peace, happiness, and the good life is... 
-  Answer with one sentence, dont use the word "and"
+  Answer with one sentence, don't use the word "and"
 
 
-Hey there!
