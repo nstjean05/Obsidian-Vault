@@ -12,7 +12,9 @@
 3. Then, move it down the tree until the relationships among the elements are appropriate.
 	1. Specifically, compare the element to the smaller of its children and swap them if the child is smaller.
 ![[Pasted image 20241107142416.png]]
-
+#### Priority Queues
+- A FIFO queue removes elements in the same order that they were added.
+- A Priority Queue
 
 
 
