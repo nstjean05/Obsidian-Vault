@@ -14,7 +14,14 @@
 ![[Pasted image 20241107142416.png]]
 #### Priority Queues
 - A FIFO queue removes elements in the same order that they were added.
-- A Priority Queue
+- A ***Priority Queue*** removes elements in order of their priority, regardless of when/how they were added.
+	- These are helpful in many scheduling situations.
+- Heaps are classes mechanisms for implementing priority queues.
+#### Implementing Heaps with Links
+- Operating on a heap requires moving up the heap as well as down it.
+	- To simplify this process, it is helpful to add a parent pointer to the *HeapNode* class.
+	- This will keep track of a point in the heap so we always know where the final leaf is.
+
 
 
 
