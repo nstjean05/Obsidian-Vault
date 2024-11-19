@@ -15,7 +15,14 @@
 		- However, it requires each element mapping to a unique position (called a perfect hashing function).
 ![[Pasted image 20241119152131.png]]
 
-
+#### Collisions
+- A *collision* occurs when 2 or more elements are mapped to the same location.
+	- For example, two people whose names begin with the same letter.
+- Even an imperfect hashing function (if it is still good) can result in O(1) operations.
+###### Hash Table Size
+- Now we must determine how large to make a table, to get as close as possible to the same size as our dataset.
+	- Since a perfect hashing function would have a table of 100%, a good guideline for table size is to make is 150% of the dataset's size.
+	- If the size of the dataset is unknown, we can use *dynamic resizing**
 
 
 
