@@ -29,8 +29,17 @@
 	- Although this is an option, the performance of a hash table degrades greatly as it nears its capacity.
 	b) As it nears its load factor.
 	- A percentage of table occupancy at which the table will be resized.
-
-
+## Hashing Functions
+- The goal of a hashing function is to:
+	- Scramble the keys uniformly
+	- Compute efficiently
+	- Make each table position equally likely for each key.
+- Example: Social Insurance Numbers
+	- **Bad**: Sort by the first three digits (First digit identifies province of SIN registry)
+	- **Better**: Sort by the last three digits
+	- This example can be replicated in numerous contexts, such as:
+		- Birthdays - birth date is better than birth year.
+		- Phone numbers - final digits are better than the first digits.
 
 
 
