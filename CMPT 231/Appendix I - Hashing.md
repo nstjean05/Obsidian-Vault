@@ -22,7 +22,13 @@
 ###### Hash Table Size
 - Now we must determine how large to make a table, to get as close as possible to the same size as our dataset.
 	- Since a perfect hashing function would have a table of 100%, a good guideline for table size is to make is 150% of the dataset's size.
-	- If the size of the dataset is unknown, we can use *dynamic resizing**
+	- If the size of the dataset is unknown, we can use *dynamic resizing* to create a larger hash table and transfer the elements.
+###### Dynamic Resizing
+- When should you resize?
+	a) When the table is full.
+	- Although this is an option, the performance of a hash table degrades greatly as it nears its capacity.
+	b) As it nears its load factor.
+	- A percentage of table occupancy at which the table will be resized.
 
 
 
