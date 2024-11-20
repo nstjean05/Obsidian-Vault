@@ -40,7 +40,22 @@
 	- This example can be replicated in numerous contexts, such as:
 		- Birthdays - birth date is better than birth year.
 		- Phone numbers - final digits are better than the first digits.
-
+###### Approaches to Hashing Functions
+- Extraction
+	- Part of an element's key value is used to compute the location.
+- Division
+	- Computing the location mathematically
+	- Hashcode (key) = Math.abs(key) % p
+		- For some positive integer p, the result will be in the range 0 to p-1
+- Folding
+	- The key is divided in two parts, which are combined (folded) together to create an index.
+	- **Shift** and **Boundary** folding:
+	1. Divide the key into two parts, where each part is the same length as the desired key.
+		- **Shift Folding**: these parts are added to create the index.
+		- **Boundary Folding**: Some parts are reversed before adding.
+- Mid-Square
+	- The key is multiplied by itself and then the extraction method is used (ex. take digits from the middle.)
+- 
 
 
 
