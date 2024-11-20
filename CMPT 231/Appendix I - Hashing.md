@@ -54,10 +54,15 @@
 		- **Shift Folding**: these parts are added to create the index.
 		- **Boundary Folding**: Some parts are reversed before adding.
 - Mid-Square
-	- The key is multiplied by itself and then the extraction method is used (ex. take digits from the middle.)
-- 
-
-
+	- The key is multiplied by itself and then the extraction method is used (take digits from the middle).
+- Radix Transformation
+	- The key is transformed to another numeric base
+	- Then use the division method, and divide the new key by the table size, using the remainder as the index (mod).
+- Digit Analysis
+	- Extract and then manipulate specific digits from the key.
+		- Ex. Take out (in order) from the 3rd to 6th digits, and them transform them in some way.
+- Length-Dependent
+	- The key and its length are combined in some manner to form the index, or part of it.
 
 
 
