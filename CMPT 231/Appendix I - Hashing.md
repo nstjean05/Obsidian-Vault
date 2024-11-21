@@ -67,8 +67,20 @@
 - The *object* class defines a method called *hashcode* which returns a memory location of the object.
 - Usually not useful, but makes sure that every object has a hashcode method.
 - hashcode() returns a 32-bit int between -2147483648 and 2147483647.
-	- Bugs: Don't use code%M or (Math.abs(c0de))
-
+	- Bugs: Don't use code%M or (Math.abs(code)%M) as the index for an array.
+	- You may use ((code & 0x7fffffff) % M)) as the array index.
+## Resolving Collisions
+- With *M* bins, it is expected that two objects will enter the same bin after √π(M/2) entries.
+- A collision is when two keys map to the same location in a hash table.
+- There are two main ways to resolve collisions:
+	- Separate Chaining
+	- Open Addressing (linear probing, quadratic probing, double hashing)
+###### Separate Chaining (Chaining with Links)
+- Use an array of M < N linked lists.
+	- Hash: map key to integer i between 0 and (M - 1)
+	- Insert: it at the front of the chain if it isn't already there.
+	- Search: only need to search in the chain.
+- 
 
 
 
