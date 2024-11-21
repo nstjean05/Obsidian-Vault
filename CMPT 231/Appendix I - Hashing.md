@@ -63,6 +63,12 @@
 		- Ex. Take out (in order) from the 3rd to 6th digits, and them transform them in some way.
 - Length-Dependent
 	- The key and its length are combined in some manner to form the index, or part of it.
+###### Hashcode
+- The *object* class defines a method called *hashcode* which returns a memory location of the object.
+- Usually not useful, but makes sure that every object has a hashcode method.
+- hashcode() returns a 32-bit int between -2147483648 and 2147483647.
+	- Bugs: Don't use code%M or (Math.abs(c0de))
+
 
 
 
