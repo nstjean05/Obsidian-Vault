@@ -82,6 +82,7 @@
 	- Search: only need to search in the chain.
 - Load factor (lambda): is the ratio of (#Elements)/(Table Size)
 	- In separate chaining, the load factor is the average number of elements in a bucket.
+	- Not safe for (lambda) > 0.5
 ###### Open Addressing
 - No chaining, as each key fits in the hash table.
 - Probe Sequence:
@@ -97,9 +98,9 @@
 	- 
 - There are other approaches to open addressing as well.
 	- **Quadratic Probing**: (p + i^2)%s
-						- Not safe for (lambda)>1/2
+						- Not safe for (lambda) > 0.5
 	- **Double Hashing**: Creates a second hash function with a different index pattern.
-						- Safe for (lambda)<1
+						- Safe for (lambda) < 1
 ## Deleting Elements
 There are 5 cases for removing an element from a chained implementation.
  If the element is...
@@ -114,6 +115,26 @@ There are 5 cases for removing an element from a chained implementation.
 	- Set its position in overflow to null
 	- Reset the pointer of the previous element to skip it.
 5. If the element is not in the table, throw an exception.
+##### Rehashing
+- When the table gets too full, create a larger table (usually 2x the size) and hash all the items into the new table.
+- When to rehash?
+	- Half full (lambda = 0.5)
+	- When an insertion fails.
+	- Some other threshhold.
+## Hashing Versus Balanced Trees
+- Hashing:
+	- Simpler to code.
+	- No effective alt for unordered keys.
+	- faster for simple keys (few operations).
+	- Java has better system support.
+	- Need to make sure that your function produces suitably random values.
+- Balanced Trees:
+	- Stronger performance guarantee.
+	- Can support many more operations for ordered keys.
+	- Easier to implement compareTo() correctly than equals() and hashcode()
+- Java Includes Both:
+	- Red-black trees w/ java.util.TreeMap or java.util.IdentityHashMap
+	- Hashing: java.util.HashMap or java.util.IdentityHashMap
 
 
 
