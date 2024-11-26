@@ -80,7 +80,7 @@
 	- Hash: map key to integer i between 0 and (M - 1)
 	- Insert: it at the front of the chain if it isn't already there.
 	- Search: only need to search in the chain.
-- Load factor: is the ratio of (#Elements)/(Table Size)
+- Load factor (lambda): is the ratio of (#Elements)/(Table Size)
 	- In separate chaining, the load factor is the average number of elements in a bucket.
 ###### Open Addressing
 - No chaining, as each key fits in the hash table.
@@ -93,9 +93,28 @@
 	- Mark a location as deleted, if the 'deleted' key resides there
 - **Linear probing** is the simplest approach to finding a new unused position
 	- If a location is occupied, go to (p+1)%s, where p is position, % is mod, and s is size.
-	- Primary issue with this method is the clustering of occupied cells.
-	- There are other approaches to open addressing as well.
-		- **Quadratic Probing**: (p +)
+	- Primary issue with this method is the '*primary clustering*' of occupied cells.
+	- 
+- There are other approaches to open addressing as well.
+	- **Quadratic Probing**: (p + i^2)%s
+						- Not safe for (lambda)>1/2
+	- **Double Hashing**: Creates a second hash function with a different index pattern.
+						- Safe for (lambda)<1
+## Deleting Elements
+There are 5 cases for removing an element from a chained implementation.
+ If the element is...
+1. Uniquely mapped, simply remove it.
+2. Stored in the table, but has an index into an overflow area.
+	- Replace the element and the next index value in the table with the element and next index value of the array position pointed to by the element to be removed.
+3. At the end of the list of elements.
+	- Set its position to null
+	- Set the next pointer of the previous element to null.
+	- And add that position to the overflow.
+4. In the middle of the list.
+	- Set its position in overflow to null
+	- Reset the pointer of the previous element to skip it.
+5. If the element is not in the table, throw an exception.
+
 
 
 
