@@ -80,7 +80,22 @@
 	- Hash: map key to integer i between 0 and (M - 1)
 	- Insert: it at the front of the chain if it isn't already there.
 	- Search: only need to search in the chain.
-- 
+- Load factor: is the ratio of (#Elements)/(Table Size)
+	- In separate chaining, the load factor is the average number of elements in a bucket.
+###### Open Addressing
+- No chaining, as each key fits in the hash table.
+- Probe Sequence:
+	- h(k)
+	- (h(k) + f(1)) mod HSize
+	- (h(k) + f(2)) mod HSize
+	- ...
+- Lazy deletion is needed for this method.
+	- Mark a location as deleted, if the 'deleted' key resides there
+- **Linear probing** is the simplest approach to finding a new unused position
+	- If a location is occupied, go to (p+1)%s, where p is position, % is mod, and s is size.
+	- Primary issue with this method is the clustering of occupied cells.
+	- There are other approaches to open addressing as well.
+		- **Quadratic Probing**: (p +)
 
 
 
