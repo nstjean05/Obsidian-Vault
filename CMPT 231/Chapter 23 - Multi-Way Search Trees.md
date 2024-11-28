@@ -16,3 +16,7 @@
 		- Left ≤ Middle ≤ Right.
 - *Underflow* is when we must rotate the tree or reduce its height to maintain the 2-3 properties.
 ## Inserting Elements into 2-3 Trees
+- The tree is searched to find the proper leaf, where the new element is inserted.
+	- If there is one element in leaf then the new element will be inserted beside it.
+	- If there are two elements in the leaf, then the new element will be 
+- 
