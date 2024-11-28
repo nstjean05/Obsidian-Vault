@@ -22,3 +22,6 @@
 	- Whichever the middle element ends up as, will go to its parent node.
 	- This process continues until there is only 2 elements in a node.
 ![[Pasted image 20241128150228.png]]
+
+
+Not complete.
