@@ -1,0 +1,12 @@
+- A multi-way search tree combines the concepts of:
+	- General trees, with multiple children per node.
+	- BSTs, with relationships among elements but only 2 trees per node.
+	- In multi-way search trees, each node may have more than 2 children, with a specific relationship between the elements.
+### 2-3 Trees
+- In a 2-3 tree, each node has 2 or 3 children.
+- **2-Node**
+	- Contains one element
+	- Can have 2 or no children.
+- **3-Node**
+	- Contains two elements.
+	- Can have 3 or no children.
