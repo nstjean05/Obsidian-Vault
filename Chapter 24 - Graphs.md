@@ -23,4 +23,18 @@
 - **Simple Graph**: A graph with no loops nor multiple edges.
 - **Path**: A sequence of edges that connects two vertices in a graph.
 	- **Simple**: Each vertex is distinct.
-	- **Circuit**
+	- **Circuit**: A path wherein the terminal vertex coincides with the initial vertex.
+	- **Length**: The # of edges in the path (or the # of vertices minus 1).
+	- **Cycle**: A path in which the first and last vertices are the same, and none of the edges are repeated.
+- **Connected**:  For any two vertices in the graph, there is a path between them.
+## Directed Graphs
+- **Directed Graph/Digraph**: The edges of the graph are ordered pairs of vertices.
+	- Therefore, edges (A,B) and (B,A) are separate, directional edges.
+	- If there are n vertices, then there are n(n-1) edges.
+- Example below:
+	- Vertices A, B, C, D.
+	- Edges(A,B), (A,D), (B,C), (B,D) and (D,C).
+![[Pasted image 20241128154353.png]]
+
+
+
