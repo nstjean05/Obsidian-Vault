@@ -95,7 +95,6 @@
 - **Linear probing** is the simplest approach to finding a new unused position
 	- If a location is occupied, go to (p+1)%s, where p is position, % is mod, and s is size.
 	- Primary issue with this method is the '*primary clustering*' of occupied cells.
-	- 
 - There are other approaches to open addressing as well.
 	- **Quadratic Probing**: (p + i^2)%s
 						- Not safe for (lambda) > 0.5
