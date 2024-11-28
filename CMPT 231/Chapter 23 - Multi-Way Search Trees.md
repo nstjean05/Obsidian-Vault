@@ -18,5 +18,7 @@
 ## Inserting Elements into 2-3 Trees
 - The tree is searched to find the proper leaf, where the new element is inserted.
 	- If there is one element in leaf then the new element will be inserted beside it.
-	- If there are two elements in the leaf, then the new element will be 
-- 
+	- If there are two elements in the leaf, then the new element will be inserted according to its size, with the elements ordered smallest to largest, left to right.
+	- Whichever the middle element ends up as, will go to its parent node.
+	- This process continues until there is only 2 elements in a node.
+![[Pasted image 20241128150228.png]]
