@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CMPT 231/Chapter 23 - Multi-Way Search Trees.md",
+                "file": "CMPT 231/Chapter 22 - Sets and Maps.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Chapter 23 - Multi-Way Search Trees"
+              "title": "Chapter 22 - Sets and Maps"
             }
           },
           {
@@ -35,8 +35,7 @@
               "title": "Chapter 24 - Graphs"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -92,8 +91,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "1c1db9715e53cd8f",
@@ -190,20 +188,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f7e7793bd26dc7a6",
+  "active": "8e547d5de09621f4",
   "lastOpenFiles": [
+    "CMPT 231/Chapter 23 - Multi-Way Search Trees.md",
+    "CMPT 231/Chapter 22 - Sets and Maps.md",
+    "CMPT 231/Chapter 21 - Heaps and Priority Queues.md",
+    "CMPT 231/Chapter 20 - Binary Search Trees.md",
+    "Chapter 24 - Graphs.md",
     "Pasted image 20241128154353.png",
     "Pasted image 20241128152327.png",
-    "Chapter 24 - Graphs.md",
-    "CMPT 231/Chapter 23 - Multi-Way Search Trees.md",
     "Pasted image 20241128150228.png",
     "Pasted image 20241128144328.png",
     "CMPT 231/Appendix I - Hashing.md",
-    "CMPT 231/Chapter 20 - Binary Search Trees.md",
-    "CMPT 231/Chapter 22 - Sets and Maps.md",
     "CMPT 231/Chapter 18 - Searching and Sorting.md",
     "CMPT 231/Chapter 19 - Trees.md",
-    "CMPT 231/Chapter 21 - Heaps and Priority Queues.md",
     "Images/Pasted image 20241119152131.png",
     "Images/Pasted image 20241107142416.png",
     "Images/Pasted image 20241107142333.png",
@@ -211,7 +209,6 @@
     "Images/Pasted image 20241031154007.png",
     "Images/Pasted image 20241031154300.png",
     "Images/Pasted image 20241029155339.png",
-    "Images/Pasted image 20241029151339.png",
     "RELS 112D/Module 1 - New Testament Historical Context.md",
     "README.md",
     "CMPT 231/Chapter 7 algorithm.md",
