@@ -38,4 +38,22 @@
 - A class implements an interface by providing method implementations for each of the abstract methods defined in the interface.
 - A *Polymorphic* reference is a reference variable that can refer to different types of objects at different points in time.
 ## Generics
-- 
+- If we were to define a stack that holds object references, then it could hold any object.
+	- However, this means control over type of element added is lost.
+- A better solution to define a class is by using a *generic type*.
+- The generic placeholder is is specified in angle brackets in the class header:
+```java
+class Box<T>
+{
+	//declarations and code that refer to T
+}
+```
+- Any identifier can be used, but T (for Type) or E (Element) have become standard practice.
+- Then, when a `Box` is needed, it is instantiated with a specific class instead of T:
+	- `Box<Widget> box1 = new Box<Widget>();`
+- Now, `Box1` can only hold `Widget` objects.
+	- The compiler will issue errors if we try to add a non-widget to the box.
+- Using the same class, another object can by instantiated.
+	- `Box<Gadget> box2 = new Box<Gadget>();`
+- Generics such as these provide better type management control, and simplify use of collections.
+## Post
