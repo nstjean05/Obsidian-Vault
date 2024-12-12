@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CMPT 231/Final Exam Review.md",
+                "file": "CMPT 231/Chapter 18 - Searching and Sorting.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Final Exam Review"
+              "title": "Chapter 18 - Searching and Sorting"
             }
           },
           {
@@ -91,8 +91,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "1c1db9715e53cd8f",
@@ -191,8 +190,8 @@
   },
   "active": "b225aa7d514215ae",
   "lastOpenFiles": [
-    "CMPT 231/Chapter 12 - Introduction to Stacks.md",
     "CMPT 231/Final Exam Review.md",
+    "CMPT 231/Chapter 12 - Introduction to Stacks.md",
     "Pasted image 20241212094711.png",
     "Pasted image 20241212091311.png",
     "CMPT 231/Chapter 18 - Searching and Sorting.md",
