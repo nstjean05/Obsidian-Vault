@@ -50,7 +50,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Final Exam Review.md",
+                "file": "CMPT 231/Final Exam Review.md",
                 "mode": "source",
                 "source": false
               },
@@ -110,8 +110,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -212,9 +211,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b225aa7d514215ae",
+  "active": "b7bafca48f2d6c08",
   "lastOpenFiles": [
-    "Final Exam Review.md",
+    "CMPT 231/Final Exam Review.md",
     "Chapter 24 - Graphs.md",
     "CMPT 231/Chapter 21 - Heaps and Priority Queues.md",
     "CMPT 231/Chapter 22 - Sets and Maps.md",
