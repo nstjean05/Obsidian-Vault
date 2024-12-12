@@ -56,4 +56,12 @@ class Box<T>
 - Using the same class, another object can by instantiated.
 	- `Box<Gadget> box2 = new Box<Gadget>();`
 - Generics such as these provide better type management control, and simplify use of collections.
-## Post
+## Postfix Expressions
+- These use the stack collection to eliminate the need for traditional order of operations.
+	- **Infix**: `(3 * 4 – (2 + 5)) * 4 / 2`
+	- **Postfix**: `3 4 * 2 5 + – 4 * 2 /`
+- To evaluate, scan left to right.
+	- If an operand (value) is encountered, push it onto the stack.
+	- If an operator is encountered, pop the top two elements, operate, and push the result.
+![[Pasted image 20241212094711.png]]
+
