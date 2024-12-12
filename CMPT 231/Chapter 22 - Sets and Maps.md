@@ -8,6 +8,7 @@
 - Keys of a map must be unique, however multiple keys may map to the same object.
 	- Ex.  An ID string may be used as a key to retrieve information about a member object.
 ## Set utilization.
+
 ```java
 import java.io.File;
 import java.io.FileNotFoundException;
@@ -15,9 +16,6 @@ import java.util.Scanner;
 import java.util.TreeSet;
 /**
 * A URL domain blocker.
-*
-* @author Java Foundations
-* @version 4.0
 */
 public class DomainBlocker
 {
@@ -29,15 +27,15 @@ public class DomainBlocker
 	*/
 	public DomainBlocker() throws FileNotFoundException
 		{
-		blockedSet = new TreeSet<String>();
-		File inputFile = new File("blockedDomains.txt");
-		Scanner scan = new Scanner(inputFile);
-		while (scan.hasNextLine())
-		{
-		blockedSet.add(scan.nextLine());
+			blockedSet = new TreeSet<String>();
+			File inputFile = new File("blockedDomains.txt");
+			Scanner scan = new Scanner(inputFile);
+			while (scan.hasNextLine())
+				{
+				blockedSet.add(scan.nextLine());
+			}
 		}
-		}
-		Java Foundations, 5th Edition, Lewis/DePasquale/Chase 22 - 10
+
 		/**
 		* Checks to see if the specified domain has been blocked.
 		*

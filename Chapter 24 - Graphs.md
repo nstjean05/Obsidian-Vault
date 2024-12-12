@@ -35,6 +35,14 @@
 	- Vertices A, B, C, D.
 	- Edges(A,B), (A,D), (B,C), (B,D) and (D,C).
 ![[Pasted image 20241128154353.png]]
-
-
+## Weighted Graphs
+- A *weighted graph*, or *network* is a graph with weights associated to each edge.
+- The weight of a path is the sum of the weights of the edges along any given path.
+- May or may not also be a directed graph.
+- There are a wide variety of algorithms to find a path along these edges (discussed later).
+## Graph Traversals
+- **Breadth-first**: Behaves much like a level-order BST traversal.
+- **Depth-first**: Behaves much like the preorder traversal of a BST.
+- The primary difference is that there is no root node present on a graph, so the traversal may start at any point.
+- 
 
