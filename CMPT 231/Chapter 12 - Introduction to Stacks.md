@@ -23,4 +23,19 @@
 - The classes provided within Java are called the *Java Application Programming Interface* (API).
 	- Those classes which support collections are called the *Java Collections API*.
 ## Stacks
+- A **stack** is a linear collection whose elements are added last in, first out (LIFO).
+	- That is, the last element added to the stack is the first one to be removed.
+	- Adding and removing elements is done from the top.
+###### Stack Operations
+- push - Adds an element to the top of the stack.
+- pop - Removes an element from the top of the stack.
+- peek - Examines the element at the top of the stack.
+- isEmpty - Determines if the stack is empty.
+- size - Determines the number of elements stacked.
+## Object-Oriented Concepts
+- An *abstract method* is a method that doesn't have an implementation.
+- An *interface* is a collection of constants and abstract methods.
+- A class implements an interface by providing method implementations for each of the abstract methods defined in the interface.
+- A *Polymorphic* reference is a reference variable that can refer to different types of objects at different points in time.
+## Generics
 - 
