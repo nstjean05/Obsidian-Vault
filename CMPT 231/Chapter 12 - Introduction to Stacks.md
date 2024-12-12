@@ -11,4 +11,16 @@
 ![[Pasted image 20241212091311.png]]
 
 ## Abstractions
-- An abstraction hides detai
+- An abstraction hides details to make a concept easier to manage.
+- All objects can be considered as abstractions, as they use an interface.
+- This means that objects are generally great mechanisms for implementing collections.
+###### Abstract Data Type
+- A *data type* is a group of values and the operations defined on those values.
+- An *abstract data type (ADT)* is a data type that isn't pre-defined in the language.
+- A *data structure* is the set of programming constructs and techniques used to implement a collection.
+- Sometimes the differences between these three ideas are blurred.
+###### The Java Collections API
+- The classes provided within Java are called the *Java Application Programming Interface* (API).
+	- Those classes which support collections are called the *Java Collections API*.
+## Stacks
+- 
