@@ -1,3 +1,5 @@
+#computer-science 
+## What is a Multi-Way Search Tree?
 - A multi-way search tree combines the concepts of:
 	- General trees, with multiple children per node.
 	- BSTs, with relationships among elements but only 2 trees per node.

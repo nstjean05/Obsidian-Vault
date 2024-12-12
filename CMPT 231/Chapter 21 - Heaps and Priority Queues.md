@@ -1,3 +1,4 @@
+#computer-science
 ## What is a Heap?
 - A complete binary tree where...
 	- Min-heap -> each element is ≤ both of its children
