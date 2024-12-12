@@ -6,6 +6,7 @@
       {
         "id": "a027693e86cde421",
         "type": "tabs",
+        "dimension": 38.15426997245179,
         "children": [
           {
             "id": "8e547d5de09621f4",
@@ -34,19 +35,30 @@
               "icon": "lucide-file",
               "title": "Chapter 24 - Graphs"
             }
-          },
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "a77290adbb225944",
+        "type": "tabs",
+        "dimension": 61.84573002754821,
+        "children": [
           {
             "id": "b225aa7d514215ae",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Final Exam Review.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Final Exam Review"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -201,6 +214,7 @@
   },
   "active": "b225aa7d514215ae",
   "lastOpenFiles": [
+    "Final Exam Review.md",
     "Chapter 24 - Graphs.md",
     "CMPT 231/Chapter 21 - Heaps and Priority Queues.md",
     "CMPT 231/Chapter 22 - Sets and Maps.md",
