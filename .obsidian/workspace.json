@@ -34,9 +34,19 @@
               "icon": "lucide-file",
               "title": "Chapter 24 - Graphs"
             }
+          },
+          {
+            "id": "b225aa7d514215ae",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -189,14 +199,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f7e7793bd26dc7a6",
+  "active": "b225aa7d514215ae",
   "lastOpenFiles": [
+    "Chapter 24 - Graphs.md",
     "CMPT 231/Chapter 21 - Heaps and Priority Queues.md",
     "CMPT 231/Chapter 22 - Sets and Maps.md",
     "CMPT 231/Chapter 18 - Searching and Sorting.md",
     "CMPT 231/Chapter 23 - Multi-Way Search Trees.md",
     "CMPT 231/Chapter 20 - Binary Search Trees.md",
-    "Chapter 24 - Graphs.md",
     "Pasted image 20241128154353.png",
     "Pasted image 20241128152327.png",
     "Pasted image 20241128150228.png",
