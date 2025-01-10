@@ -19,3 +19,24 @@
 ##### Scientific
 - Many computations, much use of arrays.
 	- Fortran, APL, C++, Julia, Algol
+##### Business
+- Reports, computations in fixed-point numerals.
+	- COBOL, RPG, C++, Delphi, Database proprietary languages, Application specific languages.
+##### AI/Machine Learning
+- Symbols other than numerals are manipulated, much use of lists.
+	- Prolog, LISP, Scheme.
+##### Systems Programming
+- Continuous use, must access hardware, OS.
+	- C, Modula-2, and their many derivatives.
+##### Scripting
+- Automating applications and workflows.
+	- OS Shells, awk, tcl/tk, AppleScript, ECMAScrip (ISO std name for JavaScript), Perl, PHP & MySQL, Ruby.
+##### Commercial Applications
+- General Purposes.
+	- C, C++, C#, Objective C, Swift, Java, Modula-2, Python.
+##### Internet
+- Web Programming.
+	- Markup - HTML
+	- Scripting/Database - PHP & MySQL
+	- General Purpose - Java, C#
+	- 
