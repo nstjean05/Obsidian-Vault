@@ -39,4 +39,16 @@
 	- Markup - HTML
 	- Scripting/Database - PHP & MySQL
 	- General Purpose - Java, C#
-	- 
+	- Scripting Languages
+##### Embedded Systems
+- Real time applications, such as robotics.
+	- Modula-2, Ada, C++, R, Specialty Languages.
+##### Application Specific Languages
+- Scripting applications: spreadsheets, database managers.
+	- VBA, DataBase Languages (Pascal, Modula-2, C), Specialty Languages.
+##### Other
+- There are many, many other:
+	- Languages
+	- Programming Environments
+	- Libraries of pre-written code that can be called
+	- Applications or OS specific APIs, etc.
