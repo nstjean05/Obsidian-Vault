@@ -6,3 +6,16 @@
 1. Even when writing assembler, one must know intimate details of the machine's hardware and/or firmware.
 2. High level languages, especially if ISO standardized, are machine dependant.
 3. Machine readability can be precisely defined, whereas human readability is an imprecise idea.
+### Why Study Programming Notations?
+- Increased ability to express abstractions of problems and their solutions.
+- To best choose appropriate programming tools.
+- Increased ability to learn new notations.
+- To better understand implementation issues.
+- To more efficiently use the tools you know.
+- To know how and why notations are designed.
+- To know when and why to accept a design.
+- To create a language design.
+### What are the problem solving domains?
+##### Scientific
+- Many computations, much use of arrays.
+	- Fortran, APL, C++, Julia, Algol
