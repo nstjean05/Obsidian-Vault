@@ -60,6 +60,30 @@
 ##### Reliability
 - Type safety checking?
 	- ex. *4 + 6.5*
-	- Sometime you can combine an int and a floa
+	- Sometimes you can combine an int and a float automatically, but sometimes you would need to define the new number as a float.
+- Exceptions
+	- When everything goes wrong, what happens?
+	- Some languages stop when an exception is reached, and allow you to fix it.
+- Pointer Safety
+	- Can a given memory cell have more than one pointer reference?
+	- Don't have 2 pointers back to the same location!
+##### Costs
+- Many of these aspects trade off with one another in their costs/
+	- Planning
+	- Coding
+	- Compilation/linking
+	- Execution
+	- Testing
+	- Maintenance
+- Read/writability affect reliability and maintainability costs.
+##### Msc. Evaluation Criteria
+- Portability
+	- Can applications developed for one platform be easily ported to others?
+- Generality
+	- Is it a notation?
+		- Specific to one application or domain?
+		- Applicable to a wide range of applications?
+- Is it defined fully and unambiguously?
+- Are compilers/interpreters/tools/code libraries widely available?
 
 

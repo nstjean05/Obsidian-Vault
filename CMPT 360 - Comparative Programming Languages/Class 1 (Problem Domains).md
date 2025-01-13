@@ -52,3 +52,16 @@
 	- Programming Environments
 	- Libraries of pre-written code that can be called
 	- Applications or OS specific APIs, etc.
+
+
+**1. W Jan 13 _Intro and problem domains_****
+
+**[3] a. Is the capacity for thought influenced by language? Explain.**
+
+**[3] b. Argue for the idea of a single language for all programming domains.**
+
+**[3] c. Argue against the idea of a single language for all programming domains.**
+
+**[3] d. From among the languages you have used, which statement is the hardest to read and understand, and why?**
+
+**[3] e. Who was Augusta, the Countess of Lovelace? What programming language is named after her and why?**
