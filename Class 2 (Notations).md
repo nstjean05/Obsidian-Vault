@@ -35,3 +35,7 @@
 - Blueprints?
 	- Ex. If you want to def a numeric type, maybe there is a blueprint that shows how a numeric type must be applied within the program, and you must follow that blueprint.
 ##### Composition
+- Sequence, Selection, and Repetition are the 3 primary paradigms.
+- Composition is the 4th paradigm, which explains how to package the program.
+- Is there a distinct separation between procedures and functions?
+- 
