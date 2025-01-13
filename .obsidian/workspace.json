@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ECON 201/Class 1 -.md",
+                "file": "CMPT 360 - Comparative Programming Languages/Class 1 (Problem Domains).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Class 1 -"
+              "title": "Class 1 (Problem Domains)"
             }
           }
         ],
@@ -106,7 +106,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "1c1db9715e53cd8f",
@@ -205,8 +206,8 @@
   },
   "active": "c182a09f991bc384",
   "lastOpenFiles": [
-    "CMPT 360 - Comparative Programming Languages/Class 2 (Notations).md",
     "ECON 201/Class 1 -.md",
+    "CMPT 360 - Comparative Programming Languages/Class 2 (Notations).md",
     "ECON 201",
     "CMPT 360 - Comparative Programming Languages/Class 1 (Problem Domains).md",
     "RELS 112D/Module 1 - New Testament Historical Context.md",
