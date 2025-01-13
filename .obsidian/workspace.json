@@ -35,7 +35,8 @@
               "title": "Class 2 (Notations)"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -189,12 +190,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bc2d8da1985f7a57",
+  "active": "41c7b3c234b0c322",
   "lastOpenFiles": [
+    "CMPT 360 - Comparative Programming Languages/Class 1 (Problem Domains).md",
     "CMPT 360 - Comparative Programming Languages/Class 2 (Notations).md",
     "RELS 112D/Module 1 - New Testament Historical Context.md",
     "Images/Pasted image 20241212091311.png",
-    "CMPT 360 - Comparative Programming Languages/Class 1 (Problem Domains).md",
     "CMPT 231 (Data Structures)/Chapter 18 - Searching and Sorting.md",
     "CMPT 360 - Comparative Programming Languages",
     "CMPT 231 (Data Structures)/Chapter 19 - Trees.md",

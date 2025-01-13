@@ -54,7 +54,7 @@
 	- Applications or OS specific APIs, etc.
 
 
-**1. W Jan 13 _Intro and problem domains_****
+***Intro and problem domains***
 
 **[3] a. Is the capacity for thought influenced by language? Explain.**
 

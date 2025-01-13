@@ -87,3 +87,12 @@
 - Are compilers/interpreters/tools/code libraries widely available?
 
 
+***Evaluating Notations***
+
+**[4] a. Discuss readability vs. writability. What is each and how do they sometimes trade off? Which is more important, and why?**
+
+**[4]b. Many languages distinguish between upper and lower case letters in user-defined names. What are the pros and cons of this?**
+
+**[3]c. How do type declarations affect the readability of programs in languages that require them (not all do).**
+
+**[4]d. Some languages have two kinds of comments--one with an open comment marker that extends to the end of a line, and another with both open and close delimiters that can extend over many lines. What are the advantages and disadvantages of each, of having both?**
