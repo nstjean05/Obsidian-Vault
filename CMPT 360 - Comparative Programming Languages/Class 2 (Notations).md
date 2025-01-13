@@ -38,4 +38,16 @@
 - Sequence, Selection, and Repetition are the 3 primary paradigms.
 - Composition is the 4th paradigm, which explains how to package the program.
 - Is there a distinct separation between procedures and functions?
+##### Syntax
+- Lexis
+	- What characters are legal to type?
+- Rules for identifiers
+	- Legal first, subsequent symbols.
+- Reserved words and symbols
+	- How many?
+	- Are they readable?
+- Standard Identifiers
+- Macros
+- Association between form and meaning?
+	- What do *this++* or *grep* mean?
 - 
