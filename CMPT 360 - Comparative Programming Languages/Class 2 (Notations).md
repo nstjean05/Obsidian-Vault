@@ -50,4 +50,16 @@
 - Macros
 - Association between form and meaning?
 	- What do *this++* or *grep* mean?
-- 
+##### Writability
+- Must be considered within the problem domain.
+	- For example, it would be foolish to write a business app in Fortran.
+- Does a highly writable language diminish its readability?
+- Complex and/or non-orthogonal notations are hard to write in.
+- How expressible is the software?
+	- Is there notation for complex operations (e.g. matrix inversion)?
+##### Reliability
+- Type safety checking?
+	- ex. *4 + 6.5*
+	- Sometime you can combine an int and a floa
+
+
