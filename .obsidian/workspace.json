@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "Class 1 (Problem Domains)"
             }
+          },
+          {
+            "id": "41c7b3c234b0c322",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Class 2 (Notations).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Class 2 (Notations)"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -176,9 +191,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bc2d8da1985f7a57",
+  "active": "41c7b3c234b0c322",
   "lastOpenFiles": [
     "CMPT 360 - Comparative Programming Languages/Class 1 (Problem Domains).md",
+    "Class 2 (Notations).md",
     "CMPT 231 (Data Structures)/Chapter 18 - Searching and Sorting.md",
     "CMPT 360 - Comparative Programming Languages",
     "CMPT 231 (Data Structures)/Chapter 19 - Trees.md",
