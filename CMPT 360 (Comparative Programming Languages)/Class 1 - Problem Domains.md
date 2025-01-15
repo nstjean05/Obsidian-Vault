@@ -66,7 +66,10 @@
 - A single language with mandated use in all programming domains would be disastrous and wasteful. Different languages have surfaced over time to suit the needs of the people in that time and place. As new innovations occur, it is optimal for new languages to be written, as they will function in their domain better than any other could. Additionally, new languages avoid the problem which many old ones succumb to- bloating. A single language needs to give support to both old and new innovations, regardless of how much the old will slow down the new. While it would be great to give up old, roundabout features, what happens to archaic yet important machines (for instance, medical devices) which run utilizing those features? Imagine if when the mass-adoption of cell phones occurred, all fax machines were bricked. This would lead to breakdowns in communication between many crucial networks. Therefore, it is important to have a wide variety of languages which can borrow from the past, but shed the deadweight in favour of new innovations.
 
 **[3] d. From among the languages you have used, which statement is the hardest to read and understand, and why?**
-- 
+- The hardest statement to understand, that I wrote in C++, was the below. This was a line that I had difficulty in writing, and then had difficult understanding when I went back to read it later. I think it would have helped a lot if my comment had been useful, rather than just stating what the line does. Another complicated part of it is that this was my first implementation of a clock, and when re-reading the code it isn't immediately obvious what *stead_clock* indicates. Generally, this line of code is quite dense, and deals with some interconnected concepts which together add complexity.
+```C++
+time_point<steady_clock> endTime = runLimit * 1s + start; //calculate end time
+```
 
 **[3] e. Who was Augusta, the Countess of Lovelace? What programming language is named after her and why?**
 - 
