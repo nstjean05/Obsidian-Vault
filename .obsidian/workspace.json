@@ -4,53 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "6ccdd914006fa0e9",
+        "id": "ca60b1fd1852cad9",
         "type": "tabs",
         "children": [
           {
-            "id": "bc2d8da1985f7a57",
+            "id": "9ce0f8ec8c5fee7c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CMPT 360 - Comparative Programming Languages/Class 1 (Problem Domains).md",
+                "file": "CMPT 211 (Web Technologies I)/Lecture 1 - HTML Overview.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Class 1 (Problem Domains)"
-            }
-          },
-          {
-            "id": "41c7b3c234b0c322",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CMPT 360 - Comparative Programming Languages/Class 2 (Notations).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Class 2 (Notations)"
-            }
-          },
-          {
-            "id": "c182a09f991bc384",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CMPT 360 - Comparative Programming Languages/Class 1 (Problem Domains).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Class 1 (Problem Domains)"
+              "title": "Lecture 1 - HTML Overview"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -204,50 +175,50 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c182a09f991bc384",
+  "active": "9ce0f8ec8c5fee7c",
   "lastOpenFiles": [
-    "ECON 201/Class 1 -.md",
-    "CMPT 360 - Comparative Programming Languages/Class 2 (Notations).md",
-    "ECON 201",
-    "CMPT 360 - Comparative Programming Languages/Class 1 (Problem Domains).md",
+    "CMPT 211 (Web Technologies I)",
+    "CMPT 211 (Web Technologies I)/Lecture 1 - HTML Overview.md",
+    "CMPT 360 (Comparative Programming Languages)/Class 1 - Problem Domains.md",
+    "CMPT 360 (Comparative Programming Languages)/Class 2 - Notations.md",
+    "ECON 201 (Microeconomics)/Class 1 -.md",
+    "ECON 201 (Microeconomics)",
     "RELS 112D/Module 1 - New Testament Historical Context.md",
     "Images/Pasted image 20241212091311.png",
-    "CMPT 231 (Data Structures)/Chapter 18 - Searching and Sorting.md",
-    "CMPT 360 - Comparative Programming Languages",
-    "CMPT 231 (Data Structures)/Chapter 19 - Trees.md",
-    "CMPT 231 (Data Structures)/Final Exam Review.md",
-    "CMPT 231 (Data Structures)/Chapter 12 - Introduction to Stacks.md",
+    "CMPT 231 (Data Structures and Algorithms)/Chapter 18 - Searching and Sorting.md",
+    "CMPT 360 (Comparative Programming Languages)",
+    "CMPT 231 (Data Structures and Algorithms)/Chapter 19 - Trees.md",
+    "CMPT 231 (Data Structures and Algorithms)/Final Exam Review.md",
+    "CMPT 231 (Data Structures and Algorithms)/Chapter 12 - Introduction to Stacks.md",
     "Images/Pasted image 20241212094711.png",
     "Images/Pasted image 20241128144328.png",
-    "CMPT 231 (Data Structures)/Chapter 24 - Graphs.md",
-    "CMPT 231 (Data Structures)/computer science.md",
+    "CMPT 231 (Data Structures and Algorithms)/Chapter 24 - Graphs.md",
+    "CMPT 231 (Data Structures and Algorithms)/computer science.md",
     "Chapter 7 algorithm.md",
-    "CMPT 231 (Data Structures)/Chapter 23 - Multi-Way Search Trees.md",
-    "CMPT 231 (Data Structures)/Chapter 22 - Sets and Maps.md",
-    "CMPT 231 (Data Structures)/Chapter 21 - Heaps and Priority Queues.md",
-    "CMPT 231 (Data Structures)/Chapter 20 - Binary Search Trees.md",
-    "CMPT 231 (Data Structures)/Chapter 16 - Iterators.md",
-    "CMPT 231 (Data Structures)/Chapter 15 - Lists.md",
-    "CMPT 231 (Data Structures)/Chapter 14 - Queues.md",
-    "CMPT 231 (Data Structures)/Chapter 13 - Linked Structures (Stackss.md",
+    "CMPT 231 (Data Structures and Algorithms)/Chapter 23 - Multi-Way Search Trees.md",
+    "CMPT 231 (Data Structures and Algorithms)/Chapter 22 - Sets and Maps.md",
+    "CMPT 231 (Data Structures and Algorithms)/Chapter 21 - Heaps and Priority Queues.md",
+    "CMPT 231 (Data Structures and Algorithms)/Chapter 20 - Binary Search Trees.md",
+    "CMPT 231 (Data Structures and Algorithms)/Chapter 16 - Iterators.md",
+    "CMPT 231 (Data Structures and Algorithms)/Chapter 15 - Lists.md",
+    "CMPT 231 (Data Structures and Algorithms)/Chapter 14 - Queues.md",
+    "CMPT 231 (Data Structures and Algorithms)/Chapter 13 - Linked Structures (Stackss.md",
     "CMPT 231/Chapter 7 algorithm.md",
     "Images/Pasted image 20241128154353.png",
     "Images/Pasted image 20241128152327.png",
     "Images/Pasted image 20241128150228.png",
-    "CMPT 231 (Data Structures)/Appendix I - Hashing.md",
+    "CMPT 231 (Data Structures and Algorithms)/Appendix I - Hashing.md",
     "Images/Pasted image 20241119152131.png",
     "Images/Pasted image 20241107142416.png",
     "Images/Pasted image 20241107142333.png",
     "Images/Pasted image 20241031154007.png",
     "README.md",
     "RELS 112D",
-    "CMPT 231 (Data Structures)",
+    "CMPT 231 (Data Structures and Algorithms)",
     "(Ch.18) Searching and Sorting.md",
     "Images",
     "Untitled.canvas",
     "2024-10-17.md",
-    "2024-09-26.md",
-    "Untitled 1.canvas",
-    "2024-10-10.md"
+    "Untitled 1.canvas"
   ]
 }
