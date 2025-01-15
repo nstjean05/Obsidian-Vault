@@ -8,4 +8,14 @@
 - Variables represent memory locations
 - Assignment statements model moving data.
 	- Called *piping*
-- Efficiei
+- Efficient repetition statements are available.
+- Memory stored on the CPU is processed much more rapidly that that which is not.
+- The fetch-and-execute loop.
+	- Loop
+		- Fetch the instruction pointed to by the program counter.
+		- Increment the counter to point to the next instruction.
+		- Decode the instruction (into microcodes which are only used by the CPU).
+		- Execute the instruction.
+	- End
+- Note that this loop executes indefinitely, until interrupted or specifically exited.
+- 
