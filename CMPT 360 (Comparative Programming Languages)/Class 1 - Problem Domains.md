@@ -58,10 +58,15 @@
 
 **[3] a. Is the capacity for thought influenced by language? Explain.**
 - The capacity for thought is absolutely influenced by language, in a wide variety of areas. Fundamentally, learning language allows for the clear expression and communication of thought to others, incentivizing individuals to give their thoughts structure. This can expand the capacity for thought, by making it easier to build off of cemented ideas, but may also limit thoughts to what seems more reasonable/communicable. In the context of programming, learning languages can be highly useful in expanding the capacity for thought, especially in giving structure to thinking about abstract ideas/concepts.
+
 **[3] b. Argue for the idea of a single language for all programming domains.**
-- A single language would be the best way to solve problems
+- A single language would be the best way to solve problems across any domains, as the advantages of scale would outweigh any maleffects. The primary drawback of having a single (standardized) language would be that for different problems, it would have different levels of efficiency. For instance, it would be exceptionally inefficient for a systems language in the domain of web development. Yet, this drawback would be minimized greatly by the scale of use of this language. Given the massive amount of programmers working on and with the single language, even non-trivial problems can be solved rapidly. 
+
 **[3] c. Argue against the idea of a single language for all programming domains.**
+- 
 
 **[3] d. From among the languages you have used, which statement is the hardest to read and understand, and why?**
+- 
 
 **[3] e. Who was Augusta, the Countess of Lovelace? What programming language is named after her and why?**
+- 
