@@ -41,4 +41,29 @@
 - 1980s
 	- Data-class orientation transitions to OO programming
 		- This adds inheritance and polymorphism
+	- Process orientation --> Concurrency
+		- Allows for more processing to occur at once
 - 2000s
+	- Greater emphasis on safety, security & reliability, requiring new workflows.
+#### Design Tradeoffs
+- Design Time ---- Coding and Testing Time
+- Writeability ---- Readability
+- Writing Time ---- Running Time
+- Reliability ---- Cost
+- Present and future efficiency ---- Installed Base
+#### Language Categories
+- Imperative
+	- Feature variables, assignment statements, and iteration
+	- Include ones that support OO programming
+	- Include scripting and the "visual" languages
+	- Ex. C, Java, Perl, JS, etc.
+- Functional
+	- Computations are solely done by applying functions
+	- Ex. LISP, Scheme, ML, F#
+- Logic
+	- These are rule-based
+	- Ex. Prolog
+- Markup/Programming Hybrid
+	- Markup languages extended to support some programming
+	- Ex. JSTL, XSLT
+- 

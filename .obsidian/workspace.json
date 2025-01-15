@@ -8,35 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "60098cfedf712ddd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CMPT 360 (Comparative Programming Languages)/Class 2 - Evaluate Programming Notations.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Class 2 - Evaluate Programming Notations"
-            }
-          },
-          {
             "id": "b8586d4da54d396f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CMPT 360 (Comparative Programming Languages)/Class 3 - Language Design Influences.md",
+                "file": "CMPT 360 (Comparative Programming Languages)/Lesson 3 - Language Design Influences.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Class 3 - Language Design Influences"
+              "title": "Lesson 3 - Language Design Influences"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -192,9 +177,9 @@
   },
   "active": "b8586d4da54d396f",
   "lastOpenFiles": [
-    "CMPT 360 (Comparative Programming Languages)/Class 2 - Evaluate Programming Notations.md",
-    "CMPT 360 (Comparative Programming Languages)/Class 3 - Language Design Influences.md",
-    "CMPT 360 (Comparative Programming Languages)/Class 1 - Problem Domains.md",
+    "CMPT 360 (Comparative Programming Languages)/Lesson 2 - Evaluate Programming Notations.md",
+    "CMPT 360 (Comparative Programming Languages)/Lesson 1 - Problem Domains.md",
+    "CMPT 360 (Comparative Programming Languages)/Lesson 3 - Language Design Influences.md",
     "CMPT 211 (Web Technologies I)/Lecture 1 - HTML Overview.md",
     "CMPT 231 (Data Structures and Algorithms)/Chapter 18 - Searching and Sorting.md",
     "CMPT 231 (Data Structures and Algorithms)/Chapter 16 - Iterators.md",
