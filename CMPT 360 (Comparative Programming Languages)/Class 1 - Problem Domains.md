@@ -57,7 +57,7 @@
 ***Intro and problem domains***
 
 **[3] a. Is the capacity for thought influenced by language? Explain.**
-
+- 
 **[3] b. Argue for the idea of a single language for all programming domains.**
 
 **[3] c. Argue against the idea of a single language for all programming domains.**
