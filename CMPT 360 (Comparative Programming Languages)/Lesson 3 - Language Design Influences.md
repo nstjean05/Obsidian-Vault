@@ -66,4 +66,15 @@
 - Markup/Programming Hybrid
 	- Markup languages extended to support some programming
 	- Ex. JSTL, XSLT
+## Programming Environment: Virtual Machine
+#### Language Translation Strategies: Language May Be
+- Compiled to CPU machine language (macroinstructions)
+	- At run-time translated by the CPU to microinstructions
+	- Target: Commercial applications where speed is an issue.
+- Compiled to executable microinstructions (even faster; rare)
+- Interpreted during run time into microinstructions (slower)
+	- Target: small applications where speed is not an issue.
+- Compiled to VM instructions which are either:
+	- Interpreted into microinstructions at run time (hybrid)
+	- JIT (Just InTime) compiled at run time, then executed
 - 
