@@ -1,4 +1,4 @@
-##### vonNeumann Architecture
+#### vonNeumann Architecture
 - 4 Fundamental Principles of the architecture
 	- Binary coding is fundamental to all languages, as this is how computers store information.
 	- Stored programs in memory separate from the CPU
@@ -18,4 +18,27 @@
 		- Execute the instruction.
 	- End
 - Note that this loop executes indefinitely, until interrupted or specifically exited.
-- 
+#### Basic Programming Paradigms
+1. Sequence: Statements executing in the order presented.
+2. Selection (if..then..else, case, select)
+3. Repetition (for, whole, repeat, loop)
+4. Composition (abstracting into modules, programs, procedures, productions, functions, blocks, that can be called as a unit- usually by the name)
+- There are additional paradigms which extrapolate on these.
+- Parallelism
+	- Multiple processors and/or multiple processes.
+	- Requires language facilities.
+	- This aspect of programming is immature.
+#### Methodologies
+- Pre-1960s
+	- Simple applications
+	- Machine efficiency is a major issue
+	- People issues starting to become important
+- Late-1960s
+	- Block structured programming
+	- Top-down design and stepwise refinement of code
+- Late-1970s
+	- Process orientations transitions to data orientation and ADTs
+- 1980s
+	- Data-class orientation transitions to OO programming
+		- This adds inheritance and polymorphism
+- 2000s
