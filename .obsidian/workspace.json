@@ -77,7 +77,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "1c1db9715e53cd8f",
@@ -174,7 +175,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b7bafca48f2d6c08",
+  "active": "60098cfedf712ddd",
   "lastOpenFiles": [
     "CMPT 211 (Web Technologies I)/Lecture 1 - HTML Overview.md",
     "CMPT 231 (Data Structures and Algorithms)/Chapter 18 - Searching and Sorting.md",
