@@ -26,8 +26,20 @@
 - Contexts, such as text, is enclosed on either side by a tag.
 - Some tags are self-closing (alone).
 	- These are used in tags where no text is expected.
-```<
-```
+	```<tagname>content</tagname>```
 #### How do we write HTML?
 - A simple text editor is all that is needed.
-- 
+
+##### Formatting Examples
+Formatting elements:
+– <b> : bold
+– <strong> : important (bold)
+– <i> : italic
+– <em> : emphasized (italic)
+– <mark> : marked (highlighted)
+– <small> : small
+– <del> : deleted (strikethrough)
+– <u> : underlined
+– <ins> : inserted (underlined)
+– <sub> : subscript
+– <sup> : superscript
