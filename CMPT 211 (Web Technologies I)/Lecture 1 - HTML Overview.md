@@ -1,5 +1,24 @@
 #### What is HTML?
 - HTML is short for *Hyper Text Markup Language*
 	- It is used to write documents which allow a web browser to process and display information.
-- This is not only the words of a language, but also dictates the structure (building blocks) of webpages.
+- This not only includes the words of a language, but also dictates the structure (building blocks) of webpages.
+- Can include other web technologies to improve the webpage's capabilites.
+#### What is Hypertext?
+- Text on a display which refers to other text, which readers can access immediately.
+	- a.k.a. hyperlinks, links, etc.
+- This is one of the main features of HTML.
+#### What is the Markup Language?
+- A type of annotation used systematically in documents.
+- It will not be displayed when processed, and is only used in formatting a document.
+	- Contents of the document are described ('Marked Up') by enclosing tags.
+- Here's a small sample of HTML formatting:
+```HTML
+<!DOCTYPE html>
+<html>
+	<head>
+			<title>Our First Webpage!</title>
+	</head>
+</html>
+```
+#### What are tags?
 - 
