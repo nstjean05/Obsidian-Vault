@@ -1,0 +1,11 @@
+##### vonNeumann Architecture
+- 4 Fundamental Principles of the architecture
+	- Binary coding is fundamental to all languages, as this is how computers store information.
+	- Stored programs in memory separate from the CPU
+	- Instructions and data fetched from memory to CPU
+	- Sequential execution
+- **Not all languages are vonNeumann** (e.g. Lisp, Scheme), although they have to reside on vonNeumann architecture.
+- Variables represent memory locations
+- Assignment statements model moving data.
+	- Called *piping*
+- Efficiei
