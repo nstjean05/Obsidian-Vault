@@ -21,4 +21,13 @@
 </html>
 ```
 #### What are tags?
+- Tags contain markup instructions.
+- Enclosed using <> brackets.
+- Contexts, such as text, is enclosed on either side by a tag.
+- Some tags are self-closing (alone).
+	- These are used in tags where no text is expected.
+```<
+```
+#### How do we write HTML?
+- A simple text editor is all that is needed.
 - 
