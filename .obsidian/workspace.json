@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CMPT 360 (Comparative Programming Languages)/Lesson 3 - Language Design Influences.md",
+                "file": "ECON 201 (Microeconomics)/Class 1 -.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lesson 3 - Language Design Influences"
+              "title": "Class 1 -"
+            }
+          },
+          {
+            "id": "88ca55cd6a9ccde7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Class 2 -.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Class 2 -"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -77,8 +92,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "1c1db9715e53cd8f",
@@ -175,18 +189,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b8586d4da54d396f",
+  "active": "88ca55cd6a9ccde7",
   "lastOpenFiles": [
+    "ECON 201 (Microeconomics)/Class 1 -.md",
+    "Class 2 -.md",
+    "CMPT 360 (Comparative Programming Languages)/Lesson 3 - Language Design Influences.md",
     "CMPT 360 (Comparative Programming Languages)/Lesson 2 - Evaluate Programming Notations.md",
     "CMPT 360 (Comparative Programming Languages)/Lesson 1 - Problem Domains.md",
-    "CMPT 360 (Comparative Programming Languages)/Lesson 3 - Language Design Influences.md",
     "CMPT 211 (Web Technologies I)/Lecture 1 - HTML Overview.md",
     "CMPT 231 (Data Structures and Algorithms)/Chapter 18 - Searching and Sorting.md",
     "CMPT 231 (Data Structures and Algorithms)/Chapter 16 - Iterators.md",
     "CMPT 231 (Data Structures and Algorithms)/Chapter 12 - Introduction to Stacks.md",
     "CMPT 231 (Data Structures and Algorithms)/Chapter 13 - Linked Structures (Stackss.md",
     "CMPT 211 (Web Technologies I)",
-    "ECON 201 (Microeconomics)/Class 1 -.md",
     "ECON 201 (Microeconomics)",
     "RELS 112D/Module 1 - New Testament Historical Context.md",
     "Images/Pasted image 20241212091311.png",
@@ -219,7 +234,6 @@
     "(Ch.18) Searching and Sorting.md",
     "Images",
     "Untitled.canvas",
-    "2024-10-17.md",
     "Untitled 1.canvas"
   ]
 }

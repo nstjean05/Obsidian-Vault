@@ -89,4 +89,10 @@
 5. The run time system of the OS executes the latter file.
 ###### Variants of the Code Production Process
 - **Pure interpretation** uses the text file at run time to generate instructions one at a time on the fly.
-- Hybrid systems use a compiler 
+- Hybrid systems use a compiler to create an intermediate code that is in turn interpreted by a VM at run time. Programs can be ported onto a new platform by porting the VM only.
+- JIT systems are simply delayed compilers.
+#### Internal Performance Issues
+- The CPU and memory talk to each other on a pipeline which is speed limited.
+- Code execution is much faster than the pipeline, and this limits the overall execution speed.
+	- Known as the *vonNeumann Bottleneck*
+- Multiple cores, bulk code loading into a CPU cache, and execution prediction are some strategies used to overcome said bottleneck.
