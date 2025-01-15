@@ -77,4 +77,16 @@
 - Compiled to VM instructions which are either:
 	- Interpreted into microinstructions at run time (hybrid)
 	- JIT (Just InTime) compiled at run time, then executed
-- 
+###### Some languages are...
+- Always compiled (most imperative languages, except Java)
+- Always interpreted (most other languages)
+- May exist in either world
+#### The Compilation Process
+1. In the programming environment, the developer creates a text file.
+2. A pre-processor may translate macro directives in this text file to include other code as though it were part of the text.
+3. The compiler produces and object file and a symbol file for the linker to find and reconcile other object files referenced by the program.
+4. The linker ties this together with existing code libraries. to produce an executable file.
+5. The run time system of the OS executes the latter file.
+###### Variants of the Code Production Process
+- **Pure interpretation** uses the text file at run time to generate instructions one at a time on the fly.
+- Hybrid systems use a compiler 
