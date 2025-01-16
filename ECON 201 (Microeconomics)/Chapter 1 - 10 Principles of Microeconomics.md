@@ -11,3 +11,9 @@
 - **Marginal Changes**: Incremental adjustments to a plan of action.
 #### P4: People Respond to Incentives
 - **Incentive**: Something that induces a person to act.
+#### P5: Trade Can Make Everyone Better Off
+- Trade allows countries to specialize in what they do best, leading to a positive feedback loop of efficiency.
+- Trading can give benefits to both parties (not zero sum).
+#### P6: Markets are Usually a Good Way to Organize Economic Activity
+- **Market Economy**: An economy which allocates resources through decentralized decisions.
+	- 
