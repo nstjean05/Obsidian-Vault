@@ -1,11 +1,11 @@
-### Pre-History
+## Pre-History
 - Blaise Pascal
 - Leibniz
 - Charles Babbage 1830-1840
 	- The difference engine
 	- the first programmer: Ada, Countess Lovelace
 - The Jacquard Loom and its punched cards
-### Early Modern Era
+## Early Modern Era
 0. Plankalkul (Zuse) 1945
 	- A prototype language
 1. Fortran 54-57 (Backus--IBM)
@@ -74,7 +74,7 @@
 13. LOGO
 	- Interactive Language for teaching children
 	- Used in grade schools in the 70s-80s
-### The Middle Ages
+## The Middle Ages
 #### Results of the 70s Experiments
 14. C (1972 Ritchie @Bell)
 	- Another ALGOL 68 descendant
@@ -120,8 +120,24 @@
 	- Used in several universities for beginners
 25. PROLOG (1972, French)
 	- Logic programming, AI an intelligent DB?
-26. Eiffel (1985 Meyer)
+		- An attempt to use AI with a database
+1. Eiffel (1985 Meyer)
 	- Pascal-like OO language
+		- & method of software construction
 	- Smaller and simpler than C++
 	- Was backed by some French companies & universities
-
+## The Modern Era
+#### Results of 90s Work
+27. C++ (Bjarne Stroustrop, draft 1995)
+	- C with OO, some deprications
+	- Many new features, similarities with SIMULA
+	- No garbage collection, programmer responsibility
+	- Has generics (templates for ADTs)
+	- More ISO compliant compilers now
+	- Large, complex, non-orthogonal
+	- Most deprecated features were never removed.
+28. Modula-2 Extensions
+- ISO committee added OO and generics 1998
+29. J (Iversons)
+	- An ASCII replacement of APL
+	- No special keyboard needed; used in some colleges
