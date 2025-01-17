@@ -87,4 +87,41 @@
 16. Mesa (76-79 -- Xerox)
 	- Had concurrency facilities
 17. Ada (1979 US DoD)(No longer mandated by the DoD)
-	- Another Pascal re
+	- Another Pascal replacement
+	- Committee designed, large and complex
+	- Published as Ada83
+	- Largest design effort ever; took 4y to get a compiler
+	- Completely specified, including libraries
+	- got ISO version in 1990s as Ada95
+18. Modula-2 (1997 -- Wirth @ETH; his reaction to ADA)
+	- Much simpler than Ada, but as powerful
+	- Replacement for Pascal
+	- See PIM (Programming in Modula-2 4th ed.)
+	- Teaching, real time (embedded) systems, general use
+	- Influenced by MESA & Modula (a real time notation)
+	- Got ISO version in the 1990s + generic & OO extensions
+#### The early Modula-2 Descendants
+19. Modula* (for parallel processing)
+20. Modula-GM (used only at General Motors)
+21. Modula-3 (Olivetti and DEC)
+	- OO version
+22. Oberon (Wirth)
+	- Widely used in European universities
+	- Has many versions including Component Pascal
+	- Stripped down Modula-2; OO added in Oberon-2
+	- Included an operating system & editor
+	- Never completely specified
+#### Other 1980s Experiments
+23. Smalltalk (71-80 by Alan Kay @Xerox)
+	- From SIMULA-67
+	- An OO language, several implementations available
+24. Scheme (75-77 Sussman & Stelle @MIT)
+	- Variation of LISP
+	- Used in several universities for beginners
+25. PROLOG (1972, French)
+	- Logic programming, AI an intelligent DB?
+26. Eiffel (1985 Meyer)
+	- Pascal-like OO language
+	- Smaller and simpler than C++
+	- Was backed by some French companies & universities
+
