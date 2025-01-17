@@ -40,4 +40,24 @@
 	- A temporary success in academia
 	- Too large to learn properly
 #### Late 60s ALGOL Successors
-8. ALGOL-68 (Co)
+8. ALGOL-68 (Committee effort)
+	- Like PL/1 in being feature-rich (bloated)
+	- Very orthogonal
+9. ALGOL-W (Wirth & Hoare) (late 60s)
+	- Wirth's reaction to ALGOL-68
+10. SIMULA-67 (Nygaard & Dahl -- Oslo)
+	- From SIMULA-1 (62-64)
+	- Includes ALGOL-67
+	- To solve simulation problems
+	- Some parallelism possible
+	- First language with CLASS; first OO language
+11. Pascal (1971 Wirth)
+	- Simple but powerful
+	- Widely used in teaching
+	- A huge impact to the late 1990s
+	- Descendants include:
+		- UCSD Pascal
+		- ISO version
+		- Object Pascal (Wirth on contract to Apple)
+		- Turbo - Delphi environment
+		- Ada, Modula-2, Modula-3, R10, Delphi, etc.
