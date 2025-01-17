@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CMPT 360 (Comparative Programming Languages)/Lesson 4 - Programming Language History I.md",
+                "file": "CMPT 360 (Comparative Programming Languages)/Lesson 2 - Evaluate Programming Notations.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lesson 4 - Programming Language History I"
+              "title": "Lesson 2 - Evaluate Programming Notations"
             }
           }
         ]
@@ -53,7 +53,7 @@
               "type": "search",
               "state": {
                 "query": "",
-                "matchingCase": false,
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -73,11 +73,12 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 342.5024719238281
   },
   "right": {
     "id": "1c1db9715e53cd8f",
@@ -174,15 +175,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "df741fa9e093a358",
+  "active": "0492444b7e950a68",
   "lastOpenFiles": [
     "CMPT 360 (Comparative Programming Languages)/Lesson 4 - Programming Language History I.md",
+    "CMPT 360 (Comparative Programming Languages)/Lesson 3 - Language Design Influences.md",
+    "CMPT 211 (Web Technologies I)/Lecture 1 - HTML Overview.md",
     "ECON 201 (Microeconomics)/Chapter 1 - 10 Principles of Microeconomics.md",
     "ECON 201 (Microeconomics)/Class 2 -.md",
-    "CMPT 360 (Comparative Programming Languages)/Lesson 3 - Language Design Influences.md",
     "CMPT 360 (Comparative Programming Languages)/Lesson 2 - Evaluate Programming Notations.md",
     "CMPT 360 (Comparative Programming Languages)/Lesson 1 - Problem Domains.md",
-    "CMPT 211 (Web Technologies I)/Lecture 1 - HTML Overview.md",
     "CMPT 231 (Data Structures and Algorithms)/Chapter 18 - Searching and Sorting.md",
     "CMPT 231 (Data Structures and Algorithms)/Chapter 16 - Iterators.md",
     "CMPT 231 (Data Structures and Algorithms)/Chapter 12 - Introduction to Stacks.md",
