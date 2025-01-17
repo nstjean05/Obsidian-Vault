@@ -61,3 +61,30 @@
 		- Object Pascal (Wirth on contract to Apple)
 		- Turbo - Delphi environment
 		- Ada, Modula-2, Modula-3, R10, Delphi, etc.
+#### Hobbyist Languages
+12. BASIC (1964 Kemeny & Kurttz @Dartmouth)
+	- Simplified Fortran, also ALGOL influence
+	- Line numbers to control sequence
+	- Timeshared on large machines, built-in on the smaller
+	- Early versions not well-defined
+	- Limited control structures and data types
+	- Integrated editing and interpreting
+	- Descendants include:
+		- ASCI BASIC, Real Basic (K&K), Future Basic
+13. LOGO
+	- Interactive Language for teaching children
+	- Used in grade schools in the 70s-80s
+### The Middle Ages
+#### Results of the 70s Experiments
+14. C (1972 Ritchie @Bell)
+	- Another ALGOL 68 descendant
+	- Designed for systems work
+		- e.g. UNIX (later re-written in C)
+	- A middle level language
+	- Standardized by ANSI in 1989
+15. Euclid (76-77 @UofT)
+	- Pascal, extended with Modules
+16. Mesa (76-79 -- Xerox)
+	- Had concurrency facilities
+17. Ada (1979 US DoD)(No longer mandated by the DoD)
+	- Another Pascal re
