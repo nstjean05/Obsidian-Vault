@@ -24,3 +24,10 @@
 	1. To intervene in the economy.
 		- Promote efficiency.
 		- Promote equity.
+#### P8: A Country's Standard of Living Depends on Its Ability to Produce Goods and Services
+- **Productivity**: The quantity of goods and services produced from each hour of a worker's time.
+#### P9: Prices Rise When the Government Prints Too Much Money
+- **Inflation**: an increase in the overall level of prices in the economy.
+#### P10: Society Faces a Short-Run Tradeoff Between Inflation and Unemployment
+- This short-run tradeoff plays a key role in the analysis of the business cycle.
+- **Business Cycle**: Unpredictable/irregular fluctuations in economic activity, as measured by the production of goods and services or the number of people employed.
