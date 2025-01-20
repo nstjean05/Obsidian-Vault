@@ -96,3 +96,23 @@
 - Code execution is much faster than the pipeline, and this limits the overall execution speed.
 	- Known as the *vonNeumann Bottleneck*
 - Multiple cores, bulk code loading into a CPU cache, and execution prediction are some strategies used to overcome said bottleneck.
+
+
+
+
+
+
+
+
+
+
+
+**3.** **_Design Influences_**
+
+**[5]** **a. By what criteria are programming languages judged? Name at least five & explain.**
+
+**[10] b. Now, using a language with which you are already familiar, evaluate it by these criteria.**
+
+**[8] c. Explain what the following acronyms mean and what the entity behind them do: ECMA (now Ecma), ISO, CSA, BSI, SCC, ASCII, IEEE, ACM**
+
+**[3] d. Some languages (e.g. Pascal, Modula-2) use the semicolon to separate statements, whereas others (e.g. Java) use them to terminate statements. Which of these in your opinion is more natural and least likely to produce errors? Support your answer.**

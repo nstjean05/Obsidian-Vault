@@ -86,8 +86,7 @@
 - Is it defined fully and unambiguously?
 - Are compilers/interpreters/tools/code libraries widely available?
 
-
-***Evaluating Notations***
+***2. Evaluating Notations***
 
 **[4] a. Discuss readability vs. writability. What is each and how do they sometimes trade off? Which is more important, and why?**
 

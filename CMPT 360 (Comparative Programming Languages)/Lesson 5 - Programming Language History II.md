@@ -51,6 +51,21 @@
 	- Has something of an unfinished air to it
 44. MODULA-2 R10 (Design begun 2010, abandoned 2022)
 	- Sutcliffe & Kowarsch
+	- From Classic Modula-2, not ISO, GM, or Modula-3
+	- General purpose notation
+	- Goals of safety, security, reliability, extensibility
+	- Templates for generics, blueprints for ADTs
+	- Small, very powerful, extensive library system
+	- Incorporates latest ideas and design principles
+	- built-in I/O procedures became Wirthian macros that are translated at compile time
+45. Rust
+	- Designed for safe concurrency
+	- Syntactically similar to C++
+	- Uses a checker to validate references; memory safe
+	- Used by Dropbox
+46. TypeScript
+	- By MS as a JavaScript substitute; used by Google
+	- Used for Angular2 + Spa, Vue.js
 
 
 
@@ -60,3 +75,21 @@
 
 
 
+
+
+
+
+
+
+
+
+
+
+**5.  _Language History (part 2)_  
+[3] a. Are there any logic programming languages other than Prolog? If yes, what?  
+
+[3] b. Explain two reasons why pure interpretation is an acceptable implementation method for several recent scripting languages.  
+
+[3] c. Give a brief general description of a markup-programming hybrid language.  
+
+[3] d. Give a brief general description of a language other than anything mentioned here in these assignments or in the lecture.

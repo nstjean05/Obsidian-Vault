@@ -141,3 +141,24 @@
 29. J (Iversons)
 	- An ASCII replacement of APL
 	- No special keyboard needed; used in some colleges
+
+
+
+
+
+
+**4.** **_Language History_**
+
+In this section, basic factual matters from the overheads and lectures need to be known, as well as something of the history of once common languages such as Python, Java, C, C++, the .NET suite, Pascal, the Modula languages, and Ada all of which made important contributions to language design
+
+**[3] a. What was the significance of the language** **Plankalkül?**
+
+**[3] b. Write a paragraph on the contributions to computing of Grace Hopper.**
+
+**[5] c. Write a paragraph on the contributions to computing of Niklaus Wirth.**
+
+**[3]** **d. Describe the concept of orthogonality in programming languages in your own words.**
+
+**[3] e. What are the arguments for and against the idea of a typeless language?**
+
+**[3]** **f. Why do new scripting languages appear more frequently these days than do new compiled languages?**
