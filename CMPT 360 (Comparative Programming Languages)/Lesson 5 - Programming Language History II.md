@@ -66,7 +66,52 @@
 46. TypeScript
 	- By MS as a JavaScript substitute; used by Google
 	- Used for Angular2 + Spa, Vue.js
-
+47. Kotlyn
+	- Intended as a Java replacement; fewer issues
+	- Efficient; improved run-time performance
+48. Go (GoLang)
+	- By Google (2007) for APIs and web programming
+	- Python alternative
+	- C like semantics; very easy to get up to speed
+	- Memory management, performance, A-V editing
+49. Solidarity
+	- For blockchain specialists, financial work
+	- Used alongside C++
+50. Dart
+	- By Google for mobile platform apps
+	- OO, class-based, garbage collected C like
+	- Another alternative to JavaScript
+51. Julia
+	- From MIT
+	- For highly scalable systems
+	- Optimized for parallel and distributed systems
+	- Support of C programming
+	- Typing is dynamic
+	- Has memory management
+52. Scalia
+	- For functional programming
+	- Statically typed and Java compatible, very fast
+53. R
+	- From Scheme, S, S-PLUS
+	- Ihaka and Gentleman & Auckland NZ from 1995
+	- Data science, Statistical Analysis, Machine Learning
+	- C, C++, & Fortran code can be linked
+54. Elm
+	- A Harvard student thesis
+	- Compiles to JavaScript
+	- A functional Language
+#### 2019-2025 Up-and Comers?
+- Elixir
+- Crystal
+- Groovy
+- Clojure
+- Hack
+#### Others
+- Specialized query, DB, markup notations
+	- HTML (+Ajax, CSS), XML, JSP (Java Server Packages)
+- Macro Notations and application specific
+	- VBA (a pain to use)
+	- C or Pascal-like add
 
 
 
