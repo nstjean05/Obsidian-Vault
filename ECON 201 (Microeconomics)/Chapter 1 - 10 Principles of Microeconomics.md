@@ -16,4 +16,11 @@
 - Trading can give benefits to both parties (not zero sum).
 #### P6: Markets are Usually a Good Way to Organize Economic Activity
 - **Market Economy**: An economy which allocates resources through decentralized decisions.
-	- 
+	- Theory of the "**Invisible Hand**" that guides individuals/firms toward desirable market outcomes.
+#### P7: Governments Can Sometimes Improve Market Outcomes
+- We need government for two reasons:
+	1. To enforce property rights.
+		- **Property Rights**: The ability of an individual to own an exercise control over scarce resources.
+	1. To intervene in the economy.
+		- Promote efficiency.
+		- Promote equity.
