@@ -20,3 +20,5 @@
 
 #### Model: Production Possibilities Frontier
 - A graph that shows the combinations of output that the economy can possibly produce given the available factors of production and the available production technology.
+![[Pasted image 20250120102205.png]]
+
