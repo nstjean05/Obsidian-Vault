@@ -111,8 +111,55 @@
 	- HTML (+Ajax, CSS), XML, JSP (Java Server Packages)
 - Macro Notations and application specific
 	- VBA (a pain to use)
-	- C or Pascal-like add
+	- C or Pascal-like add-ons to DBMs
+- Scripting languages for use as shells
+	- bash, sh, ash, csh, ksh, zsh, fish, Power Shell
+- Scripting languages for OS automation
+	- TCL/TK, Perl, AWK, cron
+	- Applescript (Automator)
+- JavaScript (ECMAScript)
+	- Scripting language for the web, page building
+	- Very popular
+	- By Brendan Eich in 1995 at Netscape
+	- Originally called Mocha, then LiveScript
+	- Inspired by Java, Scheme, and Self
+	- Slow to be accepted, but became very popular in the 2000s
+- Real Time, Numerical Control
+	- G-Code (Geometric shapes in CNC tool machines)
+	- M-Code (Machine functions in CNC machines)
+	- Modula-2 variants
+- and hundreds more (see a text or the net).
+## The Top 10 in 2025
+1. Python
+2. Java
+3. JavaScript
+4. C#
+5. C++
+6. Go
+7. Rust
+8. TypeScript
+9. Swift
+10. Kotlin
 
+- Such lists vary considerably after #5
+	- Many list Scratch @ #10
+- Dart and Julia are up and comers
+## Standards
+#### What are ISO/IEC?
+- International Organization for Standards
+- International Electrotechnical Commission
+#### What are IEEE, ANSI, and ECMA
+- Institute of Electrical and Electronics Engineers
+- American National Standards Institute
+- European Computer Manufacturers Association
+#### Issues
+- There are about 700 languages at present.
+- Language portability can be acheived by:
+	- Standards (IEEE, ANSI, ISO, ECMA)
+	- Compiling to a VM Interpreter
+		- UCSD, JVM, Gardens Point
+- Texts and the net: extensions of some
+	- Take these, mine, and yours with a grain of salt
 
 
 
