@@ -14,6 +14,8 @@
 - Every model is built with assumptions.
 #### Model: Circular-Flow Diagram
 - A visual model of the economy that shows how dollars flow through markets among households and firms.
+- It would make sense to add the government as an additional participant (green rectangle) in this model.
+	- Take taxes from both firms and households.
 ![[Pasted image 20250120095513.png]]
 
 #### Model: Production Possibilities Frontier
