@@ -20,5 +20,6 @@
 
 #### Model: Production Possibilities Frontier
 - A graph that shows the combinations of output that the economy can possibly produce given the available factors of production and the available production technology.
+- A point on the graph is inefficient if you can increase the production of one, without sacrificing the production of the other. Ex. Point D
 ![[Pasted image 20250120102205.png]]
 
