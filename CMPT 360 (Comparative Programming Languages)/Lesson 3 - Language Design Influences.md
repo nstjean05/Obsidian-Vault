@@ -110,6 +110,7 @@
 **3.** **_Design Influences_**
 
 **[5]** **a. By what criteria are programming languages judged? Name at least five & explain.**
+	
 
 **[10] b. Now, using a language with which you are already familiar, evaluate it by these criteria.**
 
