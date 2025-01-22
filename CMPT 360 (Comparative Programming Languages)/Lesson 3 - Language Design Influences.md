@@ -115,11 +115,12 @@
 **[10] b. Now, using a language with which you are already familiar, evaluate it by these criteria.**
 	Python
 	1. Simplicity
-		Simplicity is one of the areas where Python thrives. It takes care of 
-	1. Syntax Design
-	2. Abstraction
-	3. Type Checking
-	4. Exception Handling
+		Simplicity is one of the areas where Python thrives. It takes care of garbage collection, and has a flow similar to English, making it really great for teaching applications. However, it balances this simplicity out with its support for object and procedurally oriented programming.
+	2. Syntax Design
+		Python has a syntactical design which is relatively light 
+	1. Abstraction
+	2. Type Checking
+	3. Exception Handling
 **[8] c. Explain what the following acronyms mean and what the entity behind them do: ECMA (now Ecma), ISO, CSA, BSI, SCC, ASCII, IEEE, ACM**
 
 **[3] d. Some languages (e.g. Pascal, Modula-2) use the semicolon to separate statements, whereas others (e.g. Java) use them to terminate statements. Which of these in your opinion is more natural and least likely to produce errors? Support your answer.**
