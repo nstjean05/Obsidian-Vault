@@ -34,6 +34,13 @@
 	- For instance, PI is a constant, whereas 3.14 is a value (literal).
 - e.g. 4, 1.5, -2.3E46, "C", "Hello", TRUE, 3.4 + 2.7i, etc.
 ##### Identifiers
+- A built-in or standard.
+		- e.g. float, REAL, COMPLEX
+	- Names of built-in types or values.
+		- e.g. TRUE/FALSE
+	- In some languages these are classified as reserved words.
+- OR user defined names constructed per the language rules.
+	- i.e. Employed for constants & variables.
 
 
 
