@@ -20,23 +20,8 @@
               "icon": "lucide-file",
               "title": "Lesson 4 - Programming Language History I"
             }
-          },
-          {
-            "id": "c0cc072a140c0367",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ECON 201 (Microeconomics)/Chapter 1 - 10 Principles of Microeconomics.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Chapter 1 - 10 Principles of Microeconomics"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -189,8 +174,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c0cc072a140c0367",
+  "active": "0b15b8a4b706695d",
   "lastOpenFiles": [
+    "ECON 201 (Microeconomics)/Chapter 1 - 10 Principles of Microeconomics.md",
     "ECON 201 (Microeconomics)/Chapter 2 - Thinking Like an Economist.md",
     "CMPT 360 (Comparative Programming Languages)/Lesson 6 - Syntax and Semantics.md",
     "CMPT 360 (Comparative Programming Languages)/Lesson 4 - Programming Language History I.md",
@@ -203,7 +189,6 @@
     "RELS 112D/Module 1 - New Testament Historical Context.md",
     "Images/Pasted image 20250120095513.png",
     "Images/Pasted image 20250120102205.png",
-    "ECON 201 (Microeconomics)/Chapter 1 - 10 Principles of Microeconomics.md",
     "ECON 201 (Microeconomics)/Class 2 -.md",
     "CMPT 360 (Comparative Programming Languages)/Lesson 1 - Problem Domains.md",
     "CMPT 231 (Data Structures and Algorithms)/Chapter 18 - Searching and Sorting.md",
