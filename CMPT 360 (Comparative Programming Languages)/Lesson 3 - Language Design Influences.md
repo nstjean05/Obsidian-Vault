@@ -110,7 +110,7 @@
 **3.** **_Design Influences_**
 
 **[5]** **a. By what criteria are programming languages judged? Name at least five & explain.**
-	
+	There are many ways that a programming language can and must be judged. These criteria 
 
 **[10] b. Now, using a language with which you are already familiar, evaluate it by these criteria.**
 
@@ -118,21 +118,13 @@
 
 **[3] d. Some languages (e.g. Pascal, Modula-2) use the semicolon to separate statements, whereas others (e.g. Java) use them to terminate statements. Which of these in your opinion is more natural and least likely to produce errors? Support your answer.**
 
+- Simplicity
+- Orthogonality
+- Data Types
+- Syntax Design
+- Abstraction
+- Expressivity
+- Type Checking
+- Exception Handling
+- Restricted Aliasing
 
-
-Criteria:
-1. Readability
-	1. Simplicity
-	2. Orthogonality
-	3. Data Types
-	4. Syntax Design
-2. Writability
-	1. Simplicity and Orthogonality
-	2. Expressivity
-3. Reliability
-	1. Type Checking
-	2. Exception Handling
-	3. Aliasing
-	4. Read and Writability
-4. Cost
-5. 
