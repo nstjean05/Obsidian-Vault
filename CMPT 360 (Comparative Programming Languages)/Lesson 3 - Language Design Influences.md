@@ -147,7 +147,7 @@
 	
 	
 **[3] d. Some languages (e.g. Pascal, Modula-2) use the semicolon to separate statements, whereas others (e.g. Java) use them to terminate statements. Which of these in your opinion is more natural and least likely to produce errors? Support your answer.**
-I think that each of these have their advantages. Using the semicolon solely to separate statements may allow f
+I think that terminator statements are much more natural, as well as less likely to produce errors. Guaranteeing that there is a semicolon after every line makes it simpler when going back and changing code, as there is no concern about accidentally adding/excepting a semicolon. It also increases readability, as now there is much less attention to be paid to whether a given line needs a semicolon.
 
 - Simplicity
 - Orthogonality

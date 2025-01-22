@@ -152,6 +152,7 @@
 In this section, basic factual matters from the overheads and lectures need to be known, as well as something of the history of once common languages such as Python, Java, C, C++, the .NET suite, Pascal, the Modula languages, and Ada all of which made important contributions to language design
 
 **[3] a. What was the significance of the language** **Plankalkül?**
+	This was the first language to 
 
 **[3] b. Write a paragraph on the contributions to computing of Grace Hopper.**
 
