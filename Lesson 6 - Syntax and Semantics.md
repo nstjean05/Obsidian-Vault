@@ -50,4 +50,18 @@
 	1. DO 99 I = 5.10 means assign the value 5.10 to DO99I
 	2. DO 99 I = 5,10 means for I = 5 to 10 do, with the spaces being irrelevant
 - Moreover, FORTRAN had no reserved words so REPEAT = 7 is a legal assignment. Yikes!
-- Python also derives meaning from spaces and 
+- Python also derives meaning from spaces and the indentation on each line.
+##### Language Definition
+- Based on:
+	- **Formal:**
+		- Rules for a compiler to recognize correct strings.
+			- i.e. The compiler uses rules in **syntax analysis**.
+	- **Informal:**
+		- Models or examples to illustrate correct string patterns.
+			- i.e. How-to recipes in a textbook.
+
+
+
+**6. M _Syntax and Semantics_** 
+
+**[5]** a. Look up VDM-SL and write two paragraphs on it.
