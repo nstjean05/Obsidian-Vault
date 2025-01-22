@@ -135,9 +135,19 @@
 2. ISO
 	The International Organization for Standardization develops standards for a very wide variety of items.
 3. CSA
-	Canadian Standards Association, which creates standards for many different 
+	Canadian Standards Association, which creates standards for many different industries, but with a focus on the Canadian geopolitical area.
+4. SCC
+	The Standards Council of Canada once again focuses on Canadian standards, with the addition of backing by the Canadian government, and representing Canada in various international standards organizations.
+5. ASCII
+	The American Standard Code for Information interchange is a standard for how numeric codes represent different textual characters.
+7. IEEE
+	The Institute of Electrical and Electronics Engineers creates standards in various engineering fields, and also regulates the title of 'Engineer' in Canada.
+8. ACM
+	The Association for Computing Machinery is an organization which works to build the community and discourse between/around computer scientists.
+	
 	
 **[3] d. Some languages (e.g. Pascal, Modula-2) use the semicolon to separate statements, whereas others (e.g. Java) use them to terminate statements. Which of these in your opinion is more natural and least likely to produce errors? Support your answer.**
+I think that each of these have their advantages. Using the semicolon solely to separate statements may allow f
 
 - Simplicity
 - Orthogonality
