@@ -152,9 +152,10 @@
 In this section, basic factual matters from the overheads and lectures need to be known, as well as something of the history of once common languages such as Python, Java, C, C++, the .NET suite, Pascal, the Modula languages, and Ada all of which made important contributions to language design
 
 **[3] a. What was the significance of the language** **Plankalkül?**
-	This was the first language to 
+	This was the first computer/language to utilize loops, and a compiler. It made great advancements in its employment of data structures, implementing loops and the 'bit' data type. Plankalkül's programmer, Konrad Zuse, began working on it in 1943, and completed writing a paper about it in 1945.
 
 **[3] b. Write a paragraph on the contributions to computing of Grace Hopper.**
+	Grace Hopper was a pioneer in the computing sciences field. After completing a 4-year mathematics P.h.D. at Yale, 
 
 **[5] c. Write a paragraph on the contributions to computing of Niklaus Wirth.**
 
