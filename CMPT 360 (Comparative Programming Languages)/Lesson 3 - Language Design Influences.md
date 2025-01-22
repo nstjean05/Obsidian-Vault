@@ -125,11 +125,18 @@
 	3. Abstraction
 		Python has some support for abstraction, as it is somewhat object-oriented. Additional functions can be written to simplify and partition the code. Python is relatively slow to compile when more abstraction is used, meaning that if your program hinges on performance, this may not be the way to go.
 	4. Type Checking
-		Python has support for type checking, to varying degrees of success. Its compile-time type checking can be on-par with toher
+		Python has support for type checking, to varying degrees of success. Its compile-time type checking can be on-par with other languages, but its runtime checking has similar detractions to abstraction- it can be rather slow.
 	5. Exception Handling
+		This is a great advantage of using Python, as its exception handling is very straightforward and effective. There are a number of keywords, including try, except, and finally, which serve to make Python's handling effective and versatile. However, it again falls victim to the issue of speed, as utilizing thorough exceptions can deteriorate performance greatly.
 
 **[8] c. Explain what the following acronyms mean and what the entity behind them do: ECMA (now Ecma), ISO, CSA, BSI, SCC, ASCII, IEEE, ACM**
-
+1. Ecma
+	The European Computer Manufacturers Association is an organization which organizes technical standards, primarily in the space of communications technologies.
+2. ISO
+	The International Organization for Standardization develops standards for a very wide variety of items.
+3. CSA
+	Canadian Standards Association, which creates standards for many different 
+	
 **[3] d. Some languages (e.g. Pascal, Modula-2) use the semicolon to separate statements, whereas others (e.g. Java) use them to terminate statements. Which of these in your opinion is more natural and least likely to produce errors? Support your answer.**
 
 - Simplicity
