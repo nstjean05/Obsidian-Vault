@@ -158,9 +158,10 @@ In this section, basic factual matters from the overheads and lectures need to b
 	Grace Hopper was a pioneer in the computing sciences field. After completing a 4-year mathematics P.h.D. at Yale, she went on to be recruited to the U.S. navy. Hopper was one of the initial programmers to advocate for finding new ways to use a computer to code, and created the first compiler (called A-0). This system and its two descendants worked to translate pseudocode into various machine subprograms, which greatly saved on time and effort, as developers no longer needed to write in machine code. Continuing on this trend of revolutionizing the way programming languages are written, she introduced the concept that while math should be written in mathematical notation, software should be written in largely English statements. This went into the design of the COBOL language, which became the most used at the time, and introduced many revolutionary concepts.
 
 **[5] c. Write a paragraph on the contributions to computing of Niklaus Wirth.**
-	Niklaus Wirth is known as the greatest programming language designer since the 
+	Suisse programmer Niklaus Wirth is known as the greatest programming language designer since the inception of computer science as a discipline. Along with the IFIP, he helped develop ALOL in the 60s. After seeing that the Federation's efforts would lead to bloated languages, Wirth went rogue, designing a series of widely used languages such as Pascal and Modula. Much of his improvements came from simplifying previously complicated ideas, making them much easier, efficient, more practical to use and teach.
 
 **[3]** **d. Describe the concept of orthogonality in programming languages in your own words.**
+	Orthogonality is the extent to which a programming language's features are able to combine with one another, allowing for varying degrees of combinations and complexity. A highly orthogonal language will have a small number of fundamental constructs, but a very large number of combinations, and a high degree of cross-compatibility/usage. Non-orthogonal languages have a much greater amount of structure, but don't 
 
 **[3] e. What are the arguments for and against the idea of a typeless language?**
 
