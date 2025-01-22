@@ -110,7 +110,7 @@
 **3.** **_Design Influences_**
 
 **[5]** **a. By what criteria are programming languages judged? Name at least five & explain.**
-	There are many ways that a programming language can and must be judged. These criteria allow for languages to be consciously optimized for different means. The first of the criteria is simplicity- the less constructs the language has, the simpler it is. A language must find the balance between having good support for a variety of functions, but not adding so many the language becomes bloated. Another criteria is that of 
+	There are many ways that a programming language can and must be judged. These criteria allow for languages to be consciously optimized for different means. The first of the criteria is simplicity- the less constructs the language has, the simpler it is. A language must find the balance between having good support for a variety of functions, but not adding so many the language becomes bloated. Another criteria is that of syntax design. This is strongly linked to simplicity, as this is the mode through which 
 
 **[10] b. Now, using a language with which you are already familiar, evaluate it by these criteria.**
 
