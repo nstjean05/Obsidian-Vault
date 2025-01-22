@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lesson 6 - Syntax and Semantics.md",
+                "file": "ECON 201 (Microeconomics)/Chapter 1 - 10 Principles of Microeconomics.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lesson 6 - Syntax and Semantics"
+              "title": "Chapter 1 - 10 Principles of Microeconomics"
             }
           }
         ],
@@ -92,8 +92,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 342.5024719238281,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "1c1db9715e53cd8f",
@@ -192,7 +191,8 @@
   },
   "active": "c0cc072a140c0367",
   "lastOpenFiles": [
-    "Lesson 6 - Syntax and Semantics.md",
+    "ECON 201 (Microeconomics)/Chapter 2 - Thinking Like an Economist.md",
+    "CMPT 360 (Comparative Programming Languages)/Lesson 6 - Syntax and Semantics.md",
     "CMPT 360 (Comparative Programming Languages)/Lesson 4 - Programming Language History I.md",
     "CMPT 360 (Comparative Programming Languages)/Lesson 3 - Language Design Influences.md",
     "CMPT 360 (Comparative Programming Languages)/Lesson 2 - Evaluate Programming Notations.md",
@@ -202,7 +202,6 @@
     "README.md",
     "RELS 112D/Module 1 - New Testament Historical Context.md",
     "Images/Pasted image 20250120095513.png",
-    "ECON 201 (Microeconomics)/Chapter 2 - Thinking Like an Economist.md",
     "Images/Pasted image 20250120102205.png",
     "ECON 201 (Microeconomics)/Chapter 1 - 10 Principles of Microeconomics.md",
     "ECON 201 (Microeconomics)/Class 2 -.md",

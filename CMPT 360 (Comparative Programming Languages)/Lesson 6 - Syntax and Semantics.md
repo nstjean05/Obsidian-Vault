@@ -65,4 +65,4 @@
 **6. M _Syntax and Semantics_** 
 
 **[5]** a. Look up VDM-SL and write two paragraphs on it.
-The Vienna Development Method Specification Language (VDM-SL) is a programming language built on the fundamentals of the Vienna Development Method. This is one of the things that makes it unique, as "VDM-SL is a language for specification as well as development" (Dawes, 1991). 
+The Vienna Development Method Specification Language (VDM-SL) is a guide for creating programming languages built on the fundamentals of the Vienna Development Method. This is one of the things that makes it unique, as "VDM-SL is a language for specification as well as development" (Dawes, 1991). 
