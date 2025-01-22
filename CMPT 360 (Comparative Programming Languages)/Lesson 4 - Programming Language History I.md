@@ -155,9 +155,10 @@ In this section, basic factual matters from the overheads and lectures need to b
 	This was the first computer/language to utilize loops, and a compiler. It made great advancements in its employment of data structures, implementing loops and the 'bit' data type. Plankalkül's programmer, Konrad Zuse, began working on it in 1943, and completed writing a paper about it in 1945.
 
 **[3] b. Write a paragraph on the contributions to computing of Grace Hopper.**
-	Grace Hopper was a pioneer in the computing sciences field. After completing a 4-year mathematics P.h.D. at Yale, 
+	Grace Hopper was a pioneer in the computing sciences field. After completing a 4-year mathematics P.h.D. at Yale, she went on to be recruited to the U.S. navy. Hopper was one of the initial programmers to advocate for finding new ways to use a computer to code, and created the first compiler (called A-0). This system and its two descendants worked to translate pseudocode into various machine subprograms, which greatly saved on time and effort, as developers no longer needed to write in machine code. Continuing on this trend of revolutionizing the way programming languages are written, she introduced the concept that while math should be written in mathematical notation, software should be written in largely English statements. This went into the design of the COBOL language, which became the most used at the time, and introduced many revolutionary concepts.
 
 **[5] c. Write a paragraph on the contributions to computing of Niklaus Wirth.**
+	Niklaus Wirth is known as the greatest programming language designer since the 
 
 **[3]** **d. Describe the concept of orthogonality in programming languages in your own words.**
 
