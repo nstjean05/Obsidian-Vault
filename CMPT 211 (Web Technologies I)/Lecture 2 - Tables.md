@@ -31,7 +31,7 @@
 	<body>
 		<form action="/action_page.php">
 		User Name: <input type = "text" name = "username" value "value">
-		Password: <input type = "password" name = "pw
+		Password: <input type = "password" name = "pw">
 
 		Please select your colour:
 		<select>
@@ -39,9 +39,30 @@
 			<option>Green</option>
 			<option>Blue</option>
 		</select>
+
+		<br>Please select your colour again:
+		<br><input type = "radio" name = "colour" value = "red">Red
+		<br><input type = "radio" name = "colour" value = "green">Green
+		<br><input type = "radio" name = "colour" value = "blue">Blue
 		
 		<input type = "submit" value = "Click Here!">
+		<!-- This is where the backend comes into play, clicking here will simply cause an error. -->		
 		</form>
 	</body>
 </html>
 ```
+
+## SVG
+- Scalable Vector Graphics (SVG)
+	- Defines vector-based graphics in the XML format
+	- Are contained in the `<svg>` element
+	- Can draw:
+		- Paths
+		- Boxes
+		- Circles
+		- Text
+		- Graphic Images
+- This allows images to be scaled indefinitely using polygons
+- SVG images begin with an `<svg>` element.
+	- Has the properties of height and width (in pixels)
+	- 
