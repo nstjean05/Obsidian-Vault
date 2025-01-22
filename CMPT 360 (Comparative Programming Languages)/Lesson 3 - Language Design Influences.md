@@ -110,17 +110,22 @@
 **3.** **_Design Influences_**
 
 **[5]** **a. By what criteria are programming languages judged? Name at least five & explain.**
-	There are many ways that a programming language can and must be judged. These criteria allow for languages to be consciously optimized for different means. The first criterion is simplicity- the less constructs the language has, the simpler it is. A language must find the balance between having good support for a variety of functions, but not adding so many the language becomes bloated. Another criteria is that of syntax design. This is strongly linked to simplicity, as this is the mode through which the language is constructed. It is important to evaluate, for instance, what syntax a language reserves, and how the language's form serves to enhance its use-case. Abstraction is a method of evaluation which focuses on how data can be hidden, so that the code can be simplified. How abstractions can be implemented will greatly effect the efficiency of the language and its programs. A fourth pillar criteria is that of type checking. Through this, the program is verified to make sure that the types being manipulated are in alignment. If this is not checked, then significant errors can be made (e.g. a float type being used when int was expected). However, it is also very time consuming for every parameter to be type checked, so you can evaluate the program based on how efficiently/when they are checked. Finally, exception handling is another method of evaluating a programming language. It is highly important for the reliability of a program that errors are caught and dealt with, or else notified to the programmer. Yet, the absence of exception handling can allow for a more efficient program, and can decrease the amount of convoluted code. Each of these criteria are critical in the evaluation of a programming language, and which language is optimal for a given application.
+	There are many ways that a programming language can and must be judged. These criteria allow for languages to be consciously optimized for different means. The first criterion is simplicity- the less constructs the language has, the simpler it is. A language must find the balance between having good support for a variety of functions, but not adding so many the language becomes bloated.
+	Another criteria is that of syntax design. This is strongly linked to simplicity, as this is the mode through which the language is constructed. It is important to evaluate, for instance, what syntax a language reserves, and how the language's form serves to enhance its use-case.
+	Abstraction is a method of evaluation which focuses on how data can be hidden, so that the code can be simplified. How abstractions can be implemented will greatly effect the efficiency of the language and its programs.
+	A fourth pillar criteria is that of type checking. Through this, the program is verified to make sure that the types being manipulated are in alignment. If this is not checked, then significant errors can be made (e.g. a float type being used when int was expected). However, it is also very time consuming for every parameter to be type checked, so you can evaluate the program based on how efficiently/when they are checked.
+	Finally, exception handling is another method of evaluating a programming language. It is highly important for the reliability of a program that errors are caught and dealt with, or else notified to the programmer. Yet, the absence of exception handling can allow for a more efficient program, and can decrease the amount of convoluted code. Each of these criteria are critical in the evaluation of a programming language, and which language is optimal for a given application.
 
 **[10] b. Now, using a language with which you are already familiar, evaluate it by these criteria.**
 	Python
 	1. Simplicity
 		Simplicity is one of the areas where Python thrives. It takes care of garbage collection, and has a flow similar to English, making it really great for teaching applications. However, it balances this simplicity out with its support for object and procedurally oriented programming.
 	2. Syntax Design
-		Python has a syntactical design which is relatively light 
-	1. Abstraction
-	2. Type Checking
-	3. Exception Handling
+		Python has a syntactical design which is relatively light in terms of how many words it has reserved, especially relative to languages like C++. This means that there is less for the programmer to memorize, and allows for less limitations on what can be done with each word. Python also has relatively loose form, in that there is nothing to denote the end of a line, and not a great deal of sentence structure or extra characters to denote it.
+	2. Abstraction
+		Python has some support for abstraction, as it is somewhat object-oriented. Additional functions can be written to simplify and partition the code. However, Python is relatively slow to compile when more abstraction is used, meaning that if your program hinges on performac
+	1. Type Checking
+	2. Exception Handling
 **[8] c. Explain what the following acronyms mean and what the entity behind them do: ECMA (now Ecma), ISO, CSA, BSI, SCC, ASCII, IEEE, ACM**
 
 **[3] d. Some languages (e.g. Pascal, Modula-2) use the semicolon to separate statements, whereas others (e.g. Java) use them to terminate statements. Which of these in your opinion is more natural and least likely to produce errors? Support your answer.**
