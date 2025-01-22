@@ -16,5 +16,24 @@
 - Valid combinations of characters are **lexenes**
 - Groups of lexenes are called **tokens**
 	- An **identifier token** could have many possible lexenes (valid character strings) such as "x", "y", "total", "count", etc.
-- A set of **syntax rules** for the language specifies the correctly constructed strings for a **lexene** or a combination of lexenes
+- A set of **syntax rules** for the language specifies the correctly constructed strings for a **lexene** or a combination of lexenes that forms a sentence.
+- A **program** is constructed from one or more sentences, again according to syntax rules.
+	- This is presented bottom-up but designed top-down.
+## Categories of Tokens
+##### Reserved Words or Keywords
+- Things that make up the program structure
+- Cannot be reused
+- e.g. loop, package, MODULE, etc.
+##### Reserved Symbols
+- Also cannot generally be re-used.
+- May be user-overloadable.
+- e.g.  ;  <=  +  etc.
+##### Literals
+- These are tokens whose name is an encoding of their value.
+- NOTE: These are not the same thing as constants, contrary to popular teaching.
+	- For instance, PI is a constant, whereas 3.14 is a value (literal).
+- e.g. 4, 1.5, -2.3E46, "C", "Hello", TRUE, 3.4 + 2.7i, etc.
+##### Identifiers
+
+
 
