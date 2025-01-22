@@ -117,3 +117,22 @@
 **[8] c. Explain what the following acronyms mean and what the entity behind them do: ECMA (now Ecma), ISO, CSA, BSI, SCC, ASCII, IEEE, ACM**
 
 **[3] d. Some languages (e.g. Pascal, Modula-2) use the semicolon to separate statements, whereas others (e.g. Java) use them to terminate statements. Which of these in your opinion is more natural and least likely to produce errors? Support your answer.**
+
+
+
+Criteria:
+1. Readability
+	1. Simplicity
+	2. Orthogonality
+	3. Data Types
+	4. Syntax Design
+2. Writability
+	1. Simplicity and Orthogonality
+	2. Expressivity
+3. Reliability
+	1. Type Checking
+	2. Exception Handling
+	3. Aliasing
+	4. Read and Writability
+4. Cost
+5. 
