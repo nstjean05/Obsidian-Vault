@@ -41,6 +41,13 @@
 	- In some languages these are classified as reserved words.
 - OR user defined names constructed per the language rules.
 	- i.e. Employed for constants & variables.
-
-
-
+##### Literals 2
+- Most notations have a "rule of longest substring" to determine where one string ends and another may begin, which means spaces matter. Therefore:
+	1. beginwhile is a user identifier
+	2. begin while is two reserved words.
+- However, some langauges do forbid using a reserved word as a part of an identifier and would not allow case 1.
+- Additionally, FORTRAN determined meaning in part from position, not spaces.
+	1. DO 99 I = 5.10 means assign the value 5.10 to DO99I
+	2. DO 99 I = 5,10 means for I = 5 to 10 do, with the spaces being irrelevant
+- Moreover, FORTRAN had no reserved words so REPEAT = 7 is a legal assignment. Yikes!
+- Python also derives meaning from spaces and 
