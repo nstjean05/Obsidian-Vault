@@ -15,4 +15,6 @@
 - Specified with lexical rules
 - Valid combinations of characters are **lexenes**
 - Groups of lexenes are called **tokens**
+	- An **identifier token** could have many possible lexenes (valid character strings) such as "x", "y", "total", "count", etc.
+- A set of **syntax rules** for the language specifies the correctly constructed strings for a **lexene** or a combination of lexenes
 
