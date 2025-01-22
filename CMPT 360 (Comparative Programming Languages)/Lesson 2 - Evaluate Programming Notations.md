@@ -89,11 +89,11 @@
 ***2. Evaluating Notations***
 
 **[4] a. Discuss readability vs. writability. What is each and how do they sometimes trade off? Which is more important, and why?**
-
-   Readability and writability are both critical components of language design, and each greatly contribute to how a user interacts with the language. Readability refers to how easily text can be read. Is the code as natural to read as your native tongue, or does it require the effort and back-tracking of a language you are learning? Writability, on the other hand, refers to the efficiency and ease of which a program can be written. These two variables often have a give and take relationship. For example, a highly orthogonal language is generally easier to write in, as it allows for the author to use many different combinations to achieve a single outcome. However, this can decrease readability, as a reader must then become familiar with orders of magnitude more combinations of factors.
+	Readability and writability are both critical components of language design, and each greatly contribute to how a user interacts with the language. Readability refers to how easily text can be read. Is the code as natural to read as your native tongue, or does it require the effort and back-tracking of a language you are learning? Writability, on the other hand, refers to the efficiency and ease of which a program can be written. These two variables often have a give and take relationship. For example, a highly orthogonal language is generally easier to write in, as it allows for the author to use many different combinations to achieve a single outcome. However, this can decrease readability, as a reader must then become familiar with orders of magnitude more combinations of factors. Depending on the use case of the language, either one of these can be prioritized. If a large quantity of code must be written, and by a relatively small and specialized group of people, then writability may be prioritized (e.g. assembly languages). However, if a large amount of people need to be able to frequently access or learn to write it a certain language, then it would likely be more efficient to emphasize readability (e.g. open source projects or large companies). Regardless, it is important for any language to be aware and accommodating of both.
 
 **[4]b. Many languages distinguish between upper and lower case letters in user-defined names. What are the pros and cons of this?**
-
+	Distinguishing between upper and lower case letters is done for sve
+	
 **[3]c. How do type declarations affect the readability of programs in languages that require them (not all do).**
 
 **[4]d. Some languages have two kinds of comments--one with an open comment marker that extends to the end of a line, and another with both open and close delimiters that can extend over many lines. What are the advantages and disadvantages of each, of having both?**
