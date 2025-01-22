@@ -122,10 +122,12 @@
 		Simplicity is one of the areas where Python thrives. It takes care of garbage collection, and has a flow similar to English, making it really great for teaching applications. However, it balances this simplicity out with its support for object and procedurally oriented programming.
 	2. Syntax Design
 		Python has a syntactical design which is relatively light in terms of how many words it has reserved, especially relative to languages like C++. This means that there is less for the programmer to memorize, and allows for less limitations on what can be done with each word. Python also has relatively loose form, in that there is nothing to denote the end of a line, and not a great deal of sentence structure or extra characters to denote it.
-	2. Abstraction
-		Python has some support for abstraction, as it is somewhat object-oriented. Additional functions can be written to simplify and partition the code. However, Python is relatively slow to compile when more abstraction is used, meaning that if your program hinges on performac
-	1. Type Checking
-	2. Exception Handling
+	3. Abstraction
+		Python has some support for abstraction, as it is somewhat object-oriented. Additional functions can be written to simplify and partition the code. Python is relatively slow to compile when more abstraction is used, meaning that if your program hinges on performance, this may not be the way to go.
+	4. Type Checking
+		Python has support for type checking, to varying degrees of success. Its compile-time type checking can be on-par with toher
+	5. Exception Handling
+
 **[8] c. Explain what the following acronyms mean and what the entity behind them do: ECMA (now Ecma), ISO, CSA, BSI, SCC, ASCII, IEEE, ACM**
 
 **[3] d. Some languages (e.g. Pascal, Modula-2) use the semicolon to separate statements, whereas others (e.g. Java) use them to terminate statements. Which of these in your opinion is more natural and least likely to produce errors? Support your answer.**
