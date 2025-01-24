@@ -61,8 +61,16 @@ protection = left bracket, protection expression, right bracket;
 protection expression = constant expression
 semicolon = ";";
 ```
-
 #### Final Observations
 1. The EBNF rule of option
 	- `C = [Q]` could be written in BNF as:
-	- `C = Q|E` provided there was a metasymbol E for the empty string
+	- `C = Q|ε` provided there was a metasymbol `ε` for the empty string
+2. Recursion is permitted in productions, so one could define:
+	- Text Style:
+		- `<identifier List> --> identifier|identifier, identifier List`
+	- Comment Style:
+		- `identifier List = Identifier{comma, identifier}`
+	- Identifier List:
+		- `identifier(comma, identifier)*`
+
+
