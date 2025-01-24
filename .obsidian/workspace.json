@@ -4,24 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "86db16514d0613ce",
+        "id": "d2070afa4156253f",
         "type": "tabs",
         "children": [
           {
-            "id": "0b15b8a4b706695d",
+            "id": "4fba67898423c3f8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CMPT 360 (Comparative Programming Languages)/Lesson 4 - Programming Language History I.md",
+                "file": "CMPT 360 (Comparative Programming Languages)/Lesson 6 - Syntax and Semantics.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lesson 4 - Programming Language History I"
+              "title": "Lesson 6 - Syntax and Semantics"
+            }
+          },
+          {
+            "id": "3bc46ab34648c5f7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CMPT 360 (Comparative Programming Languages)/Lesson 7 - Defining the Syntax of a Language.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Lesson 7 - Defining the Syntax of a Language"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -175,12 +190,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0b15b8a4b706695d",
+  "active": "3bc46ab34648c5f7",
   "lastOpenFiles": [
+    "CMPT 360 (Comparative Programming Languages)/Lesson 6 - Syntax and Semantics.md",
+    "CMPT 360 (Comparative Programming Languages)/Lesson 7 - Defining the Syntax of a Language.md",
     "CMPT 360 (Comparative Programming Languages)/Lesson 4 - Programming Language History I.md",
     "ECON 201 (Microeconomics)/Chapter 1 - 10 Principles of Microeconomics.md",
     "ECON 201 (Microeconomics)/Chapter 2 - Thinking Like an Economist.md",
-    "CMPT 360 (Comparative Programming Languages)/Lesson 6 - Syntax and Semantics.md",
     "CMPT 360 (Comparative Programming Languages)/Lesson 3 - Language Design Influences.md",
     "CMPT 360 (Comparative Programming Languages)/Lesson 2 - Evaluate Programming Notations.md",
     "CMPT 360 (Comparative Programming Languages)/Lesson 5 - Programming Language History II.md",
@@ -210,7 +226,6 @@
     "CMPT 231 (Data Structures and Algorithms)/Chapter 23 - Multi-Way Search Trees.md",
     "CMPT 231 (Data Structures and Algorithms)/Chapter 22 - Sets and Maps.md",
     "CMPT 231 (Data Structures and Algorithms)/Chapter 21 - Heaps and Priority Queues.md",
-    "CMPT 231 (Data Structures and Algorithms)/Chapter 20 - Binary Search Trees.md",
     "Images/Pasted image 20241128154353.png",
     "Images/Pasted image 20241128152327.png",
     "Images/Pasted image 20241128150228.png",
