@@ -46,3 +46,16 @@
 - ::= may be shortened to `::` or `-->`
 - Terminals may be separated 'by commas' (or not)
 - Productions may be terminated by semicolons.
+- Thus, Pascal was defined using a "busy" version of BNF
+	- `<program> ::= <program-heading> ";" <program block> "."`
+	- `<program-heading> ::= program <identifier> ["("Program Perameters")"]`
+- The text uses
+	- `<program> --> begin <stmt-list> end`
+- The ISO Modula-2 standard used
+	- `compilation module = program module | definition module | implementation module`
+	- `program module = "MODULE", moduleidentifier, [protection], semicolon, import lists, module block, module verification, period;`
+	- `module identifier = identifier;`
+	- `protection = left bracket, protection expression, right bracket;`
+	- `protection expression = constant expression`
+	- `semicolon = ";";`
+	- period
