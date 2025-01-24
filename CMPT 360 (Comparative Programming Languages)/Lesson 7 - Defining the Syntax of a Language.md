@@ -5,12 +5,12 @@
 #### Definition _2
 - A Backus-Naur-Formalism (BNF) (which is about the same as a linguist's Chomsky context free grammar) is based on.
 1. A rule of succession or sequence.
-	- C = PQ
-	- C consists of P followed by Q
-2. A rule of selection
-	- C = P | Q
-	- C consists of P or Q
-3. The metasymbols
+	- `C = PQ`
+	- Meaning C consists of P followed by Q
+1. A rule of selection
+	- `C = P | Q`
+	- MeaingC consists of P or Q
+1. The metasymbols
 	- < >   to enclose the item defined
 	- ::=    denotes "is described by"
 	- "  "   enclosures literals
@@ -35,10 +35,10 @@
 #### Definition _3_
 - An extended BNF or EBNF has two more rules that do not add additional meaning to a language, but do make it easier to write.
 4. A rule of option
-	- C = [P] or C = P?
+	- `C = [P]` or `C = P?`
 	- Meaning C consists of P or nothing at all.
 5. A rule of repetition
-	- C = {P} (ISO) or C = P* (R10)
+	- `C = {P}` (ISO) or `C = P* (R10)`
 	- Meaning zero or more instances of P
 #### Variations that may be used in some EBNFs
 - All terminals quoted or no terminals quoted
@@ -52,10 +52,17 @@
 - The text uses
 	- `<program> --> begin <stmt-list> end`
 - The ISO Modula-2 standard used
-	- `compilation module = program module | definition module | implementation module`
-	- `program module = "MODULE", moduleidentifier, [protection], semicolon, import lists, module block, module verification, period;`
-	- `module identifier = identifier;`
-	- `protection = left bracket, protection expression, right bracket;`
-	- `protection expression = constant expression`
-	- `semicolon = ";";`
-	- period
+```pascal
+//Modula-2
+compilation module = program module | definition module | implementation module
+program module = "MODULE", moduleidentifier, [protection], semicolon, import lists, module block, module verification, period;
+module identifier = identifier;
+protection = left bracket, protection expression, right bracket;
+protection expression = constant expression
+semicolon = ";";
+```
+
+#### Final Observations
+1. The EBNF rule of option
+	- `C = [Q]` could be written in BNF as:
+	- `C = Q|E` provided there was a metasymbol E for the empty string
