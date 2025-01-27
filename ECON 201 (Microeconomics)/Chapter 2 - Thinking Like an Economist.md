@@ -23,3 +23,6 @@
 - A point on the graph is inefficient if you can increase the production of one, without sacrificing the production of the other. Ex. Point D
 ![[Pasted image 20250120102205.png]]
 
+#### Micro and Macro Economics
+- **Microeconomics**: The study of how households and firms make decisions and how they interact in markets.
+- **Macroeconomics**: The study of economy-wide phenomena, including inflation, unemployment, and economic growth.
