@@ -74,3 +74,20 @@ semicolon = ";";
 		- `identifier(comma, identifier)*`
 
 
+
+ 
+**7. W _EBNF_**
+
+**[6]** a.  How does the EBNF for the FOR loop differ between ISO and R10 Modula-2? For ISO see _http://www.arjaybooks.com/Modula-2/Text/index.html_ and appendices 2-3. For R10 see _https://github.com/m2sf/M2-R10-Syntax-Diagrams_
+
+**[10]** b. Write EBNF descriptions for the following:
+
+- a Java class definition header
+
+- a Java method call statement
+
+- a C switch statement
+
+- a C union definition
+
+- C float literals
