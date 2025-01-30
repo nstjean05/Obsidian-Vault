@@ -62,7 +62,10 @@ x## Syntax & Semantics Description
 
 
 
-**6. M _Syntax and Semantics_** 
+6. **MSyntax and Semantics**
 
-**[5]** a. Look up VDM-SL and write two paragraphs on it.
-The Vienna Development Method Specification Language (VDM-SL) is a guide for creating programming languages built on the fundamentals of the Vienna Development Method. This is one of the things that makes it unique, as "VDM-SL is a language for specification as well as development" (Dawes, 1991). 
+**[5] a. Look up VDM-SL and write two paragraphs on it.**
+
+The Vienna Development Method Specification Language (VDM-SL) is a guide for creating programming languages built on the fundamentals of the Vienna Development Method. This is one of the things that makes it unique, as "VDM-SL is a language for specification as well as development" (Dawes, 1991). There are a number of fundamental components of the VDM-SL specification, including type, value, function, operation, and state definitions.
+
+One of the things which I found interesting about VDM-SL is its use of type constraints. There are three main ways that one may define a new type, according to the standard. First, using a type constructor, which is useful in defining types of lists, sets, etc. Second, a type invariant can be used to restrict the values of a pre-existing type, by way of using logical conditions. Finally, union types can define a type by combining two or more types.
