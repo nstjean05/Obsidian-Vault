@@ -166,22 +166,20 @@
 
 
 
+5. Language History (part 2)
 
+[3] a. Are there any logic programming languages other than Prolog? If yes, what?  
 
+There are many programming languages other than Prolog! Prolog was the first language to be based around formal logic, but there are many languages created before and since it, to fit different use cases. One language created before Prolog was C, which was developed by Bell Labs to make working with UNIX assembly language easier. Another language created since Prolog is Python, which is a high-level, all-rounder language, often picked for its ease of use. Today there are an uncounted number of programming languages, numbering in the low thousands.
 
+[3] b. Explain two reasons why pure interpretation is an acceptable implementation method for several recent scripting languages.  
 
+Although pure interpretation went out of style in the 1980s due to its slow speeds and large file sizes, it has made a comeback through its use in web scripting languages. One reason it has become acceptable once more is that errors can be displayed as soon as they arise, as it doesn’t need to be compiled. Another secondary reason is that since scripting languages are often not used in important places, the drawbacks of slow performance are not as great a detraction, making any benefits more appealing.
 
+[3] c. Give a brief general description of a markup-programming hybrid language.  
 
-
-
-
-
-
-**5.  _Language History (part 2)_  
-[3] a. Are there any logic programming languages other than Prolog? If yes, what?  
-
-[3] b. Explain two reasons why pure interpretation is an acceptable implementation method for several recent scripting languages.  
-
-[3] c. Give a brief general description of a markup-programming hybrid language.  
+A markup-programming hybrid language refers to a markup language wherein higher-level programming features such as loops are built into the language structure. Markup languages already have the benefits of document structure, and combining them with programming languages allows for a more dynamic programming approach. The textbook references eXtensible Stylesheet Language Transformations (XSLT), which is useful in translating between an XML document, and documents of alternative forms (e.g. HTML, etc.).
 
 [3] d. Give a brief general description of a language other than anything mentioned here in these assignments or in the lecture.
+
+Advanced Business Application Programming (ABAP) is a language which was developed for businesses to use in the mass-processing of data. It was created in the 1980s and has gone through a number of iterations, including the significant change of the addition of OOP in 2000. The language slowly fell out of use until the mid-2010s, when ABAP in the Cloud was released, leading to a resurgence in the language’s use.
