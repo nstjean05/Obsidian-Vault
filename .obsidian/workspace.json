@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "a8714c40e643913e",
+        "id": "d805e956a11d759e",
         "type": "tabs",
         "children": [
           {
-            "id": "0acbf6ca2f25bd7e",
+            "id": "64f807384f00ce4e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CMPT 360 (Comparative Programming Languages)/Lesson 4 - Programming Language History I.md",
+                "file": "Lesson 10 - Language Translation.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lesson 4 - Programming Language History I"
+              "title": "Lesson 10 - Language Translation"
             }
           }
         ]
@@ -52,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "ALGOL-",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -73,8 +73,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -175,8 +174,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0acbf6ca2f25bd7e",
+  "active": "64f807384f00ce4e",
   "lastOpenFiles": [
+    "Pasted image 20250131081811.png",
+    "Lesson 9 - Issues in Language Definition and Program Analysis.md",
+    "Lesson 10 - Language Translation.md",
+    "Lesson 8 - More on EBNF.md",
+    "CMPT 360 (Comparative Programming Languages)/Lesson 4 - Programming Language History I.md",
     "CMPT 360 (Comparative Programming Languages)/Lesson 7 - Defining the Syntax of a Language.md",
     "CMPT 360 (Comparative Programming Languages)/Lesson 6 - Syntax and Semantics.md",
     "CMPT 360 (Comparative Programming Languages)/Lesson 5 - Programming Language History II.md",
@@ -185,7 +189,6 @@
     "Lesson 8 - EBNFs.md",
     "Images/Pasted image 20250127081151.png",
     "Pasted image 20250124081557.png",
-    "CMPT 360 (Comparative Programming Languages)/Lesson 4 - Programming Language History I.md",
     "ECON 201 (Microeconomics)/Chapter 1 - 10 Principles of Microeconomics.md",
     "CMPT 360 (Comparative Programming Languages)/Lesson 3 - Language Design Influences.md",
     "CMPT 360 (Comparative Programming Languages)/Lesson 2 - Evaluate Programming Notations.md",
@@ -209,10 +212,6 @@
     "CMPT 231 (Data Structures and Algorithms)/Final Exam Review.md",
     "Images/Pasted image 20241212094711.png",
     "Images/Pasted image 20241128144328.png",
-    "CMPT 231 (Data Structures and Algorithms)/Chapter 24 - Graphs.md",
-    "CMPT 231 (Data Structures and Algorithms)/computer science.md",
-    "Chapter 7 algorithm.md",
-    "CMPT 231 (Data Structures and Algorithms)/Chapter 23 - Multi-Way Search Trees.md",
     "Images/Pasted image 20241128154353.png",
     "Images/Pasted image 20241128152327.png",
     "Images/Pasted image 20241128150228.png",
