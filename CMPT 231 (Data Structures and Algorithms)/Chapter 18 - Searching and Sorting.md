@@ -7,7 +7,7 @@
 4. Swap the smallest element into P2.
 5. Continue this until each element is in order.
 ###### Run-Time Complexity:
-O(n^2) - Horrible Efficiency.
+O(n$^2$) - Horrible Efficiency.
 ###### Animated Example:
 ![https://upload.wikimedia.org/wikipedia/commons/6/6d/Selsort_de_0.gif](https://upload.wikimedia.org/wikipedia/commons/6/6d/Selsort_de_0.gif)
 ###### Code Example:

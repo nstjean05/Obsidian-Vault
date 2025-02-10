@@ -96,7 +96,7 @@
 	- If a location is occupied, go to (p+1)%s, where p is position, % is mod, and s is size.
 	- Primary issue with this method is the '*primary clustering*' of occupied cells.
 - There are other approaches to open addressing as well.
-	- **Quadratic Probing**: (p + i^2)%s
+	- **Quadratic Probing**: (p + i$^2$)%s
 						- Not safe for (lambda) > 0.5
 	- **Double Hashing**: Creates a second hash function with a different index pattern.
 						- Safe for (lambda) < 1

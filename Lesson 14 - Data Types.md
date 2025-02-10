@@ -32,3 +32,14 @@
 ##### The Usual Suspects
 - There are a few common places to look, should something go wrong.
 1. **Whole Number Types**
+	- Cardinals, in the range 0... max(cardinal)
+	- Sometimes misleadingly called POSITIVe, but non-negative whole number is better.
+	- These are stored in binary form in words Ia minimum data store - typically 2$^n$ 8-bit bytes.
+		- e.g. in 8-bits 100$_1$$_0$ = 0110 0100 (base 2)
+	- So if a word is:
+		- 8 bits the range is 0..255
+		- 16 bits...                 0..65535
+		- 32 bits...                 0..2147483647
+		- 64 bits...                 0..18446744073709551615 20 digits
+	- The maximum for n bits is 2$^n$ -1
+	- 
