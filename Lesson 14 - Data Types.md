@@ -12,3 +12,17 @@
 		- Their structure, internal representation, or parts is hidden.
 		- They are **transparent**.
 			- The structure, parts, and possibly aspects of their representation is visible and can be manipulated by the programmer.
+- Variables of a data type may be thought of in terms of their attribute descriptors.
+#### Typical Built-In Data Types
+- These are generally abstract, with their parts (if any) and underlying representation invisible. This is done to:
+	1. Protect these entities from undisciplined manipulation.
+	2. Allow various implementations so software can be portable.
+- Proper usage of this type is checked at compile time.
+- Their operations are specified, but the range of legal values may depend on implementation restrictions in the OS and hardware.
+##### Numeric Types
+- Often have ambiguous operators () where meaning must be disambiguated either by:
+	1. Overloading via a library facility
+	2. The language definition
+- And this is done either at:
+	1. Compile time.
+	2. Interpretation (run time)
