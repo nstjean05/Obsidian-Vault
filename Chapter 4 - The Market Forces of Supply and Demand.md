@@ -5,5 +5,23 @@
 	- These terms refer to the behaviour of people at they interact with one another in competitive markets.
 #### What is a market?
 - A group of buyers and sellers of a particular good or service.
-- Buyers as a group determine the demand for a product.
-- Sellers determine that product's
+- **Buyers** as a group determine the demand for a product.
+- **Sellers** determine that product's supply.
+- Markets can take many forms.
+	- **Highly organized**
+		- Such as those for many agricultural commodities.
+	- **Relatively unorganized**
+		- Such as those for ice cream in a particular town.
+	- **Competitive**
+		- There are many buyers and sellers, such that each has a negligible impact on market price.
+		- Price and quantity are determined by all buyers and sellers as they interact with the marketplace.
+		- We will often assume that markets are **perfectly competitive**, meaning all goods offered for sale are all exactly the same.
+			- Buyers and sellers are so numerous that no single buyer or seller has any influence over the market price.
+		- At the market price, buyers may buy as much as they like, and sellers may sell as much.
+#### Demand
+- The demand curve illustrates the relationship between price and quantity demanded.
+- **Quantity Demanded**: The amount of a good that buyers are willing to buy and sell.
+- **Law of Demand**: The claim that, other things equal, the quantity demanded of a good falls when the price of the good rises.
+- **Demand Schedule**: A table that shows the relationship between the price of a good and the quantity demanded.
+- **Demand Curve**: A graph of the relationship between the price of a good and the quantity demanded.
+- **Market Demand**: The sum of all the individual demands for a particular good or service.
