@@ -19,10 +19,16 @@
 	2. Allow various implementations so software can be portable.
 - Proper usage of this type is checked at compile time.
 - Their operations are specified, but the range of legal values may depend on implementation restrictions in the OS and hardware.
-##### Numeric Types
-- Often have ambiguous operators () where meaning must be disambiguated either by:
+##### Numeric Types (and compatible ones)
+- Often have ambiguous operators (+ - * / modulus) where meaning must be disambiguated either by:
 	1. Overloading via a library facility
 	2. The language definition
 - And this is done either at:
 	1. Compile time.
-	2. Interpretation (run time)
+	2. Interpretation (run) time - hard work for interpretation
+- If scalar (comparable) types generally allow <, <=, >, >=, =, # comparisons and may have:
+	- MAX/MIN     INC/DEC (if ordinal)
+	- Accuracy control e.g. int, shortint, longint, float, long, double, etc. which are subranges of a parent type.
+##### The Usual Suspects
+- There are a few common places to look, should something go wrong.
+1. **Whole Number Types**
