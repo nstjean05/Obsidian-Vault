@@ -26,3 +26,4 @@
 #### Micro and Macro Economics
 - **Microeconomics**: The study of how households and firms make decisions and how they interact in markets.
 - **Macroeconomics**: The study of economy-wide phenomena, including inflation, unemployment, and economic growth.
+
