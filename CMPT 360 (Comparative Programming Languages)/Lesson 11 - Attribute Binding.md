@@ -73,3 +73,25 @@
 	- And there are many other variations on the theme.
 ##### Value Binding
 - Variables, usually dynamic (via assignment) but some allow:
+	- Freezing the binding to create symbolic constants.
+	- An expression at run-time market static
+	- A parameter market CONST or static that is frozen inside the procedure/function
+- And of course Literals have a manifest value --  their name encodes their value.
+- **Issue**: What is a variable's value after declaration but before initialization or assignment?
+- **Answers**:
+	- Undefined
+	- Defined to be 0, nil, empty (some default value)
+	- Given a default value in the declaration syntax
+	- Defined as uninitialized and therefore unreadable (clean but costly)
+##### Storage Binding
+- This may be determined or allocated...
+###### Statically
+- At compile time.
+- Globally accessible.
+- Able to survive execution? (history sensitive)
+	- In Fortran all variables are static and global
+- **Note**: We refer to here to the relative memory location, not the physical one determined by the loader.
+###### Stack-Dynamic
+- When the containing block activates.
+- Applies to procedure/function parameters and local variables in all Algol-like languages
+- **Note**: This facility allows recursion, because each recursive call sets up a new lot of variables.
