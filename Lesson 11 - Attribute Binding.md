@@ -20,4 +20,19 @@
 ##### Style Notes
 - There are older and newer methods for naming.
 	- Old: **my variable** **or my_variable** (Allowed in old Fortran)
-	- New: myVariable
+	- New: **myVariable** (Camel style of studley caps)
+- Some languages have context-sensitive keywords (e.g. Fortran)
+	- Sometimes these are reserved words, sometimes standard identifiers.
+	- This is acceptable if the context is clean, but it is non-orthogonal.
+- Sometimes an identifier may be used in a dual role.
+	- e.g. ADDRESS could be both a data type and a procedure name, which is called a Schrödinger Token and is also non-orthogonal. (Modula-2 R16)
+#### Variables
+- For languages to which this applied, based on cell location and value.
+#### Attributes
+##### Name
+- Identifiers one for compiler use --> memory location at run time
+- Dynamic variables referred to with notation such as 'a^' are nameless in a sense as 'a^' is a *reference* and not a name.
+##### Address
+- This is a memory location or a l-value (what is evaluated on the left-hand-side of an assignment)
+- A given name such as *loopcount* may have different addresses in different parts (scopes) of the program
+- Aliases
