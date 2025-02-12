@@ -4,37 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "5665b35dbec21270",
+        "id": "db3927041b3595c9",
         "type": "tabs",
         "children": [
           {
-            "id": "927d9be28cdc2372",
+            "id": "7e01ad00ef60f841",
             "type": "leaf",
             "state": {
-              "type": "image",
-              "state": {
-                "file": "Images/Pasted image 20250131081811.png"
-              },
-              "icon": "lucide-image",
-              "title": "Pasted image 20250131081811"
-            }
-          },
-          {
-            "id": "c51dd418e6a20d76",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Chapter 4 - The Market Forces of Supply and Demand.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Chapter 4 - The Market Forces of Supply and Demand"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -188,7 +171,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c51dd418e6a20d76",
+  "active": "7e01ad00ef60f841",
   "lastOpenFiles": [
     "Chapter 4 - The Market Forces of Supply and Demand.md",
     "Images/Pasted image 20250131081811.png",
@@ -221,7 +204,6 @@
     "CMPT 360 (Comparative Programming Languages)/Lesson 1 - Problem Domains.md",
     "CMPT 231 (Data Structures and Algorithms)/Chapter 16 - Iterators.md",
     "CMPT 231 (Data Structures and Algorithms)/Chapter 12 - Introduction to Stacks.md",
-    "CMPT 231 (Data Structures and Algorithms)/Chapter 13 - Linked Structures (Stackss.md",
     "CMPT 211 (Web Technologies I)",
     "ECON 201 (Microeconomics)",
     "Images/Pasted image 20241212091311.png",
