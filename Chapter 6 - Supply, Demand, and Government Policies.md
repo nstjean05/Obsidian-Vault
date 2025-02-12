@@ -4,4 +4,11 @@
 - If the government puts a ceiling or floor on a good, two outcomes are possible:
 	- The control is not binding, and the price remains at some equilibrium point.
 	- Control is binding, and the price is forced higher or lower than the good's value.
-- 
+![[Pasted image 20250212094541.png]]
+- Panel (a) shows the gasoline market when the price ceiling is not binding because the equilibrium price, P1, is below the ceiling.
+- Panel (b) shows the gasoline market after an increase in the price of crude oil (an input into making gasoline) shifts the supply curve to the left from S1 to S2.
+- In an unregulated market the price would have risen from P1 to P2.
+- The price ceiling, however, prevents this from happening.
+- At the binding price ceiling, consumers are willing to buy QD, but producers of gasoline are willing to sell only QS.
+- The difference between quantity demanded and quantity supplied, QD – QS, measures the gasoline shortage.
+
