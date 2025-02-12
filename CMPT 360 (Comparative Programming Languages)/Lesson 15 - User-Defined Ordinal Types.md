@@ -13,13 +13,13 @@
 			DayName = (sun, mon, tue, wed, thu, fri, sat)
 		VAR
 			day:DayName;
-			:
-		day := mon;
-		card := ORD(day);                        (Card holds 1)
-		INC(day, 2);                                   (Day holds wed)
-		day := MAX(DayName);               (Day holds sat)
-		day := VAL(DayName, 3);            (Day holds wed)
-		BUT day := day + 1                       (error)
+			...
+			day := mon;
+			card := ORD(day);                  (Card holds 1)
+			INC(day, 2);                       (Day holds wed)
+			day := MAX(DayName);               (Day holds sat)
+			day := VAL(DayName, 3);            (Day holds wed)
+			BUT day := day + 1                 (Error)
 ```
 - In ISO Modula-2 and Ada BOOLEAN and CHAR(ACTER) are built-in enumeration types.
 - Per *t* a language may restrict arithmetic correctly.
@@ -63,3 +63,9 @@ TYPE
 - However, array contents are always from the same type.
 	- i.e. array[1] cannot be type *float* while array[2] is *int*
 - **Issue**: Does the language require the compiler to check index values?
+- **Solution**: Put in your own index checks before using an index.
+#### Classification of Array Attributes According to Binding Time
+1. The index type and contents type - usually static
+2. Other attributes (index subscript values, storage, overall size)
+	1. Static (very efficient)
+	2. Fixed stack-dynamic (indecis static, storage dynamic)
