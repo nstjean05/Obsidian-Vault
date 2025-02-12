@@ -68,4 +68,4 @@ TYPE
 1. The index type and contents type - usually static
 2. Other attributes (index subscript values, storage, overall size)
 	1. Static (very efficient)
-	2. Fixed stack-dynamic (indecis static, storage dynamic)
+	2. Fixed stack-dynamic (indices static, storage dynamic)
