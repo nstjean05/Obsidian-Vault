@@ -50,10 +50,26 @@
 	- Abstract because it is a program concept not a physical one.
 - Is called an r-value (evaluated on rhs of assignment)
 ##### Scope
-- The range of program instructions over which the entitiy is known (visible, useable)
+- The range of program instructions over which the entity is known (visible, useable)
 - This is **not** the scope of the name --  several  entities may have the same name but exist in different scopes.
 	- e.g. variables defined as either function parameters OR locally to a function
 #### Binding of Attributes
 - Can be:
 	- Static, before run-time, unchanged thereafter.
-	- Dynamic
+	- Dynamic, attributed/changed during run-time
+##### Type Binding
+- Generally static, except a few cases.
+	- Fortran, PL/1, BASIC first use is type declaration.
+	- JavaScript, PHP, APL type is dynamic per current value.
+	- Fortran has default implicit type depending on first letter of the identifier.
+		- I,J,K,L,M --> integer, T to Z --> real
+	- ML (and other) permit type to be inferred.
+	- Perl
+		- First letter $ --> scalar @ array
+	- BASIC
+		- First letter $ --> string
+				   % --> integer
+		- ELSE real
+	- And there are many other variations on the theme.
+##### Value Binding
+- Variables, usually dynamic (via assignment) but some allow:
