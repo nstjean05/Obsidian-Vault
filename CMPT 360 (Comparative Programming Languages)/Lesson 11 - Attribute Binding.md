@@ -35,4 +35,25 @@
 ##### Address
 - This is a memory location or a l-value (what is evaluated on the left-hand-side of an assignment)
 - A given name such as *loopcount* may have different addresses in different parts (scopes) of the program
-- Aliases
+- Aliases (two names for the same memory)
+	- These could be two pointers to the same memory, or variable/reference parameters.
+##### Type
+- This specifies:
+	- The range of values that such items can take on.
+	- The permissible operation on it, e.g. type REAL may allow *+ - * / max min* (at least implicitly)
+	- Some operations associated with a type are...
+		- ...built-in to the language
+		- ...imported from one or more libraries
+##### Value
+- This is the coded/stored representation
+- Is usually thought of as occupying an abstract memory cell of one+ bytes or words
+	- Abstract because it is a program concept not a physical one.
+- Is called an r-value (evaluated on rhs of assignment)
+##### Scope
+- The range of program instructions over which the entitiy is known (visible, useable)
+- This is **not** the scope of the name --  several  entities may have the same name but exist in different scopes.
+	- e.g. variables defined as either function parameters OR locally to a function
+#### Binding of Attributes
+- Can be:
+	- Static, before run-time, unchanged thereafter.
+	- Dynamic
