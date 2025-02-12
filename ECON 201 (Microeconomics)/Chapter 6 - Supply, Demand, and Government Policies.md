@@ -11,4 +11,9 @@
 - The price ceiling, however, prevents this from happening.
 - At the binding price ceiling, consumers are willing to buy QD, but producers of gasoline are willing to sell only QS.
 - The difference between quantity demanded and quantity supplied, QD – QS, measures the gasoline shortage.
-
+#### Evaluating Price Controls
+- Prices have a crucial role in balancing supply and demand, and thereby coordinating economic activity.,
+- When policymakers set prices by legal decree, they obscure the signals that normally guide the allocation of society's resources.
+- One of the 10 Principles is that governments can sometimes improve market outcomes.
+	- Price controls are often aimed at helping the poor, such as minimum wage or rent controls.
+	- However, controls can often be a detriment to those they try to help.
