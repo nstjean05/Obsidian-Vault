@@ -33,4 +33,33 @@
 	- Subranges and other subtypes are compatible with the parent type.
 	- But derived types are not (they are treated as brand new types)
 	- (Ada) Type derived type is a new DAYS range mon..fri
-- In Modula-2 subranges of enumeration types inherit 
+- In Modula-2 subranges of enumeration types inherit the numbering from the parent type so that in WeekdayName (above) the numbering is 1..6 not 0..5
+	- This may or may not be the rule in other languages.
+- Here are some potentially useful examples from literate languages:
+```
+TYPE
+	UpperCase = "A".."Z"; //Works because char is an enumeration
+	LowerCase = "a".."z"; //...
+	
+	MonthNum = 1..31;
+	WeekNum = 1..53;
+	DayNum = 1..7;
+
+	ArrayIndex = 0..maxIndex; //Previously defined
+```
+#### Finite Mappings
+- These are mappings from an ordinal range to a set of values.
+- We think of them as indexed collections under one identifier
+	- A.K.A arrays
+- In Math a$_1$ a$_2$ a$_3$ a$_4$ ... a$_n$ translate to early notations a(1) a(2) a(3)... a(n)
+	- **Problem**: Ambiguous to function calls (Non-orthogonal parenthesis)
+	- **Why?** Brackets [ ] weren't on keyboards
+	- Modern (usually) a[0], a[1], a[2],... a[n-1]
+- Many languages require indexing to start at 0
+	- Java, C, C++, Modula-2 R10
+- Others fix the start index at 1 (Fortran)
+- Others allow any ordinal range of indices
+	- Modula-2, ISO, Ada
+- However, array contents are always from the same type.
+	- i.e. array[1] cannot be type *float* while array[2] is *int*
+- **Issue**: Does the language require the compiler to check index values?
