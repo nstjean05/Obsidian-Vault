@@ -17,3 +17,11 @@
 - One of the 10 Principles is that governments can sometimes improve market outcomes.
 	- Price controls are often aimed at helping the poor, such as minimum wage or rent controls.
 	- However, controls can often be a detriment to those they try to help.
+#### Taxes
+- When the government levies tax on a good, who bears the burden of tax?
+	- Buyers/Sellers/Shared?
+- **Tax Incidence**: The manner in which the burden of tax is shared among participants in a market.
+![[Pasted image 20250212104210.png]]
+- This shows at least two outcomes:
+	1. Taxes discourage market activity.
+	2. Buyers and sellers share the burden of taxes.
