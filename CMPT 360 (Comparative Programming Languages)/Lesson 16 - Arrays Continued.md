@@ -12,4 +12,11 @@
 - This can become complicated, especially in a multi-dimensional array.
 - Some languages store arrays by rows in column order, other by columns in row order.
 - Actual memory storage is just consecutive items in this order.
-#### Associa
+#### Associative Arrays (Hash)
+- These consist of a number of data items indexed by the same number of keys (not necessarily from a consecutive range)
+	- e.g.            Key           Data
+	           1033         Sutcliffe
+	           1035         Smith
+	           1029         Shantz
+	           1061         Gibbons
+	           1063         Perry
