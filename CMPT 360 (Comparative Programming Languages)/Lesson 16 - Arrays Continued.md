@@ -33,4 +33,21 @@
 - Here, each entity of a type that defines ordered tuples with each coordinate from a different base type.
 	- e.g. `(15, "Ted", "Aug12 1986", 2.56, -3)`
 			int.   str.               str.                float.    int.
-- These are c
+- These are called *records* or *structures* in Algol-like notations.
+- References within the cross product are not by position number (1,2,3...) but by the *name* of the position (or *field*) as defined in the type defintion. For instance, the one above could be:
+```
+TYPE
+	PersonalRecord = 
+		RECORD
+			index : cardinal;
+			firstName : Str;
+			birthDate : Str;
+			GPA : FLOAT;
+			points : INTEGER;
+		END;
+	VAR
+		P : PersonalRecord;
+	...
+		p.index := 20;
+		p.GPA := 3.05;
+```
