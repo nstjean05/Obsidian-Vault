@@ -34,7 +34,7 @@
 	- e.g. `(15, "Ted", "Aug12 1986", 2.56, -3)`
 			int.   str.               str.                float.    int.
 - These are called *records* or *structures* in Algol-like notations.
-- References within the cross product are not by position number (1,2,3...) but by the *name* of the position (or *field*) as defined in the type defintion. For instance, the one above could be:
+- References within the cross product are not by position number (1,2,3...) but by the *name* of the position (or *field*) as defined in the type definition. For instance, the one above could be:
 ```
 TYPE
 	PersonalRecord = 
@@ -51,3 +51,16 @@ TYPE
 		p.index := 20;
 		p.GPA := 3.05;
 ```
+#### Operations on Records
+- ... Are limited to construction (assignment) and inspection (checking, using a field)
+- COBOL allows assignment of corresponding fields from one record to another (ignoring others).
+- The line `MOVECORRESPONDING RecordA TO RecordB` will copy *all* fields named the same from one to the other (assuming the fields are the same type for each name), even if RecordA and RecordB are different types and the fields are not in the same order.
+- Oberon allows for records to be extended to allow for OO.
+- Pascal and Classical/ISO Modula-2 have discriminated (variant) fields based on a tag field or discriminator.
+- Modula-2 R10 has indeterminate record types.
+- Several languages use record constructors, such as:
+	- `birthDate := Date{Jul, 3, 1947}`
+	- Some infer the type, don't need it explicit.
+#### Record Attributes
+- Are stored in a compile-time descriptor.
+- As usual
