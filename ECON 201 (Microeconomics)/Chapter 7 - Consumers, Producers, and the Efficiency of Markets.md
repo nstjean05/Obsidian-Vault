@@ -2,4 +2,7 @@
 - Concludes with the realization that the equilibrium of supply and demand in a market will maximize the total benefits received by buyers and sellers.
 - **Welfare Economics**: The study of how the allocation of resources affects economic well-being.
 	- The study of it begins by looking at the benefits buyers receive from participating in the market.
+- CP + PS = TS
+	- Consumer Surplus (CP), Producer Surplus (PS), Total Surplus (TS)
 - **Willingness to Pay**: The maximum amount that a buyer will pay for a good.
+- 
