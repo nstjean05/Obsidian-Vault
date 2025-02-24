@@ -1,0 +1,15 @@
+#### Pointer Types
+- Also known as *access types* (Ada) or *reference types*
+- These types are pointers to or logical addresses of an entity residing at that location. 
+- They may be themselves types so that
+	- `POINTER TO REAL` has its own type distinct from `POINTER TO CARDINAL`
+	- Or all just of types `ADDRESS` (or compatible with it)
+- They have values in an abstract range of memory location
+	- These are only connected to and not identical with machine addresses.
+- They have a specific value, `NIL`, `nul`, or some similar name that points nowhere.
+- They reference a particular type of data at that address
+	- Where an appropriate amount of memory for the data is reserved heap-dynamically.
+- They are not themselves structured types because they only have one component themselves - a virtual address.
+	- What they point to is not a component of themselves.
+	- So if `myPoint` is a pointer or reference to memory `myPoint` is an address of a location, a reference `myPointA` or `*myPoint` or `myPoint.` is the actual data.
+- 
