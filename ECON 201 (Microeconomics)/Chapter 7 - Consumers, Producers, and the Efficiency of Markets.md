@@ -1,0 +1,5 @@
+- An exploration of the benefits which buyers and sellers receive for taking part in a market, and how a society can make these benefits larger.
+- Concludes with the realization that the equilibrium of supply and demand in a market will maximize the total benefits received by buyers and sellers.
+- **Welfare Economics**: The study of how the allocation of resources affects economic well-being.
+	- The study of it begins by looking at the benefits buyers receive from participating in the market.
+- **Willingness to Pay**: The maximum amount that a buyer will pay for a good.
