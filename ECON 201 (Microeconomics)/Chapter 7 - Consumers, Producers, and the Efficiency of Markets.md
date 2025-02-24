@@ -6,4 +6,9 @@
 	- Consumer Surplus (CP), Producer Surplus (PS), Total Surplus (TS)
 - **Willingness to Pay**: The maximum amount that a buyer will pay for a good.
 - **Consumer Surplus**: The difference between the price you pay, and the price you are willing to (Willing Payment - actual payment).
+![[Pasted image 20250224103108.png]]
+1. At Q = 10, marginal buyer's WTP is $30
+2. CS = $\frac{1}{2}$ * 10 * $10 = $50
+3. CS for the additional buyers = $\frac{1}{2}$ * 10 * $10 = $50
+4. Increase in CS on initial 10 units = 10 * $10 = $100
 - 
