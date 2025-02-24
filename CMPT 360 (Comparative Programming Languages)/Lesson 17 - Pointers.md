@@ -12,4 +12,7 @@
 - They are not themselves structured types because they only have one component themselves - a virtual address.
 	- What they point to is not a component of themselves.
 	- So if `myPoint` is a pointer or reference to memory `myPoint` is an address of a location, a reference `myPointA` or `*myPoint` or `myPoint.` is the actual data.
-- 
+#### Design Issues for Pointers
+- Is the data type checked on assignment
+	- e.g. If `p` is a pointer to an integer can you do `*p = 2.5` (or `p^ := 2.5`)?
+	- And if so, what hap
