@@ -15,4 +15,19 @@
 #### Design Issues for Pointers
 - Is the data type checked on assignment
 	- e.g. If `p` is a pointer to an integer can you do `*p = 2.5` (or `p^ := 2.5`)?
-	- And if so, what hap
+	- And if so, what happens? Compiler error?
+- What is their scope and lifetime?
+	- The same rules as any other variable, or...
+- Are dangling references (pointers whose memory is gone) and garbage (heap memory with no pointers) collected or allowed to accumulate?
+- Are aliases (two pointers to the same memory) allowed?
+- Are they used for other referencing?
+	- Passing reference parameters objects?
+	- Automatically or manually?
+- How is the memory to which they point allocated? deallocated?
+	- Auto or manual?
+	- e.g. in C++ both are manual, but in Java they're automatic.
+- Is nil, nul, NIL a reserved word or a standard identifier?
+- Are pointers set to NUL on creation (i.e. automatic at declaration)
+	- Failed allocation of memory
+	- Deallocation
+- What is their syntax and semantics?
