@@ -5,4 +5,5 @@
 - CP + PS = TS
 	- Consumer Surplus (CP), Producer Surplus (PS), Total Surplus (TS)
 - **Willingness to Pay**: The maximum amount that a buyer will pay for a good.
-- **Consumer Surplus**: The difference between the price you pay, and the price you are willing to.
+- **Consumer Surplus**: The difference between the price you pay, and the price you are willing to (Willing Payment - actual payment).
+- 
