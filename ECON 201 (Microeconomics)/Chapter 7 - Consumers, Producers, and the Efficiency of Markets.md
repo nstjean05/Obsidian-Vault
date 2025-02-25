@@ -18,4 +18,3 @@ Suppose P falls to $20. How much will CS increase due to...
 	- CS for the additional buyers = $\frac{1}{2}$ * 10 * $10 = $50
 4. ... Existing buyers paying a lower price?
 	- Increase in CS on initial 10 units = 10 * $10 = $100
-p
