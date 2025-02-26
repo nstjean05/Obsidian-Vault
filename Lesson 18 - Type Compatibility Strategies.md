@@ -21,4 +21,23 @@ var
 	- C-like languages lean toward the second
 3. **Sub-Types**
 	- A subtype is compatible with its parent type.
-	- e.g. In ISO
+	- e.g. In ISO Modula-2
+		- Z-type incorporates all whole number types, with CARDINAL and INTEGER subtypes and `TYPE digit = [0..9]` is compatible with z-type
+	- e.g. In Ada
+		- `TYPE DIGIT` is `INTEGER` range `0..9` is compatible with `INTEGER`
+4. **Ada Derived Types**
+	- `type MYREAL is now FLOAT`
+		- Creates a derived type with all the same properties as FLOAT but is not compatible with FLOAT
+5. **Anonymous Types**
+	- Some languages permit...
+		- `var A = array[0..5] of float`
+	- In a name compatibility system which has no type and is not compatible with the Array1, Array2, Array3 types or anything else with the same structure but in a structural compatibility system it would be.
+	- **Note**: In Modula-2 and Ada, formal parameters and actual parameters must have the same named type.
+#### Expressions
+- Are build from operators (which could be functions)
+- and operands (arguments or parameters)
+#### Operators
+- Can be classified in many ways:
+	1. Pre-defined (built-in) vs. User-Defined
+	2. Unary/Monadic (one operand) vs. Binary/Dynadic (two operands)
+	3. By position of the operator as prefix, infix, pos
