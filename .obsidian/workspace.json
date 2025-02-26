@@ -35,8 +35,7 @@
               "title": "Lesson 18 - Type Compatibility Strategies"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -190,10 +189,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b317ee9eeb075399",
+  "active": "e6308ecb59900a42",
   "lastOpenFiles": [
-    "ECON 201 (Microeconomics)/Chapter 7 - Consumers, Producers, and the Efficiency of Markets.md",
     "Lesson 18 - Type Compatibility Strategies.md",
+    "ECON 201 (Microeconomics)/Chapter 7 - Consumers, Producers, and the Efficiency of Markets.md",
     "CMPT 360 (Comparative Programming Languages)/Lesson 16 - Arrays Continued.md",
     "ECON 201 (Microeconomics)/Chapter 6 - Supply, Demand, and Government Policies.md",
     "CMPT 360 (Comparative Programming Languages)/Lesson 15 - User-Defined Ordinal Types.md",
