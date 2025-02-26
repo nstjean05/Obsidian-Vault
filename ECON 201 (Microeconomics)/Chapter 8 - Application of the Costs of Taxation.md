@@ -1,0 +1,1 @@
+- To understand fully how taxes affect economic well-being, we must compare the reduced welfare the government raises, and the uses to which the tax revenue is put.
