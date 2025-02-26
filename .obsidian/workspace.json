@@ -8,20 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e6308ecb59900a42",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ECON 201 (Microeconomics)/Chapter 7 - Consumers, Producers, and the Efficiency of Markets.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Chapter 7 - Consumers, Producers, and the Efficiency of Markets"
-            }
-          },
-          {
             "id": "cfd54aa678a98d75",
             "type": "leaf",
             "state": {
@@ -33,20 +19,6 @@
               },
               "icon": "lucide-file",
               "title": "Chapter 8 - Application of the Costs of Taxation"
-            }
-          },
-          {
-            "id": "b317ee9eeb075399",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lesson 18 - Type Compatibility Strategies.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Lesson 18 - Type Compatibility Strategies"
             }
           }
         ]
@@ -105,7 +77,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "1c1db9715e53cd8f",
@@ -202,17 +175,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e6308ecb59900a42",
+  "active": "cfd54aa678a98d75",
   "lastOpenFiles": [
-    "ECON 201 (Microeconomics)/Chapter 6 - Supply, Demand, and Government Policies.md",
-    "ECON 201 (Microeconomics)/Chapter 8 - Application of the Costs of Taxation.md",
-    "Chapter 7 - Consumers, Producers, and the Efficiency of Markets.md",
     "ECON 201 (Microeconomics)/Chapter 7 - Consumers, Producers, and the Efficiency of Markets.md",
+    "ECON 201 (Microeconomics)/Chapter 8 - Application of the Costs of Taxation.md",
+    "Pasted image 20250226095134.png",
+    "ECON 201 (Microeconomics)/Chapter 1 - 10 Principles of Microeconomics.md",
+    "ECON 201 (Microeconomics)/Chapter 4 - The Market Forces of Supply and Demand.md",
+    "ECON 201 (Microeconomics)/Chapter 3 - Interdependence and the Gains from Trade.md",
+    "ECON 201 (Microeconomics)/Chapter 2 - Thinking Like an Economist.md",
+    "ECON 201 (Microeconomics)/Chapter 6 - Supply, Demand, and Government Policies.md",
+    "Chapter 7 - Consumers, Producers, and the Efficiency of Markets.md",
     "Lesson 18 - Type Compatibility Strategies.md",
     "CMPT 360 (Comparative Programming Languages)/Lesson 16 - Arrays Continued.md",
     "CMPT 360 (Comparative Programming Languages)/Lesson 15 - User-Defined Ordinal Types.md",
     "Pasted image 20250224103108.png",
-    "ECON 201 (Microeconomics)/Chapter 4 - The Market Forces of Supply and Demand.md",
     "CMPT 360 (Comparative Programming Languages)/Lesson 17 - Pointers.md",
     "CMPT 360 (Comparative Programming Languages)/Lesson 7 - Defining the Syntax of a Language.md",
     "CMPT 211 (Web Technologies I)/Lecture 2 - Tables.md",
@@ -220,7 +197,6 @@
     "README.md",
     "Images/Pasted image 20250212104210.png",
     "Pasted image 20250212094515.png",
-    "ECON 201 (Microeconomics)/Chapter 3 - Interdependence and the Gains from Trade.md",
     "Images/Pasted image 20250212094541.png",
     "CMPT 360 (Comparative Programming Languages)/Lesson 14 - Data Types.md",
     "CMPT 360 (Comparative Programming Languages)/Lesson 11 - Attribute Binding.md",
@@ -228,18 +204,14 @@
     "CMPT 360 (Comparative Programming Languages)/Lesson 10 - Language Translation.md",
     "Images/Pasted image 20250131081811.png",
     "Pasted image 20250210091542.png",
-    "ECON 201 (Microeconomics)/Chapter 2 - Thinking Like an Economist.md",
     "CMPT 231 (Data Structures and Algorithms)/Chapter 18 - Searching and Sorting.md",
     "CMPT 231 (Data Structures and Algorithms)/Appendix I - Hashing.md",
     "CMPT 360 (Comparative Programming Languages)/Lesson 9 - Issues in Language Definition and Program Analysis.md",
     "CMPT 360 (Comparative Programming Languages)/Lesson 8 - More on EBNF.md",
     "CMPT 360 (Comparative Programming Languages)/Lesson 4 - Programming Language History I.md",
-    "CMPT 360 (Comparative Programming Languages)/Lesson 6 - Syntax and Semantics.md",
-    "CMPT 360 (Comparative Programming Languages)/Lesson 5 - Programming Language History II.md",
     "Images/Pasted image 20250127081151.png",
     "Pasted image 20250124081557.png",
     "Images/Pasted image 20250120095513.png",
-    "Images/Pasted image 20250120102205.png",
     "CMPT 211 (Web Technologies I)",
     "ECON 201 (Microeconomics)",
     "CMPT 360 (Comparative Programming Languages)",
