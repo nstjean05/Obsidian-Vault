@@ -40,4 +40,9 @@ var
 - Can be classified in many ways:
 	1. Pre-defined (built-in) vs. User-Defined
 	2. Unary/Monadic (one operand) vs. Binary/Dynadic (two operands)
-	3. By position of the operator as prefix, infix, pos
+	3. By position of the operator as prefix, infix, postfix.
+- **Note**: Procedure rules are needed for infix notation only, not for prefix or postfix/
+- **Note**: In most languages, unary + has no effect, but in Java it changes to char/short/byte to int
+#### Overloading of Operators
+- Much of this is built-in, for instance `a + b` could well work if a and b are of type cardinal, int, float, complex, and the variants of these long/short, etc.
+- Ada allows 
