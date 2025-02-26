@@ -6,4 +6,6 @@
 - Total Surplus (TS)                              20,000                                       8,000                       +
 																Total:    -
 - Calculations: CS, BT: 250 (∆Equilibrium & Demand y-int) x $100 x $\frac{1}{2}$ = 12,500
-				CS, AT: 
+			CS, AT: 12,500 - 50 x $20 INCORRECT
+			
+			
