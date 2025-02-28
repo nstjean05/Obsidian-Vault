@@ -60,3 +60,4 @@
 - `<assignOperator>` may be `:=` or just `=` (overloaded)
 ##### Variations and Issues:
 1. Multiple Assignments
+	- If `=` is used, what does `a=b=c` mean?
