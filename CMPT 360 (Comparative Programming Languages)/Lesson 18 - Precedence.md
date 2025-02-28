@@ -10,4 +10,26 @@
 ##### Typical
 1. Logical negation, e.g. `NOT`
 2. nuL-operators
-	1. Exponention (if available) `**` or ``
+	1. Exponention (if available) `**` or `∧`
+	2. `* / MOD DIV REM AND`
+	3. Term Operators (monadic or dynadic) `+ - OR`
+	4. Relational operators `< > # <= >= = <>` modified by function calls and parenthesis.
+		- C++ has many more, assigning precedence numbers in part.
+###### Associativity
+- We expect left-right (from mathematics) whenever two operators have the same precedence.
+- However, a grammar for a typical LL parser has the optimal parts on the right which forces right-left associativity so that `2 - 3 - 4 = 2 - -1 = 3`
+- Fortran exponentiation is like that (right-left)
+	- e.g. `a**b**c` means `a^(b^c)`
+- C prefix ++ -- and monadic +-
+- Ada exponentiation is not associative so `a**b**c` is illegal.
+- APL has no precedence and goes strictly left-right (arithmetic style)
+- Ada boolean operations have the same precedence so must be parenthesized.
+- In a function or procedure call f(x,y,z,a), the order of parameter evaluation may be:
+	- left-right (java)
+	- right-left
+	- undefined (Modula-2, C++)
+- So a program whose meaning depends on this is incorrect.
+##### Type Changing
+- Type changing as part of an expression may be...
+###### Widening
+- 
