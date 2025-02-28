@@ -15,7 +15,7 @@
 	3. Term Operators (monadic or dynadic) `+ - OR`
 	4. Relational operators `< > # <= >= = <>` modified by function calls and parenthesis.
 		- C++ has many more, assigning precedence numbers in part.
-###### Associativity
+##### Associativity
 - We expect left-right (from mathematics) whenever two operators have the same precedence.
 - However, a grammar for a typical LL parser has the optimal parts on the right which forces right-left associativity so that `2 - 3 - 4 = 2 - -1 = 3`
 - Fortran exponentiation is like that (right-left)
@@ -54,4 +54,9 @@
 	- `intVar := (int)realAngle`
 - C calls the last one a CAST but it is a conversion.
 	- `myBitSet := SYSTEM.CAST(BITSET, theCardinal)` (This one is a coercion)
-- Note that in Java, `realVar = realVar + 4` does not strictly speaking involve a conversion because Java doesn't have whole number arithmetic so 4 is stored as a floating 
+- Note that in Java, `realVar = realVar + 4` does not strictly speaking involve a conversion because Java doesn't have whole number arithmetic so 4 is stored as a floating point value.
+##### Assignment
+- `<target><assignOperator><expression>`
+- `<assignOperator>` may be `:=` or just `=` (overloaded)
+##### Variations and Issues:
+1. Multiple Assignments
