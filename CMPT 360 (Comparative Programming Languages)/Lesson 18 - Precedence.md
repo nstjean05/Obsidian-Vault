@@ -32,4 +32,26 @@
 ##### Type Changing
 - Type changing as part of an expression may be...
 ###### Widening
-- 
+- Widening is a change to a type that can include at least approximations of all values of the original type.
+	- e.g. int --> float (even if of less precision)
+###### Narrowing
+- A change to a type that cannot include even approximations of some values of the original type.
+	- e.g. `LONGREAL --> REAL`, `double --> float`, `int --> byte` or `OCTET`
+###### Safe (Conversions)
+- Data is reformatted to the new type.
+###### Unsafe (Coercions)
+- Bit patterns are forcibly reinterpreted but they are not changed.
+	- **Note**: Many texts and some languages get this wrong, using CAST for both, when it should only be applied to the second.
+###### Implicit
+- The compiler intuits a conversion automatically (only in weakly types languages). This is not a coercion.
+	- e.g. `floatVariable = floatVariable + 4`
+	- If such mixed expressions are allowed, the int value is automatically converted.
+###### Explicit
+- The conversion is/has to be initiated by specific syntax.
+- In strongly types languages it must be done this way.
+	- `realVar := FLOAT(intVar) + 2.5`
+	- `realVar := VAL(real, intVar) + 2.5E + 0.5`
+	- `intVar := (int)realAngle`
+- C calls the last one a CAST but it is a conversion.
+	- `myBitSet := SYSTEM.CAST(BITSET, theCardinal)` (This one is a coercion)
+- Note that in Java, `realVar = realVar + 4` does not strictly speaking involve a conversion because Java doesn't have whole number arithmetic so 4 is stored as a floating 
