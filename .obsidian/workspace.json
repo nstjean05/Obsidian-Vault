@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CMPT 360 (Comparative Programming Languages)/Lesson 1 - Problem Domains.md",
+                "file": "CMPT 360 (Comparative Programming Languages)/Lesson 4 - Programming Language History I.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lesson 1 - Problem Domains"
+              "title": "Lesson 4 - Programming Language History I"
             }
           }
         ]
@@ -176,6 +176,9 @@
   },
   "active": "4e0da7e72fd48241",
   "lastOpenFiles": [
+    "CMPT 360 (Comparative Programming Languages)/Lesson 3 - Language Design Influences.md",
+    "CMPT 360 (Comparative Programming Languages)/Lesson 2 - Evaluate Programming Notations.md",
+    "CMPT 360 (Comparative Programming Languages)/Lesson 1 - Problem Domains.md",
     "CMPT 360 (Comparative Programming Languages)/Lesson 11 - Attribute Binding.md",
     "CMPT 360 (Comparative Programming Languages)/Lesson 18 - Precedence.md",
     "CMPT 360 (Comparative Programming Languages)/Lesson 17 - Pointers.md",
@@ -196,7 +199,6 @@
     "CMPT 360 (Comparative Programming Languages)/Lesson 15 - User-Defined Ordinal Types.md",
     "CMPT 360 (Comparative Programming Languages)/Lesson 7 - Defining the Syntax of a Language.md",
     "CMPT 211 (Web Technologies I)/Lecture 2 - Tables.md",
-    "CMPT 360 (Comparative Programming Languages)/Lesson 1 - Problem Domains.md",
     "README.md",
     "Images/Pasted image 20250212104210.png",
     "Pasted image 20250212094515.png",
@@ -209,8 +211,6 @@
     "CMPT 231 (Data Structures and Algorithms)/Chapter 18 - Searching and Sorting.md",
     "CMPT 231 (Data Structures and Algorithms)/Appendix I - Hashing.md",
     "CMPT 360 (Comparative Programming Languages)/Lesson 9 - Issues in Language Definition and Program Analysis.md",
-    "CMPT 360 (Comparative Programming Languages)/Lesson 8 - More on EBNF.md",
-    "CMPT 360 (Comparative Programming Languages)/Lesson 4 - Programming Language History I.md",
     "Images/Pasted image 20250127081151.png",
     "CMPT 211 (Web Technologies I)",
     "ECON 201 (Microeconomics)",
