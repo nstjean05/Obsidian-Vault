@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CMPT 360 (Comparative Programming Languages)/Lesson 4 - Programming Language History I.md",
+                "file": "ECON 201 (Microeconomics)/Chapter 4 - The Market Forces of Supply and Demand.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lesson 4 - Programming Language History I"
+              "title": "Chapter 4 - The Market Forces of Supply and Demand"
             }
           }
         ]
@@ -176,6 +176,12 @@
   },
   "active": "4e0da7e72fd48241",
   "lastOpenFiles": [
+    "ECON 201 (Microeconomics)/Chapter 3 - Interdependence and the Gains from Trade.md",
+    "ECON 201 (Microeconomics)/Chapter 2 - Thinking Like an Economist.md",
+    "ECON 201 (Microeconomics)/Chapter 1 - 10 Principles of Microeconomics.md",
+    "CMPT 360 (Comparative Programming Languages)/Lesson 6 - Syntax and Semantics.md",
+    "CMPT 360 (Comparative Programming Languages)/Lesson 5 - Programming Language History II.md",
+    "CMPT 360 (Comparative Programming Languages)/Lesson 4 - Programming Language History I.md",
     "CMPT 360 (Comparative Programming Languages)/Lesson 3 - Language Design Influences.md",
     "CMPT 360 (Comparative Programming Languages)/Lesson 2 - Evaluate Programming Notations.md",
     "CMPT 360 (Comparative Programming Languages)/Lesson 1 - Problem Domains.md",
@@ -189,10 +195,7 @@
     "Images/Pasted image 20250226103926.png",
     "Images/Pasted image 20250226103207.png",
     "Images/Pasted image 20250226095134.png",
-    "ECON 201 (Microeconomics)/Chapter 1 - 10 Principles of Microeconomics.md",
     "ECON 201 (Microeconomics)/Chapter 4 - The Market Forces of Supply and Demand.md",
-    "ECON 201 (Microeconomics)/Chapter 3 - Interdependence and the Gains from Trade.md",
-    "ECON 201 (Microeconomics)/Chapter 2 - Thinking Like an Economist.md",
     "Chapter 7 - Consumers, Producers, and the Efficiency of Markets.md",
     "Lesson 18 - Type Compatibility Strategies.md",
     "CMPT 360 (Comparative Programming Languages)/Lesson 16 - Arrays Continued.md",
@@ -208,9 +211,6 @@
     "CMPT 360 (Comparative Programming Languages)/Lesson 10 - Language Translation.md",
     "Images/Pasted image 20250131081811.png",
     "Pasted image 20250210091542.png",
-    "CMPT 231 (Data Structures and Algorithms)/Chapter 18 - Searching and Sorting.md",
-    "CMPT 231 (Data Structures and Algorithms)/Appendix I - Hashing.md",
-    "CMPT 360 (Comparative Programming Languages)/Lesson 9 - Issues in Language Definition and Program Analysis.md",
     "Images/Pasted image 20250127081151.png",
     "CMPT 211 (Web Technologies I)",
     "ECON 201 (Microeconomics)",

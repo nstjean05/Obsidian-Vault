@@ -21,7 +21,7 @@
 - We need government for two reasons:
 	1. To enforce property rights.
 		- **Property Rights**: The ability of an individual to own an exercise control over scarce resources.
-	1. To intervene in the economy.
+	2. To intervene in the economy.
 		- Promote efficiency.
 		- Promote equity.
 #### P8: A Country's Standard of Living Depends on Its Ability to Produce Goods and Services
