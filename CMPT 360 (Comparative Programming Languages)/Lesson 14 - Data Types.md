@@ -80,7 +80,7 @@ https://docs.oracle.com/cd/E19957-01/806-3568/ncg_math.html
 https://www.geeksforgeeks.org/ieee-standard-754-floating-point-numbers/
 
 **[2]** c. What are the arguments for and against representing Boolean entities in a single memory bit?
-- Boolean entities can be stored in a single bit of memory, as they hold a binary value. It can be useful to store it this way, as it takes up a very small amount of storage.
+- Boolean entities can be stored in a single bit of memory, as they hold a binary value. It can be useful to store it this way, as it takes up a very small amount of storage. However, storing boolean entities in 
 
 **[2]** d. How does BCD waste memory?
 
