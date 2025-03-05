@@ -1,3 +1,4 @@
+#complete
 #### vonNeumann Architecture
 - 4 Fundamental Principles of the architecture
 	- Binary coding is fundamental to all languages, as this is how computers store information.

@@ -13,30 +13,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CMPT 360 (Comparative Programming Languages)/Lesson 18 - Type Compatibility Strategies.md",
+                "file": "CMPT 360 (Comparative Programming Languages)/Lesson 10 - Language Translation.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lesson 18 - Type Compatibility Strategies"
-            }
-          },
-          {
-            "id": "bb9c1433b16425af",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CMPT 360 (Comparative Programming Languages)/Lesson 21 - Control Statements.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Lesson 21 - Control Statements"
+              "title": "Lesson 10 - Language Translation"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -68,7 +53,7 @@
               "type": "search",
               "state": {
                 "query": "",
-                "matchingCase": true,
+                "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -92,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "1c1db9715e53cd8f",
@@ -190,9 +174,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bb9c1433b16425af",
+  "active": "d8bac4604d70e003",
   "lastOpenFiles": [
+    "CMPT 360 (Comparative Programming Languages)/Lesson 9 - Issues in Language Definition and Program Analysis.md",
+    "CMPT 360 (Comparative Programming Languages)/Lesson 10 - Language Translation.md",
+    "CMPT 360 (Comparative Programming Languages)/Lesson 8 - Extended Backus-Naur Forms.md",
+    "CMPT 360 (Comparative Programming Languages)/Lesson 8 - More on EBNF.md",
+    "CMPT 360 (Comparative Programming Languages)/Lesson 7 - Defining the Syntax of a Language.md",
+    "CMPT 360 (Comparative Programming Languages)/Lesson 6 - Syntax and Semantics.md",
+    "CMPT 360 (Comparative Programming Languages)/Lesson 4 - Programming Language History I.md",
+    "CMPT 360 (Comparative Programming Languages)/Lesson 5 - Programming Language History II.md",
+    "CMPT 360 (Comparative Programming Languages)/Lesson 3 - Language Design Influences.md",
     "CMPT 360 (Comparative Programming Languages)/Lesson 18 - Type Compatibility Strategies.md",
+    "CMPT 360 (Comparative Programming Languages)/Lesson 2 - Evaluate Programming Notations.md",
+    "CMPT 360 (Comparative Programming Languages)/Lesson 1 - Problem Domains.md",
     "CMPT 360 (Comparative Programming Languages)/Lesson 21 - Control Statements.md",
     "CMPT 360 (Comparative Programming Languages)/Lesson 19 - Precedence.md",
     "CMPT 360 (Comparative Programming Languages)/Lesson 14 - Data Types.md",
@@ -202,26 +197,15 @@
     "CMPT 360 (Comparative Programming Languages)/Lesson 12 - Type Checking.md",
     "CMPT 360 (Comparative Programming Languages)/Lesson 17 - Pointers.md",
     "CMPT 360 (Comparative Programming Languages)/Lesson 11 - Attribute Binding.md",
-    "CMPT 360 (Comparative Programming Languages)/Lesson 10 - Language Translation.md",
     "ECON 201 (Microeconomics)/Chapter 1 - 10 Principles of Microeconomics.md",
     "ECON 201 (Microeconomics)/Chapter 8 - Application of the Costs of Taxation.md",
     "ECON 201 (Microeconomics)/Chapter 7 - Consumers, Producers, and the Efficiency of Markets.md",
     "ECON 201 (Microeconomics)/Chapter 6 - Supply, Demand, and Government Policies.md",
     "ECON 201 (Microeconomics)/Chapter 4 - The Market Forces of Supply and Demand.md",
-    "ECON 201 (Microeconomics)/Chapter 3 - Interdependence and the Gains from Trade.md",
-    "ECON 201 (Microeconomics)/Chapter 2 - Thinking Like an Economist.md",
-    "CMPT 360 (Comparative Programming Languages)/Lesson 6 - Syntax and Semantics.md",
-    "CMPT 360 (Comparative Programming Languages)/Lesson 5 - Programming Language History II.md",
-    "CMPT 360 (Comparative Programming Languages)/Lesson 4 - Programming Language History I.md",
-    "CMPT 360 (Comparative Programming Languages)/Lesson 3 - Language Design Influences.md",
-    "CMPT 360 (Comparative Programming Languages)/Lesson 2 - Evaluate Programming Notations.md",
-    "CMPT 360 (Comparative Programming Languages)/Lesson 1 - Problem Domains.md",
     "Images/Pasted image 20250224103108.png",
     "Images/Pasted image 20250226103926.png",
     "Images/Pasted image 20250226103207.png",
     "Images/Pasted image 20250226095134.png",
-    "Chapter 7 - Consumers, Producers, and the Efficiency of Markets.md",
-    "CMPT 360 (Comparative Programming Languages)/Lesson 7 - Defining the Syntax of a Language.md",
     "Images/Pasted image 20250212104210.png",
     "Pasted image 20250212094515.png",
     "Images/Pasted image 20250212094541.png",

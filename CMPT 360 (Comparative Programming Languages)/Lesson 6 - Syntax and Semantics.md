@@ -1,4 +1,5 @@
-x## Syntax & Semantics Description
+#complete
+## Syntax & Semantics Description
 ### The Issue:
 - The program must be able to communicate to the compiler using rules for writing and reading program code (DWIM is never sufficient). Machine recognition is very literal.
 ### Vocabulary:
@@ -62,7 +63,7 @@ x## Syntax & Semantics Description
 
 
 
-6. **MSyntax and Semantics**
+6. **Syntax and Semantics**
 
 **[5] a. Look up VDM-SL and write two paragraphs on it.**
 
