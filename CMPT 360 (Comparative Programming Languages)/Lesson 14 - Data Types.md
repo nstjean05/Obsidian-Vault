@@ -75,9 +75,12 @@
 https://medium.com/@luischaparroc/integer-numbers-storage-in-computer-memory-47af4b59009
 
 **[5]** b. Provide additional details about the IEEE 32-bit floating point format than were given in the class notes. Give the details of the IEEE 64-bit floating point format.
-- IEEE outlines two fundamental formats for floating points -- single (31-bit) and double (63-bit) point precision.
+- IEEE outlines two fundamental formats for floating points -- single (32-bit) and double (64-bit) point precision. This format has three sections. (1) The Sign of Mantissa, which states that 0 indicated a positive number, and 1 a negative. (2) Rule of the Biased exponent, which states that the exponent field must represent *both* positive and negative exponents. (3) The Normalized Mantissa, meaning there cannot be more than a single 1 to the left of the decimal. A single-precision format has a precision of 24 bits (occupying 32 bits total), and double-precision formatting extends that to 53-bit precision  (occupying 64 bits in total). The double precision format is used for calculations which require a greater degree of accuracy, as it can store significantly more data.
+https://docs.oracle.com/cd/E19957-01/806-3568/ncg_math.html
+https://www.geeksforgeeks.org/ieee-standard-754-floating-point-numbers/
 
 **[2]** c. What are the arguments for and against representing Boolean entities in a single memory bit?
+- Boolean entities can be stored in a single bit of memory
 
 **[2]** d. How does BCD waste memory?
 
