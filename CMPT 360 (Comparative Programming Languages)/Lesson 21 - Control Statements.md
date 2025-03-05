@@ -61,4 +61,59 @@ default
 	statements
 }
 ```
-- Rules: Cases of the switch value must be interge
+- Rules
+	- Cases of the switch value must be integer valued:
+	- Listed individually
+	- Each section needs a break to conclude - a *goto* the end
+- Modula-2 has:
+```modula-2
+CASE digit OF
+	0:
+		statements |
+	1,3,4:
+		statements |
+	5..9:
+		statements
+	ELSE
+		statements
+	END;
+```
+- Rules
+	- Ranges and lists are allowed
+	- | serves to separate cases in classic, ISO
+	- | comes before each case in R-10
+	- No break is needed
+- Pascal is similar to Modula-2 except only some versions had *OTHERWISE*. The rest either:
+	- Throw a run time error if no case is selected
+	- OR require every case possible to be listed
+- Ada has:
+```ada
+case THINGY of
+	when selection1 --> statement1
+	when selection2 --> statement2
+	...
+	when others --> statmentn+1
+end case
+```
+###### Notes
+1. Overlaps among selected cases are not permitted.
+2. What can the selector be?
+	- In ALGOL 68 an integer.
+	- From Pascal on, an ordinal type.
+3. There are other variations on the selection as well.
+### Repetition
+- **Note** that some call these all iteration, but that is much too specific.
+##### Counting Loops or iterations
+- Fortran has the Do Loop
+	- **Note1**: All such loops are guarded by the counter value.
+	- **Note2**: Variation on this theme are found in most languages as *for* loops
+- Pascal could count up or down on any scalar by 1.
+```
+for month = Jan to Dec do
+	...
+end
+for count = 10 downto 0 do
+	...
+end
+```
+- C
