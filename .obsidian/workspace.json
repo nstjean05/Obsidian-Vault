@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CMPT 360 (Comparative Programming Languages)/Lesson 14 - Data Types.md",
+                "file": "CMPT 360 (Comparative Programming Languages)/Lesson 18 - Type Compatibility Strategies.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lesson 14 - Data Types"
+              "title": "Lesson 18 - Type Compatibility Strategies"
+            }
+          },
+          {
+            "id": "bb9c1433b16425af",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lesson 21.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Lesson 21"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -174,18 +189,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d8bac4604d70e003",
+  "active": "bb9c1433b16425af",
   "lastOpenFiles": [
+    "CMPT 360 (Comparative Programming Languages)/Lesson 18 - Type Compatibility Strategies.md",
+    "Lesson 21.md",
+    "CMPT 360 (Comparative Programming Languages)/Lesson 19 - Precedence.md",
+    "CMPT 360 (Comparative Programming Languages)/Lesson 14 - Data Types.md",
     "CMPT 360 (Comparative Programming Languages)/Lesson 15 - User-Defined Ordinal Types.md",
     "CMPT 360 (Comparative Programming Languages)/Lesson 16 - Arrays Continued.md",
-    "CMPT 360 (Comparative Programming Languages)/Lesson 14 - Data Types.md",
     "CMPT 360 (Comparative Programming Languages)/Lesson 13 - Scope.md",
     "CMPT 360 (Comparative Programming Languages)/Lesson 12 - Type Checking.md",
     "CMPT 360 (Comparative Programming Languages)/Lesson 17 - Pointers.md",
     "CMPT 360 (Comparative Programming Languages)/Lesson 11 - Attribute Binding.md",
     "CMPT 360 (Comparative Programming Languages)/Lesson 10 - Language Translation.md",
-    "CMPT 360 (Comparative Programming Languages)/Lesson 18 - Precedence.md",
-    "CMPT 360 (Comparative Programming Languages)/Lesson 19 - Type Compatibility Strategies.md",
     "ECON 201 (Microeconomics)/Chapter 1 - 10 Principles of Microeconomics.md",
     "ECON 201 (Microeconomics)/Chapter 8 - Application of the Costs of Taxation.md",
     "ECON 201 (Microeconomics)/Chapter 7 - Consumers, Producers, and the Efficiency of Markets.md",
@@ -205,7 +221,6 @@
     "Images/Pasted image 20250226095134.png",
     "Chapter 7 - Consumers, Producers, and the Efficiency of Markets.md",
     "CMPT 360 (Comparative Programming Languages)/Lesson 7 - Defining the Syntax of a Language.md",
-    "CMPT 211 (Web Technologies I)/Lecture 2 - Tables.md",
     "Images/Pasted image 20250212104210.png",
     "Pasted image 20250212094515.png",
     "Images/Pasted image 20250212094541.png",
