@@ -110,6 +110,6 @@
 - I think that the most readable of these is sum_of_sales, as the underscores create spacing which means my brain didn't need to parse the words apart. After that, I would say that SumOfSales is somewhat readable, as is has capitals to denote a new word. However, its lack of camelcase was a bit unintuitive. Finally, SUMOFSALES is the least readable due to its capital-uniformity.
 
 **[3]** b. Look up and explicate the meaning of LL(1) grammars.
-- LL(1) grammars is a method of 
+- LL(1) grammar is a method of structuring grammars. In this case, the entry is scanned left to right, and only one character at a time by the analyser. Additionally, it produces a leftmost derivation, meaning that 
 
 **[3]** c. Describe as many circumstances as you can under which the memory location  of an entity is bound dynamically.
