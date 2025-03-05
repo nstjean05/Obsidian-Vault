@@ -70,6 +70,7 @@
 **14.**  **_Basic_ _Data Types_**
 
 **[3]** a. Assuming that integer types are stored in 16-bit format, show how the decimal numerals 427 and -501 are stored. Assume the most significant byte is first.
+- 
 
 **[5]** b. Provide additional details about the IEEE 32-bit floating point format than were given in the class notes. Give the details of the IEEE 64-bit floating point format.
 
