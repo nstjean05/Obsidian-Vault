@@ -21,5 +21,44 @@ ELSE
 		2. When a is true and b is false (applies to second if)
 	- So this has to be disambiguated in one of two ways:
 		1. ALGOL, PL/1, Java, C++, and Pascal have a semantic rule that *else* belongs to the nearest (nested) *if*, hence interpretation (case 2) applies.
-			- 
-		2. 
+		2. IF a closing market for an if is introduced, the problem goes away and the code becomes easier to understand.
+			- Close markers in Algol 68 were the opening marker, spelled backwards.
+			- Ada uses END if.
+- Fortran had a multiple IF
+```fortran
+IF (expression) 10, 20, 30
+10
+	GOTO 40
+20
+	GOTO 40
+30
+	...
+40
+	...
+```
+- Some notations use IF to return values.
+	- Algol: `a = if b then <expression1 else <expression2> fi`
+- PL/1 had:
+```pl/1
+SELECT
+	WHEN b1 statement1;
+	WHEN b2 statement2;
+	...
+	OTHERWISE statementn+1
+END;
+```
+- C has:
+```C
+switch (x-1)
+{case 0:
+	 statements
+	 break;
+case 1:
+	 statements
+	 break
+	 ...
+default
+	statements
+}
+```
+- Rules: Cases of the switch value must be interge
