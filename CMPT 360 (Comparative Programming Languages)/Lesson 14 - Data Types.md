@@ -80,9 +80,11 @@ https://docs.oracle.com/cd/E19957-01/806-3568/ncg_math.html
 https://www.geeksforgeeks.org/ieee-standard-754-floating-point-numbers/
 
 **[2]** c. What are the arguments for and against representing Boolean entities in a single memory bit?
-- Boolean entities can be stored in a single bit of memory, as they hold a binary value. It can be useful to store it this way, as it takes up a very small amount of storage. However, storing boolean entities in 
+- Boolean entities can be stored in a single bit of memory, as they hold a binary value. It can be useful to store it this way, as it takes up a very small amount of storage. However, storing boolean entities in a byte allows it to have a unique address. This advantage is significant, and as the amount of storage available is generally so large relative to the difference between a bit and a byte, picking the more versatile option is usually chosen. In some scenarios, where storage is highly limited, or boolean values are being stored in massive quantities such that the missing space is significant, storing in a single bit may be advantageous.
+https://james-william-fletcher.medium.com/8-bools-in-1-byte-the-1-bit-boolean-cf6754b93230
 
 **[2]** d. How does BCD waste memory?
+- Binary Coded Decimal (BCD) is a method of recording decimals using only 4 binary digits. This allows 
 
 **[3]** e. How does allowing coercion type transfer in a language weaken strong typing?
 
