@@ -1,3 +1,4 @@
+#complete
 *Note: Lesson 20 does not exist*
 ## Control Statements
 - The statement level control statements are:
@@ -116,4 +117,31 @@ for count = 10 downto 0 do
 	...
 end
 ```
-- C
+- C has `for (expression1; expression2; expression3)`
+	- Where expression1 is assignment (e.g. counter = 0)
+	- expression2 is test (e.g. counter < 10)
+	- expression3 is modification (e.g. counter++)
+- C++ uses the same syntax as C but:
+	- The expressions may be complex
+	- The variable could be changed in the loop and the test would be re-evaluated.
+- Several other languages use this syntax; rules vary.
+- Modula-2 (Classic & R10)
+```
+FOR count := startValue TO stopValue by ∆ DO
+	statementSequence
+END
+```
+- Modern languages
+```
+FOR variable IN values Do
+	statements
+END
+```
+- Where the iteration depends on the type and must be defined elsewhere.
+##### Notes
+- Rules for FOR loops *may* include some or all of:
+	- The counter may not be threatened with change in the loop.
+	- The counter value is undefined outside the loop
+	- Mentioning the counter in the header is the declaration and opens a scope for a new entity
+	- Only integer counters allowed
+	- Counter parameters for start, and evaluated *once*
