@@ -8,5 +8,7 @@
 https://www.inf.unibz.it/~calvanese/teaching/04-05-ip/lecture-notes/uni03/node17.html
 
 **[3]** c. Explain the difference between static and dynamic scope using an example from your favourite language.
-- When using static scoping, the reference to a variable is set by where the variable sits in the program. In dynamic scoping, on the other hand, a variable is referred to by where it lies on the function call stack (at runtime). In the case of Java, static scoping is used, and dynamic scoping is completely unavailable. an example of dynamic scoping would be if you referred to a global variable *x*
+- When using static scoping, the reference to a variable is set by where the variable sits in the program. In dynamic scoping, on the other hand, a variable is referred to by where it lies on the function call stack (at runtime). In the case of Java, static scoping is used, and dynamic scoping is completely unavailable. One example of dynamic scoping could be if you referred to a global variable *x*, and had a function f() which always returned it. Another function g() could return f(), and would end up returning the variable *x* from before.
+
+https://www.geeksforgeeks.org/static-and-dynamic-scoping/
 
