@@ -3,12 +3,6 @@
 
 
 
-
-
-
-
-
-
 **12.**  **_Type Checking, Scope_** 
 
 **[3]** a. Write a code snippet to illustrate that the scope of a variable may not extend to an enclosed function or procedure.

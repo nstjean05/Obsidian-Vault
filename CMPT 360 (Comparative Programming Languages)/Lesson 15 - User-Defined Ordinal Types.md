@@ -69,3 +69,12 @@ TYPE
 2. Other attributes (index subscript values, storage, overall size)
 	1. Static (very efficient)
 	2. Fixed stack-dynamic (indices static, storage dynamic)
+
+
+**15.  _Data Aggregates - arrays_**
+
+**[3]** a. What are the differences between subtypes and derived types in Ada?
+
+**[3]** b. What justification is there for the -> operator in C and C++?
+
+**[3]** c. What are the differences between enumeration types in C++ and Java?

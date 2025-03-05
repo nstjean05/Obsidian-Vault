@@ -64,3 +64,19 @@ TYPE
 #### Record Attributes
 - Are stored in a compile-time descriptor.
 - As usual
+
+
+
+
+
+**16.  _Data Aggregates - records, etc_**
+
+(You need to know how to explain in your own words the difference between discriminated and undiscriminated unions.)
+
+**[3]** a. What is the difference between structs in C++ and C#
+
+**[3]** b. How do Python's tuple types differ from records?
+
+**[3]** c. What is a list type in LISP and Scheme? Give at least one example of how to use one.
+
+**[3]** d. In what way is static type checking better than dynamic type checking?

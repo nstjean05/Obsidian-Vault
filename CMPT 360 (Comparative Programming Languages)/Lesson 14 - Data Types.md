@@ -65,4 +65,18 @@
 	- **integer**: byte, short, int, long, etc.
 ###### Floating Point Types
 - Model real numbers
-- Are limited oin both size & precision by storage size
+- Are limited in both size & precision by storage size
+
+**14.**  **_Basic_ _Data Types_**
+
+**[3]** a. Assuming that integer types are stored in 16-bit format, show how the decimal numerals 427 and -501 are stored. Assume the most significant byte is first.
+
+**[5]** b. Provide additional details about the IEEE 32-bit floating point format than were given in the class notes. Give the details of the IEEE 64-bit floating point format.
+
+**[2]** c. What are the arguments for and against representing Boolean entities in a single memory bit?
+
+**[2]** d. How does BCD waste memory?
+
+**[3]** e. How does allowing coercion type transfer in a language weaken strong typing?
+
+**[3]** f. Compare the facilities for string manipulation found in the libraries of C++, ISO Modula-2, and Java.
