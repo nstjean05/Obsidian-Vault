@@ -115,4 +115,5 @@ https://www.csd.uwo.ca/~mmorenom/CS447/Lectures/Syntax.html/node14.html
 https://link.springer.com/content/pdf/10.1007/3540069585_47.pdf
 
 **[3]** c. Describe as many circumstances as you can under which the memory location of an entity is bound dynamically.
-- Dynamic memory allocation refers to a method of memory allocation which is done at runtime, and memory is allotted according to when the program requests it. For instance whenever a variable is created in Java, a location is automatically found for it to be stored. This location may change throughout the course of the program, as more is computed.
+- Dynamic memory allocation refers to a method of memory allocation which is done at runtime, and memory is allotted according to when the program requests it. For instance whenever a variable is created in Java, a location is automatically found for it to be stored. This location may change throughout the course of the program, as more is computed. The advantage of this (relative to static allocation) is that variables or structures can be assigned more flexibly, especially in instances where values are not known before the program begins, as this can lead to highly inefficient allocation.
+https://www.geeksforgeeks.org/what-is-dynamic-memory-allocation/

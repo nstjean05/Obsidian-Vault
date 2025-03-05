@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "Lesson 11 - Attribute Binding"
             }
+          },
+          {
+            "id": "e19ac4d7bfffe9a7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lesson 12 - Type Checking.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Lesson 12 - Type Checking"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -77,8 +92,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "1c1db9715e53cd8f",
@@ -175,8 +189,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4e0da7e72fd48241",
+  "active": "e19ac4d7bfffe9a7",
   "lastOpenFiles": [
+    "CMPT 360 (Comparative Programming Languages)/Lesson 11 - Attribute Binding.md",
+    "Lesson 12 - Type Checking.md",
     "ECON 201 (Microeconomics)/Chapter 1 - 10 Principles of Microeconomics.md",
     "ECON 201 (Microeconomics)/Chapter 8 - Application of the Costs of Taxation.md",
     "ECON 201 (Microeconomics)/Chapter 7 - Consumers, Producers, and the Efficiency of Markets.md",
@@ -190,7 +206,6 @@
     "CMPT 360 (Comparative Programming Languages)/Lesson 3 - Language Design Influences.md",
     "CMPT 360 (Comparative Programming Languages)/Lesson 2 - Evaluate Programming Notations.md",
     "CMPT 360 (Comparative Programming Languages)/Lesson 1 - Problem Domains.md",
-    "CMPT 360 (Comparative Programming Languages)/Lesson 11 - Attribute Binding.md",
     "CMPT 360 (Comparative Programming Languages)/Lesson 18 - Precedence.md",
     "CMPT 360 (Comparative Programming Languages)/Lesson 17 - Pointers.md",
     "Images/Pasted image 20250224103108.png",
@@ -209,7 +224,6 @@
     "Images/Pasted image 20250212094541.png",
     "CMPT 360 (Comparative Programming Languages)/Lesson 14 - Data Types.md",
     "CMPT 211 (Web Technologies I)/Lecture 1 - HTML Overview.md",
-    "CMPT 360 (Comparative Programming Languages)/Lesson 10 - Language Translation.md",
     "Images/Pasted image 20250131081811.png",
     "Pasted image 20250210091542.png",
     "Images/Pasted image 20250127081151.png",
