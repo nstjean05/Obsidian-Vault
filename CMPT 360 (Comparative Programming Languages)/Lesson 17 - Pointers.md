@@ -1,3 +1,4 @@
+#incomplete
 #### Pointer Types
 - Also known as *access types* (Ada) or *reference types*
 - These types are pointers to or logical addresses of an entity residing at that location. 

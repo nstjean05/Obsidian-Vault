@@ -1,3 +1,4 @@
+#incomplete
 #### Enumerations
 - e.g. mon, tue, wed, thu, fri
 - Are names values with an implicit ordering.

@@ -1,3 +1,4 @@
+#incomplete
 #### Type Compatibility Strategies
 1. **By Name** (explicit)
 	- Two items must be formally declared of the same type to be compatible.

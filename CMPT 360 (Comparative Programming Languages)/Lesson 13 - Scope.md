@@ -1,3 +1,8 @@
+#incomplete
+
+
+
+
 **13. _Static and Dynamic Scope,_ _Lifetime_**
 
 **[3]** a. What is the difference between dynamic type binding and implicit heap binding?

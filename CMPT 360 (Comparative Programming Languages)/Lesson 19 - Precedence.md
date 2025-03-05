@@ -1,3 +1,4 @@
+#incomplete
 - There are 3 general kinds of precedence for expression
 #### 1. Arithmetic
 - Scanning is strictly left to right, modified only by parenthesis

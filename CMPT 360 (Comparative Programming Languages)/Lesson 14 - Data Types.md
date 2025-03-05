@@ -1,3 +1,4 @@
+#incomplete
 #### Data Type Definition
 - A **Data Type** is a specification for a category of data containers that includes:
 	- What values an instance of the type can take on.

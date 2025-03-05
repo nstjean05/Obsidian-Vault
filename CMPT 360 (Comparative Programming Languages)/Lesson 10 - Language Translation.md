@@ -1,3 +1,4 @@
+#incomplete
 #### Language Translation
 ![[Pasted image 20250131081811.png]]
 - Other options include:

@@ -1,3 +1,4 @@
+#incomplete
 #### Attributes and Binding
 - All programs have entities with various attributes.
 	- Name, type, storage, parameters, scope, etc.
@@ -103,6 +104,9 @@
 - Bound anew at every assignment
 - Often done automatically for strings
 	- old BASIC, Perl, JavaScript
+
+
+
 
 **11.  _Attribute Binding_**
 
