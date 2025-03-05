@@ -41,7 +41,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lesson 13 - Scope.md",
+                "file": "CMPT 360 (Comparative Programming Languages)/Lesson 13 - Scope.md",
                 "mode": "source",
                 "source": false
               },
@@ -205,9 +205,11 @@
   },
   "active": "5b0d3c01a4cb21be",
   "lastOpenFiles": [
-    "Lesson 13 - Scope.md",
-    "CMPT 360 (Comparative Programming Languages)/Lesson 12 - Type Checking.md",
     "CMPT 360 (Comparative Programming Languages)/Lesson 17 - Pointers.md",
+    "CMPT 360 (Comparative Programming Languages)/Lesson 18 - Precedence.md",
+    "CMPT 360 (Comparative Programming Languages)/Lesson 19 - Type Compatibility Strategies.md",
+    "CMPT 360 (Comparative Programming Languages)/Lesson 13 - Scope.md",
+    "CMPT 360 (Comparative Programming Languages)/Lesson 12 - Type Checking.md",
     "CMPT 360 (Comparative Programming Languages)/Lesson 16 - Arrays Continued.md",
     "CMPT 360 (Comparative Programming Languages)/Lesson 11 - Attribute Binding.md",
     "ECON 201 (Microeconomics)/Chapter 1 - 10 Principles of Microeconomics.md",
@@ -223,13 +225,11 @@
     "CMPT 360 (Comparative Programming Languages)/Lesson 3 - Language Design Influences.md",
     "CMPT 360 (Comparative Programming Languages)/Lesson 2 - Evaluate Programming Notations.md",
     "CMPT 360 (Comparative Programming Languages)/Lesson 1 - Problem Domains.md",
-    "CMPT 360 (Comparative Programming Languages)/Lesson 18 - Precedence.md",
     "Images/Pasted image 20250224103108.png",
     "Images/Pasted image 20250226103926.png",
     "Images/Pasted image 20250226103207.png",
     "Images/Pasted image 20250226095134.png",
     "Chapter 7 - Consumers, Producers, and the Efficiency of Markets.md",
-    "CMPT 360 (Comparative Programming Languages)/Lesson 18 - Type Compatibility Strategies.md",
     "CMPT 360 (Comparative Programming Languages)/Lesson 15 - User-Defined Ordinal Types.md",
     "CMPT 360 (Comparative Programming Languages)/Lesson 7 - Defining the Syntax of a Language.md",
     "CMPT 211 (Web Technologies I)/Lecture 2 - Tables.md",
