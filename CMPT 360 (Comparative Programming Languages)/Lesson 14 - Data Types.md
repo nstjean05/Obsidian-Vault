@@ -84,7 +84,7 @@ https://www.geeksforgeeks.org/ieee-standard-754-floating-point-numbers/
 https://james-william-fletcher.medium.com/8-bools-in-1-byte-the-1-bit-boolean-cf6754b93230
 
 **[2]** d. How does BCD waste memory?
-- Binary Coded Decimal (BCD) is a method of recording decimals using only 4 binary digits. This allows 
+- Binary Coded Decimal (BCD) is a method of recording decimals using 4 binary digits. This allows very precise values to be stored, although each value is capped at 9. However, as BCD values grow larger, the waste in storage grows similarly large. 
 
 **[3]** e. How does allowing coercion type transfer in a language weaken strong typing?
 
