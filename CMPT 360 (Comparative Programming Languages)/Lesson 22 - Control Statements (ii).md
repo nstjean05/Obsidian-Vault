@@ -1,4 +1,4 @@
-#incomplete 
+#complete
 ## Control Statements Contd.
 ### Condition or Logic Driven Loops
 ```java
@@ -103,11 +103,10 @@ end loop
 	- `for (p=rootPointer; p== null; traverse(p)) // body`
 	- Where the traverse procedure concludes by resetting the reference parameter to point to the next logical node.
 - Modula-2
-	- Allows recursion in a procedure t
-
-
-
-
-
-
-recap
+	- Allows recursion in a procedure type definition
+	- `TYPE TraverseProc = PROCEDURE (VAR node:NodeType VARP: TraverseProc)
+	- `VAR Traverse:TraverseProc
+	- "Traverse" is its own iterator and can set the next node to process and the next procedure to do so (exchange itself)
+	- Just write Traverse(root, Traverse)
+	- This is how you write a FiniteStateMachine.
+		- Each node and current TraverseProc is a state and makes a transition.
