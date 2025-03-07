@@ -100,4 +100,4 @@ end loop
 	- `foreach $item (@itemArray) // (loop body)` Iterates like LISP doList
 - C, C++, Java
 	- Allow traversals to be done with a for loop
-	- ``
+	- `for (p=roo`
