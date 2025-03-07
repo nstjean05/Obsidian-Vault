@@ -97,4 +97,7 @@ end loop
 	- `for loop variable in object // loop body // else // else clause`
 	- Where `object` is typically a range or a list
 - Perl has:
-	- `foreach`
+	- `foreach $item (@itemArray) // (loop body)` Iterates like LISP doList
+- C, C++, Java
+	- Allow traversals to be done with a for loop
+	- ``

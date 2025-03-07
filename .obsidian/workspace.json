@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#incomplete",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -114,12 +114,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CMPT 231/Chapter 21 - Heaps and Priority Queues.md",
+                "file": "CMPT 360 (Comparative Programming Languages)/Lesson 22 - Control Statements (ii).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Chapter 21 - Heaps and Priority Queues"
+              "title": "Outgoing links from Lesson 22 - Control Statements (ii)"
             }
           },
           {
@@ -129,7 +129,9 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-tags",
               "title": "Tags"
@@ -141,10 +143,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CMPT 231/Chapter 21 - Heaps and Priority Queues.md"
+                "file": "CMPT 360 (Comparative Programming Languages)/Lesson 22 - Control Statements (ii).md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Chapter 21 - Heaps and Priority Queues"
+              "title": "Outline of Lesson 22 - Control Statements (ii)"
             }
           },
           {
@@ -158,7 +163,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -178,8 +183,8 @@
   },
   "active": "de6580579b3aaa66",
   "lastOpenFiles": [
-    "CMPT 360 (Comparative Programming Languages)/Lesson 21 - Control Statements (i).md",
     "CMPT 360 (Comparative Programming Languages)/Lesson 22 - Control Statements (ii).md",
+    "CMPT 360 (Comparative Programming Languages)/Lesson 21 - Control Statements (i).md",
     "CMPT 360 (Comparative Programming Languages)/Lesson 14 - Data Types.md",
     "Untitled.md",
     "CMPT 360 (Comparative Programming Languages)/Lesson 13 - Scope.md",
