@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "Lesson 14 - Data Types"
             }
+          },
+          {
+            "id": "fc6c29f8d5bb7fcf",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.9"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.9"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -175,7 +188,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c3a94d4d28289b92",
+  "active": "fc6c29f8d5bb7fcf",
   "lastOpenFiles": [
     "Untitled.md",
     "CMPT 360 (Comparative Programming Languages)/Lesson 14 - Data Types.md",
