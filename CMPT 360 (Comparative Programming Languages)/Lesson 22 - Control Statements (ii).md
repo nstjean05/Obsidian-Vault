@@ -1,3 +1,4 @@
+#incomplete 
 ## Control Statements Contd.
 ### Condition or Logic Driven Loops
 ```java
@@ -69,4 +70,31 @@ end loop
 		- `exit (when <condition>)`
 	- and loops can be named and exited by name.
 ##### General Notes
-1. Loop control variables may be.
+1. Loop control variables may be...
+	- Declared in the loop or outside it
+	- Modifiable (or not) in the loop body
+	- Entirely local and implicit
+2. All such control statements
+	- Are abstractions for machine language jumps
+	- Are problem oriented
+	- Are able to eliminate obscurity in code
+	- Can greatly improve efficiency
+	- If minimized greatly reduce expressive power
+### Other Kinds of Control
+- Some languages have `GOTO <line number> | <label>` possibly with some restrictions
+- Others use...
+	- Break, leave, or EXIT to exit one or more kinds of loop
+	- RETURN to exit a procedure
+	- RETURN value to exit a function (required)
+	- HALT to exit a program (normal termination)
+	- RAISE or throw to go into exceptional execution mode
+	- RETRY to exit exceptional execution mode and re-try the block from the start
+- But all transfers of control should be used sparingly and in a controlled manner.
+	- GOTO should be avoided altogether even if available as such undisciplined transfer leads to code that is hard to read and impossible to maintain.
+### Iterations Based on Data Structures
+- LISP `delist` operates on a list, automatically iterating through it.
+- PYTHON has:
+	- `for loop variable in object // loop body // else // else clause`
+	- Where `object` is typically a range or a list
+- Perl has:
+	- `foreach`
