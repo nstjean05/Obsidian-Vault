@@ -68,3 +68,5 @@ end loop
 	- and the loop body may contain
 		- `exit (when <condition>)`
 	- and loops can be named and exited by name.
+##### General Notes
+1. Loop control variables may be.
