@@ -48,3 +48,11 @@ END
 end loop
 ```
 ### Combinations
+- PL/1 and ALGOL have
+	- `(for i from j by k to m) while b do .. od`
+	- One can omit:
+		- The for clause
+		- The while clause
+		- the from and by point (and then are = 1)
+			- e.g. `to 15 do a := a + 3 od`
+				- would add 45 to a
