@@ -56,3 +56,15 @@ end loop
 		- the from and by point (and then are = 1)
 			- e.g. `to 15 do a := a + 3 od`
 				- would add 45 to a
+	- Just do..od is like the Modula-2/Ada loop and requires an explicit leave to exit.
+	- The control variable "c" even if explicit is local.
+	- In ALGOL the expressions are evaluated on every iteration and can be real.
+	- In Modula-2  R10 the `FOR` loop control can be `REAL`
+- Ada has a decorated `loop` structure for all purposes
+	- `iteration spec loop // body of loop // end loop`
+	- Where iteration spec can be:
+		- `while <condition>`
+		- `for counter in <scalar range> in reverse <scalar range>`
+	- and the loop body may contain
+		- `exit (when <condition>)`
+	- and loops can be named and exited by name.
