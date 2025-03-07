@@ -100,4 +100,14 @@ end loop
 	- `foreach $item (@itemArray) // (loop body)` Iterates like LISP doList
 - C, C++, Java
 	- Allow traversals to be done with a for loop
-	- `for (p=roo`
+	- `for (p=rootPointer; p== null; traverse(p)) // body`
+	- Where the traverse procedure concludes by resetting the reference parameter to point to the next logical node.
+- Modula-2
+	- Allows recursion in a procedure t
+
+
+
+
+
+
+recap
