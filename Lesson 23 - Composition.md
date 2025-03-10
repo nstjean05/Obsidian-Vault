@@ -39,4 +39,41 @@
 		- Overload an operator (perhaps)
 	- Note:
 		- In C, C++, there are only functions; a procedure is a function whose return type is VOID.
-		- In Modula-2 and Ada there are only procedures; a function is a procedure with a return v
+		- In Modula-2 and Ada there are only procedures; a function is a procedure with a return value. One *may* end a proper procedure with a a bare RETURN, but one *must* end a function procedure with `RETURN<value>`
+		- Other langauges have both "function" and "procedure" keywords.
+6. Design Issues with Subprograms
+	- Are procedures (no return value) and functions (yes) provided?
+	- What are the semantics of parameter parsing?
+	- What kinds of parameters are available?
+	- Are types checked when actual parameters are parsed to the formal names?
+	- Are there any restrictions on return types of functions?
+	- Are return types checked when a function does a return?
+	- How are local variables allocated in memory and when?
+	- Does such allocation permit recursion? Restrictions?
+	- Can subprogram names appear in a parameter list?
+		- With what semantics/restrictions?
+		- How is type checking done?
+	- Does the signature of a subprogram constitute a type?
+		- Can there be procedure variables of this type?
+	- Can a procedure appear in its own parameter list?
+	- Can a procedure name be overloaded with other syntax?
+		- Say, as a replacement method?
+	- Are subprograms separately compiled?
+	- Is there a provision for forward definition of the header...
+		- to accommodate one-pass compilers?
+		- to allow mutual recursion?
+	- Is there provision for providing a header for a subprogram in some pre-compiled library compiled from code in another language?
+	- Is there provision for defining a header for a subroutine in the operating system
+		- i.e. is there an interface to an API?
+	- Are generic subprograms possible?
+	- How are subprograms implemented?
+		- Are they really just names for pointers?
+	- Can subprograms overload operators such as +?
+- When a (possibly recursive) instance of a subprogram is called (invoked)...
+	- actual and formal parameters are matched
+	- a chunk of memory is set aside for
+		- return address
+		- parameters
+		- local variables
+		- return value
+	- the subprogram is given a pointer to the a.r. to access its
