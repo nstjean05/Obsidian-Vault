@@ -8,20 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "de6580579b3aaa66",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CMPT 360 (Comparative Programming Languages)/Lesson 22 - Control Statements (ii).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Lesson 22 - Control Statements (ii)"
-            }
-          },
-          {
             "id": "7afa5ec715d744b7",
             "type": "leaf",
             "state": {
@@ -35,8 +21,7 @@
               "title": "Lesson 23 - Composition"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -93,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "1c1db9715e53cd8f",
@@ -195,7 +181,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b7bafca48f2d6c08",
+  "active": "7afa5ec715d744b7",
   "lastOpenFiles": [
     "CMPT 360 (Comparative Programming Languages)/Lesson 22 - Control Statements (ii).md",
     "CMPT 360 (Comparative Programming Languages)/Lesson 23 - Composition.md",
