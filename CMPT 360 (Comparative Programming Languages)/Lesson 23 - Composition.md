@@ -76,4 +76,5 @@
 		- parameters
 		- local variables
 		- return value
-	- the subprogram is given a pointer to the a.r. to access its
+	- the subprogram is given a pointer to the a.r. to access its contents
+		- see next set for how this works conceptually.

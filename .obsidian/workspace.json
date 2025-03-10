@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lesson 23 - Composition.md",
+                "file": "CMPT 360 (Comparative Programming Languages)/Lesson 23 - Composition.md",
                 "mode": "source",
                 "source": false
               },
@@ -93,8 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "1c1db9715e53cd8f",
@@ -196,10 +195,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7afa5ec715d744b7",
+  "active": "b7bafca48f2d6c08",
   "lastOpenFiles": [
     "CMPT 360 (Comparative Programming Languages)/Lesson 22 - Control Statements (ii).md",
-    "Lesson 23 - Composition.md",
+    "CMPT 360 (Comparative Programming Languages)/Lesson 23 - Composition.md",
     "CMPT 360 (Comparative Programming Languages)/Lesson 21 - Control Statements (i).md",
     "CMPT 360 (Comparative Programming Languages)/Lesson 14 - Data Types.md",
     "Untitled.md",
