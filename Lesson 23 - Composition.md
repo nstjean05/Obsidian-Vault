@@ -4,7 +4,7 @@
 - One entry point (Fortran could have multiple ones)
 - Alternative: Call-return is not accurate in a concurrent system.
 ### Terminology
-##### 1. A subprogram **definition** describes its...
+1. A subprogram **definition** describes its...
 	- Interface and actions using a header as its first line to provide, as applicable
 	- Formal parameters and types
 	- return value types
@@ -27,4 +27,16 @@
 	- Some (Ada, Python, VB) allow parameter ordering to be changed at call time by listing actual parameters and designating where they are to be bound
 	- Some (C, C++, Perl, JavaScript) allow parameters to be left out even if there are no defaults. It is up to the programmer to decide if this makes sense.
 5. Categories of subprograms
-		a. **Procedures**
+	a. **Procedures**
+	- These define new statements or commands, but can also...
+		- modify global variables
+		- "Reburn" referenced values (variable parameters)
+	b. **Functions**
+	- These are modelled on mathematical functions (ex. f(x,y)) and if done properly this means they...
+		- Return a value of a specified type to an expression
+		- Modify no state themselves
+		- Are used to define new operations
+		- Overload an operator (perhaps)
+	- Note:
+		- In C, C++, there are only functions; a procedure is a function whose return type is VOID.
+		- In Modula-2 and Ada there are only procedures; a function is a procedure with a return v
