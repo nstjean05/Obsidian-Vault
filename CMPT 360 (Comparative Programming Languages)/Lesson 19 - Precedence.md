@@ -92,26 +92,27 @@ C++ Operator Precedence Table (cppreference.com)
 
 Python Operator Precedence Table (GeeksforGeeks.com)
 
-|Precedence|Operator(s)|Description|Associativity|
-|---|---|---|---|
-|1|()|Parentheses (grouping)|Left-to-right|
-|2|x[index], x[index:index], x(arguments...), x.attribute|Subscription, slicing, function call, attribute reference|Left-to-right|
-|3|await x|Await expression|Right-to-left|
-|4|**|Exponentiation|Right-to-left|
-|5|+x, -x, ~x|Unary plus, unary minus, bitwise NOT|Right-to-left|
-|6|*, @, /, //, %|Multiplication, matrix multiplication, division, floor division, modulo|Left-to-right|
-|7|+, -|Addition and subtraction|Left-to-right|
-|8|<<, >>|Bitwise left shift and right shift|Left-to-right|
-|9|&|Bitwise AND|Left-to-right|
-|10|^|Bitwise XOR|Left-to-right|
-|11|\||Bitwise OR|Left-to-right|
-|12|in, not in, is, is not, <, <=, >, >=, !=, ==|Comparisons, including membership and identity tests|Left-to-right|
-|13|not x|Logical NOT|Right-to-left|
-|14|and|Logical AND|Left-to-right|
-|15|or|Logical OR|Left-to-right|
-|16|if – else|Conditional expression|Right-to-left|
-|17|lambda|Lambda expression|Right-to-left|
-|18|:=|Assignment expression (walrus operator, introduced in Python 3.8)|Right-to-left|
+| Precedence | Operator(s)                                            | Description                                                             | Associativity |
+| ---------- | ------------------------------------------------------ | ----------------------------------------------------------------------- | ------------- |
+| 1          | ()                                                     | Parentheses (grouping)                                                  | Left-to-right |
+| 2          | x[index], x[index:index], x(arguments...), x.attribute | Subscription, slicing, function call, attribute reference               | Left-to-right |
+| 3          | await x                                                | Await expression                                                        | Right-to-left |
+| 4          | **                                                     | Exponentiation                                                          | Right-to-left |
+| 5          | +x, -x, ~x                                             | Unary plus, unary minus, bitwise NOT                                    | Right-to-left |
+| 6          | *, @, /, //, %                                         | Multiplication, matrix multiplication, division, floor division, modulo | Left-to-right |
+| 7          | +, -                                                   | Addition and subtraction                                                | Left-to-right |
+| 8          | <<, >>                                                 | Bitwise left shift and right shift                                      | Left-to-right |
+| 9          | &                                                      | Bitwise AND                                                             | Left-to-right |
+| 10         | ^                                                      | Bitwise XOR                                                             | Left-to-right |
+| 11         | \|                                                     | Bitwise OR                                                              | Left-to-right |
+| 12         | in, not in, is, is not, <, <=, >, >=, !=, ==           | Comparisons, including membership and identity tests                    | Left-to-right |
+| 13         | not x                                                  | Logical NOT                                                             | Right-to-left |
+| 14         | and                                                    | Logical AND                                                             | Left-to-right |
+| 15         | or                                                     | Logical OR                                                              | Left-to-right |
+| 16         | if – else                                              | Conditional expression                                                  | Right-to-left |
+| 17         | lambda                                                 | Lambda expression                                                       | Right-to-left |
+| 18         | :=                                                     | Assignment expression (walrus operator, introduced in Python 3.8)       | Right-to-left |
+
 **[4]** b. What are your own arguments for and against allowing mixed-mode arithmetic expressions with implicit conversion where applicable?
 - The is the primary advantage of allowing mixed-mode arithmetic expressions with implicit conversions is the simplification for users. Programmers, especially those who need to write rapidly or who are new to programming, may find it more efficient to not need to worry about adding a float to an integer. However, given a wider view, I think that allowing for this is not a great idea. Although there are errors in the moment, it will increase more subtle errors/inaccuracies over time, and allows for more catastrophic mistakes to be made. Additionally, new programmers may then have difficulty translating their knowledge into other languages. Debugging becomes more complex, as there are a wider range of points of failure.
 
