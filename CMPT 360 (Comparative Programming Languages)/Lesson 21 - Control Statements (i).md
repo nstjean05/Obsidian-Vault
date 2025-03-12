@@ -154,9 +154,11 @@ END
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Closures
 
 **[3]** b. What are the arguments against allowing GOTO in a language?
-- Allowing for GOTO bring a whole host of issues. If you direct to a specific line, and then make edits to the program, the GOTO statement will likely go to the wrong location. GOTO greatly affects readability and the flow of a program, as now the reader must jump around between disconnected sections. Code maintenance becomes very difficult. Additionally, there are so many better alternatives! Programmers can use a combination of keywords like else, break, continue, or return for error handling, and these offer more flexibility and functionality than the archaic GOTO statement.
+- Allowing for GOTO bring a whole host of issues. If you direct to a specific line, and then make edits to the program, the GOTO statement will likely go to the wrong location. GOTO greatly affects readability and the flow of a program, as now the reader must jump around between disconnected sections. Code maintenance becomes very difficult. If an error pops up, is its recorded location at the GOTO jump (as it should), or did the program continue running in an unexpected area and eventually return an error there? Additionally, there are so many better alternatives! Programmers can use a combination of keywords like else, break, continue, or return for error handling, and these offer more flexibility and functionality than the archaic GOTO statement.
+https://itnext.io/goto-hell-1e7e32989092'
 
-https://itnext.io/goto-hell-1e7e32989092
 **[3]** c. Explain how C#’s switch statement is safer than that of C
 
+
 **[3]** d. In what way is C’s for statement more flexible than that of many other languages?
+
