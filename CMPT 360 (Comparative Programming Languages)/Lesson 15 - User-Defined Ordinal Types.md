@@ -75,8 +75,10 @@ TYPE
 **15.  _Data Aggregates - arrays_**
 
 **[3]** a. What are the differences between subtypes and derived types in Ada?
-- The primary difference between a subtype and its derived type is that subtypes, of the same given type, will be compatible with one another and their 
+- The primary difference between a subtype and its derived type is that subtypes, of the same given type, will be compatible with one another and their base type. Derived types, on the other hand, are distinct from one another their base type. In other words, a derived type is a completely new type, while subtypes can still be compared to their base.
+https://stackoverflow.com/questions/2677752/derived-types-and-sub-types-in-ada
 
 **[3]** b. What justification is there for the -> operator in C and C++?
+- As the textbook notes, the *->* operator is used to refer to a field within a record.
 
 **[3]** c. What are the differences between enumeration types in C++ and Java?
