@@ -115,8 +115,10 @@ end loop
 **22.  _Control Structures (2)_**
 
 **[3]** a. Should C's single operand assignments such as ++int and int-- be allowed in other languages? Why or why not?
-- I think that they should certainly be allowed in other languages. They offer a 
+- I think that they should certainly be allowed in other languages. These single operand assignments offer an effective and simple way to increment and decrement a counter. They are highly useful in iterative loops, and for keeping track of any number of metrics. Additionally, they can increase the speed of the program by condensing what may be multiple operations into a single operation.
+https://www.geeksforgeeks.org/operators-in-c/
 
 **[3]** b. Should an optimizing compiler for C or C++ be allowed to change the order of evaluation of Boolean expressions? Why or why not? What about Modula-2?
+- 
 
 **[3]** c. Why does Java  specify that operands in expressions must be evaluated left to right?
