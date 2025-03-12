@@ -150,6 +150,7 @@ END
 **21.  _Control Structures (1)_**
 
 **[4]** a. Analyze the potential readability problems with using closure reserved words for control statements that are the reverse of the corresponding initial reserved words, such as the case-esac reserved words of ALGOL 68. For example, consider common typing errors such as transposing characters.
+- 
 
 **[3]** b. What are the arguments against allowing GOTO in a language?
 
