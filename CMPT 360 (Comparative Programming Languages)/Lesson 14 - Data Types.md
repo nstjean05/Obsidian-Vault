@@ -92,4 +92,5 @@ https://www.realdigital.org/doc/2c2b7d3170b8ae3af20b528e39942b98
 Source Textbook
 
 **[3]** f. Compare the facilities for string manipulation found in the libraries of C++, ISO Modula-2, and Java.
-- As may be expected, C++ and Java have much more library support for string manipulation than Modula-2. For instance, the ability to pattern-match ()
+- As may be expected, C++ and Java have much more library support for string manipulation than Modula-2. For instance, the ability to pattern-match (verify if a data type fits a specified pattern) is supported in C++ and Java class libraries, but not Modula-2. There are many examples of this. Java tends to have the most built-in facilities for string manipulation, C++ makes up for it with libraries, and then Modula-2 has more primitive capabilities. I did find that Modula-2 has a number of official modules for string manipulation, such as *ConvTypes* and *WholeConv*, which serve to 
+https://www.modula2.org/freepages/xdsdoc/xdslib002.html#0007
