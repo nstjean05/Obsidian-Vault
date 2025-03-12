@@ -92,4 +92,4 @@ https://www.realdigital.org/doc/2c2b7d3170b8ae3af20b528e39942b98
 Source Textbook
 
 **[3]** f. Compare the facilities for string manipulation found in the libraries of C++, ISO Modula-2, and Java.
-- 
+- As may be expected, C++ and Java have much more library support for string manipulation than Modula-2. For instance, the ability to pattern-match ()
