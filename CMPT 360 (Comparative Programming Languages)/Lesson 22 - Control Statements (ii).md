@@ -119,6 +119,8 @@ end loop
 https://www.geeksforgeeks.org/operators-in-c/
 
 **[3]** b. Should an optimizing compiler for C or C++ be allowed to change the order of evaluation of Boolean expressions? Why or why not? What about Modula-2?
-- 
+- I do not think that this would be a good idea for C(++), as changing truth-values can have cascading side effects, such as modifying variables. Additionally, if the order of evaluation of a program is changed, then when the boolean is collected it may take on the wrong value. Optimizing compilers are not inherently detrimental, but in this specific case are not worth the potential side-effects. This would not impact Modula-2 as strongly, as it is more strict in its evaluation of a boolean expression.
+https://arjaybooks.com/Modula-2/Text/Ch3/Ch3.3.html
 
-**[3]** c. Why does Java  specify that operands in expressions must be evaluated left to right?
+**[3]** c. Why does Java specify that operands in expressions must be evaluated left to right?
+- The primary reason for this evaluation is to keep the program predictable and readable. In languages such as English, this same format is kept, so it follows that this lo
