@@ -85,7 +85,9 @@ https://james-william-fletcher.medium.com/8-bools-in-1-byte-the-1-bit-boolean-cf
 
 **[2]** d. How does BCD waste memory?
 - Binary Coded Decimal (BCD) is a method of recording decimals using 4 binary digits. This allows very precise values to be stored, although each value is capped at 9. However, as BCD values grow larger, the waste in storage grows similarly large. 
+https://www.realdigital.org/doc/2c2b7d3170b8ae3af20b528e39942b98
 
 **[3]** e. How does allowing coercion type transfer in a language weaken strong typing?
+
 
 **[3]** f. Compare the facilities for string manipulation found in the libraries of C++, ISO Modula-2, and Java.
