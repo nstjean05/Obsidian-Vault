@@ -163,4 +163,5 @@ https://blog.elishalom.com/2012/05/18/implementing-switch-fall-through-in-c/
 https://stackoverflow.com/questions/4478464/c-sharp-switch-on-type
 
 **[3]** d. In what way is C’s for statement more flexible than that of many other languages?
-- C's for loop is highly flexible, as each of the 3 expressions (parameters) are optional, and any one expression could dictate the whole *for* sequence.
+- C's for loop is highly flexible, as each of the 3 expressions (parameters) are optional, and any one expression could dictate the whole *for* sequence. For example, you could even create a loop with no conditions, which would run forever.
+https://unstop.com/blog/infinite-loop-in-c
