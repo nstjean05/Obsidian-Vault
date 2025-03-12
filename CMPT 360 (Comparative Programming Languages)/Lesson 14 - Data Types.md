@@ -88,6 +88,8 @@ https://james-william-fletcher.medium.com/8-bools-in-1-byte-the-1-bit-boolean-cf
 https://www.realdigital.org/doc/2c2b7d3170b8ae3af20b528e39942b98
 
 **[3]** e. How does allowing coercion type transfer in a language weaken strong typing?
-- 
+- Changing a value from one data type to another (implicitly) is known as type coercion. Strong typing (the idea that all possible type errors must be detected) is weakened by type coercion. This is because values are forced from one type to another for compatibility's sake, sidestepping the compiler's verification. The program, in trying to avoid errors, can make more subversive ones.
+Source Textbook
 
 **[3]** f. Compare the facilities for string manipulation found in the libraries of C++, ISO Modula-2, and Java.
+- 
