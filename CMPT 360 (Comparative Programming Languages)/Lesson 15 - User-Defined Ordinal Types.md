@@ -75,6 +75,7 @@ TYPE
 **15.  _Data Aggregates - arrays_**
 
 **[3]** a. What are the differences between subtypes and derived types in Ada?
+- 
 
 **[3]** b. What justification is there for the -> operator in C and C++?
 
