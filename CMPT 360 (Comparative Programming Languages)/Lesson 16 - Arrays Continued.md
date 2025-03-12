@@ -76,6 +76,7 @@ TYPE
 - **Union**: A type whose variables 
 
 **[3]** a. What is the difference between structs in C++ and C#
+- There are several differences between structures (structs) in these two languages. In C++, structs resemble classes, 
 
 **[3]** b. How do Python's tuple types differ from records?
 
