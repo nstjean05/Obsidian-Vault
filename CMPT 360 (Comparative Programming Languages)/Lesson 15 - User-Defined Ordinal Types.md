@@ -79,6 +79,7 @@ TYPE
 https://stackoverflow.com/questions/2677752/derived-types-and-sub-types-in-ada
 
 **[3]** b. What justification is there for the -> operator in C and C++?
-- As the textbook notes, the *->* operator is used to refer to a field within a record.
+- As the textbook notes, the *->* operator is used to refer to a field within a record. This is used in C(++) to assign a value at a specific address, while taking on that address's assigned type. Although this was possible using other methods (using * and .), they were more roundabout. Later on, additional functionality made using the deference and dot operators do the same thing, making -> somewhat redundant.
+https://stackoverflow.com/questions/13366083/why-does-the-arrow-operator-in-c-exist
 
 **[3]** c. What are the differences between enumeration types in C++ and Java?
