@@ -150,11 +150,13 @@ END
 **21.  _Control Structures (1)_**
 
 **[4]** a. Analyze the potential readability problems with using closure reserved words for control statements that are the reverse of the corresponding initial reserved words, such as the case-esac reserved words of ALGOL 68. For example, consider common typing errors such as transposing characters.
-- 
+- There are a lot of readability problems with simply reversing reserved words to use as closure mechanisms. Often these will not be intuitively readable, as it will change the position of vowels, and puzzling out what a backwards word might indicate also offers a challenge. When learning and trying to remember the reverse of a reserved word, typing errors will likely become more common as spelling backwards can often be comically difficult. These can be overcome with enough time as the syntax becomes more intuitive, but parsing the logic will remain difficult, especially in more dense code.
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Closures
 
 **[3]** b. What are the arguments against allowing GOTO in a language?
+- Allowing for GOTO bring a whole host of issues. If you direct to a specific line, and then make edits to the program, the GOTO statement will likely go to the wrong location. GOTO greatly affects readability and the flow of a program, as now the reader must jump around between disconnected sections. Code maintenance becomes very difficult. Additionally, there are so many better alternatives! Programmers can use a combination of keywords like else, break, continue, or return for error handling, and these offer more flexibility and functionality than the archaic GOTO statement.
 
+https://itnext.io/goto-hell-1e7e32989092
 **[3]** c. Explain how C#’s switch statement is safer than that of C
 
 **[3]** d. In what way is C’s for statement more flexible than that of many other languages?
