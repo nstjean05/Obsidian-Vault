@@ -39,7 +39,9 @@
 
 **17. _Dynamic data--heap storage, pointers, etc;_**
 
-**[3]** a. What are the  differences between C's malloc and free functions on the one hand and C++ new and delete on the other?
+**[3]** a. What are the differences between C's malloc and free functions on the one hand and C++ new and delete on the other?
+- The differences in malloc/new and free/delete seem not to affect the functionality, rather changing smaller details. For instance, malloc and new can each dynamically allocate memory, but new calls the constructor of a class although malloc does not. Furthermore, free() will free up memory but not call the class destructor, while *delete* will.
+https://www.geeksforgeeks.org/new-vs-malloc-and-free-vs-delete-in-c/
 
 **[3]** b. How do you declare dynamic types (with their pointers of course) in Modula-2, Ada, and C++
 
