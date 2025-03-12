@@ -115,6 +115,7 @@ end loop
 **22.  _Control Structures (2)_**
 
 **[3]** a. Should C's single operand assignments such as ++int and int-- be allowed in other languages? Why or why not?
+- I think that they should certainly be allowed in other languages. They offer a 
 
 **[3]** b. Should an optimizing compiler for C or C++ be allowed to change the order of evaluation of Boolean expressions? Why or why not? What about Modula-2?
 
