@@ -75,7 +75,7 @@ TYPE
 **15.  _Data Aggregates - arrays_**
 
 **[3]** a. What are the differences between subtypes and derived types in Ada?
-- 
+- The primary difference between a subtype and its derived type is that subtypes, of the same given type, will be compatible with one another and their 
 
 **[3]** b. What justification is there for the -> operator in C and C++?
 
