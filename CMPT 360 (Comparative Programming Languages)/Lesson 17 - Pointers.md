@@ -45,9 +45,19 @@ https://www.geeksforgeeks.org/new-vs-malloc-and-free-vs-delete-in-c/
 
 **[3]** b. How do you declare dynamic types (with their pointers of course) in Modula-2, Ada, and C++
 - Modula-2: 
-
-https://www.modula2.org/tutor/chapter11.php
+	Type intPointer = POINTER TO INTEGER;
+	VAR p: intPointer;
+	NEW(p);
+	p^ := 9;
+- C++
+	int * p = new int(9);
+	delete p;
+- Ada
+	type intPointer is access all Integer;
+	X: intPointer := new Integer(9);
 
 **[3]** c. Write a short discussion of what was lost and what was gained in the Java designers' decision not to have pointers as in C++ and other languages.
 
 **[3]** d. What are the arguments for and against implicit heap storage recovery (such as in Java) and the explicit heap storage recovery used in C++. Consider real time systems.
+
+
