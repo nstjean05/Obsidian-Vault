@@ -158,7 +158,9 @@ https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Closures
 https://itnext.io/goto-hell-1e7e32989092'
 
 **[3]** c. Explain how C#’s switch statement is safer than that of C
-
+- There are two primary reasons why C#'s switch statement is safer than C. First of all the addition of an implicit fall-through. A common error in switch statements from C is forgetting to add a break, and C# forces this in its switch statements. The other primary addition to C# is type safety. This makes it far more difficult to accidentally conv
+https://blog.elishalom.com/2012/05/18/implementing-switch-fall-through-in-c/
+https://medium.com/@zachlandis91/variables-and-data-types-in-c-d98ede6c9186
 
 **[3]** d. In what way is C’s for statement more flexible than that of many other languages?
 
