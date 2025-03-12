@@ -61,5 +61,4 @@ https://www.geeksforgeeks.org/new-vs-malloc-and-free-vs-delete-in-c/
 https://www.linkedin.com/pulse/why-java-does-support-pointers-ensuring-safety-sandeep-mewada-2ahbf
 
 **[3]** d. What are the arguments for and against implicit heap storage recovery (such as in Java) and the explicit heap storage recovery used in C++. Consider real time systems.
-- 
-
+- Heap memory is the actual place in which data is stored, and this must be carefully managed, so as to not lose data or drastically slow the program. Some languages do this implicitly (e.g. automatically), or explicitly, meaning the programmer must allocate/clean up storage themselves. Although explicitly allocating storage is more technically difficult, it also allows for a 
