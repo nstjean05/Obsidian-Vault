@@ -123,4 +123,4 @@ https://www.geeksforgeeks.org/operators-in-c/
 https://arjaybooks.com/Modula-2/Text/Ch3/Ch3.3.html
 
 **[3]** c. Why does Java specify that operands in expressions must be evaluated left to right?
-- The primary reason for this evaluation is to keep the program predictable and readable. In languages such as English, this same format is kept, so it follows that this lo
+- The primary reason for this evaluation is to keep the program predictable and readable. In languages such as English, this same format is kept, so it follows that this logic would apply to programming as well. It is also common practice to evaluate left to right in most programming languages.
