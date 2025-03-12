@@ -116,11 +116,14 @@ Python Operator Precedence Table (GeeksforGeeks.com)
 - The is the primary advantage of allowing mixed-mode arithmetic expressions with implicit conversions is the simplification for users. Programmers, especially those who need to write rapidly or who are new to programming, may find it more efficient to not need to worry about adding a float to an integer. However, given a wider view, I think that allowing for this is not a great idea. Although there are errors in the moment, it will increase more subtle errors/inaccuracies over time, and allows for more catastrophic mistakes to be made. Additionally, new programmers may then have difficulty translating their knowledge into other languages. Debugging becomes more complex, as there are a wider range of points of failure.
 
 **[4]** c. Do you think that eliminating all overloading of operators in your favourite language would be desirable? feasible?
-- In Python, I think that this would not be a very desirable change. Not only do I think it is generally poor practice to completely remove a functionality from a language, but it would also serve to make the lag
+- In Python, I think that this would not be a very desirable change. Not only do I think it is generally poor practice to completely remove a functionality from a language, but it would also serve to make the language worse. Overloading of operators greatly enhances code readability and increases functionality in a program. For instance, it is not feasible to remove overloading of operators without severely impairing object-oriented programming --  a critical aspect of Python. Furthermore, Python uses a overloading internally (ex. adding strings), and so it would incapacitate core aspects of the language.
+https://www.geeksforgeeks.org/operator-overloading-in-python/
 
 **[4]** d. Would it be a good idea to eliminate all precedence rules and use parentheses instead? Why or why not?
+- I am actually something of a proponent of using parenthesis in many applications. Especially when entering a complex function into some sort of system, explicitly declaring the precedence using parenthesis drastically saves time by increasing reliability. However, I do not think that this is a good idea in much of programming. While parenthesis may suit simple equations, tracking open and closed sides can become progressively more difficult with more complexity. There is also a great detriment to readability, as it can be hard to tell where in a functions the values and operators actually lie. Additionally, there are many scenarios where it would be much more roundabout to use parenthesis, rather than use the built-in precedence of the language.
 
 **[4]** e. Should the assigning operator += from C be used in other languages? Why or why not?
+- 
 
 **[4]** f. Describe a situation, and write some code to illustrate that the addOperator + may not always be commutative.
 
