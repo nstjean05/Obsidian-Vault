@@ -145,4 +145,26 @@ print("v2 + v1: ", result2)
 ```
 
 **[4]** g. Write a program in a language of your choice that does a large number of floating point operations and the same number of integer operations (hand in code) and compare the time taken. Explain.
-- 
+- This code adds floating point numbers, and add integer numbers, for a massive number of increments. Running this actually showed that the integers take more time to calculate than floats, which I was surprised by.
+```python
+import time
+
+x = 10**6
+
+timerGo = time.time()
+floatTime = 0.0
+for i in range(x):
+	floatTime += 0.1
+	floatTime *= 1.01
+	float_time = time.time() - timerGo
+  
+timerGo = time.time()
+intTime = 0
+for i in range(x):
+	intTime += 1
+	intTime *= 2
+	int_time = time.time() - timerGo
+
+print(f"Float: {float_time:.6f}s")
+print(f"Int: {int_time:.6f}s")
+```
