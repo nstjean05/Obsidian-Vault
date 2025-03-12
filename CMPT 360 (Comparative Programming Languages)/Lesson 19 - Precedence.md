@@ -90,7 +90,7 @@ C++ Operator Precedence Table (cppreference.com)
 | 16         | =, +=, -=, *=, /=, %=                                                                   | Assignment Operators               | Right to Left |
 | 17         | ,                                                                                       | Comma Operator                     | Left to Right |
 
-Python Operator Precedence Table **(GeeksforGeeks)**
+Python Operator Precedence Table (GeeksforGeeks.com)
 
 |Precedence|Operator(s)|Description|Associativity|
 |---|---|---|---|
@@ -113,9 +113,10 @@ Python Operator Precedence Table **(GeeksforGeeks)**
 |17|lambda|Lambda expression|Right-to-left|
 |18|:=|Assignment expression (walrus operator, introduced in Python 3.8)|Right-to-left|
 **[4]** b. What are your own arguments for and against allowing mixed-mode arithmetic expressions with implicit conversion where applicable?
-- The is the primary advantage of allowing mixed-mode arithmetic expressions with implicit conversions is the simplification for users. Programmers, especially those who need to write rapidly or who are new to programming, may find it more efficient to not need to worry about adding a float and a integer. However, with a wider picture I think that allowing for this is not a great idea. While lessening errors in the moment, it may increase more subtle errors over time, and allows for more catastrophic mistakes to be made. Additionally, new programmers may then have difficulty translating their knowledge into other languages.
+- The is the primary advantage of allowing mixed-mode arithmetic expressions with implicit conversions is the simplification for users. Programmers, especially those who need to write rapidly or who are new to programming, may find it more efficient to not need to worry about adding a float to an integer. However, given a wider view, I think that allowing for this is not a great idea. Although there are errors in the moment, it will increase more subtle errors/inaccuracies over time, and allows for more catastrophic mistakes to be made. Additionally, new programmers may then have difficulty translating their knowledge into other languages. Debugging becomes more complex, as there are a wider range of points of failure.
 
 **[4]** c. Do you think that eliminating all overloading of operators in your favourite language would be desirable? feasible?
+- In Python, I think that this would not be a very desirable change. Not only do I think it is generally poor practice to completely remove a functionality from a language, but it would also serve to make the lag
 
 **[4]** d. Would it be a good idea to eliminate all precedence rules and use parentheses instead? Why or why not?
 
