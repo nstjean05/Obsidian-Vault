@@ -83,4 +83,4 @@ https://stackoverflow.com/questions/2677752/derived-types-and-sub-types-in-ada
 https://stackoverflow.com/questions/13366083/why-does-the-arrow-operator-in-c-exist
 
 **[3]** c. What are the differences between enumeration types in C++ and Java?
-- 
+- Enumeration (enum) types are data types made up of elements, which allow for variables to have greater structure. There are many diferences 
