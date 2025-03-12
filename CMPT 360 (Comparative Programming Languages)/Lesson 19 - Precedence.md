@@ -123,7 +123,7 @@ https://www.geeksforgeeks.org/operator-overloading-in-python/
 - I am actually something of a proponent of using parenthesis in many applications. Especially when entering a complex function into some sort of system, explicitly declaring the precedence using parenthesis drastically saves time by increasing reliability. However, I do not think that this is a good idea in much of programming. While parenthesis may suit simple equations, tracking open and closed sides can become progressively more difficult with more complexity. There is also a great detriment to readability, as it can be hard to tell where in a functions the values and operators actually lie. Additionally, there are many scenarios where it would be much more roundabout to use parenthesis, rather than use the built-in precedence of the language.
 
 **[4]** e. Should the assigning operator += from C be used in other languages? Why or why not?
-- 
+- I think it is good for the addition assignment operator (*+=*) to be used in multiple languages. It allows for a value be added with another, in short form (ex. *a = a + b* becomes *a += b*). This compound operator is useful, as it can enhance writability, with very little detriment to readability. In many cases it can actually enhance readability, as it serves to declutter equations. On top of the surface-level benefits, 
 
 **[4]** f. Describe a situation, and write some code to illustrate that the addOperator + may not always be commutative.
 
