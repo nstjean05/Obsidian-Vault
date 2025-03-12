@@ -44,6 +44,9 @@
 https://www.geeksforgeeks.org/new-vs-malloc-and-free-vs-delete-in-c/
 
 **[3]** b. How do you declare dynamic types (with their pointers of course) in Modula-2, Ada, and C++
+- Modula-2: 
+
+https://www.modula2.org/tutor/chapter11.php
 
 **[3]** c. Write a short discussion of what was lost and what was gained in the Java designers' decision not to have pointers as in C++ and other languages.
 
