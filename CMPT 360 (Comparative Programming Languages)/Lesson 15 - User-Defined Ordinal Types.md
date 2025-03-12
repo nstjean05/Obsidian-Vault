@@ -83,4 +83,4 @@ https://stackoverflow.com/questions/2677752/derived-types-and-sub-types-in-ada
 https://stackoverflow.com/questions/13366083/why-does-the-arrow-operator-in-c-exist
 
 **[3]** c. What are the differences between enumeration types in C++ and Java?
-- Enumeration (enum) types are data types wherein its composite constants are given in its definition. There are many differences between these types in C++ and Java. For instance
+- Enumeration (enum) types are data types wherein its composite constants are given in its definition. There are many differences between these types in C++ and Java. For instance, in Java all enumeration types are subtypes of the greater (predefined) *Enum* class. C++, as one of the first two languages to utilize enumeration, has more open-ended, non-coercive application. Java has the advantage of being more reliable, as it gives errors for arithmetic operations and limits the values assigned to variables. C++ has less restrictions, only checking variable types (on assignment), and if they are in the enum's given range.
