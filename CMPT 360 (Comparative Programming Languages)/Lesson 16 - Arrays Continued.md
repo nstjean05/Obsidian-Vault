@@ -73,12 +73,15 @@ TYPE
 **16.  _Data Aggregates - records, etc_**
 
 (You need to know how to explain in your own words the difference between discriminated and undiscriminated unions.)
-- **Union**: A type whose variables 
+
 
 **[3]** a. What is the difference between structs in C++ and C#
-- There are several differences between structures (structs) in these two languages. In C++, structs resemble classes, 
+- There are several differences between structures (structs) in these two languages. In C++, structs resemble classes, including features like polymorphism and inheritance. C#'s structs do not support either of those features, as they are value types.
+https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/builtin-types/value-types
 
 **[3]** b. How do Python's tuple types differ from records?
+- In Python a record is a similar to a struct, utilizing named fields and are often used for recording/accessing data. Tuples, on the other hand, are fixed sets of values, generally used temporarily and at smaller scale.
+https://stackoverflow.com/questions/4212265/tuples-vs-records
 
 **[3]** c. What is a list type in LISP and Scheme? Give at least one example of how to use one.
 
