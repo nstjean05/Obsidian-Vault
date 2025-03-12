@@ -62,3 +62,21 @@
 ##### Variations and Issues:
 1. Multiple Assignments
 	- If `=` is used, what does `a=b=c` mean?
+
+
+
+**19.  _Precedence issues, Conversions, mixed mode, other issues_**
+
+**[5+3]** a. Provide a complete precedence table for C++ and for Python.
+
+**[4]** b. What are your own arguments for and against allowing mixed-mode arithmetic expressions with implicit conversion where applicable?
+
+**[4]** c. Do you think that eliminating all overloading of operators in your favourite language would be desirable? feasible?
+
+**[4]** d. Would it be a good idea to eliminate all precedence rules and use parentheses instead? Why or why not?
+
+**[4]** e. Should the assigning operator += from C be used in other languages? Why or why not?
+
+**[4]** f. Describe a situation, and write some code to illustrate that the addOperator + may not always be commutative.
+
+**[4]** g. Write a program in a language of your choice that dows a large number of floating point operations and the same number of integer operations (hand in code) and compare the time taken. Explain.

@@ -49,3 +49,6 @@ var
 - Ada allows 
 
 
+**18.  _Type Compatibility, Type Chart_s, _Expressions and Assignments_**
+
+**[10 per person]** a. Write code in a language that has enumeration types and test what kinds of operations are allowed on them and what kinds of silly or dangerous things are either allowed or forbidden. Report on your findings with code. (One possible example: If you have the type (mon, tue, wed) are increment and decrement allowed, or can you even just add a number to one of these? One such value to another? What if you increment the value wed? You can think of other issues I am sure. Two languages you could compare are C++ and C# (Do with a partner?? more than one partner?? Each partner hands it in on their assignment with the names of all the partners.)

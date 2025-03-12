@@ -110,3 +110,12 @@ end loop
 	- Just write Traverse(root, Traverse)
 	- This is how you write a FiniteStateMachine.
 		- Each node and current TraverseProc is a state and makes a transition.
+
+
+**22.  _Control Structures (2)_**
+
+**[3]** a. Should C's single operand assignments such as ++int and int-- be allowed in other languages? Why or why not?
+
+**[3]** b. Should an optimizing compiler for C or C++ be allowed to change the order of evaluation of Boolean expressions? Why or why not? What about Modula-2?
+
+**[3]** c. Why does Java  specify that operands in expressions must be evaluated left to right?

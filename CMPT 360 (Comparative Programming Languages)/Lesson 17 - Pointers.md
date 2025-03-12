@@ -31,4 +31,18 @@
 - Are pointers set to NUL on creation (i.e. automatic at declaration)
 	- Failed allocation of memory
 	- Deallocation
-- What is their syntax and semantics?
+- What is their syntax and semantics
+
+
+
+
+
+**17. _Dynamic data--heap storage, pointers, etc;_**
+
+**[3]** a. What are the  differences between C's malloc and free functions on the one hand and C++ new and delete on the other?
+
+**[3]** b. How do you declare dynamic types (with their pointers of course) in Modula-2, Ada, and C++
+
+**[3]** c. Write a short discussion of what was lost and what was gained in the Java designers' decision not to have pointers as in C++ and other languages.
+
+**[3]** d. What are the arguments for and against implicit heap storage recovery (such as in Java) and the explicit heap storage recovery used in C++. Consider real time systems.

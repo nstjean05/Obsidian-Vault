@@ -145,3 +145,14 @@ END
 	- Mentioning the counter in the header is the declaration and opens a scope for a new entity
 	- Only integer counters allowed
 	- Counter parameters for start, and evaluated *once*
+
+
+**21.  _Control Structures (1)_**
+
+**[4]** a. Analyze the potential readability problems with using closure reserved words for control statements that are the reverse of the corresponding initial reserved words, such as the case-esac reserved words of ALGOL 68. For example, consider common typing errors such as transposing characters.
+
+**[3]** b. What are the arguments against allowing GOTO in a language?
+
+**[3]** c. Explain how C#’s switch statement is safer than that of C
+
+**[3]** d. In what way is C’s for statement more flexible than that of many other languages?
