@@ -73,7 +73,6 @@ TYPE
 **16.  _Data Aggregates - records, etc_**
 
 (You need to know how to explain in your own words the difference between discriminated and undiscriminated unions.)
-- 
 
 **[3]** a. What is the difference between structs in C++ and C#
 
