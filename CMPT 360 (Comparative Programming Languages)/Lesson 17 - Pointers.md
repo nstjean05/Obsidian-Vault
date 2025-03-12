@@ -53,11 +53,13 @@ https://www.geeksforgeeks.org/new-vs-malloc-and-free-vs-delete-in-c/
 	int * p = new int(9);
 	delete p;
 - Ada
-	type intPointer is access all Integer;
+	type intPointer is access Integer;
 	X: intPointer := new Integer(9);
 
 **[3]** c. Write a short discussion of what was lost and what was gained in the Java designers' decision not to have pointers as in C++ and other languages.
+- One of the primary reasons for not including pointers was the designers distrust of the language's users, or rather the difficulty of safely utilizing pointers. Having the power to directly change memory addresses is a significant responsibility, and the designers determined that avoiding this issue by not supporting pointers made sense for the intended use cases. In trying to write a user friendly language, a number of things were gained and forsaken. One thing gained was the ability to have automatic garbage collection. While this gives up further control over the program, it can make learning to code drastically easier, and errors much less common.
+https://www.linkedin.com/pulse/why-java-does-support-pointers-ensuring-safety-sandeep-mewada-2ahbf
 
 **[3]** d. What are the arguments for and against implicit heap storage recovery (such as in Java) and the explicit heap storage recovery used in C++. Consider real time systems.
-
+- 
 
