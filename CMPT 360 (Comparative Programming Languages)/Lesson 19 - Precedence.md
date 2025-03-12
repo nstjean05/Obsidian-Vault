@@ -126,19 +126,23 @@ https://www.geeksforgeeks.org/operator-overloading-in-python/
 - I think it is good for the addition assignment operator (*+=*) to be used in multiple languages. It allows for a value be added with another, in short form (ex. *a = a + b* becomes *a += b*). This compound operator is useful, as it can enhance writability, with very little detriment to readability. In many cases it can actually enhance readability, as it serves to declutter equations (recursion especially). On top of the surface-level benefits, shortening multiple operations down to one can increase efficiency by giving the compiler/interpreter less to compute.
 
 **[4]** f. Describe a situation, and write some code to illustrate that the addOperator + may not always be commutative.
-- One example of when the addOperator is not commutative is in the case of adding vectors.
+- One example of when the addOperator is not commutative is in the case of adding vectors, depending on how the addition has been implemented. Can you make it commutative? Yes. Is it necessarily? No.
 ```python
 #Assume I've defined a Vector class already
-
+#Depending on how the Vector class is written, addition may not be commutative.
+#In this case, add 1 if the first vector is odd, and subtract one if 
+#it is even.
 v1 = Vector(9, 9)
 v2 = Vector(8, 8)
 
 result1 = v1 + v2
 result2 = v2 + v1
 
-print("v1 + v2 (custom):", result1)
-print("v2 + v1 (custom):", result2)
+print("v1 + v2: ", result1)
+print("v2 + v1: ", result2)
 
 #Prints (16,16) and (18,18) respectively
 ```
-**[4]** g. Write a program in a language of your choice that dows a large number of floating point operations and the same number of integer operations (hand in code) and compare the time taken. Explain.
+
+**[4]** g. Write a program in a language of your choice that does a large number of floating point operations and the same number of integer operations (hand in code) and compare the time taken. Explain.
+- 
