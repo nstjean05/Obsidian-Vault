@@ -19,12 +19,51 @@
 - These are polymorphic and their definitions take parameters that describe their signatures.
 - In C++ this is done with a function template that is refined when the function is named in a call.
 ```C++
-//example
+//example in C++
 include <iostream>
 using std: cout;
 using std: endl;
 
 //Function template to print out an array
+template <typename TN>
+void outputArray(const TN * const array, int size)
+{
+	for (int count = 0; count < size; count++)
+		cout << array[count] << " ";
+	cout << endl;
+} //end of function template outputArray
 
-
+int main()
+{
+	const int Asize = 4;
+	const int Bsize = 3;
+	int A [Asize] = {4,-3,2,5}
+	float B [Bsize] = {3.9, 2.4, 7.7}
+	cout << "The array A holds:" << " ";
+	outputArray (A,Asize);
+	cout << "The array B holds: " << " ";
+	outputArray (B, Bsize);
+	return 0;
+	//end main
+}
 ```
+- The above would yield:
+	- The array A holds: 4 -3 2 5
+	- The array B holds: 3.9 2.4 -1.7
+- And we could also use this to print other arrays, such as an array of characters.
+- Java has generic methods in 5.0 and up.
+- Ada has, for instance:
+```Ada
+generic
+	type ITEM is private;
+	procedure swap (x,y: in out ITEM) is
+		temp:ITEM=x;
+		begin
+			x:=y;
+			y:=temp;
+		end swap;
+```
+- But before use, the generic procedure must be refined for a specific data type, this procedure realSwap is new swap (float)
+	- And only then may use in code realSwap(r1, s2)
+- Ada also permits operations in parameters.
+- 
