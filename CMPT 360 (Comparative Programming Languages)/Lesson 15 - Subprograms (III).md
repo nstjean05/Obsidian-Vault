@@ -66,4 +66,20 @@ generic
 - But before use, the generic procedure must be refined for a specific data type, this procedure realSwap is new swap (float)
 	- And only then may use in code realSwap(r1, s2)
 - Ada also permits operations in parameters.
-- 
+### Variables of Type "TYPE"
+- Modula-2 has some procedures that take implicit parameters of type TYPE, but these are only in the base langauge; users cannot write them.
+	- e.g. `VAL(INTEGER, n)` or `MAX(CARDINAL)`
+- In Russell variables can be of type TYPE
+- In Modula-2 one can write a generic swap using parameters ARRAY OF SYSTEM.LOC (but this breaks type checking entirely)
+- In Modula-2 ISO one cannot write generic procedures on their own but can create generic modules that are parameterized for types that their procedures can then use.
+### Compilation of Program Units
+- Such as library modules, packages, etc. may be:
+#### Independent
+- Compilation without reference to other units
+	- No cross checking of parameter types, say, between a program and a library unit or between two library units.
+#### Separate
+- Perhaps done at different types but with a strategy to cross-check interfaces and enforce consistency.
+##### Typical
+- All interface units are compiled first.
+- Then the program can be compiled as only syntax need be checked and the interface has this.
+- Of course, before anything can be linked, all the implementations (code) must also be compiled and checked for consistency with the interfaces.
