@@ -83,3 +83,38 @@ generic
 - All interface units are compiled first.
 - Then the program can be compiled as only syntax need be checked and the interface has this.
 - Of course, before anything can be linked, all the implementations (code) must also be compiled and checked for consistency with the interfaces.
+
+
+**25. W** **Mar 17** **_Subprograms (3); Issues with functions, Overloading, Generics_** 
+
+**[3]** a. The Ada standard says that implementors can choose to implement inout (not in out) parameters either with copy semantics or with reference semantics. Is this a good thing? Argue your position.
+
+**[6]** b. Consider the following program written in C syntax
+
+void swap (int a, int b)
+
+{  int temp;
+
+    temp = a;
+
+    a = b;
+
+    b = temp;
+
+}
+
+void main ()
+
+{   int value = 2, list [5] = { 1, 3, 5, 7, 9 };
+
+     swap (value, list [0]);
+
+     swap (list[0], list [1]);
+
+     swap (value, list[value]);
+
+}
+
+for each of the parameter passing methods : value, reference, value-result (look this one up), what will be the final values of the variables value and list when the code finishes?  
+
+**[5]** c. Write a program in your favourite language that demonstrates different results can be had if parameter passing semantics is by value or by reference. (Same code for both except for the parameter). Run your code and show me what the output actually was in each case.
