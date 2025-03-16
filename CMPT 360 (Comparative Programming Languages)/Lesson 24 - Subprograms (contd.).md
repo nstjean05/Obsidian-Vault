@@ -38,4 +38,40 @@
 	- e.g. `void doFunky(const int&p, int&q)`
 	- has an in reference parameter and in in-out reference parameter (both reference semantics)
 ### Type Checking of Parameters
-- 
+- Does the type of the actual parameter have to match that of the formal parameter and if so what are the exact rules for "match"?
+- Strongly typed languages require an exact (by name) match all or most of the time. Weakly typed languages might not check this at all.
+- C had the syntax:
+```C
+float cos(x)
+float x
+{
+...
+}
+```
+- Which defined x as float for the function scope, but did not check whether the actual parameters matched.
+- ANSI C & C++ use prototypes (header definitions)
+```C++
+float cos(float x)
+{
+...
+}
+```
+- That do check the type and either:
+	- Do a data conversion if possible OR
+	- Generate a syntax error otherwise.
+	- Also the prototype `printf(const char*,...)` takes an indefinite number of parameters after the initial character string and they may be of any type.
+### Implementation of Parameter Passing Strategies
+##### Pass-by-Value
+- Is implemented by copying the data into the procedure's activation record on the stack.
+- This is usually mutable but unless there is copy-out, the altered values are lost on function/procedure exit.
+##### Pass-by-Reference
+- Is implemented by pointers, which in most languages are *implicitly* dereferenced.
+	- e.g. if the parameter name is `p`, you refer to its data as `p`, rather than `*p` or `p AND`.
+##### Pass-by-Name
+- Is implemented with a code fragment (a *thunk*) that evaluates the name on each instance.
+##### Asides
+1. Arrays present their own problems and often get special treatment (e.g. automatic reference in C)
+2. Passing of procedure/function names as parameters may or may not be allowed and could get special treatment.
+3. In Java there are primitive types (byte, short, int, long, float, double, boolean, char), which are passed by a value.
+	- Everything else is non-primitive and passed by reference.
+4. Python is similar but has no primitive types, so everthing is a refer
