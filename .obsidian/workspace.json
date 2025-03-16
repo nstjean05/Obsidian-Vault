@@ -35,8 +35,7 @@
               "title": "Lesson 25 - Subprograms (III)"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -196,11 +195,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a35217e5887a59ea",
+  "active": "b05b0fe5ab607aa4",
   "lastOpenFiles": [
+    "CMPT 360 (Comparative Programming Languages)/Lesson 25 - Subprograms (III).md",
     "CMPT 360 (Comparative Programming Languages)/Lesson 24 - Subprograms (contd.).md",
     "CMPT 360 (Comparative Programming Languages)/Lesson 23 - Composition.md",
-    "CMPT 360 (Comparative Programming Languages)/Lesson 25 - Subprograms (III).md",
     "CMPT 360 (Comparative Programming Languages)/Lesson 25 - Subprograms (contd.).md",
     "CMPT 360 (Comparative Programming Languages)/Lesson 22 - Control Statements (ii).md",
     "CMPT 360 (Comparative Programming Languages)/Lesson 21 - Control Statements (i).md",
