@@ -1,4 +1,4 @@
-#incomplete 
+#complete  
 ### Terminology (contd.)
 7. The local referencing environment.
 	- Old FORTRAN
@@ -74,4 +74,13 @@ float cos(float x)
 2. Passing of procedure/function names as parameters may or may not be allowed and could get special treatment.
 3. In Java there are primitive types (byte, short, int, long, float, double, boolean, char), which are passed by a value.
 	- Everything else is non-primitive and passed by reference.
-4. Python is similar but has no primitive types, so everthing is a refer
+4. Python is similar but has no primitive types, so everything is a reference.
+	- As such, since these are the same rules as for assignment, it can be called pass-by-assignment, but the semantics are *reference*.
+
+**24. _Subprograms_ (2) The Local Referencing Environment & Parameters**
+
+**[3]** a. Argue for or against the inclusion of the value/type void in C
+
+**[5]** b. Explain in your own words the following succinct saying: "in C everything is a function and in Modula-2 everything is a procedure."
+
+**[5]** c. What are the arguments for and against allowing a program to define additional definitions for existing operators such as is allowed in Python. Is this user-defined operator overloading a good idea or a bad one? Support

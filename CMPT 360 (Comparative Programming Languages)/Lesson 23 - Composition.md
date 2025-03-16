@@ -79,3 +79,12 @@
 		- return value
 	- the subprogram is given a pointer to the a.r. to access its contents
 		- See next set for how this works conceptually.
+
+
+**23. _Composition: Subprograms_**
+
+**[3]** a. Compare the set of control structures in Ada with those in C# and say which are better and why?
+
+**[3]** b. What are the pros and cons for Python's use of indentation to demark compound statements in control statements? 
+
+**[3]** c. Speculate on the reasons control can be transferred into a C loop statement
