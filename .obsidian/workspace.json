@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "switch",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,8 +74,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -181,7 +180,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a35217e5887a59ea",
+  "active": "b7bafca48f2d6c08",
   "lastOpenFiles": [
     "CMPT 360 (Comparative Programming Languages)/Lesson 15 - Subprograms (III).md",
     "README.md",
