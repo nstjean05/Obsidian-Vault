@@ -1,3 +1,4 @@
+#complete
 ### Subprograms
 - Composition mechanisms which are based on a call-return model.
 #### Principle
@@ -77,4 +78,4 @@
 		- local variables
 		- return value
 	- the subprogram is given a pointer to the a.r. to access its contents
-		- see next set for how this works conceptually.
+		- See next set for how this works conceptually.
