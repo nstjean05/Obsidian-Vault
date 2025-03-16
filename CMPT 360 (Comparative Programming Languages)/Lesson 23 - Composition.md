@@ -84,7 +84,7 @@
 **23. _Composition: Subprograms_**
 
 **[3]** a. Compare the set of control structures in Ada with those in C# and say which are better and why?
-- 
+- The set of control structures in Ada and C# are actually very similar in terms of functionality.
 
 **[3]** b. What are the pros and cons for Python's use of indentation to demark compound statements in control statements? 
 
