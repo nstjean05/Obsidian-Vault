@@ -8,4 +8,5 @@
 - Total Revenue  = Price by Quantity
 - TR = $\frac{P}{Q}$
 **Average Revenue**
-- $AR$ = $\frac{PQ}{Q}$ = P
+- $AR$ = $\frac{PQ}{Q}$ = $P$
+If price is higher than average variable cost, then the firm will continue operating in the short term. If the price is below, it will shut down. If the price is below the ATC, then it will lose money but continue producing product.
