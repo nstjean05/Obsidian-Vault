@@ -35,4 +35,5 @@
 - Variable cost divided by the quantity of output.
 **Marginal cost (MC)** 
 - The increase in total cost that arises from an extra unit of production.
-ATC = TC/Q
+ATC = $\frac{TC}{Q}$
+MC = $\frac{∆TC}{∆Q}$
