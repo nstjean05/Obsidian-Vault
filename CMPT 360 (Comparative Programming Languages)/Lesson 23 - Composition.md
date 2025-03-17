@@ -84,8 +84,11 @@
 **23. _Composition: Subprograms_**
 
 **[3]** a. Compare the set of control structures in Ada with those in C# and say which are better and why?
-- The set of control structures in Ada and C# are actually very similar in terms of functionality.
+- The set of control structures in Ada and C# are actually very similar in terms of functionality. Both languages have the standard if, case/switch, for, while, and exception handling statements. One major disadvantage to using Ada is the loss of *continue*, which is used to skip an iteration in a loop. Additionally, C# has more support for variations of standard loops, such as *do/while* or *foreach*, which Ada has not. This would lead me to say that Ada has worse control structures. One possible benefit to using Ada, is that in some cases it is far more readable, as much of the code is written in words rather than symbols.
+https://learn.adacore.com/courses/Ada_For_The_CPP_Java_Developer/chapters/04_Statements_Declarations_and_Control_Structures.
+https://www.geeksforgeeks.org/c-sharp-decision-making-else-else-ladder-nested-switch-nested-switch/
 
-**[3]** b. What are the pros and cons for Python's use of indentation to demark compound statements in control statements? 
+**[3]** b. What are the pros and cons for Python's use of indentation to denote compound statements in control statements? 
+- There are many pros and cons of this method. One of the l
 
 **[3]** c. Speculate on the reasons control can be transferred into a C loop statement
