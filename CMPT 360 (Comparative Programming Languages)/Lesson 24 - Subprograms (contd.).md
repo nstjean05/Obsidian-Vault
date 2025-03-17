@@ -80,7 +80,8 @@ float cos(float x)
 **24. _Subprograms_ (2) The Local Referencing Environment & Parameters**
 
 **[3]** a. Argue for or against the inclusion of the value/type void in C
-- The inclusion of `void` in C, at least applied as a value or type, is certainly a good benefit to the langauge.
+- The inclusion of `void` in C, at least applied as a value or type, is certainly a good benefit to the language. As stated in the ISO standard, "The void type comprises an empty set of values; it is an incomplete object type that cannot be completed." This is useful, as it allows for functions to not need to return anything
+https://www.open-std.org/jtc1/sc22/wg14/www/docs/n2310.pdf
 
 **[5]** b. Explain in your own words the following succinct saying: "in C everything is a function and in Modula-2 everything is a procedure."
 
