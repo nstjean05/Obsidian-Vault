@@ -80,7 +80,7 @@ float cos(float x)
 **24. _Subprograms_ (2) The Local Referencing Environment & Parameters**
 
 **[3]** a. Argue for or against the inclusion of the value/type void in C
-- 
+- The void function provides 
 
 **[5]** b. Explain in your own words the following succinct saying: "in C everything is a function and in Modula-2 everything is a procedure."
 
