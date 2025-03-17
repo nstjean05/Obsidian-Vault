@@ -8,4 +8,4 @@
 - Total Revenue  = Price by Quantity
 - TR = $\frac{P}{Q}$
 **Average Revenue**
-- AR = $\frac{PQ}{Q}$ = P
+- $AR$ = $\frac{PQ}{Q}$ = P
