@@ -36,16 +36,6 @@
             }
           },
           {
-            "id": "e8dcf256293d135e",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
-          },
-          {
             "id": "c719a077cf0283e3",
             "type": "leaf",
             "state": {
@@ -60,7 +50,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
