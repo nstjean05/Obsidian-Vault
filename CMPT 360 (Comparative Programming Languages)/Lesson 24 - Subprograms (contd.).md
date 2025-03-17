@@ -80,9 +80,11 @@ float cos(float x)
 **24. _Subprograms_ (2) The Local Referencing Environment & Parameters**
 
 **[3]** a. Argue for or against the inclusion of the value/type void in C
-- The inclusion of `void` in C, at least applied as a value or type, is certainly a good benefit to the language. As stated in the ISO standard, "The void type comprises an empty set of values; it is an incomplete object type that cannot be completed." This is useful, as it allows for functions to not need to return anything
+- The inclusion of `void` in C, at least applied as a value or type, is certainly a good benefit to the language. As stated in the ISO standard, "The void type comprises an empty set of values; it is an incomplete object type that cannot be completed." This is useful, as it allows for functions to not need to return a value, can declare a function which requires no parameters, or hold an address for any type (void pointers). These abilities outweigh any possible confusion that may arise from using void in an odd way (such as creating a function which neither prints or returns a value).
 https://www.open-std.org/jtc1/sc22/wg14/www/docs/n2310.pdf
+https://stackoverflow.com/questions/25966180/what-exactly-is-type-void-and-how-does-it-work
 
 **[5]** b. Explain in your own words the following succinct saying: "in C everything is a function and in Modula-2 everything is a procedure."
+- 
 
 **[5]** c. What are the arguments for and against allowing a program to define additional definitions for existing operators such as is allowed in Python. Is this user-defined operator overloading a good idea or a bad one? Support
