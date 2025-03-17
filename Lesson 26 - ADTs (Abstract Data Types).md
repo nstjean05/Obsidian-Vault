@@ -53,17 +53,28 @@
 - Aggregate organization structures can be ADTs as well.
 	- Such as stack, queue, binary tree, heap, B-tree, etc.
 
-|                        | Queue (FIFO) | Stack (LIFO) | Binary Tree |
-| ---------------------- | ------------ | ------------ | ----------- |
-| **Construct (Create)** | Create       | Create       | Create      |
-| **Destruct (Destroy)** | Destroy      | Destroy      | Destroy     |
-| **Incorporate**        |              |              |             |
-| **Inspect**            |              |              |             |
-| **Inspect (contd.)**   |              |              |             |
-| **Remove**             |              |              |             |
-| **Locate**             |              |              |             |
-| **Process**            |              |              |             |
-- All three use a pair of float/real but they are not the same
-- All three depend on float/real operations and properties
-	- e.g. commutativity, etc.
-- Another library may contain subsidiary operations as relevant, such as forComplex trig, log, exp, etc.
+|                        | Queue (FIFO)        | Stack (LIFO) | Binary Tree      |
+| ---------------------- | ------------------- | ------------ | ---------------- |
+| **Construct (Create)** | Create              | Create       | Create           |
+| **Destruct (Destroy)** | Destroy             | Destroy      | Destroy          |
+| **Incorporate**        | Enqueue             | Push         | enTree           |
+| **Inspect**            | Next                | Peek         |                  |
+| **Inspect (contd.)**   | Full/Empty          | Full/Empty   | Empty            |
+| **Remove**             | Dequeue             | Pop          | deTree           |
+| **Locate**             | isQueued            | isStacked    | find             |
+| **Process**            | Iteratively remove- | -and process | Traverse/process |
+- Once the ADT is defined, it must be implemented
+- C#, C++ encapsulates using a namespace.
+	- Libraries outside the namespace have their entities qualified for use inside.
+	- This is similar to a module, though the semantics are different.
+- In Modula-2 (ISO) `COMPLEX` is built in as an ADT
+	- Variables of this type (and `LONGCOMPLEX`) need only be declared. (`+-*/` are overloaded)
+	- The constructor is `CMPLX(a,b)` and the inspectors are `RE` and `IM`
+	- All other functions are in the library ComplexMath
+- In Modula-2 as previously noted, other ADTs are best implemented in a library module, which has two points.
+- Java has packages, which is one compilation unit (not like Modula-2)
+	- In two parts:
+		- Package specification (interface/definition)
+		- Package body
+	- In the specification, the structural details of a type are provided but may be designated private and therefor inaccessible to client code.
+- In Euclid, modules are types.
