@@ -85,6 +85,6 @@ https://www.open-std.org/jtc1/sc22/wg14/www/docs/n2310.pdf
 https://stackoverflow.com/questions/25966180/what-exactly-is-type-void-and-how-does-it-work
 
 **[5]** b. Explain in your own words the following succinct saying: "in C everything is a function and in Modula-2 everything is a procedure."
-- Although this saying may not be absolutely true, it refers to the wider approached which these two languages take to language design. From a high-level, 
+- Although this saying may not be absolutely true, it refers to the wider approached which these two languages take to language design. At the top-level, almost everything in C is defined in/as a function. When writing in C, the programmer thinks of the program as being made up of functions, and that is what the language revolves around. In Modula-2, on the other hand, the program is built around procedures. These procedures have side effects which change variables, and make the program go round.
 
 **[5]** c. What are the arguments for and against allowing a program to define additional definitions for existing operators such as is allowed in Python. Is this user-defined operator overloading a good idea or a bad one? Support
