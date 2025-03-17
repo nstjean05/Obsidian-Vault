@@ -92,8 +92,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "1c1db9715e53cd8f",
@@ -197,9 +196,9 @@
   },
   "active": "b05b0fe5ab607aa4",
   "lastOpenFiles": [
-    "CMPT 360 (Comparative Programming Languages)/Lesson 25 - Subprograms (III).md",
     "CMPT 360 (Comparative Programming Languages)/Lesson 24 - Subprograms (contd.).md",
     "CMPT 360 (Comparative Programming Languages)/Lesson 23 - Composition.md",
+    "CMPT 360 (Comparative Programming Languages)/Lesson 25 - Subprograms (III).md",
     "CMPT 360 (Comparative Programming Languages)/Lesson 25 - Subprograms (contd.).md",
     "CMPT 360 (Comparative Programming Languages)/Lesson 22 - Control Statements (ii).md",
     "CMPT 360 (Comparative Programming Languages)/Lesson 21 - Control Statements (i).md",

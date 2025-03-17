@@ -89,6 +89,6 @@ https://learn.adacore.com/courses/Ada_For_The_CPP_Java_Developer/chapters/04_Sta
 https://www.geeksforgeeks.org/c-sharp-decision-making-else-else-ladder-nested-switch-nested-switch/
 
 **[3]** b. What are the pros and cons for Python's use of indentation to denote compound statements in control statements? 
-- There are many pros and cons of this method. One of the l
+- There are many pros and cons of this method. One of the largest pros is that this can enforce readability, making the language easier to understand. However, this method of typing is unfamiliar to most other languages, which can lead to confusion from other programmers. When transferring a block of Python code between editors, sometimes the whitespace can be also removed, which leads to a painstaking process of re-indentation (avoided in languages which use {} to group blocks).
 
 **[3]** c. Speculate on the reasons control can be transferred into a C loop statement
