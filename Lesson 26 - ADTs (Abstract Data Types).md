@@ -35,13 +35,35 @@
 ### ADT Example 1
 - First, define the ADT, its properties and all operations:
 
-|                          | Complex    | Vector      | Point            |
-| ------------------------ | ---------- | ----------- | ---------------- |
-| Properties               | For all 3, | a pair of   | real coordinates |
-| Operations:              |            |             |                  |
-| Create                   | Yes        | Yes         | Yes              |
-| Destroy                  | Yes        | Yes         | Yes              |
-| Construct                | Yes        | Yes         | Yes              |
-| Parts (inspectors)       | Re, Im     | Rise, Run   | Projections      |
-| Alternate Representation | abs, ary   | length, ary | x                |
-| Operators                | + - * /    | + - * neg   | reflect          |
+|                          | Complex    | Vector        | Point                      |
+| ------------------------ | ---------- | ------------- | -------------------------- |
+| Properties               | For all 3, | a pair of     | real coordinates           |
+| Operations:              |            |               |                            |
+| Create                   | Yes        | Yes           | Yes                        |
+| Destroy                  | Yes        | Yes           | Yes                        |
+| Construct                | Yes        | Yes           | Yes                        |
+| Parts (inspectors)       | Re, Im     | Rise, Run     | Projections                |
+| Alternate Representation | abs, ary   | length, ary   | x                          |
+| Operators                | + - * /    | + - * ⊗ ⊙ neg | translate, rotate, reflect |
+- All three use a pair of float/real but they are not the same
+- All three depend on float/real operations and properties
+	- e.g. commutativity, etc.
+- Another library may contain subsidiary operations as relevant, such as forComplex trig, log, exp, etc.
+### ADT Example 2
+- Aggregate organization structures can be ADTs as well.
+	- Such as stack, queue, binary tree, heap, B-tree, etc.
+
+|                        | Queue (FIFO) | Stack (LIFO) | Binary Tree |
+| ---------------------- | ------------ | ------------ | ----------- |
+| **Construct (Create)** | Create       | Create       | Create      |
+| **Destruct (Destroy)** | Destroy      | Destroy      | Destroy     |
+| **Incorporate**        |              |              |             |
+| **Inspect**            |              |              |             |
+| **Inspect (contd.)**   |              |              |             |
+| **Remove**             |              |              |             |
+| **Locate**             |              |              |             |
+| **Process**            |              |              |             |
+- All three use a pair of float/real but they are not the same
+- All three depend on float/real operations and properties
+	- e.g. commutativity, etc.
+- Another library may contain subsidiary operations as relevant, such as forComplex trig, log, exp, etc.
