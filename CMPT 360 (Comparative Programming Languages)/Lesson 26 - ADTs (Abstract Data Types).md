@@ -1,4 +1,4 @@
-#incomplete 
+#complete 
 ### ADTs
 - **Abstraction** is a (high level) view or representation of an entity or process that obscures (deliberately hides) all but the ideas of significant interest.
 	- e.g. Subprograms are process abstractions
@@ -77,4 +77,22 @@
 		- Package specification (interface/definition)
 		- Package body
 	- In the specification, the structural details of a type are provided but may be designated private and therefor inaccessible to client code.
-- In Euclid, modules are types.
+- In Euclid, modules are types
+
+
+**26.** **_Start ADTs Modules and their ilk_**
+
+**[6]** a. Write sample code to show that having a function modify reference parameters can return different results than if the same code is written with value parameters. Run this and hand in the output to show you have indeed answered the question. Give a fundamentally different example than the answer you gave for number 25c.
+
+  
+**[4]** b. What restrictions, if any, are there on function return types in (a) Java and (b) Python
+
+
+**[6]** c. Class types, whose entities are objects are one kind of ADT. Describe how class types are written in Objective-C or ISO Modula-2 (with object extensions) or Java and say how this differs from implementing ADTs in a library (if it does in all cases).
+
+
+**[3]** d. Some software engineers believe that imported entities should always be fully qualified with the name of the container (exporting program unit). Do you agree? Support your argument.
+
+
+**[3]** e. Comment on the use of destructors in C++ and Java.
+
