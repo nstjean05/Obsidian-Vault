@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "1c1db9715e53cd8f",
@@ -183,13 +182,13 @@
   },
   "active": "df9053b35d2fa49c",
   "lastOpenFiles": [
+    "CMPT 360 (Comparative Programming Languages)/Lesson 25 - Subprograms (III).md",
     "CMPT 360 (Comparative Programming Languages)/Lesson 24 - Subprograms (contd.).md",
     "ECON 201 (Microeconomics)/Chapter 13 - The Costs of Production.md",
     "Chapter 14 - Firms in Competitive Markets.md",
     "ECON 201 (Microeconomics)/Chapter 7 - Consumers, Producers, and the Efficiency of Markets.md",
     "Images/Pasted image 20250317092350.png",
     "CMPT 360 (Comparative Programming Languages)/Lesson 26 - ADTs (Abstract Data Types).md",
-    "CMPT 360 (Comparative Programming Languages)/Lesson 25 - Subprograms (III).md",
     "CMPT 360 (Comparative Programming Languages)/Lesson 23 - Composition.md",
     "CMPT 360 (Comparative Programming Languages)/Lesson 25 - Subprograms (contd.).md",
     "CMPT 360 (Comparative Programming Languages)/Lesson 22 - Control Statements (ii).md",
