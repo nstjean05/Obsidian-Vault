@@ -89,4 +89,4 @@ https://stackoverflow.com/questions/25966180/what-exactly-is-type-void-and-how-d
 http://conal.net/blog/posts/everything-is-a-function-in-haskell
 
 **[5]** c. What are the arguments for and against allowing a program to define additional definitions for existing operators such as is allowed in Python. Is this user-defined operator overloading a good idea or a bad one? Support
-- 
+- Operator overloading allows for users to reassign new operations, especially to characters such as `+ - / *`. This has a number of positive and negative effects. On the pro side, this can allow for simplification and greater readability in some scenarios. For instance, the plus or star signs can be overloaded for matrix operations, which may not be built into the language. However, there are some detractions, as in any case where the user is given free will to make poor decisions. A programmer, using overloading, could reassign + to do some strange (series of) operation(s), making the program highly unreadable and obtuse. This can make editing the program difficult, 
