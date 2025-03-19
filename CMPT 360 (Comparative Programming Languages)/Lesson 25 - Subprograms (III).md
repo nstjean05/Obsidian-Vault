@@ -89,7 +89,8 @@ generic
 **25. W** **Mar 17** **_Subprograms (3); Issues with functions, Overloading, Generics_** 
 
 **[3]** a. The Ada standard says that implementors can choose to implement inout (not in out) parameters either with copy semantics or with reference semantics. Is this a good thing? Argue your position.
-- Copy semantics refer to copying the value rather than the pointer of a variable, and reference semantics do the opposite. `inout` is the mode wherein parameters can both receive and return data from 
+- Copy semantics refer to copying the value rather than the pointer of a variable, and reference semantics do the opposite. `inout` is the mode in which parameters can receive data from and return data its calling function. I think that this is a good thing, as it allows the program to be more specifically optimized. Giving programmers the choice between copy and reference semantics allows them to switch the two for different use cases, even within the same program.
+https://stackoverflow.com/questions/53485906/what-exactly-is-a-caller-in-python
 
 **[6]** b. Consider the following program written in C syntax:
 ```C
