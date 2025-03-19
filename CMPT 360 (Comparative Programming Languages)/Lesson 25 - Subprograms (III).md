@@ -89,7 +89,7 @@ generic
 **25. W** **Mar 17** **_Subprograms (3); Issues with functions, Overloading, Generics_** 
 
 **[3]** a. The Ada standard says that implementors can choose to implement inout (not in out) parameters either with copy semantics or with reference semantics. Is this a good thing? Argue your position.
-- Copy semantics refer to copying the value rather than the pointer of a variable, and reference semantics do the opposite.  
+- Copy semantics refer to copying the value rather than the pointer of a variable, and reference semantics do the opposite. `inout` is the mode wherein parameters can receive
 
 **[6]** b. Consider the following program written in C syntax:
 ```C
