@@ -90,7 +90,7 @@ generic
 
 **[3]** a. The Ada standard says that implementors can choose to implement inout (not in out) parameters either with copy semantics or with reference semantics. Is this a good thing? Argue your position.
 - Copy semantics refer to copying the value rather than the pointer of a variable, and reference semantics do the opposite. `inout` is the mode in which parameters can receive data from and return data its calling function. I think that this is a good thing, as it allows the program to be more specifically optimized. Giving programmers the choice between copy and reference semantics allows them to switch the two for different use cases, even within the same program.
-https://stackoverflow.com/questions/53485906/what-exactly-is-a-caller-in-python
+Textbook
 
 **[6]** b. Consider the following program written in C syntax:
 ```C
@@ -109,5 +109,13 @@ void main ()
 }
 ```
 For each of the parameter passing methods : value, reference, value-result (look this one up), what will be the final values of the variables value and list when the code finishes?  
-
+1. Value
+	1. value = 2
+	2. list = {3,1,5,7,9}
+2. Reference
+	1. value = 2
+	2. list = {3,1,5,7,9}
+3. Value-Result
+	1. value = 2
+	2. list = {3,1,5,7,9}
 **[5]** c. Write a program in your favourite language that demonstrates different results can be had if parameter passing semantics is by value or by reference. (Same code for both except for the parameter). Run your code and show me what the output actually was in each case.
