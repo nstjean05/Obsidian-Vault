@@ -111,11 +111,12 @@ void main ()
 For each of the parameter passing methods : value, reference, value-result (look this one up), what will be the final values of the variables value and list when the code finishes?  
 1. Value
 	1. value = 2
-	2. list = {3,1,5,7,9}
+	2. list = {1,3,5,7,9}
 2. Reference
 	1. value = 2
 	2. list = {3,1,5,7,9}
 3. Value-Result
 	1. value = 2
 	2. list = {3,1,5,7,9}
+
 **[5]** c. Write a program in your favourite language that demonstrates different results can be had if parameter passing semantics is by value or by reference. (Same code for both except for the parameter). Run your code and show me what the output actually was in each case.
