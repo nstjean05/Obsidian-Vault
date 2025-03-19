@@ -120,3 +120,33 @@ For each of the parameter passing methods : value, reference, value-result (look
 	2. list = {3,1,5,7,9}
 
 **[5]** c. Write a program in your favourite language that demonstrates different results can be had if parameter passing semantics is by value or by reference. (Same code for both except for the parameter). Run your code and show me what the output actually was in each case.
+```python
+def listVar(lst):
+	print("\nList passed by reference:")
+	print("Before changing the list:", lst)
+	lst.append(12)
+	print("After changing the list:", lst)
+
+def intVar(x):
+	print("\nInt passed by value:")
+	print("Before changing the integer, x =", x)
+	x = 9
+	print("After changing the integer, x =", x)
+  
+def main():
+	y = 12
+	print("\nInt example:")
+	print("Before calling intVar, y =", y)
+	intVar(y)
+	print("After calling intVar, y =", y)
+	
+	lst = [3, 6, 9]
+	print("\nExample with a list:")
+	print("Before calling listVar, list =", lst)
+	listVar(lst)
+	print("After calling listVar, list =", lst, "\n")
+
+  
+
+main()
+```
