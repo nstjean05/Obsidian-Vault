@@ -1,3 +1,4 @@
+#incomplete 
 ### Object Oriented Basics
 - Procedural languages are activity-centric.
 	- The programmer passes information about an entity to a procedure and it takes action and/or computes results.
