@@ -66,4 +66,39 @@
 		- A consumer informs the buffer it can accept data and suspends itself on a consumer queue
 		- If the buffer can accept data it does so from the next producer on the queue until either the buffer is full or no more data
 		- If the buffer has data it ships it to the next consumer on the consumer queue until the buffer is empty or consumer not ready
-	- In this mode
+	- In this model the buffer ADT serves as a *monitor* or scheduler that controls the process suite.
+		- A monitor is a *parent* or controlling process that determines when any other process in the suite may run. Those others are all *children*.
+	- At any given time a task in the suite may be:
+		- New (created)
+		- Ready (suspended on a queue)
+		- Running
+		- Blocked (Stopped)
+			- In an unflinching state due to...
+				- An interrupt from a higher priority process
+				- lack of a necessary resource
+		- Dead (terminated) and unable to run.
+	- **Note** A cooperative system is live if all its ready or blocked processes can eventually run.
+	- **However** suppose we have two processes P and Q, both of which need resources R and S.
+		- P locks R and requests S while Q locks S and requests R
+		- So, P suspends itself to wait for S to signal ready
+		- Q suspends itself to wait for R to signal ready
+		- If neither can release its locked resource to allow for the other to run, the system is not alive.
+		- We say is is *deadlocked* or in *deadly embrace*
+### Process Synchronization
+#### Semaphores
+- If:
+	- P processes can run at once
+	- R Processes are currently running
+	- A = P - R process *slots* are available.
+- Therefore, if a process asks to run and A > 0, it can run, but if A = 0 it must be suspended on a *wait queue*
+- If a process suspends, a slot is released
+- If a resource is competitive a *binary* or *locking semaphore* can be used to signal *available* or *unavailable*
+- **Note** if semaphores are set up or used improperly data will likely be corrupted.
+#### Monitors
+- One process is the parent or monitor it starts all the other processes and controls access to the standard resource.
+#### Coroutines
+- These are quasi-concurrent or time-shared processses each identified with...
+	- A task
+	- A memory block
+	- A subprogram
+- Initially one is the parent and dispatches control to another. After that control passes
