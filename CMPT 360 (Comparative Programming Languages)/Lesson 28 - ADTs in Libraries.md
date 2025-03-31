@@ -45,4 +45,25 @@
 - Tasks are disjoint if they neither communicate with each other or share data (this is rare)
 - Cooperative tasks must be synchronized to share resources.
 ### Concurrency Architecture
-- Multiple processes simultaneously 
+- Multiple processes simultaneously (all requiring more than one processor)
+	- **Parent Child** (auxiliary):
+		- One CPU for the program, others for I/O
+		- Almost all modern computers do this
+	- **True Peer Multiprocessing** (multiple CPU cores)
+		- Same process on different data
+		- SIMD - single instruction multiple data (a common vector architecture has a register to share results)
+		- Multiple synchronized processes
+- Time Sharing
+	- Where there are fewer processors that processes
+	- Also called logical concurrency or quasi-concurrency
+	- Here, several processes compete for time on one or more processors
+	- **Note** that given problem may be solved either way
+	- A producer-consumer system (such as a print buffer)
+		- Units producing data send to the buffer, which sends to units consuming data.
+	- All units must cooperate to maintain the data buffer
+		- No two may update the shared resource simultaneously
+		- A producer informs the buffer it has data waiting and suspends itself on a producer queue
+		- A consumer informs the buffer it can accept data and suspends itself on a consumer queue
+		- If the buffer can accept data it does so from the next producer on the queue until either the buffer is full or no more data
+		- If the buffer has data it ships it to the next consumer on the consumer queue until the buffer is empty or consumer not ready
+	- In this mode
