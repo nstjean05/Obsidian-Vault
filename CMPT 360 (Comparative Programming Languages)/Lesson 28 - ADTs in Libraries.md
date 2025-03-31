@@ -1,4 +1,4 @@
-#incomplete 
+#complete
 ### ADTs in Libraries
 ##### Typical Rules (may vary)
 - The order of imports to a program unit determines one or more orders of compilation for the library modules (when they need to be (re)compiled)
@@ -101,4 +101,22 @@
 	- A task
 	- A memory block
 	- A subprogram
-- Initially one is the parent and dispatches control to another. After that control passes
+- Initially one is the parent and dispatches control to another. After that control passes among all the coroutines as peers.
+- After that, ...
+	- Each coroutine retains control until it transfers that control to another coroutine
+	- If any coroutine ends the program ends.
+	- On a transfer in a coroutine resumes when it left off rather than starting over.
+	- That is, this is *not* call-return semantics, even if procedures are used as coroutines.
+#### Threads
+-  Are typically a prioritized code that can exist in multiple instances.
+	- Can execute concurrently
+	- Scheduling varies, but on single processors is shared round-robin style.
+- Java has a *Thread* class which when subclassed provides services to individual threads such as:
+	- Yield - voluntarily surrender control, go on a task ready queue.
+	- Sleep(n) - block for n milliseconds then go on a ready queue.
+	- Thread priorities 1(min) to 10(max) default is 5
+	- Get priority
+	- Synchronized (for locking resource objects)
+	- Wait (suspends the thread)
+	- Notify (tells a waiting thread its resources are ready)
+	- e.g. C# threads are similar to Java's with some differences (look it up)
