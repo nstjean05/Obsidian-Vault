@@ -20,8 +20,65 @@
               "icon": "lucide-file",
               "title": "Lesson 28 - ADTs in Libraries"
             }
+          },
+          {
+            "id": "acc3ab4f444c9e8e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CMPT 360 (Comparative Programming Languages)/Lesson 31 - Object Oriented Design.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Lesson 31 - Object Oriented Design"
+            }
+          },
+          {
+            "id": "05d0ea184a810eaa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CMPT 360 (Comparative Programming Languages)/Lesson 32 - Inheritance.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Lesson 32 - Inheritance"
+            }
+          },
+          {
+            "id": "ac683892d5c3a8ef",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CMPT 360 (Comparative Programming Languages)/Lesson 33 - An Outline of Ada.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Lesson 33 - An Outline of Ada"
+            }
+          },
+          {
+            "id": "b328b67f1b7afd8a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CMPT 360 (Comparative Programming Languages)/Lesson 34 - Lisp and Scheme.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Lesson 34 - Lisp and Scheme"
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -74,8 +131,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -182,13 +238,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a723856e49868ce2",
+  "active": "b328b67f1b7afd8a",
   "lastOpenFiles": [
+    "CMPT 360 (Comparative Programming Languages)/Lesson 33 - An Outline of Ada.md",
+    "CMPT 360 (Comparative Programming Languages)/Lesson 32 - Inheritance.md",
+    "CMPT 360 (Comparative Programming Languages)/Lesson 31 - Object Oriented Design.md",
+    "CMPT 360 (Comparative Programming Languages)/Lesson 28 - ADTs in Libraries.md",
+    "CMPT 360 (Comparative Programming Languages)/Lesson 34 - Lisp and Scheme.md",
     "CMPT 360 (Comparative Programming Languages)/Lesson 27 - Library Modules.md",
     "CMPT 360 (Comparative Programming Languages)/Lesson 26 - ADTs (Abstract Data Types).md",
     "CMPT 360 (Comparative Programming Languages)/Lesson 24 - Subprograms (contd.).md",
     "CMPT 360 (Comparative Programming Languages)/Lesson 23 - Composition.md",
-    "CMPT 360 (Comparative Programming Languages)/Lesson 28 - ADTs in Libraries.md",
     "ECON 201 (Microeconomics)/Chapter 13 - The Costs of Production.md",
     "ECON 201 (Microeconomics)/Chapter 14 - Firms in Competitive Markets.md",
     "CMPT 360 (Comparative Programming Languages)/Lesson 30 - OOP.md",
@@ -207,10 +267,6 @@
     "CMPT 360 (Comparative Programming Languages)/Lesson 17 - Pointers.md",
     "CMPT 360 (Comparative Programming Languages)/Lesson 15 - User-Defined Ordinal Types.md",
     "CMPT 360 (Comparative Programming Languages)/Lesson 14 - Data Types.md",
-    "CMPT 360 (Comparative Programming Languages)/Lesson 13 - Scope.md",
-    "ECON 201 (Microeconomics)/Chapter 8 - Application of the Costs of Taxation.md",
-    "CMPT 231 (Data Structures and Algorithms)/Appendix I - Hashing.md",
-    "CMPT 360 (Comparative Programming Languages)/Lesson 12 - Type Checking.md",
     "Images/Pasted image 20250224103108.png",
     "Images/Pasted image 20250226103926.png",
     "Images/Pasted image 20250226103207.png",
