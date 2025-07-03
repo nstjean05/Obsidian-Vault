@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PHIL 105/(06.27.2025) The Problem of Evil.md",
+                "file": "C++ Learnings/C++ Intro.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "(06.27.2025) The Problem of Evil"
+              "title": "C++ Intro"
             }
           }
         ],
@@ -195,10 +195,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b7bafca48f2d6c08",
+  "active": "524503d22e9e6df9",
   "lastOpenFiles": [
-    "PHIL 105/(06.20.2025) The 5 Ways of Saint Thomas Aquinas.md",
+    "README.md",
+    "C++ Learnings/C++ Intro.md",
+    "READMA.md",
     "PHIL 105/(06.27.2025) The Problem of Evil.md",
+    "C++ Learnings",
+    "PHIL 105/(06.20.2025) The 5 Ways of Saint Thomas Aquinas.md",
     "CMPT 360 (Comparative Programming Languages)/Lesson 28 - ADTs in Libraries.md",
     "PHIL 105",
     "CMPT 360 (Comparative Programming Languages)/Lesson 29 - Exception Handling.md",
@@ -221,10 +225,7 @@
     "CMPT 360 (Comparative Programming Languages)/Lesson 18 - Type Compatibility Strategies.md",
     "CMPT 360 (Comparative Programming Languages)/Lesson 21 - Control Statements (i).md",
     "CMPT 360 (Comparative Programming Languages)/Lesson 22 - Control Statements (ii).md",
-    "ECON 201 (Microeconomics)/Chapter 7 - Consumers, Producers, and the Efficiency of Markets.md",
     "Images/Pasted image 20250317092350.png",
-    "CMPT 360 (Comparative Programming Languages)/Lesson 25 - Subprograms (contd.).md",
-    "README.md",
     "Images/Pasted image 20250224103108.png",
     "Images/Pasted image 20250226103926.png",
     "Images/Pasted image 20250226103207.png",

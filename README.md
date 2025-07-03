@@ -1,1 +1,1 @@
-//This is a collection of notes based off of and other courses at TWU.
+//This is a collection of notes based off several courses at TWU, and other miscellaneous resources.
