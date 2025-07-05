@@ -8,20 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c254cec11b2f0d2e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PHIL 105/(06.20.2025) The 5 Ways of Saint Thomas Aquinas.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "(06.20.2025) The 5 Ways of Saint Thomas Aquinas"
-            }
-          },
-          {
             "id": "524503d22e9e6df9",
             "type": "leaf",
             "state": {
@@ -35,8 +21,7 @@
               "title": "(07.04.25) Science and the Rational Method"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -198,6 +183,7 @@
   },
   "active": "524503d22e9e6df9",
   "lastOpenFiles": [
+    "PHIL 105/(06.20.2025) The 5 Ways of Saint Thomas Aquinas.md",
     "PHIL 105/(07.04.25) Science and the Rational Method.md",
     "PHIL 105/(06.27.2025) The Problem of Evil.md",
     "C++ Learnings/Chapter 0.md",
@@ -205,7 +191,6 @@
     "README.md",
     "READMA.md",
     "C++ Learnings",
-    "PHIL 105/(06.20.2025) The 5 Ways of Saint Thomas Aquinas.md",
     "CMPT 360 (Comparative Programming Languages)/Lesson 28 - ADTs in Libraries.md",
     "PHIL 105",
     "CMPT 360 (Comparative Programming Languages)/Lesson 29 - Exception Handling.md",
