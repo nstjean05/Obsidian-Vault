@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PHIL 105/Untitled.md",
+                "file": "PHIL 105/(07.04.25) Science and the Rational Method.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "(07.04.25) Science and the Rational Method"
             }
           }
         ],
@@ -93,7 +93,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 406.5
+    "width": 254.5,
+    "collapsed": true
   },
   "right": {
     "id": "1c1db9715e53cd8f",
@@ -197,12 +198,12 @@
   },
   "active": "524503d22e9e6df9",
   "lastOpenFiles": [
+    "PHIL 105/(06.27.2025) The Problem of Evil.md",
+    "PHIL 105/(07.04.25) Science and the Rational Method.md",
     "C++ Learnings/Chapter 0.md",
-    "PHIL 105/Untitled.md",
     "C++ Learnings/C++ Intro.md",
     "README.md",
     "READMA.md",
-    "PHIL 105/(06.27.2025) The Problem of Evil.md",
     "C++ Learnings",
     "PHIL 105/(06.20.2025) The 5 Ways of Saint Thomas Aquinas.md",
     "CMPT 360 (Comparative Programming Languages)/Lesson 28 - ADTs in Libraries.md",
