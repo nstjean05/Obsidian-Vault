@@ -31,7 +31,11 @@ Animals cannot reason solely because they cannot create signs to communicate wit
 Animals can create signs to communicate.
 Therefore animals can reason.
 ##### Part 6
-An unusual claim that Descartes makes, which may say a lot about him, is that taking on assistants/pupils to do a task will never be as useful as doing it yourself. I took problem with this, as clearly after a time, the students will catch up and the teacher would be able to multiply his efficiency many fold. In Descartes' context, of generating ideas, I can see how this may be an ineffective process. He explains how an idea is much more useful if you had to struggle to gain understanding of it (p. 58), and so giving someone the answers would be futile for their education. However, I think that it is still important and useful to teach and train other to do as you do. Even if the master dies before their student 
+An unusual claim that Descartes makes, which may say a lot about him, is that taking on assistants/pupils to do a task will never be as useful as doing it yourself. I took problem with this, as clearly after a time, the students will catch up and the teacher would be able to multiply his efficiency many fold. In Descartes' context, of generating ideas, I can see how this may be an ineffective process. He explains how an idea is much more useful if you had to struggle to gain understanding of it (p. 58), and so giving someone the answers would be futile for their education. However, I think that it is still important and useful to teach and train other to do as you do. Even if the master dies before their student can reach their understanding, the student can have been given a launch pad from which they can reach even greater heights. This teaching may even slow down the progress of the master, but ultimately the ideas will end with the master if they are not taught to the next generation.
+Logical Reconstruction:
+Grappling first-hand is the only way to understand ideas, and develop new ones.
+Ideas can be understood by being taught them.
+Grappling with ideas is not the only way to develop new ones.
 ### Meditations, René Descartes
 ##### Meditation I
 
