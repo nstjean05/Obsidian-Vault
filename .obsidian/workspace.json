@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PHIL 105/(07.18.25) Essence and the Ship of Theseus.md",
+                "file": "PHIL 105/DotM - Part 1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "(07.18.25) Essence and the Ship of Theseus"
+              "title": "DotM - Part 1"
             }
           }
         ]
@@ -180,11 +180,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f353b5d076baf69d",
+  "active": "b7bafca48f2d6c08",
   "lastOpenFiles": [
+    "PHIL 105/(07.18.25) Essence and the Ship of Theseus.md",
+    "PHIL 105/DotM - Part 1.md",
     "PHIL 105/(06.27.25) The Problem of Evil.md",
     "PHIL 105/(06.20.25) The 5 Ways of Saint Thomas Aquinas.md",
-    "PHIL 105/(07.18.25) Essence and the Ship of Theseus.md",
     "PHIL 105/(07.11.25) Descartes Proof of God.md",
     "PHIL 105/(07.04.25) Science and the Rational Method.md",
     "C++ Learnings/Chapter 0.md",
@@ -209,7 +210,6 @@
     "ECON 201 (Microeconomics)/Chapter 13 - The Costs of Production.md",
     "ECON 201 (Microeconomics)/Chapter 14 - Firms in Competitive Markets.md",
     "CMPT 360 (Comparative Programming Languages)/Lesson 25 - Subprograms (III).md",
-    "CMPT 360 (Comparative Programming Languages)/Lesson 5 - Programming Language History II.md",
     "Images/Pasted image 20250317092350.png",
     "Images/Pasted image 20250224103108.png",
     "Images/Pasted image 20250226103926.png",
