@@ -1,7 +1,7 @@
 - For each section, write out a 4-sentence analysis/response to the main argument discussed, or one you are interested in.
 ### Discourses on the Method, René Descartes
 ##### Part 1
-On page eight of Discourses on the Method, Descartes goes into great detail regarding the importance of travelling and conversing with those different from ourselves. After devoting "enough time both to the study of languages and to the reading of the books, histories, and fables of the classical world" (p. 8), he determined that 
+On page eight of Discourses on the Method, Descartes goes into great detail regarding the importance of travelling and conversing with those different from ourselves. After devoting "enough time both to the study of languages and to the reading of the books, histories, and fables of the classical world" (p. 8), he determined that it was equally important to explore the world and experience international customs. Descartes eventually lands in a position of balance, claiming that immersion in either end (academia or travel) leads to ignorance. Immersion in academia to leading to the ignorance of modern events and culture, 
 ##### Part 2
 
 ##### Part 3
