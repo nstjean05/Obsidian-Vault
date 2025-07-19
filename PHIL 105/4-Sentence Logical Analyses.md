@@ -7,8 +7,13 @@ You cannot securely judge your own people's customs without understanding those 
 Many people do not understand other people's customs.
 Therefore many people are not secure in judging their own customs.
 ##### Part 2
-Descartes outlines four rules, with which he claims that any and all reasoning can be made using. Firstly, to not accept anything to be true which is not incontrovertibly so. Second, divide the difficulties of examination into a multitude of parts. Following this, the third was to order thoughts use Occam's razor, building in complexity. Finally, make very general arguments so that nothing slips around the edges. I think that this is, generally, 
+Descartes outlines four rules, with which he claims that any and all reasoning can be made using. Firstly, to not accept anything to be true which is not incontrovertibly so. Second, divide the difficulties of examination into a multitude of parts. Following this, the third was to order thoughts use Occam's razor, building in complexity. Finally, make very general arguments so that nothing slips around the edges. I think that this is, generally, sufficient to guide reasoning. However, the first of these principles is a major leap, and I think has lead to major consequences in his writings. He has a high bar to accept what is true--which I think is a good thing. Once something makes it over this bar, though, it can wreak havoc on his arguments. For example, because of the his time, there were ideas thought to be common knowledge which we now know to be false. The way that the mind, and brain, works is much more complex than used to be thought, leading to holes in his thoughts regarding the mind-body distinction. The brain isn't simply a unified black box which takes inputs and divulges outputs, rather it is more like a complex computer with many components. I understand how Descartes utilized this rule to help make a baseline of truth for his philosophy, but it has some unfortunate side effects in the rare times it falls short.
+Logical Reconstruction:
+Descartes arguments are true because the fundamentals he chose were true.
+Some of the fundamentals he chose are not true.
+Therefore some of his arguments are not true.
 ##### Part 3
+
 
 ##### Part 4
 
