@@ -31,7 +31,7 @@ Animals cannot reason solely because they cannot create signs to communicate wit
 Animals can create signs to communicate.
 Therefore animals can reason.
 ##### Part 6
-
+An unusual claim that Descartes makes, which may say a lot about him, is that taking on assistants/pupils to do a task will never be as useful as doing it yourself. I took problem with this, as clearly after a time, the students will catch up and the teacher would be able to multiply his efficiency many fold. In Descartes' context, of generating ideas, I can see how this may be an ineffective process. He explains how an idea is much more useful if you had to struggle to gain understanding of it (p. 58), and so giving someone the answers would be futile for their education. However, I think that it is still important and useful to teach and train other to do as you do. Even if the master dies before their student 
 ### Meditations, René Descartes
 ##### Meditation I
 
