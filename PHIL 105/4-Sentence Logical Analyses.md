@@ -19,8 +19,11 @@ If resolute actions were to always lead to good outcomes, then charging with fix
 Fixed beliefs can lead to bad outcomes.
 Therefore resolute actions don't always have good outcomes.
 ##### Part 4
-In part 4, Descartes makes the claim that not only is the mind separate from the body, but that it "is even easier to know than the body" (p. 20). Through this course we have discussed in depth about the potential separation between body and mind, but in this statement Descartes also proposes that the mind is even easier to know than the body. I would greatly disagree with this statement. Today, so much is known about the body, down to the smallest details. Doctors know exactly how many bones, organs, and muscles the body contains, and kinesiologists know how to push those bones and muscles to their limits. You can know, empirically, if you do something to it that something will happen. Consistently lifting weights will lead to stronger muscles, for example. The mind, however, is something else entirely. Yes, it has been explored for thousands of years, but we still do not understand how to interact with it. O
-
+In part 4, Descartes makes the claim that not only is the mind separate from the body, but that it "is even easier to know than the body" (p. 20). Through this course we have discussed in depth about the potential separation between body and mind, but in this statement Descartes also proposes that the mind is even easier to know than the body. I would greatly disagree with this statement. Today, so much is known about the body, down to the smallest details. Doctors know exactly how many bones, organs, and muscles the body contains, and kinesiologists know how to push those bones and muscles to their limits. You can know, empirically, if you do something to it that something will happen. Consistently lifting weights will lead to stronger muscles, for example. The mind, however, is something else entirely. Yes, it has been explored for thousands of years, but we still do not understand how to interact with it. If you put a thousand people in an experience or life circumstance, your result will be a thousand different minds.
+Logical reconstruction:
+Assume all people are the same.
+Then how people react to the same circumstances would be the same, but they don't.
+Therefore not all people are the same.
 ##### Part 5
 
 ##### Part 6
