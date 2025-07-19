@@ -13,6 +13,10 @@ Descartes arguments are true because the fundamentals he chose were true.
 Some of the fundamentals he chose are not true.
 Therefore some of his arguments are not true.
 ##### Part 3
+One of the maxims Descartes lived by was the importance of sticking to the path, once you have chosen it. This maxim is provided to help avoid "finding [yourself] lost in a forest" (p. 22), or becoming inactive due to indecisiveness. I understand his reasoning for this claim, as many people toil in one place while making no headway, simply because they cannot chose one thing to go all in on. I offer a similar critique as I did in part 2; one must not let this allow themself to become rigid due to this resolution. I know many people who fasten in their mind some fundamental belief, and charge in a futile direction based on that belief. Yes, sometimes this can lead to great success, but often it simply leads to destitution. While it is important to be resolute, work hard, and make progress, it is important to not become rigid and close your ears to others ideas and perspectives.
+Logical Reconstruction:
+Moving in a straight line will lead you somewhere else.
+It is better to be somewhere else than where you are now.
 
 
 ##### Part 4
