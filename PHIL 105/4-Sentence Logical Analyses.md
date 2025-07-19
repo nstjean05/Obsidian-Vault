@@ -25,7 +25,11 @@ Assume all people are the same.
 Then how people react to the same circumstances would be the same, but they don't.
 Therefore not all people are the same.
 ##### Part 5
-
+One claim that Descartes makes is that "not only that animals have less reason than man, but that they have none at all" (p. 47). I think that this is very evidently false, and so does anyone with a pet. I can very clearly watch my dog reason whether she should stay on a warm lap, or run over to the person who has just opened the fridge. This is even more emphasized in larger animals. Dolphins, for example, will bring fish up to people on docks, in the hopes that the people will interact and play with them. It may be true that most animals are not close to humans in intelligence and reasoning, but this does not mean that they have absolutely none.
+Logical reconstruction.
+Animals cannot reason solely because they cannot create signs to communicate with other animals.
+Animals can create signs to communicate.
+Therefore animals can reason.
 ##### Part 6
 
 ### Meditations, René Descartes
