@@ -1,0 +1,1 @@
+- For each section, write out a 4-sentence analysis/response to a
