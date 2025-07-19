@@ -15,11 +15,11 @@ Therefore some of his arguments are not true.
 ##### Part 3
 One of the maxims Descartes lived by was the importance of sticking to the path, once you have chosen it. This maxim is provided to help avoid "finding [yourself] lost in a forest" (p. 22), or becoming inactive due to indecisiveness. I understand his reasoning for this claim, as many people toil in one place while making no headway, simply because they cannot chose one thing to go all in on. I offer a similar critique as I did in part 2; one must not let this allow themself to become rigid due to this resolution. I know many people who fasten in their mind some fundamental belief, and charge in a futile direction based on that belief. Yes, sometimes this can lead to great success, but often it simply leads to destitution. While it is important to be resolute, work hard, and make progress, it is important to not become rigid and close your ears to others ideas and perspectives.
 Logical Reconstruction:
-Moving in a straight line will lead you somewhere else.
-It is better to be somewhere else than where you are now.
-
-
+If resolute actions were to always lead to good outcomes, then charging with fixed beliefs would never lead to bad outcomes.
+Fixed beliefs can lead to bad outcomes.
+Therefore resolute actions don't always have good outcomes.
 ##### Part 4
+In part 4, Descartes makes the claim that not only is the mind separate from the body, but that it "is even easier to know than the body" (p. 20). Through this course we have discussed in depth about the potential separation between body and mind, but in this statement Descartes also proposes that the mind is even easier to know than the body. I would greatly disagree with this statement. Today, so much is known about the body, down to the smallest details. Doctors know exactly how many bones, organs, and muscles the body contains, and kinesiologists know how to push those bones and muscles to their limits. You can know, empirically, if you do something to it that something will happen. Consistently lifting weights will lead to stronger muscles, for example. The mind, however, is something else entirely. Yes, it has been explored for thousands of years, but we still do not understand how to interact with it. O
 
 ##### Part 5
 
