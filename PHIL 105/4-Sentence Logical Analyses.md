@@ -53,10 +53,10 @@ In this fourth meditation I discover one of my favourite lines in the series: "T
 Logical Reconstruction:
 
 ##### Meditation V
-A fascinating discussion is made in the fifth meditation regarding God's existence, and the imagining of it. Descartes explains a sophistic argument, pertaining to how thought does not impose necessity. For example, "...I am free to imagine a winged horse, even if no horse actually does have wings..." (p. 47). This can be paralleled to imagining a God, even though He does not exist. I have heard this argument in conversations before, but until now I was not really sure how to respond to it. But Descartes rejects this sophism with vigour. He ex
+A fascinating discussion is made in the fifth meditation regarding God's existence, and the imagining of it. Descartes explains a sophistic argument, pertaining to how thought does not impose necessity. For example, "...I am free to imagine a winged horse, even if no horse actually does have wings..." (p. 47). This can be paralleled to imagining a God, even though He does not exist. I have heard this argument in conversations before, but until now I was not really sure how to respond to it. But Descartes rejects this sophism with vigour. He explains that God and existence cannot be separated, just as a mountain and a valley cannot be separated. With a higher point, there must be a lower point somewhere. Similarly, God cannot be thought of except as existing (p. 48). Interestingly, Descartes notes that this thinking of God does not bring about God's existence, which I would like to explore more as it has some kind of friction with *cogito, ergo sum*. For now though, it has solved an issue my mind has puzzled over for a long time.
 
 ##### Meditation VI
-
+Once more I have difficulty getting over Descartes' obsession with the indivisibility of the mind. Perhaps this is due to my lack of creativity, in imagining the mind as an immaterial thing which can affect my material actions. It is even written in the Bible that when we go to heaven we will be given new bodies (Phil. 3:21), and I can only envision these as being physical ones to house our minds. I also don't tend to believe in a soul in the traditional sense, due to my leaning towards materialism. 
 
 
 
