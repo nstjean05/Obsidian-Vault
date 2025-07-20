@@ -1,4 +1,3 @@
-- For each section, write out a 4-sentence analysis/response to the main argument discussed, or one you are interested in.
 ### Discourses on the Method, René Descartes
 ##### Part 1
 On page eight of Discourses on the Method, Descartes goes into great detail regarding the importance of travelling and conversing with those different from ourselves. After devoting "enough time both to the study of languages and to the reading of the books, histories, and fables of the classical world" (p. 8), he determined that it was equally important to explore the world and experience international customs. Descartes eventually lands in a position of balance, claiming that immersion in either end (academia or travel) leads to ignorance. Immersion in academia to leading to the ignorance of modern events and culture, while continual travel can make you become a stranger in your own country. I find this to be particularly important in the modern day, where for many people it is difficult to find any sort of middle ground. People argue over all manner of things because of their ignorance of history, or lack of understanding of other peoples.
@@ -38,7 +37,7 @@ New ideas are still being understood after thousands of years.
 Ideas can be understood without understanding all prior ones.
 ### Meditations, René Descartes
 ##### Meditation I
-
+One of the interesting topics frequently discussed by Descartes in his meditations is that of wakefulness and dreaming. It is so interesting to hear him discuss how all of our current reality may only be constructed in our own head. There are also medical cases of this happening, where people live whole other lives and learn languages while in a coma or similar mental state. Sometimes it is easy to detect when you are dreaming, and you can recognize that the sense of touch is not right, or that you can control your surroundings. Other times, it feels completely seamless with reality.
 ##### Meditation II
 
 ##### Meditation III
@@ -48,6 +47,11 @@ Ideas can be understood without understanding all prior ones.
 ##### Meditation V
 
 ##### Meditation VI
+
+
+
+
+
 1. **They say**... 
 2. **I say**... 
 3. **One might object that**... 
