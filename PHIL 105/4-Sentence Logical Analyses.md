@@ -49,10 +49,11 @@ I find it interesting here how Descartes begins the meditation by exploring the 
 Logical Reconstruction:
 
 ##### Meditation IV
-In this fourth meditation I discover one of my favourite lines in the series: "The privation in which the essence of error consists lies in this wrong use of free choice" (p. 43). Descartes goes on to explain that any error is wholly derived from himself, and completely separate from his God-given gifts, or in any way that he operates which is dependent on God. I took this to mean that any mistake we make as a human arises completely from our abuse of free will. As someone who doesn't agree with the idea of being born with sin, this makes a lot of sense to me. Along our progression from childhood, we begin to gain more control of
+In this fourth meditation I discover one of my favourite lines in the series: "The privation in which the essence of error consists lies in this wrong use of free choice" (p. 43). Descartes goes on to explain that any error is wholly derived from himself, and completely separate from his God-given gifts, or in any way that he operates which is dependent on God. I took this to mean that any mistake we make as a human arises completely from our abuse of free will. As someone who doesn't agree with the idea of being born with sin, this makes a lot of sense to me. Along our progression from childhood, we begin to gain more control over our body, our gifts, and our mental capacities, and with this newfound free will we also begin to sin. This sin is not arisen from anything that God has given us, but rather from our self-focused applications of the tokens God has bestowed (Luke 19:11-27).
 Logical Reconstruction:
 
 ##### Meditation V
+A fascinating discussion is made in the fifth meditation regarding God's existence, and the imagining of it. Descartes explains a sophistic argument, pertaining to how thought does not impose necessity. For example, "...I am free to imagine a winged horse, even if no horse actually does have wings..." (p. 47). This can be paralleled to imagining a God, even though He does not exist. I have heard this argument in conversations before, but until now I was not really sure how to respond to it. But Descartes rejects this sophism with vigour. He ex
 
 ##### Meditation VI
 
