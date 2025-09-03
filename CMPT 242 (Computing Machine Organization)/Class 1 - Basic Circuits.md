@@ -38,9 +38,9 @@
 - Embedded
 	- Car Chips, Elevator Real Time Systems, etc.
 - Desktop/Laptop
-- Mini Computer
-- Mainframe
-- Supercomputer (Cluster)
+- Mini Computer (Legacy)
+- Mainframe (Legacy)
+- Supercomputer (Cluster-format)
 
 
 
