@@ -17,7 +17,24 @@
 - Dependent Data Types
 	- Boolean
 	- Pointers
-	- 
+- Dependancies
+	- Width of data path
+		- 8-16-64-128
+### Von Neumann Architecture
+- Binary Representation
+- Sequential Access/Operation
+- Memory Storage
+### Topics
+- Computer Arithmetic
+	- Variation on common notaition
+- Boolean Logic
+	- Circuits
+- Hardware Organization
+- I/O
+- Memory
+- OS
+- Communications
+- 
 
 
 
