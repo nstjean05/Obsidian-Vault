@@ -13,8 +13,11 @@
 	- Drivers for peripherals
 		- GPU
 		- UI
-		- MB Sections
-
+		- MegaByte Sections
+- Dependent Data Types
+	- Boolean
+	- Pointers
+	- 
 
 
 
