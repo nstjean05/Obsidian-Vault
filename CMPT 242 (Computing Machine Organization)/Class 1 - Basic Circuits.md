@@ -26,7 +26,7 @@
 - Memory Storage
 ### Topics
 - Computer Arithmetic
-	- Variation on common notaition
+	- Variation on common notation
 - Boolean Logic
 	- Circuits
 - Hardware Organization
@@ -34,7 +34,14 @@
 - Memory
 - OS
 - Communications
-- 
+### Types of Hardware
+- Embedded
+	- Car Chips, Elevator Real Time Systems, etc.
+- Desktop/Laptop
+- Mini Computer
+- Mainframe
+- Supercomputer (Cluster)
+
 
 
 
