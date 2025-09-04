@@ -39,4 +39,11 @@
 		- Specifies functionality of each.
 	- Design
 		- Fill in details of modules.
-		- Specifies the 
+			- Specifies the set of functions of a module and its algorithms.
+		- Specifies how to achieve functionality for each component.
+	- Implementation
+		- Make choices for all the small things that the design omits
+		- Choose a programming language
+		- Exact components for the system
+## 1.8 - Hardware Designs And Unexpected Constraints
+- **Design Goals** and a **Set of Constraints** are required for design.
