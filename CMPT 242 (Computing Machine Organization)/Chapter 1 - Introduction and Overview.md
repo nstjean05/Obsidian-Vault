@@ -48,4 +48,6 @@
 ## 1.8 - Hardware Designs And Unexpected Constraints
 - **Design Goals** and a **Set of Constraints** are required for design
 - Other limits on functionality include power draw, system size, operational temperatures, electromagnetic radiation, etc.
-- 
+- Very few hardware decisions can me made independently/without considering their impacts.
+## 1.9 - Summary
+- Course covers the essentials in computer architecture.
