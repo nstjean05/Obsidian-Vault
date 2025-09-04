@@ -28,4 +28,15 @@
 - Additional advanced topics such as pipelining and parallelism will also be covered.
 ## 1.5 - What We Will Omit
 - This text is breadth over depth, concepts over details.
-- Technical details are often ommitted, especially regarding processors or memory systems.
+- Technical details are often omitted, especially regarding processors or memory systems.
+## 1.6 - What We Will Emphasize
+- Underlying computer hardware with most relevance to software engineering.
+## 1.7 - Architecture, Design, and Implementation
+- There are three primary levels of hardware specification:
+	- Architecture
+		- Overall organization of a system, forming its base.
+		- Major modules of the software/components of the hardware.
+		- Specifies functionality of each.
+	- Design
+		- Fill in details of modules.
+		- Specifies the 
