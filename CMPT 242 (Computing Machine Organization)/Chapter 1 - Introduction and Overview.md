@@ -46,4 +46,6 @@
 		- Choose a programming language
 		- Exact components for the system
 ## 1.8 - Hardware Designs And Unexpected Constraints
-- **Design Goals** and a **Set of Constraints** are required for design.
+- **Design Goals** and a **Set of Constraints** are required for design
+- Other limits on functionality include power draw, system size, operational temperatures, electromagnetic radiation, etc.
+- 
