@@ -28,4 +28,26 @@
 ### Solving Problems
 - Analysis: Decompose large problem into smaller, understandable pieces.
 - Synthesis: Build a software from smaller building blocks.
+### Essential Attributes of Good Software
+- Maintainability
+- Dependability/Security
+- Efficiency
+- Acceptability
+### What is Software Engineering
+- Theories, methods, and tools for pro software development.
+### Software Project Failure
+- Increasing system complexity
+- Failure to use software engineering methods
+### Software Engineering vs. X
+- Computer Science
+	- Theory and Fundamentals
+	- Not completely underpinning software engineering.
+- Systems Engineering
+	- All aspects of computer-based systems
+	- More than just software
+### What is a Software Process?
+1. Process
+2. Action
+3. Task
+### What is a Software Process Model
 - 
