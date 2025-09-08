@@ -12,3 +12,17 @@
 - Modern computers built from electronic circuits using transistors.
 ## 22.3 - Voltage and Current
 - 
+
+
+
+
+
+
+
+
+
+
+
+
+
+## 22.7 - 
