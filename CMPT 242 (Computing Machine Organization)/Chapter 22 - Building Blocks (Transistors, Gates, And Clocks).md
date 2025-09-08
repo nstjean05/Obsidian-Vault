@@ -33,6 +33,13 @@
 - The first flows when the gate is positive, and the second when it is negative.
 	- When the voltage on the gate exceeds/it below a certain threshold, a current flows through the source/drain, and stops flowing when that threshold is no longer met.
 - These two forms of transistor are known as **complementary**.
+- This **CMOS** (Complementary Metal Oxide Semiconductor) chip technology is advantageous due to its exceptionally low power circuits.
+## 22.5 - Logic Gates
+- Because a transistor has only two possible states, we use boolean algebra to design circuits.
+- **And**, **OR**, and **Not** are the three most basic boolean functions, shown below.
+![[Pasted image 20250908143920.png]]
+- A value of 1 represents true, while 0 is false.
+- In a circuit, generally 1 = positive and 0 = no volts.
 - 
 
 
