@@ -21,11 +21,19 @@
 - In computer science, we generally only need to know how electrical flow can be controlled and used to represent digital values.
 ## 22.4 - Transistors
 - Transistors are the lowest level method of controlling electrical current in digital systems.
+- **MOSFET** (Metal Oxide Semiconductor Field Effect Transistor)
+	- A type of transistor used in digital circuits formed on crystalline silicon.
 - They are used as an electrically-operated on/off switch.
+	- Open or close based on the applied voltage.
+- Each transistor has three terminals:
+	- **Source/Drain**: Channel between these points on which resistance is controlled.
+	- **Gate**: Controls resistance/flow through the transistor.
+- There are two types of MOSFET transistors:
+![[Pasted image 20250908143138.png]]
+- The first flows when the gate is positive, and the second when it is negative.
+	- When the voltage on the gate exceeds/it below a certain threshold, a current flows through the source/drain, and stops flowing when that threshold is no longer met.
+- These two forms of transistor are known as **complementary**.
 - 
-
-
-
 
 
 
