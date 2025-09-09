@@ -65,8 +65,17 @@
 	- This allows us not to think about transistors in every situation.
 ![[Pasted image 20250909115755.png]]
 - Above are the most commonly used gates.
-	- Two lines leading into a
-
+	- Two lines leading into a gate correlate with its inputs, while the line leading out is the output.
+	- A circle ahead of the output line indicates the *not* version of the gate.
+## 22.8 - Interconnecting Gates
+- ***Transistor-Transistor-Logic*** (TTL) refers to the electronic parts that implement gates.
+	- The output transistors in each gate are designed to connect directly to input transistors in other gates.
+![[Pasted image 20250909120423.png]]
+- In this example, the output can be said to be 'true' if the power button is pressed, and there is a Wi-Fi connection.
+	- We use a *nand* gate connected to an *inverter* to return 1 (true) if both inputs are also true.
+- These gates can also be expressed as a logical formula.
+![[Pasted image 20250909120806.png]]
+- 
 
 
 ## 22.10 - 
