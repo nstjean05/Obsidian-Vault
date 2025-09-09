@@ -75,9 +75,13 @@
 	- We use a *nand* gate connected to an *inverter* to return 1 (true) if both inputs are also true.
 - These gates can also be expressed as a logical formula.
 ![[Pasted image 20250909120806.png]]
-- 
-
-
+- Here is a process for deriving a boolean formula for the above:
+	- The value @A corresponds with the function *not Y*
+	- The value @B corresponds with the function *Z nor (not Y)*
+	- The value @C corresponds with the function *X nand (Z nor (not Y))*
+	- The output corresponds with *invert (X nand (Z nor (not Y)))*
+- You can start your design process by coming up with a boolean expression that describes the behaviour you want in a circuit.
+	- These expressios
 ## 22.10 - 
 ## 22.12 - 
 ## 22.14 - 
