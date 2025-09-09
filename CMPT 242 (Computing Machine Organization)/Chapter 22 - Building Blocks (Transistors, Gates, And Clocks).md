@@ -129,7 +129,14 @@
 - Pins #14 and #7 are important, as they supply power and ground the gates.
 - These chips are useful on a breadboard, as they make the components much smaller.
 ## 22.12 - Circuits that Maintain State
-
+- ***Sequential Circuits*** are ones which take current inputs as well as previous ones.
+- A ***Latch*** is a basic kind of sequential circuit.
+	- It contains an input, output, and *enable line*.
+		- If the enable line = 1, then the latch makes its output = input.
+		- If the enable line = 0, then the latch freezes its output value at whatever it was at that instant.
+		- This is a sort of 'remembering' the input from the time it was set.
+- Below is a 1-bit latch comprised of 4 nand gates.
+![[Pasted image 20250909135148.png]]
 
 
 
