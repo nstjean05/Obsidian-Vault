@@ -99,10 +99,22 @@
 ![[Pasted image 20250909123159.png]]
 - The first and second *XOR* gates determine that the *sum* is only 1 if an odd number of inputs are 1.
 	- For the first addition, the carry-in would be 0.
-- The first *AND* gate
+- The first *AND* gate checks if both bits are equal to 1.
+- A second *AND* gate checks if the carry in and bit 1 XOR bit 2 are 1.
+	- An *OR* gate combines these two *AND* gates.
+- Effectively, these gates make sure that the carry-out is 1 only if at least two of the inputs are 1.
+- Below is the truth table for a full adder.
 
-
-
+| bit1 | bit2 | carry in | sum | carry out |
+|------|------|----------|-----|-----------|
+| 0    | 0    | 0        | 0   | 0         |
+| 0    | 0    | 1        | 1   | 0         |
+| 0    | 1    | 0        | 1   | 0         |
+| 0    | 1    | 1        | 0   | 1         |
+| 1    | 0    | 0        | 1   | 0         |
+| 1    | 0    | 1        | 0   | 1         |
+| 1    | 1    | 0        | 0   | 1         |
+| 1    | 1    | 1        | 1   | 1         |
 
 ## 22.10 - 
 ## 22.12 - 
