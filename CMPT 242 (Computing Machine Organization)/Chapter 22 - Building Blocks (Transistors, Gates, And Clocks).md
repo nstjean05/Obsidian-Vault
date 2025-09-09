@@ -40,14 +40,19 @@
 ![[Pasted image 20250908143920.png]]
 - A value of 1 represents true, while 0 is false.
 - In a circuit, generally 1 = positive and 0 = no volts.
-- 
+![[Pasted image 20250909104433.png]]
+- **Case 1: Positive Voltage Input**
+	- PMOS (top resistor) receives a high input, so it turns off. This means there is no connection between V$_d$$_d$ and the output.
+	- NMOS (lower resistor) turns on because of the high input, connecting the circuit to the ground. This pulls the output down to ~0 volts.
+- **Case 2: No Voltage Input**
+	- PMOS 
 
 
 
 
 
-
-
-
-
-## 22.7 - 
+## 22.10 - 
+## 22.12 - 
+## 22.14 - 
+## 22.15 - 
+## 22.16 - 
