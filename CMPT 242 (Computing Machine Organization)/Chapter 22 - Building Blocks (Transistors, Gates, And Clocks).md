@@ -166,4 +166,16 @@
 - A set of flip-flops can be connected in series to form a binary ***counter***, which can accumulate a numeric total.
 - Counters (like flip-flops) have a single input, however they have multiple outputs.
 - The outputs count how many input pulses have been detected.
-	- Gives a nu
+	- Gives a numerical total in binary.
+	- For example, a counter with 3 outputs can count up to 7 in 3-bit binary (111).
+
+| Input | Outputs | Decimal | Time Increases |
+|-------|---------|---------|----------------|
+| 0     | 0 0 0   | 0       | 0              |
+| 1     | 0 0 1   | 1       | 1              |
+| 1     | 0 1 0   | 2       | 2              |
+| 1     | 0 1 1   | 3       | 3              |
+| 1     | 1 0 0   | 4       | 4              |
+| 1     | 1 0 1   | 5       | 5              |
+| 1     | 1 1 0   | 6       | 6              |
+| 1     | 1 1 1   | 7       | 7              |
