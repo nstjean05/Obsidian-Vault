@@ -45,8 +45,13 @@
 	- PMOS (top resistor) receives a high input, so it turns off. This means there is no connection between V$_d$$_d$ and the output.
 	- NMOS (lower resistor) turns on because of the high input, connecting the circuit to the ground. This pulls the output down to ~0 volts.
 - **Case 2: No Voltage Input**
-	- PMOS 
-
+	- PMOS turns on, as it is not receiving input. This connects V$_d$$_d$ to the output, leading to a large electrical output.
+	- NMOS stays off as the voltage input isn't high enough, so the ground remains disconnected, allowing a high output.
+- One interesting note is that due to the way electronic circuits work, it takes fewer transistors to implement the inverse of logical *or* and *and*, so we use *nor*,  *nand*, or *xor* functions.
+	- This makes the inverse circuits cheaper to manufacture.
+![[Pasted image 20250909105513.png]]
+## 22.6 - Implementation of a Nand Gate
+- 
 
 
 
