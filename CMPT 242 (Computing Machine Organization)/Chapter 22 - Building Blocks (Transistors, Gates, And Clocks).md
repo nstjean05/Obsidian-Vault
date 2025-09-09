@@ -97,12 +97,14 @@
 	- Depicted below is a *full adder* circuit.
 		- You can see the two half adder gates nested within it, comprised of the two pairs of *XOR* and *and* gates.
 ![[Pasted image 20250909123159.png]]
-- The first and second *XOR* gates determine that the *sum* is only 1 if an odd number of inputs are 1.
-	- For the first addition, the carry-in would be 0.
-- The first *AND* gate checks if both bits are equal to 1.
-- A second *AND* gate checks if the carry in and bit 1 XOR bit 2 are 1.
-	- An *OR* gate combines these two *AND* gates.
-- Effectively, these gates make sure that the carry-out is 1 only if at least two of the inputs are 1.
+- **The Sum**
+	- The first and second *XOR* gates determine that the *sum* is only 1 if an odd number of inputs are 1.
+		- For the first addition, the carry-in would be 0.
+- **The Carry Out**
+	- The first *AND* gate checks if both bits are equal to 1.
+	- A second *AND* gate checks if the carry in and bit 1 XOR bit 2 are 1.
+		- An *OR* gate combines these two *AND* gates.
+	- Effectively, these gates make sure that the carry-out is 1 only if at least two of the inputs are 1.
 - Below is the truth table for a full adder.
 
 | bit1 | bit2 | carry in | sum | carry out |
@@ -116,7 +118,18 @@
 | 1    | 1    | 0        | 0   | 1         |
 | 1    | 1    | 1        | 1   | 1         |
 
-## 22.10 - 
+## 22.10 - Multiple Gates Per Integrated Circuit
+- Many Transistor-Transistor-Logic (TTL) gates can be manufactured onto a single component.
+- An example of TTL components are the 7400 family.
+	- Half-inch rectangular chips with 14 copper wires (pins), which connect to a circuit.
+	- Results in the *14-pin Dual In-Line Package* architecture.
+	- Some chips in this family are more complex, using more pins.
+	- 
+
+
+
+
+
 ## 22.12 - 
 ## 22.14 - 
 ## 22.15 - 
