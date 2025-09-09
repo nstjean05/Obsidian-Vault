@@ -147,8 +147,12 @@
 ## 22.15 - Flip-Flops and Transition Diagrams
 - The output of a *Flip-Flop* changes when the input transitions from a 1 to a 0.
 	- In order to output a 1, the input must be 0.
-- It is made up of 
-
+- An ***SR Flip-Flop*** one of four types of flip-flops.
+	- It has two inputs, set and reset.
+	- There are two possible states: active high (1) or low (0).
+		- Active high means the circuit is usually at level 0, and go to 1 when active.
+		- Active low indicates the circuit is usually at 1, dropping to 0 on activation.
+	- 
 
 
 
