@@ -44,4 +44,18 @@
 	- Difficult to express informal knowledge in logic.
 	- Pure logic is not effective to creating AI.
 	- Not all intelligent behaviour is mediated by logical deliberation.
-- There is a d
+- There is a direct line through mathematics and philosophy to modern AI.
+- By 1965, programs existed that could effectively solve any solvable problem described in LOGICIST logical notation.
+## Acting Rationally
+- **Rational Behaviour**: Doing the right thing.
+	- The right thing is that which is expected to maximize goal achievement with the given information.
+- Rational behaviour doesn't necessarily involve thinking (e.g. blinking), but should be in the service of rational action.
+- Acting rationally provides the most general view of AI due to its inclusion of:
+	- Correct inference (law of thought)
+	- Uncertainty handling
+	- Resource limitation considerations
+	- Cognitive skills (NLP, Automated Reasoning (AR), knowledge representation, ML, etc.)
+- **Rational Agents**
+	- Agent: Something that acts
+	- Rational agent is one who acts so as to achieve the best (expected) outcome
+	- 
