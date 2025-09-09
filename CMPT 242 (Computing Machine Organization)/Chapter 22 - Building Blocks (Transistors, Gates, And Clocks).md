@@ -172,10 +172,22 @@
 | Input | Outputs | Decimal | Time Increases |
 |-------|---------|---------|----------------|
 | 0     | 0 0 0   | 0       | 0              |
+| 0     | 0 0 0   | 0       | 0              |
 | 1     | 0 0 1   | 1       | 1              |
+| 0     | 0 0 1   | 1       | 1              |
 | 1     | 0 1 0   | 2       | 2              |
+| 0     | 0 1 0   | 2       | 2              |
 | 1     | 0 1 1   | 3       | 3              |
+| 0     | 0 1 1   | 3       | 3              |
 | 1     | 1 0 0   | 4       | 4              |
+| 0     | 1 0 0   | 4       | 4              |
 | 1     | 1 0 1   | 5       | 5              |
+| 0     | 1 0 1   | 5       | 5              |
 | 1     | 1 1 0   | 6       | 6              |
+| 0     | 1 1 0   | 6       | 6              |
 | 1     | 1 1 1   | 7       | 7              |
+| 0     | 1 1 1   | 7       | 7              |
+- A practical counter has several additional features.
+	- Extra input to reset count to 0.
+	- Input to temporarily stop the counter (ignore input, freeze output).
+	- When the accumulated count exceeds the maximum value, the counter can reset the output to 0 and use an output to indicate an overflow occurred.
