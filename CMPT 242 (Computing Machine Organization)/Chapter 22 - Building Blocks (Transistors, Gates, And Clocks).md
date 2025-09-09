@@ -124,13 +124,18 @@
 	- Half-inch rectangular chips with 14 copper wires (pins), which connect to a circuit.
 	- Results in the *14-pin Dual In-Line Package* architecture.
 	- Some chips in this family are more complex, using more pins.
-	- 
+- Below are three simple chips in this family.
+![[Pasted image 20250909132335.png]]
+- Pins #14 and #7 are important, as they supply power and ground the gates.
+- These chips are useful on a breadboard, as they make the components much smaller.
+## 22.12 - Circuits that Maintain State
 
 
 
 
 
-## 22.12 - 
+
+
 ## 22.14 - 
 ## 22.15 - 
 ## 22.16 - 
