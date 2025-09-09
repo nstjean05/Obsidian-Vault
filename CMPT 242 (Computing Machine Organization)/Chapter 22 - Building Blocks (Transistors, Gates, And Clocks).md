@@ -147,6 +147,7 @@
 ## 22.15 - Flip-Flops and Transition Diagrams
 - The output of a *Flip-Flop* changes when the input transitions from a 1 to a 0.
 	- In order to output a 1, the input must be 0.
+- It is made up of 
 
 
 
