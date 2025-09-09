@@ -152,7 +152,12 @@
 	- There are two possible states: active high (1) or low (0).
 		- Active high means the circuit is usually at level 0, and go to 1 when active.
 		- Active low indicates the circuit is usually at 1, dropping to 0 on activation.
-	- 
+	- If the set is high (1), then Q is set to 1.
+		- When this set changes to 0, output Q will not change (it is latched).
+		- When the reset input is changed to high (1), then Q can be reset to 0 given that set is also 0.
+		- If set and reset both go high at the same time, an invalid state is triggered.
+	- An active-low flip flop works the inverse of this.
+![[Pasted image 20250909145242.png]]
 
 
 
