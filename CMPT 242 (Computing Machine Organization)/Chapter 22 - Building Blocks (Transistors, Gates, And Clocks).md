@@ -81,7 +81,18 @@
 	- The value @C corresponds with the function *X nand (Z nor (not Y))*
 	- The output corresponds with *invert (X nand (Z nor (not Y)))*
 - You can start your design process by coming up with a boolean expression that describes the behaviour you want in a circuit.
-	- These expressios
+	- These expressions can be automated using editing tools, which is highly efficient, and can minimize your expression.
+- You can also build *truth tables* (TT) for circuits like the one above to understand outputs.
+	- Since there are 3 inputs, there are 8 possible outputs, but only one of these outputs is equal to 1 (where *X, Y, Z = 1, 1, 0*).
+	- You can create a TT by starting with all possible inputs, and then fill out each column in the table one at a time.
+	- These can be used to validate boolean expressions.
+## 22.9 - Digital Circuits for Binary Addition
+- You can add two binary numbers using the same method as you would in elementary school of carrying the 1.
+	- Below is 
+
+
+
+
 ## 22.10 - 
 ## 22.12 - 
 ## 22.14 - 
