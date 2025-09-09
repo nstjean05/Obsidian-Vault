@@ -137,12 +137,25 @@
 		- This is a sort of 'remembering' the input from the time it was set.
 - Below is a 1-bit latch comprised of 4 nand gates.
 ![[Pasted image 20250909135148.png]]
+## 22.14 - Using Latches to Create Memory
+- *Registers* in processors serve as short-term memory.
+	- They generally hold values used in computation (e.g. to be added).
+	- Each register holds a number of bits, most computers have 32 or 64-bit registers.
+	- These registers are formed by lining up 1-bit latches alongside one another.
+- Below is a 4-bit register.
+![[Pasted image 20250909135611.png]]
+## 22.15 - Flip-Flops and Transition Diagrams
+- The output of a *Flip-Flop* changes when the input transitions from a 1 to a 0.
+	- In order to output a 1, the input must be 0.
 
 
 
 
 
 
-## 22.14 - 
-## 22.15 - 
+
+
+
+
+
 ## 22.16 - 
