@@ -158,14 +158,12 @@
 		- If set and reset both go high at the same time, an invalid state is triggered.
 	- An active-low flip flop works the inverse of this.
 ![[Pasted image 20250909145242.png]]
-
-
-
-
-
-
-
-
-
-
-## 22.16 - 
+- We can use an input diagram to see how a flip-flop changes over time.
+	- Notice that in this example (where there is no *reset* input option), the flip-flop is only triggered when the input rises.
+		- The *out* changes each time the *in* goes from 0-1
+![[Pasted image 20250909150546.png]]
+## 22.16 - Binary Counters
+- A set of flip-flops can be connected in series to form a binary ***counter***, which can accumulate a numeric total.
+- Counters (like flip-flops) have a single input, however they have multiple outputs.
+- The outputs count how many input pulses have been detected.
+	- Gives a nu
