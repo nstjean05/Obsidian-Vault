@@ -98,7 +98,8 @@
 		- You can see the two half adder gates nested within it, comprised of the two pairs of *XOR* and *and* gates.
 ![[Pasted image 20250909123159.png]]
 - The first and second *XOR* gates determine that the *sum* is only 1 if an odd number of inputs are 1.
-	- For the first addition, the carry-in would be 
+	- For the first addition, the carry-in would be 0.
+- The first *AND* gate
 
 
 
