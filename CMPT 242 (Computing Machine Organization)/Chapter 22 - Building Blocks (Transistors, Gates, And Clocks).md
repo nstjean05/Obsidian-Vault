@@ -51,7 +51,10 @@
 	- This makes the inverse circuits cheaper to manufacture.
 ![[Pasted image 20250909105513.png]]
 ## 22.6 - Implementation of a Nand Gate
-- 
+- Transistors in a circuit are called a *logic gate*.
+	- Below is an example of a *nand* logic gate.
+![[Pasted image 20250909105926.png]]
+
 
 
 
