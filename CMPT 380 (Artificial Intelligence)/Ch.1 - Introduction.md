@@ -36,4 +36,12 @@
 ## Thinking Rationally
 - **Laws of Thought**
 	- Aristotle (~450 B.C.) attempted to codify "right thinking"
-	- 
+	- What are correct arguments or though processes?
+	- Codified the *logical syllogism*.
+- There are many problems with thinking rationally.
+	- Uncertainty - Not all facts are certain.
+	- Resource limitations.
+	- Difficult to express informal knowledge in logic.
+	- Pure logic is not effective to creating AI.
+	- Not all intelligent behaviour is mediated by logical deliberation.
+- There is a d
