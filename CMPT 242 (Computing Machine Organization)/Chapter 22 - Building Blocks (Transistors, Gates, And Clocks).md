@@ -47,7 +47,7 @@
 - **Case 2: No Voltage Input**
 	- PMOS turns on, as it is not receiving input. This connects V$_d$$_d$ to the output, leading to a large electrical output.
 	- NMOS stays off as the voltage input isn't high enough, so the ground remains disconnected, allowing a high output.
-- One interesting note is that due to the way electronic circuits work, it takes fewer transistors to implement the inverse of logical *or* and *and*, so we use *nor*,  *nand*, or *xor* functions.
+- One interesting note is that due to the way electronic circuits work, it takes fewer transistors to implement the inverse of logical *or* and *and*, so we use *nor*,  *nand*, or *XOR* functions.
 	- This makes the inverse circuits cheaper to manufacture.
 ![[Pasted image 20250909105513.png]]
 ## 22.6 - Implementation of a Nand Gate
@@ -88,7 +88,17 @@
 	- These can be used to validate boolean expressions.
 ## 22.9 - Digital Circuits for Binary Addition
 - You can add two binary numbers using the same method as you would in elementary school of carrying the 1.
-	- Below is 
+	- Below is an example of adding *20 + 29* in binary.
+![[Pasted image 20250909122923.png]]
+- A circuit to do this form of addition needs a module per column.
+	- The module for low-order bits takes two inputs, and outputs a ***sum bit*** and a ***carry bit***.
+	- This circuit is called a *half adder*.
+	- It contains an *and* gate and an *exclusive or* gate.
+	- Depicted below is a *full adder* circuit.
+		- You can see the two half adder gates nested within it, comprised of the two pairs of *XOR* and *and* gates.
+![[Pasted image 20250909123159.png]]
+- The first and second *XOR* gates determine that the *sum* is only 1 if an odd number of inputs are 1.
+	- For the first addition, the carry-in would be 
 
 
 
