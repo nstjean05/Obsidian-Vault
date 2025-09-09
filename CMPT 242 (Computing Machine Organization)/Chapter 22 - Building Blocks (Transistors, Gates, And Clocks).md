@@ -54,8 +54,18 @@
 - Transistors in a circuit are called a *logic gate*.
 	- Below is an example of a *nand* logic gate.
 ![[Pasted image 20250909105926.png]]
-
-
+- If both inputs are equal to 1, then the output will connect to the ground.
+	- Otherwise, at least one of the top two transistors will be on, connecting the positive voltage to the output.
+- It is highly important that an output is never simultaneously connected to the source and drain simultaneously.
+	- This would destroy the transistors.
+- If there is a dot on two crossing lines, then there is a connection between them.
+	- If there is no dot, or a break, then the lines don't connect.
+## 22.7 - Symbols and Logic Gates
+- There are many different symbols to quickly relate what a logic gate is doing.
+	- This allows us not to think about transistors in every situation.
+![[Pasted image 20250909115755.png]]
+- Above are the most commonly used gates.
+	- Two lines leading into a
 
 
 
