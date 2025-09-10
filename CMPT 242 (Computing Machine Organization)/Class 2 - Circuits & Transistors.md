@@ -27,7 +27,6 @@ Textbook Questions:
 |1|0|1|0|1|
 |1|1|0|0|1|
 |1|1|1|1|1|
-
-https://www.arrow.com/en/research-and-events/articles/npn-vs-pnp-in-circuit-design-and-industrial-controls
-https://www.microchip.com/content/dam/mchp/documents/OTH/ProductDocuments/SupportingCollateral/chapter8.pdf
-https://www.allaboutcircuits.com/textbook/digital/chpt-3/logic-signal-voltage-levels/
+Arrow Electronics. (2025, January 15). _NPN vs. PNP in circuit design and industrial controls_. Retrieved October 26, 2023, from [https://www.arrow.com/en/research-and-events/articles/npn-vs-pnp-in-circuit-design-and-industrial-controls](https://www.arrow.com/en/research-and-events/articles/npn-vs-pnp-in-circuit-design-and-industrial-controls)
+Tocci, R. J., Widmer, N. S., & Moss, G. L. (2001). _Digital systems: Principles and applications_ (8th ed.). Prentice Hall. [https://www.microchip.com/content/dam/mchp/documents/OTH/ProductDocuments/SupportingCollateral/chapter8.pdf](https://www.microchip.com/content/dam/mchp/documents/OTH/ProductDocuments/SupportingCollateral/chapter8.pdf)
+All About Circuits. (n.d.). _Logic signal voltage levels_. Retrieved October 26, 2023, from [https://www.allaboutcircuits.com/textbook/digital/chpt-3/logic-signal-voltage-levels/](https://www.allaboutcircuits.com/textbook/digital/chpt-3/logic-signal-voltage-levels/)

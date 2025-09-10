@@ -50,7 +50,7 @@
 a. List four reasons for studying hardware/low level concepts
 1. Understanding what the computer is doing at a low level can help us write programs that utilize hardware more efficiently.
 2. Our code can be written much more simply.
-3. Low-level bugs and issues can be understood more quickly and easily, leading to simpler and less painfully-found solutions.
+3. Low-level bug›s and issues can be understood more quickly and easily, leading to simpler and less painfully-found solutions.
 4. It is inherently interesting to learn about hardware, and it can help us get more excited about computers and working with them!
 
 b. What is von Neumann computer architecture (three characteristics)
