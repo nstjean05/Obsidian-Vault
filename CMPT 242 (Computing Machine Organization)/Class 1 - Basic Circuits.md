@@ -67,11 +67,11 @@ d. Explain what happens when you connect resistors (i) in series (ii) in paralle
 
 e. You have a supply of 10kΩ 5% resistors. (i) how are they marked? (ii) From these, show how to construct a 40kΩ resistor and a 2.5kΩ resistor
 i) Brown, Black, Orange, Gold
-ii) To create a 40kΩ resistor, simply add four 10kΩ resistors in series.  A 2.5kΩ resistor can be create
+ii) To create a 40kΩ resistor, simply add four 10kΩ resistors in series.  A 2.5kΩ resistor can be created by putting the same four resistors in parallel.
 
 Textbook Questions:
 **22.1** Use the Web to find the number of transistors on a VLSI chip and the physical size of the chip. If the entire die was used, how large would an individual transistor be?
-- 
+- In order for a chip to be categorized as a *Very large-scale integration* (VSLI), it must have at least 10,000 transistors. Generally, these chips are 1-5 cm$^2$. The Intel Core i9-14900K has a die of around 289.5 mm$^2$, and if each of the 9.9
 
 **22.2** Digital logic circuits used in smart phones and other battery-powered devices do not run on five volts. Look at the battery in your smart phone or search the Web to find out what voltage is being used.
 
@@ -82,4 +82,4 @@ Textbook Questions:
 **Kerbiquet, M.** (2024, April 30). _The lost art of assembly programming: Self-modifying code_. Tibleiz. Retrieved from [https://tibleiz.net/blog/2024-04-30-self-modifying-code.html](https://tibleiz.net/blog/2024-04-30-self-modifying-code.html?utm_source=chatgpt.com)
 
 https://pressbooks.bccampus.ca/collegephysics/chapter/resistors-in-series-and-parallel/
-
+https://www.sciencedirect.com/science/article/abs/pii/B9780340645703500137
