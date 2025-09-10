@@ -60,7 +60,7 @@ b. What is von Neumann computer architecture (three characteristics)
 3. Input/Output Facilities - Allow for interaction with the computer.
 
 c. A computing machine based on von Neumann architecture can modify memory, including, possibly, that where the program instructions are stored (self-modifying code). Discuss the wisdom of allowing this to take place. 
-- This allows a great deal of flexibility in programming, as the computer's abilities can be changed by the user's creativity, using the computer. 
+- This allows a great deal of flexibility in programming, as the computer's abilities can be changed by the user's creativity, using the computer. It can also lead to very, very efficient programs (when written well), as the code can change itself as it goes. This also allows for marginally smaller programs, which may be necessary if storage is a constraint.
 
 d. Explain what happens when you connect resistors (i) in series (ii) in parallel
 
@@ -73,3 +73,7 @@ Textbook Questions:
 **22.2** Digital logic circuits used in smart phones and other battery-powered devices do not run on five volts. Look at the battery in your smart phone or search the Web to find out what voltage is being used.
 
 **22.3** Design a circuit that uses _nand_, _nor_ and _inverter_ gates to provide the _exclusive or_ function.
+
+
+
+**Kerbiquet, M.** (2024, April 30). _The lost art of assembly programming: Self-modifying code_. Tibleiz. Retrieved from [https://tibleiz.net/blog/2024-04-30-self-modifying-code.html](https://tibleiz.net/blog/2024-04-30-self-modifying-code.html?utm_source=chatgpt.com)
