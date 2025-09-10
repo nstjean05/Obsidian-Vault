@@ -79,12 +79,12 @@ Textbook Questions:
 **22.3** Design a circuit that uses _nand_, _nor_ and _inverter_ gates to provide the _exclusive or_ function.
 - 
 
-|A|B|NAND(A,B)|NOR(A,B)|INV(A)|INV(B)|XOR(A,B)|
-|---|---|---|---|---|---|---|
-|0|0|1|1|1|1|0|
-|0|1|1|0|1|0|1|
-|1|0|1|0|0|1|1|
-|1|1|0|0|0|0|0|
+| A   | B   | NAND(A,B) | NOR(A,B) | INV(A) | INV(B) | XOR(A,B) |     |
+| --- | --- | --------- | -------- | ------ | ------ | -------- | --- |
+| 0   | 0   | 1         | 1        | 1      | 1      | 0        |     |
+| 0   | 1   | 1         | 0        | 1      | 0      | 1        |     |
+| 1   | 0   | 1         | 0        | 0      | 1      | 1        |     |
+| 1   | 1   | 0         | 0        | 0      | 0      | 0        |     |
 
 
 **Kerbiquet, M.** (2024, April 30). _The lost art of assembly programming: Self-modifying code_. Tibleiz. Retrieved from [https://tibleiz.net/blog/2024-04-30-self-modifying-code.html](https://tibleiz.net/blog/2024-04-30-self-modifying-code.html?utm_source=chatgpt.com)
