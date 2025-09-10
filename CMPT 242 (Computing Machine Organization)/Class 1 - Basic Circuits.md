@@ -93,4 +93,4 @@ Kerbiquet, M. (2024, April 30). _The lost art of assembly programming: Self-modi
 
 Pressbooks BCcampus. (2016, August 22). _Resistors in series and parallel_. In _College Physics_. Retrieved from [https://pressbooks.bccampus.ca/collegephysics/chapter/resistors-in-series-and-parallel/](https://pressbooks.bccampus.ca/collegephysics/chapter/resistors-in-series-and-parallel/)
 
-Crowe, John. (1998). _Resistor networks_. ScienceDirect. Retrieved from [https://www.sciencedirect.com/science/article/abs/pii/B9780340645703500137](https://www.sciencedirect.com/science/article/abs/pii/B9780340645703500137)
+Crowe, J., & Hayes-Gill, B. (1998). 11 - Selecting a design route. In J. Crowe & B. Hayes-Gill (Eds.), _Introduction to digital electronics_ (pp. 266–308). Newnes. [https://doi.org/10.1016/B978-034064570-3/50013-7](https://doi.org/10.1016/B978-034064570-3/50013-7)
