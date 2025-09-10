@@ -66,7 +66,8 @@ d. Explain what happens when you connect resistors (i) in series (ii) in paralle
 - Resistors in series allow for the circuit's current to flow through the resistors one after another. The resistance of each resistor adds up, equalling the total resistance in the circuit. However, if the resistors are in parallel, then the current is divided amongst the resistors. The total resistance, in this case, is the sum of the reciprocals of each resistors resistance.
 
 e. You have a supply of 10kΩ 5% resistors. (i) how are they marked? (ii) From these, show how to construct a 40kΩ resistor and a 2.5kΩ resistor
-- 
+i) Brown, Black, Orange, Gold
+ii) To create a 40kΩ resistor, simply add four 10kΩ resistors in series.  A 2.5kΩ resistor can be create
 
 Textbook Questions:
 **22.1** Use the Web to find the number of transistors on a VLSI chip and the physical size of the chip. If the entire die was used, how large would an individual transistor be?
