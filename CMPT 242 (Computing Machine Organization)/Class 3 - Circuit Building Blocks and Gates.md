@@ -1,3 +1,5 @@
+3. _Circuit Building blocks and Gates_ **_22.5-22.7_**
+
 a. Make a truth table for (a + b) * c and design a circuit from transistors to implement this
 
 b. Design a circuit using 2-input gates, to express [(a * b) + (c * d)] * e
