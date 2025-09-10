@@ -48,7 +48,7 @@
 1. **W** _Chapter_ **_1_** _(introduction) Chapter_ **_22.1-22.3_** _Basic Circuits (1)_
 
 a. List four reasons for studying hardware/low level concepts
-
+1. 
 b. What is von Neumann computer architecture (three characteristics)
 
 c. A computing machine based on von Neumann architecture can modify memory, including, possibly, that where the program instructions are stored (self-modifying code). Discuss the wisdom of allowing this to take place. 
