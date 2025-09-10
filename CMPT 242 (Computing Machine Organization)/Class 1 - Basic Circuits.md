@@ -63,8 +63,10 @@ c. A computing machine based on von Neumann architecture can modify memory, incl
 - This allows a great deal of flexibility in programming, as the computer's abilities can be changed by the user's creativity, using the computer. It can also lead to very, very efficient programs (when written well), as the code can change itself as it goes. This also allows for marginally smaller programs, which may be necessary if storage is a constraint.
 
 d. Explain what happens when you connect resistors (i) in series (ii) in parallel
+- Resistors in series allow for the circuit's current to flow through the resistors one after another. The resistance of each resistor adds up, equalling the total resistance in the circuit. However, if the resistors are in parallel, then the current is divided amongst the resistors. The total resistance, in this case, is the sum of the reciprocals of each resistors resistance.
 
 e. You have a supply of 10kΩ 5% resistors. (i) how are they marked? (ii) From these, show how to construct a 40kΩ resistor and a 2.5kΩ resistor
+- 
 
 Textbook Questions:
 **22.1** Use the Web to find the number of transistors on a VLSI chip and the physical size of the chip. If the entire die was used, how large would an individual transistor be?
@@ -77,3 +79,6 @@ Textbook Questions:
 
 
 **Kerbiquet, M.** (2024, April 30). _The lost art of assembly programming: Self-modifying code_. Tibleiz. Retrieved from [https://tibleiz.net/blog/2024-04-30-self-modifying-code.html](https://tibleiz.net/blog/2024-04-30-self-modifying-code.html?utm_source=chatgpt.com)
+
+https://pressbooks.bccampus.ca/collegephysics/chapter/resistors-in-series-and-parallel/
+
