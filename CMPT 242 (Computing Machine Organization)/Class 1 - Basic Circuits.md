@@ -77,20 +77,20 @@ Textbook Questions:
 - My current (and favourite phone so far) is an iPhone 13 mini, which has a maximum battery voltage of 4.47V, although its standard voltage is below 4.3V.
 
 **22.3** Design a circuit that uses _nand_, _nor_ and _inverter_ gates to provide the _exclusive or_ function.
-- 
+![[Pasted image 20250909211745.png]]
 
-| A   | B   | NAND(A,B) | NOR(A,B) | INV(A) | INV(B) | XOR(A,B) |     |
-| --- | --- | --------- | -------- | ------ | ------ | -------- | --- |
-| 0   | 0   | 1         | 1        | 1      | 1      | 0        |     |
-| 0   | 1   | 1         | 0        | 1      | 0      | 1        |     |
-| 1   | 0   | 1         | 0        | 0      | 1      | 1        |     |
-| 1   | 1   | 0         | 0        | 0      | 0      | 0        |     |
+| A   | B   | NAND(A,B) | NOR(A,B) | OR(A,B) | INV(A) | INV(B) | XOR(A,B) |
+| --- | --- | --------- | -------- | ------- | ------ | ------ | -------- |
+| 0   | 0   | 1         | 1        | 0       | 1      | 1      | 0        |
+| 0   | 1   | 1         | 0        | 1       | 1      | 0      | 1        |
+| 1   | 0   | 1         | 0        | 1       | 0      | 1      | 1        |
+| 1   | 1   | 0         | 0        | 1       | 0      | 0      | 0        |
+Deji Battery. (2024, January 16). _Understanding iPhone battery voltage and its relationship with capacity_. Retrieved from [https://www.dejibattery.com/News/understanding-iphone-battery-voltage-and-its-relationship-with-capacity.html](https://www.dejibattery.com/News/understanding-iphone-battery-voltage-and-its-relationship-with-capacity.html)
 
+Encyclopedia. (n.d.). _Resistor network_. In _Encyclopedia of Electrical and Electronics Engineering_. Retrieved from [https://encyclopedia.pub/entry/31778](https://encyclopedia.pub/entry/31778)
 
-**Kerbiquet, M.** (2024, April 30). _The lost art of assembly programming: Self-modifying code_. Tibleiz. Retrieved from [https://tibleiz.net/blog/2024-04-30-self-modifying-code.html](https://tibleiz.net/blog/2024-04-30-self-modifying-code.html?utm_source=chatgpt.com)
+Kerbiquet, M. (2024, April 30). _The lost art of assembly programming: Self-modifying code_. Tibleiz. Retrieved from [https://tibleiz.net/blog/2024-04-30-self-modifying-code.html](https://tibleiz.net/blog/2024-04-30-self-modifying-code.html?utm_source=chatgpt.com)
 
-https://pressbooks.bccampus.ca/collegephysics/chapter/resistors-in-series-and-parallel/
-https://www.sciencedirect.com/science/article/abs/pii/B9780340645703500137
-https://encyclopedia.pub/entry/31778
-https://www.dejibattery.com/News/understanding-iphone-battery-voltage-and-its-relationship-with-capacity.html
+Pressbooks BCcampus. (2016, August 22). _Resistors in series and parallel_. In _College Physics_. Retrieved from [https://pressbooks.bccampus.ca/collegephysics/chapter/resistors-in-series-and-parallel/](https://pressbooks.bccampus.ca/collegephysics/chapter/resistors-in-series-and-parallel/)
 
+Crowe, John. (1998). _Resistor networks_. ScienceDirect. Retrieved from [https://www.sciencedirect.com/science/article/abs/pii/B9780340645703500137](https://www.sciencedirect.com/science/article/abs/pii/B9780340645703500137)
