@@ -60,7 +60,7 @@ b. What is von Neumann computer architecture (three characteristics)
 3. Input/Output Facilities - Allow for interaction with the computer.
 
 c. A computing machine based on von Neumann architecture can modify memory, including, possibly, that where the program instructions are stored (self-modifying code). Discuss the wisdom of allowing this to take place. 
-- This allows a fg
+- This allows a great deal of flexibility
 
 d. Explain what happens when you connect resistors (i) in series (ii) in parallel
 
