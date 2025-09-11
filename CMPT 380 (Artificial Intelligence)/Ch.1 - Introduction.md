@@ -57,5 +57,14 @@
 	- Cognitive skills (NLP, Automated Reasoning (AR), knowledge representation, ML, etc.)
 - **Rational Agents**
 	- Agent: Something that acts
-	- Rational agent is one who acts so as to achieve the best (expected) outcome
+	- Rational agent is one who acts so as to achieve the best (expected) outcome.
+## What is AI?
+- **Strong AI**
+	- A computer that can literally think and is conscious in the same way as a human.
+	- View that a sufficiently complex computer could actually be intelligent and would think in the same way as a human.
+	- Given lots of knowledge about the world/problems.
+- **Weak AI**
+	- Intelligent behaviour can be modelled, and used to solve problems.
+	- Methods modelled on intelligent behaviour to make computers efficient.
+	- Logic & automated reasoning.
 	- 
