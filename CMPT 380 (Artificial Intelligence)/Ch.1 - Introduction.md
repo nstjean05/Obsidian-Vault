@@ -82,7 +82,7 @@
 	- Minsky and Edmonds build first neural network computer
 	- Newell and Simon's General Problem Solver
 - 1956
-	- Dartmouth workshop attended by the 'Fathers of AI'
+	- Dartmouth workshop attended by the 'godfathers of AI'
 - Late 1950s
 	- Marked by enthusiasm and expectations
 	- Many small successes
@@ -91,4 +91,12 @@
 	- Reality begins to hit
 	- Early programs had little knowledge of their subject
 	- Computational complexity
-	- Negative results from percept
+	- Negative results from perceptrons (simple neural network)
+	- **Shakey**: First general-purpose robot with simple reasoning and movement.
+- 1969-1986
+	- Expert systems
+- 1986-2000
+	- The return of neural networks
+- 1910s-present:
+	- Big Data
+	- Deep Learning, LLMs, and AI agents
