@@ -67,4 +67,28 @@
 	- Intelligent behaviour can be modelled, and used to solve problems.
 	- Methods modelled on intelligent behaviour to make computers efficient.
 	- Logic & automated reasoning.
-	- 
+- Term *AI* was coined by John McCarthy in 1956 at a conference in Dartmouth.
+## AI Research
+- Two main lines of research:
+	- **Biological**: Since humans are intelligent, AI should study them and imitate their psychology/physiology.
+	- **Phenomenal**: Study/formalize common sense facts about the world to help acheive goals.
+## History of AI
+- 1943-1955
+	- Initial work in AI
+	- McCulloch and Pitts produce boolean model of the brain
+	- Turing's *Computing Machinery and Intelligence*
+- Early 1950s
+	- Early AI programs
+	- Minsky and Edmonds build first neural network computer
+	- Newell and Simon's General Problem Solver
+- 1956
+	- Dartmouth workshop attended by the 'Fathers of AI'
+- Late 1950s
+	- Marked by enthusiasm and expectations
+	- Many small successes
+	- LISO, time sharing, neural networks, computer vision, etc.
+- 1966-1973
+	- Reality begins to hit
+	- Early programs had little knowledge of their subject
+	- Computational complexity
+	- Negative results from percept
