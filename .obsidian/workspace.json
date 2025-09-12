@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CMPT 380 (Artificial Intelligence)/Ch.2 - Intelligent Agents.md",
+                "file": "CMPT 380 (Artificial Intelligence)/Ch.1 - Introduction.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ch.2 - Intelligent Agents"
+              "title": "Ch.1 - Introduction"
             }
           }
         ],
@@ -93,8 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 254.5,
-    "collapsed": true
+    "width": 254.5
   },
   "right": {
     "id": "1c1db9715e53cd8f",
@@ -198,8 +197,8 @@
   },
   "active": "2d1c27ac473f454b",
   "lastOpenFiles": [
-    "CMPT 380 (Artificial Intelligence)/Ch.1 - Introduction.md",
     "CMPT 380 (Artificial Intelligence)/Ch.2 - Intelligent Agents.md",
+    "CMPT 380 (Artificial Intelligence)/Ch.1 - Introduction.md",
     "CMPT 242 (Computing Machine Organization)/Class 1 - Basic Circuits.md",
     "CMPT 242 (Computing Machine Organization)/Class 2 - Circuits & Transistors.md",
     "CMPT 242 (Computing Machine Organization)/Chapter 22 - Building Blocks (Transistors, Gates, And Clocks).md",
