@@ -34,9 +34,23 @@
               "icon": "lucide-file",
               "title": "Unit 2 - Software Project Management"
             }
+          },
+          {
+            "id": "7b893744a49a5c7d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Learning Java/1 - Intro to Java.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1 - Intro to Java"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -186,6 +200,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "obsidian-git:Open Git source control": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
@@ -195,8 +210,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b7bafca48f2d6c08",
+  "active": "7b893744a49a5c7d",
   "lastOpenFiles": [
+    "Learning Java/1 - Intro to Java.md",
+    "Learning Java",
     "CMPT 385 (Software Eng. I)/Unit 1 - Intro and FAQ to Software Engineering.md",
     "CMPT 385 (Software Eng. I)/Unit 3 - Software Development Processes I.md",
     "CMPT 385 (Software Eng. I)/Unit 2 - Software Project Management.md",
@@ -224,10 +241,10 @@
     "CMPT 385 - Software Engineering",
     "CMPT 242 (Computing Machine Organization)",
     "Class 35 - APL & J.md",
-    "C++ Learnings/MIT Open Courseware - C++.md",
+    "Learning C++/MIT Open Courseware - C++.md",
     "CMPT 385 (Software Eng. I)",
-    "C++ Learnings/Chapter 0.md",
-    "C++ Learnings/C++ Intro.md",
+    "Learning C++/Chapter 0.md",
+    "Learning C++/C++ Intro.md",
     "PHIL 105/4-Sentence Logical Analyses.md",
     "PHIL 105/(07.18.25) Essence and the Ship of Theseus.md",
     "PHIL 105/(06.27.25) The Problem of Evil.md",
@@ -236,13 +253,11 @@
     "PHIL 105/(07.04.25) Science and the Rational Method.md",
     "README.md",
     "READMA.md",
-    "C++ Learnings",
+    "Learning C++",
     "CMPT 360 (Comparative Programming Languages)/Lesson 28 - ADTs in Libraries.md",
     "PHIL 105",
-    "CMPT 360 (Comparative Programming Languages)/Lesson 29 - Exception Handling.md",
     "CMPT 211 (Web Technologies I)",
     "ECON 201 (Microeconomics)",
-    "CMPT 360 (Comparative Programming Languages)",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]
