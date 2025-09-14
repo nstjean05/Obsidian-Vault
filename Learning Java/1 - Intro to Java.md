@@ -5,4 +5,3 @@
 - **IDE**
 	- Environment to code Java in.
 	- Integrated Development Environment.
-- 
