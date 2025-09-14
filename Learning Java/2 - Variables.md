@@ -3,10 +3,11 @@
 ## Two Variable Types
 - **Primitive:**
 	- A value which is stored directly in memory (stack)
-	- int, double, char, boolean fall under this type.
+	- *int*, *double*, *char*, *boolean* fall under this type.
 - **Reference:**
 	- A memory address (stack) which points to the (heap)
 	- It is a pointer to the actual value.
+	- *string*, *array*, *object* fall under this type.
 ## Declaring Variables
 - Two steps:
 	1. Declaration
@@ -25,15 +26,25 @@ char symbol = '!';
 boolean isCoder = true;
 boolean touchesGrass = false;
 
-System.out.println("The counter is " + counter);
+System.out.println("The counter is " + counter + ".");
 
+//Displays the 'if' statement when true
 if(isCoder){
 	System.out.println("You're a coder.");
 	}
 else{
 	System.out.println("You are not a coder.");
+	
 	}
+	
+String hockeyTeam = "Vancouver Canucks";
+System.out.println("The best team is the " + hockeyTeam + symbol);
 
-//Output: 1You're a coder.
+/*
+Output:
+The counter is 1
+You're a coder.
+The best team is the Vancouver Canucks!
+*\
 ```
 
