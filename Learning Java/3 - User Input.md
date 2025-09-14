@@ -1,0 +1,3 @@
+- We use the keyword 'scanner' to take user input.
+- Make sure to include `import java.util.Scanner` to include scanner package.
+- 
