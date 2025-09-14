@@ -4,53 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "6d4962e270c8fccb",
+        "id": "bd9d06e7200d2a34",
         "type": "tabs",
         "children": [
           {
-            "id": "7b893744a49a5c7d",
+            "id": "a869fdb41e5f32f3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Learning Java/1 - Intro to Java.md",
+                "file": "Learning Java/2 - Variables.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1 - Intro to Java"
-            }
-          },
-          {
-            "id": "072e7b83ae994bd4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Learning Java/3 - User Input.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "3 - User Input"
-            }
-          },
-          {
-            "id": "20687e371bb8cd85",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4 -.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "4 -"
+              "title": "2 - Variables"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -107,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 254.5,
-    "collapsed": true
+    "width": 254.5
   },
   "right": {
     "id": "1c1db9715e53cd8f",
@@ -211,9 +181,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "20687e371bb8cd85",
+  "active": "a869fdb41e5f32f3",
   "lastOpenFiles": [
-    "4 -.md",
+    "Learning Java/4 - Mad Libs Game Example.md",
     "Learning Java/3 - User Input.md",
     "Learning Java/2 - Variables.md",
     "Learning Java/1 - Intro to Java.md",
