@@ -191,3 +191,5 @@
 	- Extra input to reset count to 0.
 	- Input to temporarily stop the counter (ignore input, freeze output).
 	- When the accumulated count exceeds the maximum value, the counter can reset the output to 0 and use an output to indicate an overflow occurred.
+
+
