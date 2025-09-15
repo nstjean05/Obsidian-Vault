@@ -27,7 +27,8 @@
 ## 3.4 - Binary Weighted Positional Representation
 - Remember how to use base 10 - each position represents a power of 10.
 	- For example, 123 = (1 * 10$^2$) + (2 * 10$^1)$ + (3 * 10$^0$)
-- In the binar
+- In the binary system, each position represents a power of two.
+	- 
 
 
 
