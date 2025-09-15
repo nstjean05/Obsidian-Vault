@@ -19,16 +19,11 @@
 	- Each bit can represent 2 possible values.
 	- A byte generally has 8 bits.
 	- A byte can represent 2$^8$ = 256 values.
-		- Range 0 to 2
-
-
-
-
-
-
-
-
-
+		- Range 0 to 255
+- In general, a data item occupying *k* bits can represent 2$^k$ possible values.
+- For example, with 3 bits, 2$^3$ = 8 possible combinations.
+	- 000, 001, 010, 011, 100, 101, 110, 111
+- A bit has no intrinsic meaning, it only gains it by its interpretation.
 ## 3.4 - Binary Weighted Positional Representation
 
 
