@@ -25,7 +25,9 @@
 	- 000, 001, 010, 011, 100, 101, 110, 111
 - A bit has no intrinsic meaning, it only gains it by its interpretation.
 ## 3.4 - Binary Weighted Positional Representation
-
+- Remember how to use base 10 - each position represents a power of 10.
+	- For example, 123 = (1 * 10$^2$) + (2 * 10$^1)$ + (3 * 10$^0$)
+- In the binar
 
 
 
