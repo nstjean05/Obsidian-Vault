@@ -1,9 +1,42 @@
-5. **F** _Representing Negative integers; Processors 3.1-3.8, 3.11-3.14,4.3_
-
-a. Suppose you have an 8-bit entity and wish to mask off  the most significant bit. How do you express this logically? What if you wish to mask it on? What if you wish to mask off the two least significant bits?
-
 ## 3.1 - Introduction
+- 
 
-##
-##
 
+
+
+
+
+
+
+
+
+## 3.2 - Definitions Of Bit And Byte
+
+
+
+
+
+
+
+
+
+
+## 3.3 - Possible Values In A Byte
+
+## 3.4 - Binary Weighted Positional Representation
+
+## 3.5 - Bit Ordering
+
+## 3.6 Hexadecimal Notation Used By Humans
+
+## 3.7 - Notation For Hexadecimal And Binary Constants
+
+## 3.8 - Character Sets
+
+## 3.11 - Signed Binary Integers
+
+## 3.12 - Quirks of Signed Representations
+
+## 3.13 - Example Of Two's Complement Numbers
+
+## 3.14 - Sign Extension
