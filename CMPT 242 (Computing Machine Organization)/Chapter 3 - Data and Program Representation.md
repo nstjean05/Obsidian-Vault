@@ -1,5 +1,7 @@
 ## 3.1 - Introduction
-- 
+- Examination of binary representations used by computers for data.
+	- Integer
+	- 
 
 
 
