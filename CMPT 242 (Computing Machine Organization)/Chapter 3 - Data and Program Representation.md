@@ -36,20 +36,15 @@
 - Below shows the common powers of two in decimal values.
 ![[Pasted image 20250916140449.png]]
 ## 3.5 - Bit Ordering
-- In **decimal**, the least significant digit is on the left, with the most on the right.
-- In **binary**, the *Least Significant Bit* (LSB) is 
-
-
-
-
-
-
-
-
-
-## 3.6 Hexadecimal Notation Used By Humans
-
-
+- In **decimal**, the least significant digit is on the right, with the most on the left.
+- In **binary**, the *Least Significant Bit* (LSB) is on the right, and the *Most Significant Bit* (MSB) is on the left..
+- This system of left and right doesn't make as much sense in relation to physical hardware.
+- **Bit ordering** becomes especially important when bits locations are transferred, as the same order must be preserved
+## 3.6 - Hexadecimal Notation Used By Humans
+- Numeric values can be written in decimal, but this does not specify the individual bit-values.
+- For this, we can use base-16, a.k.a. hexadecimal.
+- **Hexadecimal** encodes each group of four bits (a *nibble*) into a single **hex** digit.
+- To express each hex digit as a single character, programming languages 
 
 
 
