@@ -52,17 +52,16 @@
 - Since a number can have ambiguous value when using different bases, mathematicians use subscripts to denote when a value isn't base 10.
 	- For example, 125$_1$$_6$ denotes hexadecimal.
 	- 125$_1$$_6$ = (1 * 16$^2$ ) + (2* 16$^1$ ) + (5 * 16$^0$ ) = 293$_1$$_0$
-
-
-
-
-
-
-
-
-
+	- 293$_1$$_0$ = $\frac{293}{16}$ = 18 remainder 5, digit 0.
+			$\frac{18}{16}$ = 1 remainder 2, digit 2.
+			$\frac{1}{16}$ = 0 remainder 1, digit 3.
+		- 293$_1$$_0$ = 125$_1$$_6$
+- Depending on the base, there may also be a prefix.
+	- **Hex**: 0x
+	- **Binary**: 0b
+- So to specify the 32-bit value in section 3.6, we would write **0xDEC90949**
 ## 3.8 - Character Sets
-
+- 
 
 
 
