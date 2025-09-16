@@ -44,17 +44,14 @@
 - Numeric values can be written in decimal, but this does not specify the individual bit-values.
 - For this, we can use base-16, a.k.a. hexadecimal.
 - **Hexadecimal** encodes each group of four bits (a *nibble*) into a single **hex** digit.
-- To express each hex digit as a single character, programming languages 
-
-
-
-
-
-
-
-
+- Languages use letters *A - F* (representing 9 - 15) to the set of decimal digits.
+![[Pasted image 20250916141942.png]]
+- Here is an example of how a binary string corresponds to hex
+![[Pasted image 20250916142128.png]]
 ## 3.7 - Notation For Hexadecimal And Binary Constants
-
+- Since a number can have ambiguous value when using different bases, mathematicians use subscripts to denote when a value isn't base 10.
+	- For example, 125$_1$$_6$ denotes hexadecimal.
+	- 125$_1$$_6$ = (1 * 16$^2$ ) + (2* 16$^1$ ) + (5 * 16$^0$ ) = 293$_1$$_0$
 
 
 
@@ -77,8 +74,44 @@
 
 ## 3.11 - Signed Binary Integers
 
+
+
+
+
+
+
+
+
+
 ## 3.12 - Quirks of Signed Representations
+
+
+
+
+
+
+
+
+
 
 ## 3.13 - Example Of Two's Complement Numbers
 
+
+
+
+
+
+
+
+
+
 ## 3.14 - Sign Extension
+
+
+
+
+
+
+
+
+
