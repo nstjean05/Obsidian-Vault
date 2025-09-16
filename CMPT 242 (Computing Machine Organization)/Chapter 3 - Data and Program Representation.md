@@ -63,7 +63,11 @@
 ## 3.8 - Character Sets
 - Although a string of bits have no inherent meaning, there are standardized meanings for things like characters.
 	- 1960s, IBM created EBCDIC, one of the first standardized character sets.
-	- 1963, ASCII became a standard used across manufacturers 
+	- 1963, ASCII became a standard used across manufacturers, created by ANSI.
+		- 128 characters, and additional bytes for symbols (escape, del, etc.)
+		- Only seven bits are needed to represent an ASCII character.
+		- There could be a max of 255 values, but only 128 leaves room for unconventional customization by programmers.
+		- 
 
 
 
