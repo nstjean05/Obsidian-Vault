@@ -28,19 +28,16 @@
 - Remember how to use base 10 - each position represents a power of 10.
 	- For example, 123 = (1 * 10$^2$) + (2 * 10$^1)$ + (3 * 10$^0$)
 - In the binary system, each position represents a power of two.
-	- Take the value *010101*.
-	- 010101 = (0 * 2$^5$) + (0 * 2$^5$) + (0 * 2$^5$) + (0 * 2$^5$) + (0 * 2$^5$) + 
-
-
-
-
-
-
-
-
-
+	- Take the value *010101* or *111100*
+	- 010101 = (0 * 2$^5$) + (1 * 2$^4$) + (0 * 2$^3$) + (1 * 2$^2$) + (0 * 2$^1$) + (1 * 2$^0$) = 21
+	- 010101 = (1 * 2$^5$) + (1 * 2$^4$) + (1 * 2$^3$) + (1 * 2$^2$) + (0 * 2$^1$) + (0 * 2$^0$) = 60
+- The binary numbers that can be represented with eight bits range 0 to 255.
+- Modern hardware usually supports 32- and 64-bits (4 and 8 bytes respectively).
+- Below shows the common powers of two in decimal values.
+![[Pasted image 20250916140449.png]]
 ## 3.5 - Bit Ordering
-
+- In **decimal**, the least significant digit is on the left, with the most on the right.
+- In **binary**, the *Least Significant Bit* (LSB) is 
 
 
 
