@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CMPT 242 (Computing Machine Organization)/Chapter 3 - Data and Program Representation.md",
+                "file": "PHIL 105/(07.11.25) Descartes Proof of God.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Chapter 3 - Data and Program Representation"
+              "title": "(07.11.25) Descartes Proof of God"
             }
           }
         ],
@@ -82,7 +82,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "chinese",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -103,7 +103,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -213,10 +214,11 @@
   },
   "active": "28d585471a6da1b2",
   "lastOpenFiles": [
+    "CMPT 242 (Computing Machine Organization)/Chapter 3 - Data and Program Representation.md",
+    "Untitled.md",
     "CMPT 242 (Computing Machine Organization)/Chapter 4 - A High-Level Overview of Processors.md",
     "CMPT 242 (Computing Machine Organization)/Class 1 - Basic Circuits.md",
     "Learning Java/3 - User Input.md",
-    "CMPT 242 (Computing Machine Organization)/Chapter 3 - Data and Program Representation.md",
     "CMPT 242 (Computing Machine Organization)/Class 5 - Representing Negative Integers.md",
     "CMPT 242 (Computing Machine Organization)/Class 4 - Combining Circuits.md",
     "CMPT 242 (Computing Machine Organization)/Chapter 22 - Building Blocks (Transistors, Gates, And Clocks).md",
@@ -254,7 +256,6 @@
     "Learning C++/Chapter 0.md",
     "Learning C++/C++ Intro.md",
     "PHIL 105/4-Sentence Logical Analyses.md",
-    "PHIL 105/(07.18.25) Essence and the Ship of Theseus.md",
     "Learning C++",
     "PHIL 105",
     "CMPT 211 (Web Technologies I)",
