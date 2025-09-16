@@ -67,19 +67,41 @@
 		- 128 characters, and additional bytes for symbols (escape, del, etc.)
 		- Only seven bits are needed to represent an ASCII character.
 		- There could be a max of 255 values, but only 128 leaves room for unconventional customization by programmers.
-		- 
+		- Below are the 128 characters, with their ASCII counterpart.
 
-
-
-
-
-
-
-
-
+| Hex | Char | Hex | Char | Hex | Char    | Hex | Char | Hex | Char |
+| --- | ---- | --- | ---- | --- | ------- | --- | ---- | --- | ---- |
+| 00  | NUL  | 01  | SOH  | 02  | STX     | 03  | ETX  | 04  | EOT  |
+| 05  | ENQ  | 06  | ACK  | 07  | BEL     | 08  | BS   | 09  | TAB  |
+| 0A  | LF   | 0B  | VT   | 0C  | FF      | 0D  | CR   | 0E  | SO   |
+| 0F  | SI   | 10  | DLE  | 11  | DC1     | 12  | DC2  | 13  | DC3  |
+| 14  | DC4  | 15  | NAK  | 16  | SYN     | 17  | ETB  | 18  | CAN  |
+| 19  | EM   | 1A  | SUB  | 1B  | ESC     | 1C  | FS   | 1D  | GS   |
+| 1E  | RS   | 1F  | US   | 20  | (space) | 21  | !    | 22  | "    |
+| 23  | #    | 24  | $    | 25  | %       | 26  | &    | 27  | '    |
+| 28  | (    | 29  | )    | 2A  | *       | 2B  | +    | 2C  | ,    |
+| 2D  | -    | 2E  | .    | 2F  | /       | 30  | 0    | 31  | 1    |
+| 32  | 2    | 33  | 3    | 34  | 4       | 35  | 5    | 36  | 6    |
+| 37  | 7    | 38  | 8    | 39  | 9       | 3A  | :    | 3B  | ;    |
+| 3C  | <    | 3D  | =    | 3E  | >       | 3F  | ?    | 40  | @    |
+| 41  | A    | 42  | B    | 43  | C       | 44  | D    | 45  | E    |
+| 46  | F    | 47  | G    | 48  | H       | 49  | I    | 4A  | J    |
+| 4B  | K    | 4C  | L    | 4D  | M       | 4E  | N    | 4F  | O    |
+| 50  | P    | 51  | Q    | 52  | R       | 53  | S    | 54  | T    |
+| 55  | U    | 56  | V    | 57  | W       | 58  | X    | 59  | Y    |
+| 5A  | Z    | 5B  | [    | 5C  | \       | 5D  | ]    | 5E  | ^    |
+| 5F  | _    | 60  | `    | 61  | a       | 62  | b    | 63  | c    |
+| 64  | d    | 65  | e    | 66  | f       | 67  | g    | 68  | h    |
+| 69  | i    | 6A  | j    | 6B  | k       | 6C  | l    | 6D  | m    |
+| 6E  | n    | 6F  | o    | 70  | p       | 71  | q    | 72  | r    |
+| 73  | s    | 74  | t    | 75  | u       | 76  | v    | 77  | w    |
+| 78  | x    | 79  | y    | 7A  | z       | 7B  | {    | 7C  | \|   |
+| 7D  | }    | 7E  | ~    | 7F  | DEL     |     |      |     |      |
 ## 3.11 - Signed Binary Integers
-
-
+- A signed number means that it is positive or negative.
+- There are 3 representations for *signed integers*:
+	- **Sign Magnitude**: For an int of *k* bits, the most significant bit is interpreted as the sign (1 if the number is negative, otherwise 0). The remaining *k - 1* bits are the unsigned integer that specifies the absolute value.
+	- **One's Complement**: A positive integer uses the same positional representation as an unsigned integer, making the maximum possible value of a k-bit integer2$^k$ $^-$$^1$ 
 
 
 
