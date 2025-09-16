@@ -102,21 +102,18 @@
 - There are 3 representations for *signed integers*:
 	- **Sign Magnitude**: For an int of *k* bits, the most significant bit is interpreted as the sign (1 if the number is negative, otherwise 0). The remaining *k - 1* bits are the unsigned integer that specifies the absolute value.
 	- **One's Complement**: A positive integer uses the same positional representation as an unsigned integer, making the maximum value of a k-bit integer (2$^k$$^-$$^1$ - 1), since the most significant digit is 0. To form the negative:
-		- 
+		- Flip each bit of the positive number.
 	- **Two's Complement**: A k-bit two's complement integer uses the same positional representation as an unsigned int, with exception that the most significant bit has the value -2$^k$. To form the negative:
 		- Take the positive binary value.
 		- Flip each bit.
 		- Add 1.
-
-
-
-
-
-
-
-
+		- For example, take 010101.
+		- Since the high-order bit = 0, the two's complement value is 21, the same as the unsigned value.
+		- 010101 = (0 * -2$^5$) + (1 * 2$^4$) + (0 * 2$^3$) + (1 * 2$^2$) + (0 * 2$^1$) + (1 * 2$^0$) = 21
+		- Another example, take 111100.
+		- 111100 = (1 * -2$^5$) + (1 * 2$^4$) + (1 * 2$^3$) + (1 * 2$^2$) + (0 * 2$^1$) + (0 * 2$^0$) = -4
 ## 3.12 - Quirks of Signed Representations
-
+- 
 
 
 
