@@ -28,7 +28,8 @@
 - Remember how to use base 10 - each position represents a power of 10.
 	- For example, 123 = (1 * 10$^2$) + (2 * 10$^1)$ + (3 * 10$^0$)
 - In the binary system, each position represents a power of two.
-	- 
+	- Take the value *010101*.
+	- 010101 = (0 * 2$^5$) + (0 * 2$^5$) + (0 * 2$^5$) + (0 * 2$^5$) + (0 * 2$^5$) + 
 
 
 
