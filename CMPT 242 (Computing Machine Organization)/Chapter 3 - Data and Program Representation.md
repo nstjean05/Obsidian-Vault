@@ -113,29 +113,17 @@
 		- Another example, take 111100.
 		- 111100 = (1 * -2$^5$) + (1 * 2$^4$) + (1 * 2$^3$) + (1 * 2$^2$) + (0 * 2$^1$) + (0 * 2$^0$) = -4
 ## 3.12 - Quirks of Signed Representations
-- 
-
-
-
-
-
-
-
-
-
+- There are many oddities that result from signs.
+	- Sign-Magnitude makes it possible to create the value of -0.
+	- One's complement allows for two inverted values of zero (0000, 1111)
+	- Two's complement includes one more negative value that positive.
 ## 3.13 - Example Of Two's Complement Numbers
-
-
-
-
-
-
-
-
-
-
+- Below is a chart of nibbles and their various signed interpretations.
+- Two's complement is the only one that doesn't have two zeroes.
+![[Pasted image 20250916155525.png]]
+- Unsigned and two's complement can use the same hardware operations for either representation.
 ## 3.14 - Sign Extension
-
+- 
 
 
 
