@@ -123,8 +123,12 @@
 ![[Pasted image 20250916155525.png]]
 - Unsigned and two's complement can use the same hardware operations for either representation.
 ## 3.14 - Sign Extension
+- Computers support integers of various sizes (8, 16, 32, 64-bit, ect.)
+- Occasionally a smaller value must be reassigned to a bigger one.
+	- Ex. an *int* to a *long*
+- In this case, the hardware must make the number 'longer' to fill the extra space.
+- **Sign Extension** allows us to promote from *k-bits* to a larger size in 2's complement.
 - 
-
 
 
 
