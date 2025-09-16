@@ -101,7 +101,12 @@
 - A signed number means that it is positive or negative.
 - There are 3 representations for *signed integers*:
 	- **Sign Magnitude**: For an int of *k* bits, the most significant bit is interpreted as the sign (1 if the number is negative, otherwise 0). The remaining *k - 1* bits are the unsigned integer that specifies the absolute value.
-	- **One's Complement**: A positive integer uses the same positional representation as an unsigned integer, making the maximum possible value of a k-bit integer2$^k$ $^-$$^1$ 
+	- **One's Complement**: A positive integer uses the same positional representation as an unsigned integer, making the maximum value of a k-bit integer (2$^k$$^-$$^1$ - 1), since the most significant digit is 0. To form the negative:
+		- 
+	- **Two's Complement**: A k-bit two's complement integer uses the same positional representation as an unsigned int, with exception that the most significant bit has the value -2$^k$. To form the negative:
+		- Take the positive binary value.
+		- Flip each bit.
+		- Add 1.
 
 
 
