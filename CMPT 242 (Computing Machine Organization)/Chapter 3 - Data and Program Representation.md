@@ -62,7 +62,8 @@
 - So to specify the 32-bit value in section 3.6, we would write **0xDEC90949**
 ## 3.8 - Character Sets
 - Although a string of bits have no inherent meaning, there are standardized meanings for things like characters.
-	- 1960s, IBM created 
+	- 1960s, IBM created EBCDIC, one of the first standardized character sets.
+	- 1963, ASCII became a standard used across manufacturers 
 
 
 
