@@ -150,6 +150,14 @@
 - Floating point representation stores the mantissa and the exponent of the power of two which multiplies by the mantissa.
 - This is more complicated when working with signed integers.
 - **Biased** exponents simplify the process by storing the exponent as a constant value in memory.
+	- The bias constant is **2$^k$-1**.
+	- Where k is the number of exponent bits.
+- **Single Precision**: 32-bit floating point value.
+	- 1 Sign bit
+	- 8 Exponent bits
+	- 23 Mantissa bits
+	- Bias = 2$^8$ - 1 = 127
+- Example
 
 
 
