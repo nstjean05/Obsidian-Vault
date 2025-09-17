@@ -11,14 +11,12 @@
             "id": "7f7b66b63049bc0e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "CMPT 242 (Computing Machine Organization)/Chapter 22 - Building Blocks (Transistors, Gates, And Clocks).md",
-                "mode": "source",
-                "source": false
+                "file": "Images/Pasted image 20250916141942.png"
               },
-              "icon": "lucide-file",
-              "title": "Chapter 22 - Building Blocks (Transistors, Gates, And Clocks)"
+              "icon": "lucide-image",
+              "title": "Pasted image 20250916141942"
             }
           }
         ]
@@ -183,16 +181,16 @@
   },
   "active": "b7bafca48f2d6c08",
   "lastOpenFiles": [
+    "Images/Pasted image 20250916194821.png",
+    "CMPT 242 (Computing Machine Organization)/Chapter 22 - Building Blocks (Transistors, Gates, And Clocks).md",
     "CMPT 242 (Computing Machine Organization)/Class 3 - Circuit Building Blocks and Gates.md",
     "CMPT 242 (Computing Machine Organization)/Chapter 4 - A High-Level Overview of Processors.md",
-    "Pasted image 20250916194821.png",
-    "Pasted image 20250916194734.png",
+    "Images/Pasted image 20250916194734.png",
     "CMPT 242 (Computing Machine Organization)/Chapter 3 - Data and Program Representation.md",
-    "Pasted image 20250916155525.png",
-    "Pasted image 20250916142128.png",
-    "Pasted image 20250916142126.png",
-    "Pasted image 20250916141942.png",
-    "CMPT 242 (Computing Machine Organization)/Chapter 22 - Building Blocks (Transistors, Gates, And Clocks).md",
+    "Images/Pasted image 20250916155525.png",
+    "Images/Pasted image 20250916142128.png",
+    "Images/Pasted image 20250916142126.png",
+    "Images/Pasted image 20250916141942.png",
     "Untitled.md",
     "Pasted image 20250916140504.png",
     "Images/Pasted image 20250916140449.png",
