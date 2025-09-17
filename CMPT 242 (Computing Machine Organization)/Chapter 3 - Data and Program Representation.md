@@ -128,10 +128,17 @@
 	- Ex. an *int* to a *long*
 - In this case, the hardware must make the number 'longer' to fill the extra space.
 - **Sign Extension** allows us to promote from *k-bits* to a larger size in 2's complement.
-- 
+- Two examples:
+	- **4-bit:** 1010      **8-bit:** 11111010
+	- **16-bit:** 0000 0000 0000 0001      **32-bit**:0000 0000 0000 0000 0000 0000 0000 0001
+- Determine if the first digit is 1 or 0 (negative or positive), and then paste that number throughout the high-order bits.
+- A computer can use a single hardware circuit to perform both
 
+unsigned and two’s complement integer arithmetic; software running
 
+on the computer can choose an interpretation for the resulting bit
 
+strings.
 
 
 
