@@ -140,21 +140,13 @@
 - Determine if the first digit is 1 or 0 (negative or positive), and then paste that number throughout the high-order bits.
 - A computer can use a single hardware circuit to perform both unsigned and two’s complement integer arithmetic; software running on the computer can choose an interpretation for the resulting bit strings.
 ## 3.17 - Range of IEEE Floating Point Values
-
-
-
-
-
-
-
-
-
-
-
-
-
+- **Normalized Value**: One which has been adjusted to fit a predefined scale.
+- The IEEE standard for *float* allows for values from 2$^-$$^1$$^2$$^6$ to 2$^1$$^2$$^7$.
+	- In decimal, this is around 10$^-$$^3$ to 10$^3$$^8$.
+- The standard for double is much larger.
+	- 2$^-$$^1$$^0$$^2$$^2$ to 2$^1$$^0$$^2$$^3$ or 2$^-$$^3$$^0$$^8$ to 2$^3$$^0$$^8$
 ## 3.18 - Biased Exponent Values
-
+- 
 
 
 
