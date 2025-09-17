@@ -13,3 +13,4 @@
 - Von Neumann offers complete flexibility, at the cost of only marginal efficiency loss.
 	- This has led it to become the default architecture in computing.
 - A computer that follows V-N architecture employs a *stored program* approach, since the program is stored in memory.
+

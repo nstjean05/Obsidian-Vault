@@ -97,6 +97,8 @@
 | 73  | s    | 74  | t    | 75  | u       | 76  | v    | 77  | w    |
 | 78  | x    | 79  | y    | 7A  | z       | 7B  | {    | 7C  | \|   |
 | 7D  | }    | 7E  | ~    | 7F  | DEL     |     |      |     |      |
+## 3.9 - Unicode
+
 ## 3.11 - Signed Binary Integers
 - A signed number means that it is positive or negative.
 - There are 3 representations for *signed integers*:
@@ -123,7 +125,7 @@
 ![[Pasted image 20250916155525.png]]
 - Unsigned and two's complement can use the same hardware operations for either representation.
 ## 3.14 - Sign Extension
-- Computers support integers of various sizes (8, 16, 32, 64-bit, ect.)
+- Computers support integers of various sizes (8, 16, 32, 64-bit, etc.)
 - Occasionally a smaller value must be reassigned to a bigger one.
 	- Ex. an *int* to a *long*
 - In this case, the hardware must make the number 'longer' to fill the extra space.
@@ -133,7 +135,10 @@
 	- **16-bit:** 0000 0000 0000 0001      **32-bit**:0000 0000 0000 0000 0000 0000 0000 0001
 - Determine if the first digit is 1 or 0 (negative or positive), and then paste that number throughout the high-order bits.
 - A computer can use a single hardware circuit to perform both unsigned and two’s complement integer arithmetic; software running on the computer can choose an interpretation for the resulting bit strings.
+## 3.17 - 
 
+## 3.18 - 
+## 3.19 - 
 
-
+## 3.20 - 
 

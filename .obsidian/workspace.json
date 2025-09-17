@@ -11,12 +11,14 @@
             "id": "7f7b66b63049bc0e",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Images/Pasted image 20250916141942.png"
+                "file": "CMPT 242 (Computing Machine Organization)/Chapter 3 - Data and Program Representation.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20250916141942"
+              "icon": "lucide-file",
+              "title": "Chapter 3 - Data and Program Representation"
             }
           }
         ]
@@ -179,21 +181,26 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b7bafca48f2d6c08",
+  "active": "7f7b66b63049bc0e",
   "lastOpenFiles": [
-    "Images/Pasted image 20250916194821.png",
-    "CMPT 242 (Computing Machine Organization)/Chapter 22 - Building Blocks (Transistors, Gates, And Clocks).md",
-    "CMPT 242 (Computing Machine Organization)/Class 3 - Circuit Building Blocks and Gates.md",
     "CMPT 242 (Computing Machine Organization)/Chapter 4 - A High-Level Overview of Processors.md",
-    "Images/Pasted image 20250916194734.png",
     "CMPT 242 (Computing Machine Organization)/Chapter 3 - Data and Program Representation.md",
-    "Images/Pasted image 20250916155525.png",
-    "Images/Pasted image 20250916142128.png",
-    "Images/Pasted image 20250916142126.png",
-    "Images/Pasted image 20250916141942.png",
+    "CMPT 242 (Computing Machine Organization)/Chapter 5 -.md",
+    "CMPT 242 (Computing Machine Organization)/Class 8 - Mathematics & Instruction Sets.md",
+    "CMPT 242 (Computing Machine Organization)/Class 7 - Processors.md",
+    "CMPT 242 (Computing Machine Organization)/Chapter 22 - Building Blocks (Transistors, Gates, And Clocks).md",
+    "CMPT 242 (Computing Machine Organization)/Class 6 - ASCII, Binary, and HEX.md",
+    "README.md",
+    "z. Images/Pasted image 20250916141942.png",
+    "z. Images/Pasted image 20250916194821.png",
+    "CMPT 242 (Computing Machine Organization)/Class 3 - Circuit Building Blocks and Gates.md",
+    "z. Images/Pasted image 20250916194734.png",
+    "z. Images/Pasted image 20250916155525.png",
+    "z. Images/Pasted image 20250916142128.png",
+    "z. Images/Pasted image 20250916142126.png",
     "Untitled.md",
     "Pasted image 20250916140504.png",
-    "Images/Pasted image 20250916140449.png",
+    "z. Images/Pasted image 20250916140449.png",
     "PHIL 105/(07.11.25) Descartes Proof of God.md",
     "CMPT 242 (Computing Machine Organization)/Class 1 - Basic Circuits.md",
     "Learning Java/3 - User Input.md",
@@ -212,16 +219,12 @@
     "CMPT 334 (Principles of Operating Systems)",
     "CMPT 380 (Artificial Intelligence)/Ch.2 - Intelligent Agents.md",
     "CMPT 242 (Computing Machine Organization)/Class 2 - Circuits & Transistors.md",
-    "Images/Pasted image 20250909211745.png",
-    "CMPT 242 (Computing Machine Organization)/Chapter 1 - Introduction and Overview.md",
-    "Images/Pasted image 20250909153703.png",
+    "z. Images/Pasted image 20250909211745.png",
+    "z. Images/Pasted image 20250909153703.png",
     "CMPT 380 (Artificial Intelligence)",
     "CMPT 385 - Software Engineering",
     "CMPT 242 (Computing Machine Organization)",
-    "Class 35 - APL & J.md",
-    "Learning C++/MIT Open Courseware - C++.md",
     "CMPT 385 (Software Eng. I)",
-    "Learning C++/Chapter 0.md",
     "Learning C++",
     "PHIL 105",
     "CMPT 211 (Web Technologies I)",
