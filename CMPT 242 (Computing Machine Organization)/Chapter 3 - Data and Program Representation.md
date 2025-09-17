@@ -98,7 +98,11 @@
 | 78  | x    | 79  | y    | 7A  | z       | 7B  | {    | 7C  | \|   |
 | 7D  | }    | 7E  | ~    | 7F  | DEL     |     |      |     |      |
 ## 3.9 - Unicode
-
+- Some languages have many more characters than most European languages.
+	- To accommodate this, there are some extensions and alternate methods of representing characters.
+- **Unicode** is a standard for extended character sets.
+	- It extends ASCII, and is intended to make character sets possible for all languages.
+	- The current unicode standard defines ~150,000 symbols, including emojis.
 ## 3.11 - Signed Binary Integers
 - A signed number means that it is positive or negative.
 - There are 3 representations for *signed integers*:
@@ -135,10 +139,47 @@
 	- **16-bit:** 0000 0000 0000 0001      **32-bit**:0000 0000 0000 0000 0000 0000 0000 0001
 - Determine if the first digit is 1 or 0 (negative or positive), and then paste that number throughout the high-order bits.
 - A computer can use a single hardware circuit to perform both unsigned and two’s complement integer arithmetic; software running on the computer can choose an interpretation for the resulting bit strings.
-## 3.17 - 
+## 3.17 - Range of IEEE Floating Point Values
 
-## 3.18 - 
-## 3.19 - 
 
-## 3.20 - 
+
+
+
+
+
+
+
+
+
+
+
+## 3.18 - Biased Exponent Values
+
+
+
+
+
+
+
+
+
+
+
+
+
+## 3.19 - An Example Floating Point Number
+
+
+
+
+
+
+
+
+
+
+
+
+
+## 3.20 - Special Values And NaN
 
