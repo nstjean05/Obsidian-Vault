@@ -146,7 +146,12 @@
 - The standard for double is much larger.
 	- 2$^-$$^1$$^0$$^2$$^2$ to 2$^1$$^0$$^2$$^3$ or 2$^-$$^3$$^0$$^8$ to 2$^3$$^0$$^8$
 ## 3.18 - Biased Exponent Values
-- 
+- Allowing an exponent to be a signed integer allows expression of small and large values.
+- Floating point representation stores the mantissa and the exponent of the power of two which multiplies by the mantissa.
+- This is more complicated when working with signed integers.
+- **Biased** exponents simplify the process by storing the exponent as a constant value in memory.
+
+
 
 
 
