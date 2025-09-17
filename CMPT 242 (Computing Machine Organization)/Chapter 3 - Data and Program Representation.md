@@ -132,13 +132,7 @@
 	- **4-bit:** 1010      **8-bit:** 11111010
 	- **16-bit:** 0000 0000 0000 0001      **32-bit**:0000 0000 0000 0000 0000 0000 0000 0001
 - Determine if the first digit is 1 or 0 (negative or positive), and then paste that number throughout the high-order bits.
-- A computer can use a single hardware circuit to perform both
-
-unsigned and two’s complement integer arithmetic; software running
-
-on the computer can choose an interpretation for the resulting bit
-
-strings.
+- A computer can use a single hardware circuit to perform both unsigned and two’s complement integer arithmetic; software running on the computer can choose an interpretation for the resulting bit strings.
 
 
 

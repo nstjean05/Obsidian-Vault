@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CMPT 242 (Computing Machine Organization)/Chapter 3 - Data and Program Representation.md",
+                "file": "CMPT 242 (Computing Machine Organization)/Chapter 4 - A High-Level Overview of Processors.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Chapter 3 - Data and Program Representation"
+              "title": "Chapter 4 - A High-Level Overview of Processors"
             }
           }
         ]
@@ -184,9 +184,11 @@
   },
   "active": "5322c234894920a3",
   "lastOpenFiles": [
+    "Pasted image 20250916194821.png",
+    "Pasted image 20250916194734.png",
+    "CMPT 242 (Computing Machine Organization)/Chapter 3 - Data and Program Representation.md",
     "Pasted image 20250916155525.png",
     "CMPT 242 (Computing Machine Organization)/Chapter 4 - A High-Level Overview of Processors.md",
-    "CMPT 242 (Computing Machine Organization)/Chapter 3 - Data and Program Representation.md",
     "Pasted image 20250916142128.png",
     "Pasted image 20250916142126.png",
     "Pasted image 20250916141942.png",
@@ -218,8 +220,6 @@
     "Images/Pasted image 20250909153703.png",
     "CMPT 380 (Artificial Intelligence)",
     "Images/Pasted image 20250909115755.png",
-    "Images/Pasted image 20250909150546.png",
-    "Images/Pasted image 20250909150443.png",
     "CMPT 385 - Software Engineering",
     "CMPT 242 (Computing Machine Organization)",
     "Class 35 - APL & J.md",
