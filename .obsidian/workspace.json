@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CMPT 380 (Artificial Intelligence)/Ch.3 - Solving Problems by Searching.md",
+                "file": "CMPT 380 (Artificial Intelligence)/Ch.2 - Intelligent Agents.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ch.3 - Solving Problems by Searching"
+              "title": "Ch.2 - Intelligent Agents"
             }
           }
         ]
@@ -183,10 +183,10 @@
   },
   "active": "bbcc776ac0768481",
   "lastOpenFiles": [
-    "CMPT 380 (Artificial Intelligence)/Ch.3 - Solving Problems by Searching.md",
-    "CMPT 380 (Artificial Intelligence)/Weekly Quiz Answers.md",
     "CMPT 380 (Artificial Intelligence)/Ch.1 - Introduction.md",
     "CMPT 380 (Artificial Intelligence)/Ch.2 - Intelligent Agents.md",
+    "CMPT 380 (Artificial Intelligence)/Ch.3 - Solving Problems by Searching.md",
+    "CMPT 380 (Artificial Intelligence)/Weekly Quiz Answers.md",
     "CMPT 242 (Computing Machine Organization)/Class 6 - ASCII, Binary, and HEX.md",
     "CMPT 242 (Computing Machine Organization)/Class 7 - Processors.md",
     "CMPT 242 (Computing Machine Organization)/Chapter 4 - A High-Level Overview of Processors.md",
