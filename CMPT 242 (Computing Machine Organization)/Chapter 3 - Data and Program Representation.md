@@ -183,15 +183,10 @@
 | Sign Bit | Exponent (bits 23 – 30) | mantissa (bits 0 – 22)                        |
 | -------- | ----------------------- | --------------------------------------------- |
 | 0        | 1 0 0 0 0 0 0 1         | 1 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 |
-
-
-
-
-
-
-
-
-
-
 ## 3.20 - Special Values And NaN
-
+- IEEE specifies that the leading mantissa bit is always a 1.
+	- This would render is useless for numbers beginning with 0.
+	- If all values are zero, then the whole number is assumed to be 0.
+- There are a number of other exceptions based in the IEEE standard.
+	- If the exponent is all 1s and the mantissa all 0s, then is is equal to infinity.
+- Because of these additions to allow for floating point numbers, floating point computation takes significantly more time than using integers.
