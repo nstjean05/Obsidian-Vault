@@ -152,13 +152,20 @@
 - **Biased** exponents simplify the process by storing the exponent as a constant value in memory.
 	- The bias constant is **2$^k$-1**.
 	- Where k is the number of exponent bits.
-- **Single Precision**: 32-bit floating point value.
+- **Single Precision**: 32-bit floating point
 	- 1 Sign bit
-	- 8 Exponent bits (k)
+	- 8 Exponent bits (k = 8)
 	- 23 Mantissa bits
-	- Bias = 2$^8$ - 1 = 127
-- **Double Precision**
-
+	- Bias = 2$^8$$^-$$^1$ - 1 = 127
+	- Exponent range after bias adjustment: –126 to +127
+- **Double Precision:** 64-bit floating point
+	- 1 Sign bit
+	- 1 Exponent bits (k = 11)
+	- 52 Mantissa bits
+	- Bias = 2$^1$$^1$$^-$$^1$ - 1 = 1023
+	- Exponent range after bias adjustment: –1022 to +1023
+- **Examples:**
+	 - Represent exponent = 3 in single p
 
 
 
