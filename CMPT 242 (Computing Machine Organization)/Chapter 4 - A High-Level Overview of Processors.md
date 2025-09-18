@@ -5,9 +5,11 @@
 
 
 
-
-
 ## 4.2 - The Two Basic Architectural Approaches
+
+
+
+
 
 ## 4.3 - The Harvard and Von Neumann Architectures
 - **Harvard Architecture**: A computer organization with four components:
@@ -29,14 +31,53 @@
 
 
 
-## 4.5 - The Range of Proc
+## 4.5 - The Range of Processors
 
 
 
 ## 4.6 - Hierarchical Structure and Computational Engines
 
 
-## 4.6 - 
+## 4.7 - Structure of a Conventional Processor
+
+
+## 4.8 - Processor Categories and Roles
+
+
+## 4.9 - Processor Technologies
+
+
+
+
+## 4.10 - Stored Programs
+
+
+
+## 4.11 - The Fetch-Execute Cycle
+
+
+
+## 4.12 - Instructions in Memory
+
+
+
+## 4.13 - Variable-length and Fixed-length Instructions
+
+
+
+## 4.14 - Clock Rate and Instruction Rate
+
+
+
+## 4.15 - Control: Getting Started and Stopping
+
+
+
+## 4.16 - Starting the Fetch-Execute Cycle
+
+
+
+## 4.17 Summary
 
 
 
