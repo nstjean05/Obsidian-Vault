@@ -1,4 +1,6 @@
 ## Week 1 - History and Fundamentals
+Official quiz:
+
 |Question|Answer|
 |---|---|
 |Who is one of the Godfathers of Machine Learning?|Geoffrey Hinton|
