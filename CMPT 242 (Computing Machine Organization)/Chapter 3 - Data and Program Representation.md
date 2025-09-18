@@ -69,6 +69,7 @@
 		- There could be a max of 255 values, but only 128 leaves room for unconventional customization by programmers.
 		- Below are the 128 characters, with their ASCII counterpart.
 
+
 | Hex | Char | Hex | Char | Hex | Char    | Hex | Char | Hex | Char |
 | --- | ---- | --- | ---- | --- | ------- | --- | ---- | --- | ---- |
 | 00  | NUL  | 01  | SOH  | 02  | STX     | 03  | ETX  | 04  | EOT  |
@@ -164,25 +165,24 @@
 	- 52 Mantissa bits
 	- Bias = 2$^1$$^1$$^-$$^1$ - 1 = 1023
 	- Exponent range after bias adjustment: –1022 to +1023
-- **Examples:**
-	 - Represent exponent = 3 in single p
-
-
-
-
-
-
-
-
-
-
-
-
-
 ## 3.19 - An Example Floating Point Number
+- Consider how *6.5* is represented.
+	- Binary = 110.1
+	- Binary Scientific notation to normalize the value: 1.101 * 2$^2$
+	- Express as IEEE single-precision floating point:
+		- Sign bit is 0
+		- Exponent must be biased by 127, making it 129
+			- This is because the exponent is two, so 2 + 127 = 129.
+	- In binary, 129 = 10000001
+		- This is the exponent of the stored value.
+	- Now we must find the mantissa.
+		- Remember that the leading 1 bit isn't stored.
+		- So instead of 1101 followed by zeroes, it is 101 followed by zeroes.
+	- Mantissa = 10100000000000000000000
 
-
-
+| Sign Bit | Exponent (bits 23 – 30) | mantissa (bits 0 – 22)                        |
+| -------- | ----------------------- | --------------------------------------------- |
+| 0        | 1 0 0 0 0 0 0 1         | 1 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 |
 
 
 
