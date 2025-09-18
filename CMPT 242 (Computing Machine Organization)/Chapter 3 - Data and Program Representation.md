@@ -154,10 +154,10 @@
 	- Where k is the number of exponent bits.
 - **Single Precision**: 32-bit floating point value.
 	- 1 Sign bit
-	- 8 Exponent bits
+	- 8 Exponent bits (k)
 	- 23 Mantissa bits
 	- Bias = 2$^8$ - 1 = 127
-- Example
+- **Double Precision**
 
 
 
