@@ -13,11 +13,17 @@
 12. Reflect on effectiveness regularly.
 #### Scrum
 - An approach to agile
-- Organize people into groups
-	- Product Owner
-	- Scrum Master
-	- Development team
-	- Stakeholders
+- Terminology:
+	- ***Product Owner***
+	- ***Scrum Master***
+		- Facilitator, arranges daily meetings
+	- ***Development team***
+		- Self organizing team of no more than 7 software devs
+	- ***Stakeholders***
+	- ***Potentially shippable product***
+		- Software increment developed from a sprint
+	- ***Product Backlog***
+		- List of *to-do* 
 1. Outline, Planning, Architectural Design
 2. Cycle Through:
 	- Access
