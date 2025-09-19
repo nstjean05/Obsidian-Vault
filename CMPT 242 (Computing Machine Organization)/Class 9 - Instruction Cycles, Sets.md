@@ -45,3 +45,7 @@ could be
 - ROM transfers control to that code.
 - This code loads the rest of the OS to RAM and jumps to it.
 ## Processor Tradeoffs
+- Speed vs. complexity of the instruction set
+- Complexity vs. heat production/power consumption vs battery life
+- Speed or complexity vs. cost
+- Convenience vs. simplicity
