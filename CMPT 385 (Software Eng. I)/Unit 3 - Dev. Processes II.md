@@ -37,4 +37,3 @@
 	- Review
 	- Develop
 3. Project Closure
-- 
