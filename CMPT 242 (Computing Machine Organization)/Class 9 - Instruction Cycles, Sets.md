@@ -49,3 +49,9 @@ could be
 - Complexity vs. heat production/power consumption vs battery life
 - Speed or complexity vs. cost
 - Convenience vs. simplicity
+- A laptop tends to be simpler, slower, and uses minimal power compared to, say, a tower computer.
+#### Instructions
+- Instructions imply certain preconditions.
+	- Ex. no divide by zero errors.
+- Have an opcode representation in binary determining what to execute
+- In many cases, the opcodes have operands with them.
