@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CMPT 385 (Software Eng. I)/Unit 3 - Dev. Processes II.md",
+                "file": "CMPT 242 (Computing Machine Organization)/Class 9 - The Instruction Cycle.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Unit 3 - Dev. Processes II"
+              "title": "Class 9 - The Instruction Cycle"
             }
           }
         ]
@@ -183,8 +183,9 @@
   },
   "active": "bbcc776ac0768481",
   "lastOpenFiles": [
-    "Untitled.md",
     "CMPT 385 (Software Eng. I)/Unit 3 - Dev. Processes II.md",
+    "CMPT 242 (Computing Machine Organization)/Class 9 - The Instruction Cycle.md",
+    "Untitled.md",
     "CMPT 385 (Software Eng. I)/Unit 3 - Dev. Processes I.md",
     "CMPT 385 (Software Eng. I)/Unit 2 -Project Management.md",
     "CMPT 385 (Software Eng. I)/Unit 1 - Intro and FAQ to Software Engineering.md",
@@ -216,7 +217,6 @@
     "CMPT 242 (Computing Machine Organization)/Class 5 - Representing Negative Integers.md",
     "CMPT 242 (Computing Machine Organization)/Class 4 - Combining Circuits.md",
     "Learning Java/5 - Arithmetic Operators.md",
-    "Learning Java/2 - Variables.md",
     "Learning Java",
     "CMPT 334 (Principles of Operating Systems)",
     "z. Images/Pasted image 20250909211745.png",
