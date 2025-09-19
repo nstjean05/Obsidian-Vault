@@ -11,3 +11,18 @@
 10. Keep it simple, don't overcomplicate.
 11. The best designs are a result of self-organizing teams.
 12. Reflect on effectiveness regularly.
+#### Scrum
+- An approach to agile
+- Organize people into groups
+	- Product Owner
+	- Scrum Master
+	- Development team
+	- Stakeholders
+1. Outline, Planning, Architectural Design
+2. Cycle Through:
+	- Access
+	- Select
+	- Review
+	- Develop
+3. Project Closure
+- 
