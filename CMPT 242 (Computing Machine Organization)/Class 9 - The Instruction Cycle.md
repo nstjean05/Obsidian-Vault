@@ -29,4 +29,13 @@ could be
 	- Data on I/O bus
 	- etc.
 - Sometimes a processor waits in a "wait state" for a resource to become available or a co-processed task to complete.
+#### Fetch-Loop
+- A **fetch-loop** architecture implies that:
+	- There is always something to do even if just wait.
+	- A subroutine or program that gains control must eventually relinquish it to the controlling routine.
+	- If no program is executing the processor loops in a wait state. (per the OS)
+	- If there is a program running the processor loops in its own wait for an OS.
+- JSR = Jump to Subroutine
+- RTS = Return to sender
+- After jumping to a subroutine, if nothing is found, the code may RTS.
 - 
