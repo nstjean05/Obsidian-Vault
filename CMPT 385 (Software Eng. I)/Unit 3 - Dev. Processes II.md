@@ -14,16 +14,22 @@
 #### Scrum
 - An approach to agile
 - Terminology:
-	- ***Product Owner***
 	- ***Scrum Master***
-		- Facilitator, arranges daily meetings
+		- Facilitator, arranges daily meetings.
 	- ***Development team***
-		- Self organizing team of no more than 7 software devs
+		- Self organizing team of no more than 7 software devs.
 	- ***Stakeholders***
+		- A group who depends on receiving your functioning product.
 	- ***Potentially shippable product***
-		- Software increment developed from a sprint
+		- Software increment developed from a sprint.
 	- ***Product Backlog***
-		- List of *to-do* 
+		- List of *to-do* items for the Scrum to tackle.
+	- ***Product Owner***
+		- An individual or small group who determines the product features or requirements.
+	- ***Sprint**
+		- A development iteration (2-4 weeks).
+	- ***Velocity***
+		- An estimate of how much product backlog effort that a team can cover in a single sprint.
 1. Outline, Planning, Architectural Design
 2. Cycle Through:
 	- Access
