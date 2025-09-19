@@ -38,4 +38,10 @@ could be
 - JSR = Jump to Subroutine
 - RTS = Return to sender
 - After jumping to a subroutine, if nothing is found, the code may RTS.
-- 
+#### The Startup Sequence
+- Power on -  a reset zeroes out all gates (memory excluded)
+- Processor jumps to a fixed address in ROM (expecting code there)
+- ROM code there polls for an input device with storage looking for a device containing an OS, reads a specific track/sector into RAM.
+- ROM transfers control to that code.
+- This code loads the rest of the OS to RAM and jumps to it.
+## Processor Tradeoffs
