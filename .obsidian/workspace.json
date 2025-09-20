@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CMPT 242 (Computing Machine Organization)/Class 9 - Instruction Cycles, Sets.md",
+                "file": "Learning Java/5 - Arithmetic Operators.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Class 9 - Instruction Cycles, Sets"
+              "title": "5 - Arithmetic Operators"
             }
           }
         ]
@@ -181,10 +181,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bbcc776ac0768481",
+  "active": "b7bafca48f2d6c08",
   "lastOpenFiles": [
-    "CMPT 242 (Computing Machine Organization)/Chapter 5 - Instruction Sets and Operands.md",
     "CMPT 242 (Computing Machine Organization)/Class 9 - Instruction Cycles, Sets.md",
+    "CMPT 242 (Computing Machine Organization)/Chapter 5 - Instruction Sets and Operands.md",
     "CMPT 385 (Software Eng. I)/Unit 3 - Dev. Processes II.md",
     "Untitled.md",
     "CMPT 385 (Software Eng. I)/Unit 3 - Dev. Processes I.md",
