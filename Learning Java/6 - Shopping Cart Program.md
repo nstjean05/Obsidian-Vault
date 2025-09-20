@@ -1,0 +1,4 @@
+- Ask what item you want to buy
+- Ask what the price is for that item
+- Ask how many you are buying
+- Output the order and the total.
