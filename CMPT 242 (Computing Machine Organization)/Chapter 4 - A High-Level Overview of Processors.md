@@ -35,7 +35,9 @@
 	- Functionality cannot be altered.
 - **Selectable Logic Processor**
 	- Often forms a subpart of a more powerful processor (like a CPU)
-	- Contains hardware for more than one function,
+	- Contains hardware for more than one function.
+	- Control lines to specify which function a given time.
+	- 
 
 
 
