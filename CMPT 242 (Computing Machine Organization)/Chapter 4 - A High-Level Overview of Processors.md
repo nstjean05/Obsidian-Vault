@@ -53,17 +53,26 @@
 	- query engine
 	- arithmetic engine
 	- and more.
-- **Graphics engines**
-
-
-
-
-
-
-
-
-
+- **Graphics engines** (aka graphics accelerators)
+	- Used to drive the graphics display at a high speed.
+- **Query engines** are used in database processors.
+	- Examines a record and quickly determines if the query is satisfied.
+- **Pattern Engines** are similar to query engines.
+	- Examine a string of bits to determine if the string matches a specified pattern.
 ## 4.7 - Structure of a Conventional Processor
+- Most processors do not include engines.
+- A practical processor has 5 conceptual units:
+	- **Controller**
+		- Overall responsibility for program execution.
+		- Walks through the program and coordinates actions of all other hardware units.
+	- **Local Data Storage**
+		- A processor must have at least some data to hold values.
+		- Values often loaded onto *registers* before computation.
+	- **Internal Interconnections**
+		- Physical hardware for transferring values between units.
+		- Also known as *data paths*.
+	- **External Interfaces**
+		- Communications between processor, external memory, and I/O.
 
 
 
