@@ -24,20 +24,18 @@
 - These notes will assume V-N architecture unless otherwise noted.
 ## 4.4 - Definition of a Processor
 - *Processor* is actually not a synonym for *Central Processing Unit (CPU)*.
-- A **procesor** actually has a much wider view in co
-
-
-
-
-
-
-
-
-
+- A processor actually has a much wider view in computer architecture.
+	- Includes processors used in a wide variety of devices, such as automobiles or remote-control devices.
+- **Processor**: A digital device that can perform a computation involving multiple steps.
 ## 4.5 - The Range of Processors
-
-
-
+- There are four categories of processors according to how adaptable they are.
+- **Fixed Logic Processor**
+	- Least flexible, only performing a single task.
+	- All functionality to perform the operation is built-in.
+	- Functionality cannot be altered.
+- **Selectable Logic Processor**
+	- Often forms a subpart of a more powerful processor (like a CPU)
+	- Contains hardware for more than one function,
 
 
 
