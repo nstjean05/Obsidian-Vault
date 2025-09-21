@@ -73,21 +73,49 @@
 		- Also known as *data paths*.
 	- **External Interfaces**
 		- Communications between processor, external memory, and I/O.
-
-
-
-
-
-
-
-
-
-
-
+![[Pasted image 20250920204415.png]]
 ## 4.8 - Processor Categories and Roles
+- There are many examples of hardware devices using processors. Below are some examples.
+- **Coprocessors**
+	- Operates with and controlled by another processor.
+	- Generally, the coprocessor is very specialized and very fast.
+	- Ex. *Floating point accelerators* for the arithmetic operations.
+	- When a floating point operation occurs, the CPU automatically passes the values on to the coprocessor.
+	- Some architectures are not sure which operations are performed by CPU and which by a coprocessor.
+		- We would say that operation of the coprocessor is **transparent** to the software.
+- **Microcontrollers**
+	- A programmable device dedicated to controlling a physical system.
+	- Run things like car engines, automatic doors, etc.
+	- Tests sensors, performs functions.
+	- Generally don't do much computation.
+- **Embedded Systems Processors**
+	- Runs a sophisticated electronic device
+		- Ex. 
+
+
+
+
+
+
+
+
+
+
 
 
 ## 4.9 - Processor Technologies
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -96,7 +124,31 @@
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
 ## 4.11 - The Fetch-Execute Cycle
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -104,7 +156,31 @@
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
 ## 4.13 - Variable-length and Fixed-length Instructions
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -112,11 +188,47 @@
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
 ## 4.15 - Control: Getting Started and Stopping
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
 ## 4.16 - Starting the Fetch-Execute Cycle
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
