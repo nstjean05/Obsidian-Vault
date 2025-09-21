@@ -37,16 +37,23 @@
 	- Often forms a subpart of a more powerful processor (like a CPU)
 	- Contains hardware for more than one function.
 	- Control lines to specify which function a given time.
-	- 
-
-
-
-
-
-
+- **Parameterized Logic Processor**
+	- Only computes predetermined functions, but will accept a set of parameters to determine/variate that function.
+	- Contains a function f(x) with variables p, q, and is able to change p and/or q each time the function runs.
+- **Programmable Logic Processor**
+	- Offers the most flexibility
+	- Allows the sequence of steps to be changed each time the processor is invoked.
 ## 4.6 - Hierarchical Structure and Computational Engines
-
-
+- A human cannot understand the complexity of a CPU, so we design/test it as separate separate units and then bring them together.
+- Some of the subparts of a processor are so complex that they could be considered processors themselves.
+- **Computational Engine**: Independent sub-piece of a large processor, which fulfills a specific role.
+- For example, a CPU can contain a:
+	- Trigonometry engine
+	- Graphics engine
+	- query engine
+	- arithmetic engine
+	- and more.
+- **Graphics engines**
 
 
 
