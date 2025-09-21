@@ -1,16 +1,11 @@
 ## 4.1 - Introduction
-
-
-
-
-
-
+- Overview of four main components of a computer.
+- Explains the computer processor.
+- Building blocks of a CPU.
 ## 4.2 - The Two Basic Architectural Approaches
-
-
-
-
-
+- Two basic approaches emerged to computing early on.
+	- Harvard Architecture
+	- Von Neumann Architecture
 ## 4.3 - The Harvard and Von Neumann Architectures
 - **Harvard Architecture**: A computer organization with four components:
 	- Processor
@@ -26,7 +21,15 @@
 - Von Neumann offers complete flexibility, at the cost of only marginal efficiency loss.
 	- This has led it to become the default architecture in computing.
 - A computer that follows V-N architecture employs a *stored program* approach, since the program is stored in memory.
+- These notes will assume V-N architecture unless otherwise noted.
 ## 4.4 - Definition of a Processor
+- *Processor* is actually not a synonym for *Central Processing Unit (CPU)*.
+- A **procesor** actually has a much wider view in co
+
+
+
+
+
 
 
 
@@ -35,10 +38,34 @@
 
 
 
+
+
+
+
+
+
 ## 4.6 - Hierarchical Structure and Computational Engines
 
 
+
+
+
+
+
+
+
+
+
 ## 4.7 - Structure of a Conventional Processor
+
+
+
+
+
+
+
+
+
 
 
 ## 4.8 - Processor Categories and Roles
