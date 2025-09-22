@@ -93,22 +93,12 @@
 		- Ex. wireless router, infotainment in a vehicle, etc.
 	- More powerful than microcontrollers, often running protocol stacks for communications, but not functional like a CPU.
 - **General-Purpose Processor**
-	- 
-
-
-
-
-
-
-
-
-
-
-
-
+	- These are what we're most familiar with, used in laptops or smartphones.
 ## 4.9 - Processor Technologies
-
-
+- 1960s - Processors made by connecting individual transistors on a circuit board.
+- 1970s - Large-scale integrated circuit technologies.
+		- Allow for the least powerful processors (e.g. microcontrollers) to be created on an integrated circuit (IC).
+- As IC technology improved and number of transistors on a chip increased, a chip can 
 
 
 

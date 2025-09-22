@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CMPT 242 (Computing Machine Organization)/Class 9 - Instruction Cycles, Sets.md",
+                "file": "CMPT 242 (Computing Machine Organization)/Chapter 4 - A High-Level Overview of Processors.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Class 9 - Instruction Cycles, Sets"
+              "title": "Chapter 4 - A High-Level Overview of Processors"
             }
           }
         ]
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "1c1db9715e53cd8f",
@@ -183,6 +184,7 @@
   },
   "active": "2ac5ba0c3f6e896d",
   "lastOpenFiles": [
+    "CMPT 242 (Computing Machine Organization)/Class 9 - Instruction Cycles, Sets.md",
     "CMPT 242 (Computing Machine Organization)/Chapter 4 - A High-Level Overview of Processors.md",
     "Pasted image 20250920204415.png",
     "CMPT 242 (Computing Machine Organization)/Chapter 3 - Data and Program Representation.md",
@@ -190,7 +192,6 @@
     "Learning Java/7 - IF Statements.md",
     "Learning Java/5 - Arithmetic Operators.md",
     "Learning Java/6 - Shopping Cart Program.md",
-    "CMPT 242 (Computing Machine Organization)/Class 9 - Instruction Cycles, Sets.md",
     "CMPT 242 (Computing Machine Organization)/Chapter 5 - Instruction Sets and Operands.md",
     "CMPT 385 (Software Eng. I)/Unit 3 - Dev. Processes II.md",
     "CMPT 385 (Software Eng. I)/Unit 3 - Dev. Processes I.md",
