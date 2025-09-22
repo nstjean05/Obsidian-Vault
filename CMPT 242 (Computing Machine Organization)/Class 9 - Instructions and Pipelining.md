@@ -19,12 +19,23 @@
 		- 11-15 for counters
 		- 16+ for scratch (temp. storage)
 - In such a common strategy as 2-operand opcodes take/put in different banks
-- **Assmbler**
+- **Assembler**
 	- z <-- R6 + R5     (OK)
 	- y <-- R7 + R2     (OK)
 	- x <-- R0 + R1     (R0 and R1 are the same bank, not OK)
-
-
+	- Go to [this link at Geeks for Geeks](https://www.geeksforgeeks.org/computer-science-fundamentals/what-is-register-memory/) to learn more.
+![[Pasted image 20250922124050.png]]
+## Instruction Sets May Be
+- **Complex** (CISC)
+	- Many instructions, each specific
+		- Varying number of machine cycles
+		- Some taking lots
+	- Most processors from the big companies, especially before 2010
+- **Reduced** (RISC)
+	- Fewer instructions but more complex operations may take several
+	- Fixed size
+	- Are 1 clock-cycle each
+	- Started with PowerPC chip (Apple/IBM/Motorola)
 
 
 
