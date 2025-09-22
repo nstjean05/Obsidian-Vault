@@ -9,7 +9,16 @@
 	- Move memory to a different memory
 	- Move register " " register
 	- Add register 1 to register 2 and put answer in register 3 or in memory
-- 
+- **Registers** can be...
+	- General purpose integer/word register
+	- Specialized floating point, double, or quad wide.
+	- If all registers are one single:
+		- We may have a rule that a double loaded in register 4 --> 485
+	- Allocated to the OS for specific purposes.
+		- 1-10 for the results
+		- 11-15 for counters
+		- 16+ for scratch (temp. storage)
+	- 
 
 
 
