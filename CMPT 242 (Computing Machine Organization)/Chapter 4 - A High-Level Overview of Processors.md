@@ -90,7 +90,10 @@
 	- Generally don't do much computation.
 - **Embedded Systems Processors**
 	- Runs a sophisticated electronic device
-		- Ex. 
+		- Ex. wireless router, infotainment in a vehicle, etc.
+	- More powerful than microcontrollers, often running protocol stacks for communications, but not functional like a CPU.
+- **General-Purpose Processor**
+	- 
 
 
 
