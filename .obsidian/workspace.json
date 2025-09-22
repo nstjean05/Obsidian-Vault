@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CMPT 242 (Computing Machine Organization)/Class 9 - Instructions and Pipelining.md",
+                "file": "CMPT 242 (Computing Machine Organization)/Chapter 4 - A High-Level Overview of Processors.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Class 9 - Instructions and Pipelining"
+              "title": "Chapter 4 - A High-Level Overview of Processors"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "half",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,12 +74,12 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "1c1db9715e53cd8f",
@@ -182,13 +182,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2ac5ba0c3f6e896d",
+  "active": "0492444b7e950a68",
   "lastOpenFiles": [
+    "CMPT 242 (Computing Machine Organization)/Class 9 - Instructions and Pipelining.md",
     "Pasted image 20250922124050.png",
     "Learning Java/8 - Random Class.md",
     "Learning Java/7 - IF Statements.md",
     "CMPT 242 (Computing Machine Organization)/Class 10 - MIPS & Branching.md",
-    "CMPT 242 (Computing Machine Organization)/Class 9 - Instructions and Pipelining.md",
     "CMPT 242 (Computing Machine Organization)/Class 8 - Mathematics & Instruction Sets.md",
     "CMPT 242 (Computing Machine Organization)/Chapter 4 - A High-Level Overview of Processors.md",
     "z. Images/Pasted image 20250920204415.png",
@@ -221,7 +221,6 @@
     "PHIL 105/(07.11.25) Descartes Proof of God.md",
     "Learning Java",
     "CMPT 334 (Principles of Operating Systems)",
-    "z. Images/Pasted image 20250909211745.png",
     "CMPT 380 (Artificial Intelligence)",
     "CMPT 385 - Software Engineering",
     "CMPT 242 (Computing Machine Organization)",
