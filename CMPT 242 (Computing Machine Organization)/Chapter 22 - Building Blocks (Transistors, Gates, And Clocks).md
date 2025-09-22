@@ -95,7 +95,7 @@
 	- This circuit is called a *half adder*.
 	- It contains an *and* gate and an *exclusive or* gate.
 	- Depicted below is a *full adder* circuit.
-		- You can see the two half adder gates nested within it, comprised of the two pairs of *XOR* and *and* gates.
+		- You can see the two half adder gates nested within it, comprised of the two pairs of *XOR* and *AND* gates.
 ![[Pasted image 20250909123159.png]]
 - **The Sum**
 	- The first and second *XOR* gates determine that the *sum* is only 1 if an odd number of inputs are 1.
