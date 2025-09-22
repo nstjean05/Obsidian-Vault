@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CMPT 242 (Computing Machine Organization)/Chapter 4 - A High-Level Overview of Processors.md",
+                "file": "CMPT 242 (Computing Machine Organization)/Class 9 - Instructions and Pipelining.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Chapter 4 - A High-Level Overview of Processors"
+              "title": "Class 9 - Instructions and Pipelining"
             }
           }
         ]
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "1c1db9715e53cd8f",
@@ -184,12 +183,14 @@
   },
   "active": "2ac5ba0c3f6e896d",
   "lastOpenFiles": [
-    "CMPT 242 (Computing Machine Organization)/Class 9 - Instruction Cycles, Sets.md",
-    "CMPT 242 (Computing Machine Organization)/Chapter 4 - A High-Level Overview of Processors.md",
-    "Pasted image 20250920204415.png",
-    "CMPT 242 (Computing Machine Organization)/Chapter 3 - Data and Program Representation.md",
-    "8 - Random Class.md",
+    "Learning Java/8 - Random Class.md",
     "Learning Java/7 - IF Statements.md",
+    "CMPT 242 (Computing Machine Organization)/Class 10 - MIPS & Branching.md",
+    "CMPT 242 (Computing Machine Organization)/Class 9 - Instructions and Pipelining.md",
+    "CMPT 242 (Computing Machine Organization)/Class 8 - Mathematics & Instruction Sets.md",
+    "CMPT 242 (Computing Machine Organization)/Chapter 4 - A High-Level Overview of Processors.md",
+    "z. Images/Pasted image 20250920204415.png",
+    "CMPT 242 (Computing Machine Organization)/Chapter 3 - Data and Program Representation.md",
     "Learning Java/5 - Arithmetic Operators.md",
     "Learning Java/6 - Shopping Cart Program.md",
     "CMPT 242 (Computing Machine Organization)/Chapter 5 - Instruction Sets and Operands.md",
@@ -205,7 +206,6 @@
     "CMPT 242 (Computing Machine Organization)/Class 6 - ASCII, Binary, and HEX.md",
     "CMPT 242 (Computing Machine Organization)/Class 7 - Processors.md",
     "CMPT 242 (Computing Machine Organization)/Chapter 22 - Building Blocks (Transistors, Gates, And Clocks).md",
-    "CMPT 242 (Computing Machine Organization)/Class 8 - Mathematics & Instruction Sets.md",
     "README.md",
     "z. Images/Pasted image 20250916141942.png",
     "z. Images/Pasted image 20250916194821.png",

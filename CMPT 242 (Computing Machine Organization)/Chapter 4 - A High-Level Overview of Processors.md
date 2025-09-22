@@ -98,23 +98,10 @@
 - 1960s - Processors made by connecting individual transistors on a circuit board.
 - 1970s - Large-scale integrated circuit technologies.
 		- Allow for the least powerful processors (e.g. microcontrollers) to be created on an integrated circuit (IC).
-- As IC technology improved and number of transistors on a chip increased, a chip can 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+- As IC technology improved and number of transistors on a chip increased, a chip can hold more powerful processors.
+- Most powerful processors today are often a single IC.
 ## 4.10 - Stored Programs
-
+- 
 
 
 
