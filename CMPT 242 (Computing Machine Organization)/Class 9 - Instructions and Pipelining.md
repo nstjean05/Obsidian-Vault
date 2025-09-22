@@ -18,7 +18,11 @@
 		- 1-10 for the results
 		- 11-15 for counters
 		- 16+ for scratch (temp. storage)
-	- 
+- In such a common strategy as 2-operand opcodes take/put in different banks
+- **Assmbler**
+	- z <-- R6 + R5     (OK)
+	- y <-- R7 + R2     (OK)
+	- x <-- R0 + R1     (R0 and R1 are the same bank, not OK)
 
 
 
