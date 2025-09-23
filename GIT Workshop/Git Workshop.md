@@ -17,4 +17,4 @@
 - Use `git add main.py` (add file) or `git add .` (add all changes)
 - Can add a descriptor with each new snapshot of the program to see the graph over time.
 -  Use `git checkout <branch-name>` to switch between the branch you're working in.
-- Use `git merge `
+- Use `git merge <branch-name>` to unite branches.
