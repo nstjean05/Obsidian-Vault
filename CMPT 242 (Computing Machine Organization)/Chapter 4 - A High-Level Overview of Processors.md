@@ -150,39 +150,16 @@
 - **Clocks** are used to control the rate that digital logic operates.
 	- Hardware POV: A clock is a circuit which pulses at a regular rate.
 - The clock's signal travels through the circuit to coordinate it.
-- 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+- High clock rate indicates that the internal circuits of a processor run at a high speed.
+	- Basic instructions complete in 1 clock cycle.
+- Operations using I/O, memory access, or floating point operations may take more than a cycle.
 ## 4.15 - Control: Getting Started and Stopping
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+- Processors continue to operate after program termination, until they're shut down.
+- For example, a loop may pause until it receives input from a sensor.
+	- The fetch-execute cycle doesn't even stop here, it continues to test the sensor for input.
+	- Therefore, from a hardware POV, it never really stops.
 ## 4.16 - Starting the Fetch-Execute Cycle
-
+- 
 
 
 
