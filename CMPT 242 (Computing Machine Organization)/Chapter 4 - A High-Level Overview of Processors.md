@@ -125,6 +125,7 @@
 	- It specifies the operation to perform.
 - Other fields specify the *operands* to use when the instruction is executed.
 ## 4.13 - Variable-length and Fixed-length Instructions
+- *Variable-length instructions* allow for some instructions to take up more or less bytes.
 - 
 
 
