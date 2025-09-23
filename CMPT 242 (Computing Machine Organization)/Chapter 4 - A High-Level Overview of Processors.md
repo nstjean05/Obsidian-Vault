@@ -111,21 +111,12 @@
 ## 4.11 - The Fetch-Execute Cycle
 - Programmable processors must access and perform steps from a program.
 	- This is the *fetch-execute* cycle.
-- A processor has 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+- A processor has a pointer to an instruction, automatically moving the program into memory, performing each piece.
+- This gives us many questions.
+	- How does the processor know the next step in program?
+	- How is an operation performed?
+	- How are the instructions represented in memory?
+	- etc.
 ## 4.12 - Instructions in Memory
 
 
