@@ -118,8 +118,7 @@
 	- How are the instructions represented in memory?
 	- etc.
 ## 4.12 - Instructions in Memory
-
-
+- Each instruction occupies a set of sequential bytes in me
 
 
 
