@@ -135,18 +135,22 @@
 - From a **hardware** perspective:
 	1. Build an instruction decoder with hardware for each bit of the instruction
 	2. Fetch all bits of the instruction from memory in parallel
-	3. Use the opcode to choose an internal unit to execute the instruction.
-	4. Transfer all bits of the instruction to the unit in parallel.
+	3. Use the opcode to send to execution unit in parallel.
 - **Iterated In Space**: The idea that hardware systems have a separate piece of hardware for each bit and perform operations on all bits in parallel.
-
-
-
-
-
-
-
+	- Software repeats steps over time
+		- Iteration
+	- Hardware repeats steps in space
+		- Multiple circuits side-by-side
+- Fixed length is faster because...
+	- Hardware knows exact number of bits to graph.
+	- Build one universal decoder for all instructions
+	- Quick execution
+- However, fixed length will 'waste' some space
 ## 4.14 - Clock Rate and Instruction Rate
-
+- **Clocks** are used to control the rate that digital logic operates.
+	- Hardware POV: A clock is a circuit which pulses at a regular rate.
+- The clock's signal travels through the circuit to coordinate it.
+- 
 
 
 
