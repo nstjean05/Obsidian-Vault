@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CMPT 380 (Artificial Intelligence)/Ch.13 - Solving Problems By Searching.md",
+                "file": "CMPT 242 (Computing Machine Organization)/Chapter 4 - A High-Level Overview of Processors.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ch.13 - Solving Problems By Searching"
+              "title": "Chapter 4 - A High-Level Overview of Processors"
             }
           }
         ],
@@ -93,7 +93,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "1c1db9715e53cd8f",
@@ -157,13 +158,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CMPT 360 (Comparative Programming Languages)/Lesson 22 - Control Statements (ii).md",
-                "followCursor": false,
+                "file": "CMPT 242 (Computing Machine Organization)/Chapter 4 - A High-Level Overview of Processors.md",
+                "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Lesson 22 - Control Statements (ii)"
+              "title": "Outline of Chapter 4 - A High-Level Overview of Processors"
             }
           },
           {
@@ -181,8 +182,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -196,10 +196,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b7bafca48f2d6c08",
+  "active": "65ca5408de734e91",
   "lastOpenFiles": [
-    "CMPT 380 (Artificial Intelligence)/Ch.1 - Introduction.md",
     "CMPT 380 (Artificial Intelligence)/Ch.13 - Solving Problems By Searching.md",
+    "CMPT 380 (Artificial Intelligence)/Ch.1 - Introduction.md",
     "CMPT 380 (Artificial Intelligence)/Ch.2 - Intelligent Agents.md",
     "CMPT 380 (Artificial Intelligence)/Ch.3 - Solving Problems by Searching.md",
     "Git Workshop/Git Workshop.md",

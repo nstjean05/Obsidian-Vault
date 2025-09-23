@@ -126,7 +126,18 @@
 - Other fields specify the *operands* to use when the instruction is executed.
 ## 4.13 - Variable-length and Fixed-length Instructions
 - *Variable-length instructions* allow for some instructions to take up more or less bytes.
-- 
+- *Fixed-length instructions* are used by some modern processors for the slight speed benefit.
+- Why are the speeds different? Below is the algorithm from a **software** perspective:
+	1. Fetch the byte of instruction containing opcode
+	2. Use the opcode to compute N, the number of additional bytes
+	3. Repeat N times
+		1. Fetch an additional byte of the instruction
+	4. Use the opcode to decide how to perform the instruction
+- From a **hardware** perspective:
+	1. Build an instruction decoder with hardware for each bit of the instruction
+	2. Fetch all bits of the instruction from memory in parallel
+	3. Use the opcode to choose an internal unit to execute the instruction.
+	4. Transfer all bits of the instruction to the unit in parallel.
 
 
 
