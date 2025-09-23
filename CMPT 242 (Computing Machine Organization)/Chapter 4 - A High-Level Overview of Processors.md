@@ -127,24 +127,17 @@
 ## 4.13 - Variable-length and Fixed-length Instructions
 - *Variable-length instructions* allow for some instructions to take up more or less bytes.
 - *Fixed-length instructions* are used by some modern processors for the slight speed benefit.
-- Why are the speeds different? Below is the algorithm from a **software** perspective:
-	1. Fetch the byte of instruction containing opcode
-	2. Use the opcode to compute N, the number of additional bytes
-	3. Repeat N times
-		1. Fetch an additional byte of the instruction
-	4. Use the opcode to decide how to perform the instruction
+- Below is the algorithm for fetching instructions from a **software** perspective:
+	1. Fetch the byte of instruction containing opcode 
+	2. Use opcode to find the number of bytes (N) in this instruction
+	3. Repeat N times (to read those bytes, fetching them individually)
+	4. Use the opcode to see how to execute
 - From a **hardware** perspective:
 	1. Build an instruction decoder with hardware for each bit of the instruction
 	2. Fetch all bits of the instruction from memory in parallel
 	3. Use the opcode to choose an internal unit to execute the instruction.
 	4. Transfer all bits of the instruction to the unit in parallel.
-
-
-
-
-
-
-
+- **Iterated In Space**: The idea that hardware systems have a separate piece of hardware for each bit and perform operations on all bits in parallel.
 
 
 
