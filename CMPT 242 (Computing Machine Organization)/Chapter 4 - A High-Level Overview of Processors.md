@@ -120,22 +120,12 @@
 ## 4.12 - Instructions in Memory
 - Each instruction occupies a set of sequential bytes in memory.
 - The compiler (which generates the bits to be stored in an instruction) and the interpreter (which translates the instruction for the hardware) must agree on all details.
-- 
-
-
-
-
-
-
-
-
-
-
-
-
-
+- Processors divide the bits of an instruction into *fields*
+- *Opcode* (operation code) is the most important field in an instruction.
+	- It specifies the operation to perform.
+- Other fields specify the *operands* to use when the instruction is executed.
 ## 4.13 - Variable-length and Fixed-length Instructions
-
+- 
 
 
 
