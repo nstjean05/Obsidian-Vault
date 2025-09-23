@@ -119,6 +119,7 @@
 	- etc.
 ## 4.12 - Instructions in Memory
 - Each instruction occupies a set of sequential bytes in memory.
+- The compiler (which generates the bits to be stored in an instruction) and the interpreter (which translates the instruction for the hardware) must agree on all details.
 - 
 
 
