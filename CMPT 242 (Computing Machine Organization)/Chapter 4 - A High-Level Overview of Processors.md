@@ -101,23 +101,17 @@
 - As IC technology improved and number of transistors on a chip increased, a chip can hold more powerful processors.
 - Most powerful processors today are often a single IC.
 ## 4.10 - Stored Programs
-- 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+- Processors perform computations with steps
+	- Some processors have these steps built-in, but most don't
+- Most processors use programming to provide the step sequence
+- Conventional computers load the program into memory when an application is run.
+	- This program can be changed on the next run.
+- Microcontrollers use *Read Only Memory* (ROM), with programming that is locked-in the harware.
+- Programmable if the processor is separate from its program.
 ## 4.11 - The Fetch-Execute Cycle
-
+- Programmable processors must access and perform steps from a program.
+	- This is the *fetch-execute* cycle.
+- A processor has 
 
 
 
