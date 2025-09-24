@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Learning Java/3 - User Input.md",
+                "file": "CMPT 242 (Computing Machine Organization)/Chapter 3 - Data and Program Representation.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3 - User Input"
+              "title": "Chapter 3 - Data and Program Representation"
             }
           }
         ]
@@ -181,8 +181,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7c769cc31b6ecd70",
+  "active": "b7bafca48f2d6c08",
   "lastOpenFiles": [
+    "Learning Java/3 - User Input.md",
     "CMPT 242 (Computing Machine Organization)/Chapter 3 - Data and Program Representation.md",
     "CMPT 242 (Computing Machine Organization)/Chapter 4 - A High-Level Overview of Processors.md",
     "CMPT 242 (Computing Machine Organization)/Chapter 5 - Instruction Sets and Operands.md",
@@ -190,7 +191,6 @@
     "CMPT 242 (Computing Machine Organization)/Class 6 - ASCII, Binary, and HEX.md",
     "CMPT 242 (Computing Machine Organization)/Class 8 - Mathematics & Instruction Sets.md",
     "CMPT 242 (Computing Machine Organization)/Class 7 - Processors.md",
-    "Learning Java/3 - User Input.md",
     "Learning Java/1 - Intro to Java.md",
     "CMPT 242 (Computing Machine Organization)/Class 5 - Representing Negative Integers.md",
     "CMPT 242 (Computing Machine Organization)/Class 4 - Combining Circuits.md",
