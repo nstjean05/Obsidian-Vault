@@ -11,3 +11,10 @@ c. (lookup) Is an Intel chip big or little endian? (Later I may ask you to write
 
 d. (bonus) Besides using multiple F.A. circuits (one per bit) find a way to build a multiple bit adder, design the circuit and print it out, then show by the truth table it is correct. You need only extend it to two bits. If that much works, you can obviously extend it further.
 
+
+| C   | A0  | B0  | A1  | B1  | A2  | B2  | A3  | B3  | Binary Sum |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | ---------- |
+| F   | F   | F   | F   | F   | F   | F   | F   | F   | 0          |
+| F   | T   | F   | F   | F   | F   | F   | F   | F   | 1          |
+| F   | F   | T   | F   | F   | F   | F   | F   | F   | 1          |
+| F   | T   | T   | F   | F   | F   | F   | F   | F   | 10         |
