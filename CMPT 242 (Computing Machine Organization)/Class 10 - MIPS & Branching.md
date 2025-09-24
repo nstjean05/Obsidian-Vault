@@ -1,5 +1,8 @@
 ## How to Optimize CISC
 - Construction Instruction Set Computer (CISCI) is a computer architecture for computing complex, multi-step constructions the perform multiple operations at once.
+- A pipeline is a sequence of instructions from a program.
+	- The instructions are ordered one after another.
+	- Occasionally it may be possible to complete instructions independent of one another, in which can you may form an additional pipeline.
 1. Do make every instruction the same length as in RISC
 2. Take the cycle
 	1. Fetch instruction
