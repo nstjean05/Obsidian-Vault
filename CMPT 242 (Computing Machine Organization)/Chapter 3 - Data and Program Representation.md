@@ -69,7 +69,6 @@
 		- There could be a max of 255 values, but only 128 leaves room for unconventional customization by programmers.
 		- Below are the 128 characters, with their ASCII counterpart.
 
-
 | Hex | Char | Hex | Char | Hex | Char    | Hex | Char | Hex | Char |
 | --- | ---- | --- | ---- | --- | ------- | --- | ---- | --- | ---- |
 | 00  | NUL  | 01  | SOH  | 02  | STX     | 03  | ETX  | 04  | EOT  |
