@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CMPT 242 (Computing Machine Organization)/Class 6 - ASCII, Binary, and HEX.md",
+                "file": "CMPT 242 (Computing Machine Organization)/Class 8 - Mathematics & Instruction Sets.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Class 6 - ASCII, Binary, and HEX"
+              "title": "Class 8 - Mathematics & Instruction Sets"
             }
           }
         ]
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CMPT 242 (Computing Machine Organization)/Class 6 - ASCII, Binary, and HEX.md",
+                "file": "CMPT 242 (Computing Machine Organization)/Class 8 - Mathematics & Instruction Sets.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Class 6 - ASCII, Binary, and HEX"
+              "title": "Outgoing links from Class 8 - Mathematics & Instruction Sets"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CMPT 242 (Computing Machine Organization)/Class 6 - ASCII, Binary, and HEX.md",
+                "file": "CMPT 242 (Computing Machine Organization)/Class 8 - Mathematics & Instruction Sets.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Class 6 - ASCII, Binary, and HEX"
+              "title": "Outline of Class 8 - Mathematics & Instruction Sets"
             }
           },
           {
@@ -184,9 +184,9 @@
   "active": "7c769cc31b6ecd70",
   "lastOpenFiles": [
     "CMPT 242 (Computing Machine Organization)/Class 7 - Processors.md",
+    "CMPT 242 (Computing Machine Organization)/Class 6 - ASCII, Binary, and HEX.md",
     "CMPT 242 (Computing Machine Organization)/Class 8 - Mathematics & Instruction Sets.md",
     "CMPT 242 (Computing Machine Organization)/Chapter 3 - Data and Program Representation.md",
-    "CMPT 242 (Computing Machine Organization)/Class 6 - ASCII, Binary, and HEX.md",
     "CMPT 242 (Computing Machine Organization)/Chapter 22 - Building Blocks (Transistors, Gates, And Clocks).md",
     "CMPT 242 (Computing Machine Organization)/Chapter 4 - A High-Level Overview of Processors.md",
     "CMPT 242 (Computing Machine Organization)/Chapter 5 - Instruction Sets and Operands.md",
