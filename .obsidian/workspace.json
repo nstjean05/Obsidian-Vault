@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "EBC",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,7 +74,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -181,8 +182,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7c769cc31b6ecd70",
+  "active": "0492444b7e950a68",
   "lastOpenFiles": [
+    "CMPT 242 (Computing Machine Organization)/Class 8 - Mathematics & Instruction Sets.md",
+    "CMPT 242 (Computing Machine Organization)/Class 7 - Processors.md",
+    "CMPT 242 (Computing Machine Organization)/Chapter 22 - Building Blocks (Transistors, Gates, And Clocks).md",
+    "CMPT 242 (Computing Machine Organization)/Class 6 - ASCII, Binary, and HEX.md",
     "CMPT 242 (Computing Machine Organization)/Chapter 4 - A High-Level Overview of Processors.md",
     "CMPT 242 (Computing Machine Organization)/Chapter 5 - Instruction Sets and Operands.md",
     "CMPT 380 (Artificial Intelligence)/Ch.1 - Introduction.md",
@@ -192,13 +197,11 @@
     "CMPT 380 (Artificial Intelligence)/Ch.3 - Solving Problems by Searching.md",
     "Git Workshop/Git Workshop.md",
     "Git Workshop",
-    "CMPT 242 (Computing Machine Organization)/Chapter 22 - Building Blocks (Transistors, Gates, And Clocks).md",
     "CMPT 242 (Computing Machine Organization)/Class 9 - Instructions and Pipelining.md",
     "Pasted image 20250922124050.png",
     "Learning Java/8 - Random Class.md",
     "Learning Java/7 - IF Statements.md",
     "CMPT 242 (Computing Machine Organization)/Class 10 - MIPS & Branching.md",
-    "CMPT 242 (Computing Machine Organization)/Class 8 - Mathematics & Instruction Sets.md",
     "CMPT 242 (Computing Machine Organization)/Chapter 3 - Data and Program Representation.md",
     "Learning Java/5 - Arithmetic Operators.md",
     "Learning Java/6 - Shopping Cart Program.md",
@@ -208,8 +211,6 @@
     "CMPT 385 (Software Eng. I)/Unit 1 - Intro and FAQ to Software Engineering.md",
     "CMPT 334 (Principles of Operating Systems)/Unit 0 - Administration.md",
     "CMPT 380 (Artificial Intelligence)/Weekly Quiz Answers.md",
-    "CMPT 242 (Computing Machine Organization)/Class 6 - ASCII, Binary, and HEX.md",
-    "CMPT 242 (Computing Machine Organization)/Class 7 - Processors.md",
     "README.md",
     "z. Images/Pasted image 20250916141942.png",
     "z. Images/Pasted image 20250916194821.png",
