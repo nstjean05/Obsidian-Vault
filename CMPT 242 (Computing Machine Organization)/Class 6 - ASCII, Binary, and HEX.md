@@ -7,7 +7,7 @@ b. Design and hand in a circuit that would divide a clock signal by 10. You have
 - 
 
 c. (lookup) Is an Intel chip big or little endian? (Later I may ask you to write a program demonstrating this, so be sure you understand the concept. Give me your reference too. )
-- A big endian describes a computer which stores bytes of int values from the most to the least significant. Little endian stores from the other direction (Ch. 3.10). Intel processors have generally expected little-endian values, with some exceptions (such as the Intel 8051) depending on what kind of value they are 
+- A big endian describes a computer which stores bytes of int values from the most to the least significant. Little endian stores from the other direction (Ch. 3.10). Intel processors have generally expected little-endian values, with some exceptions (such as the Intel 8051) depending on the variant/use of the value.
 
 d. (bonus) Besides using multiple F.A. circuits (one per bit) find a way to build a multiple bit adder, design the circuit and print it out, then show by the truth table it is correct. You need only extend it to two bits. If that much works, you can obviously extend it further.
 
