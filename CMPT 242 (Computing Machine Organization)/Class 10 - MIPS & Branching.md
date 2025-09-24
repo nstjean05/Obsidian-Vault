@@ -47,14 +47,25 @@
 	- Move
 - Branches
 - Processor Control
+- SP - Stack Pointer
+- PC - Program Counter (Instruction address)
+- Here is a sequence for an instruction I
+	0. PC holds ADR(I)           SP = 0
+	1. Length of I + PC pushed to CPU stack        INC(SP)
+	2. Length of I + PC pushed to CPU stack        INC(SP)
+	3. Pull SP to PC then DEC(SP)
+	4. Pull SP to PC then DEC(SP)
+	5. Pull SP to PC then DEC(SP)
+- Suppose there is a branch during steps 3-5.
+
+
+TO be continued on Friday
 
 
 
 
 
-
-
-5. **W** _MIPS, branching, Start Chapter 6_
+2. **W** _MIPS, branching, Start Chapter 6_
 
 a. Make a list of differences between CISC and RISC chips and evaluate these differences for tradeoffs
 

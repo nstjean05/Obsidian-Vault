@@ -114,12 +114,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CMPT 242 (Computing Machine Organization)/Class 5 - Representing Negative Integers.md",
+                "file": "CMPT 242 (Computing Machine Organization)/Class 10 - MIPS & Branching.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Class 5 - Representing Negative Integers"
+              "title": "Outgoing links from Class 10 - MIPS & Branching"
             }
           },
           {
@@ -163,12 +163,11 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -182,7 +181,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "718b1971c3544328",
+  "active": "45cdf323638441e0",
   "lastOpenFiles": [
     "CMPT 242 (Computing Machine Organization)/Class 10 - MIPS & Branching.md",
     "CMPT 242 (Computing Machine Organization)/Chapter 3 - Data and Program Representation.md",
