@@ -12,3 +12,4 @@ b. Write a program that will print out a neat table of the ASCII characters from
 
 
 **22.11** Assume a circuit has a spare _nor_ gate. Can any useful functions be created by connecting one of the inputs to logical one? To logical zero? Explain.
+

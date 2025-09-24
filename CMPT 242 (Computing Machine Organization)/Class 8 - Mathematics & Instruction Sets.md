@@ -61,6 +61,8 @@ could be
 a. **# 3.1, 3.2, 3.4**
 
 **3.1** Give a mathematical proof that a string of k bits can represent 2k possible values (hint: argue by induction on the number of bits).
+- A given string has N number of values.
+- 
 
 
 **3.2** What is the hexadecimal notation for the following binary string?
