@@ -165,21 +165,12 @@
 	- Read a copy of the OS from an I/O device
 	- Place copy in memory
 	- Branch to the copy
-- Embedded systems 
-
-
-
-
-
-
-
-
-
-
-
-
-
+- Embedded systems get the program from ROM or NVRAM
+- *Soft Power Switch*: Power switch doesn't actually give or cut power.
+	- Switch is a sensor, which the processor determines the current position of.
+	- The boot sequence is the same as a traditional power switch.
 ## 4.17 Summary
-
-
-
+- Processor = Digital device for multi-step computation
+- Used in many roles, and with varying degrees of complexity
+- Programmable if at some level the hardware is separate from the sequence of steps it performs.
+- A processor executes instructions from memory.

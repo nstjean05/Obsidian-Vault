@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CMPT 242 (Computing Machine Organization)/Chapter 4 - A High-Level Overview of Processors.md",
+                "file": "CMPT 242 (Computing Machine Organization)/Class 6 - ASCII, Binary, and HEX.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Chapter 4 - A High-Level Overview of Processors"
+              "title": "Class 6 - ASCII, Binary, and HEX"
             }
           }
         ]
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CMPT 242 (Computing Machine Organization)/Chapter 4 - A High-Level Overview of Processors.md",
+                "file": "CMPT 242 (Computing Machine Organization)/Class 6 - ASCII, Binary, and HEX.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Chapter 4 - A High-Level Overview of Processors"
+              "title": "Outgoing links from Class 6 - ASCII, Binary, and HEX"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CMPT 242 (Computing Machine Organization)/Chapter 4 - A High-Level Overview of Processors.md",
+                "file": "CMPT 242 (Computing Machine Organization)/Class 6 - ASCII, Binary, and HEX.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Chapter 4 - A High-Level Overview of Processors"
+              "title": "Outline of Class 6 - ASCII, Binary, and HEX"
             }
           },
           {
@@ -183,8 +183,8 @@
   },
   "active": "7c769cc31b6ecd70",
   "lastOpenFiles": [
-    "CMPT 242 (Computing Machine Organization)/Chapter 5 - Instruction Sets and Operands.md",
     "CMPT 242 (Computing Machine Organization)/Chapter 4 - A High-Level Overview of Processors.md",
+    "CMPT 242 (Computing Machine Organization)/Chapter 5 - Instruction Sets and Operands.md",
     "CMPT 380 (Artificial Intelligence)/Ch.1 - Introduction.md",
     "z. Images/Pasted image 20250920204415.png",
     "CMPT 380 (Artificial Intelligence)/Ch.13 - Solving Problems By Searching.md",
