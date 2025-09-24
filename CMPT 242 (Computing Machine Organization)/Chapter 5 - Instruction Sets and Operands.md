@@ -6,22 +6,24 @@
 - Repeated addition/subtraction results in horrible performance.
 - Computers/processors are built with additional operations to improve performance, although this takes up more space on the chip and consumes more power.
 	- How many operations should we add to a chip to balance usability/efficiency?
-
-
-
-
-
-
 ## 5.3 Instruction Sets
-
-
-
-
-
-
-
+- Two decisions in designing programmable processors:
+	- **Instruction Set**: Set of operations provided by the processor.
+	- **Instruction Representation**: Format for each instruction.
+- Assume that on each iteration of the processor's fetch-execute cycle, it will fetch and execute 1 instruction.
+- *Instruction representation* refers to the binary representation that hardware uses for instructions.
+	- Defines the interface between software that generates instructions, placing them in memory and;
+	- The hardware that that executes these instructions.
+- The software must create an image in memory that uses exactly the same instruction format that the processor expects.
 ## 5.4 - Instruction Set Architecture
-
+- 1950s - Vendors designed each processor individually, with its own design goals.
+- 1960s - IBM decides to use the same instruction set, so that all of their computers were compatible with one another.
+	- This was the advent of IBM's *System/360* design.
+	- Became much easier to upgrade a customer's system once they outgrew it.
+- Modern CPU vendors use this same approach.
+	1. Define an Instruction Set Architecture
+	2. Offer a series of processor chips
+		- 
 
 
 
