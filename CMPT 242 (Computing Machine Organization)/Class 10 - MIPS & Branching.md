@@ -59,7 +59,7 @@
 - Suppose there is a branch during steps 3-5.
 
 
-TO be continued on Friday
+To be continued on Friday
 
 
 
