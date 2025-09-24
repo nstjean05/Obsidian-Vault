@@ -73,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "EBC",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -203,10 +203,10 @@
   },
   "active": "7c769cc31b6ecd70",
   "lastOpenFiles": [
+    "CMPT 242 (Computing Machine Organization)/Class 7 - Processors.md",
+    "CMPT 242 (Computing Machine Organization)/Class 8 - Mathematics & Instruction Sets.md",
     "CMPT 242 (Computing Machine Organization)/Chapter 3 - Data and Program Representation.md",
     "CMPT 242 (Computing Machine Organization)/Class 6 - ASCII, Binary, and HEX.md",
-    "CMPT 242 (Computing Machine Organization)/Class 8 - Mathematics & Instruction Sets.md",
-    "CMPT 242 (Computing Machine Organization)/Class 7 - Processors.md",
     "CMPT 242 (Computing Machine Organization)/Chapter 22 - Building Blocks (Transistors, Gates, And Clocks).md",
     "CMPT 242 (Computing Machine Organization)/Chapter 4 - A High-Level Overview of Processors.md",
     "CMPT 242 (Computing Machine Organization)/Chapter 5 - Instruction Sets and Operands.md",
