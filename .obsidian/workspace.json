@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "1c1db9715e53cd8f",
@@ -183,12 +184,12 @@
   },
   "active": "718b1971c3544328",
   "lastOpenFiles": [
+    "CMPT 242 (Computing Machine Organization)/Chapter 4 - A High-Level Overview of Processors.md",
+    "CMPT 242 (Computing Machine Organization)/Chapter 5 - Instruction Sets and Operands.md",
     "CMPT 242 (Computing Machine Organization)/Class 10 - MIPS & Branching.md",
     "CMPT 242 (Computing Machine Organization)/Class 9 - Instructions and Pipelining.md",
-    "CMPT 242 (Computing Machine Organization)/Chapter 5 - Instruction Sets and Operands.md",
     "CMPT 242 (Computing Machine Organization)/Chapter 3 - Data and Program Representation.md",
     "Learning Java/3 - User Input.md",
-    "CMPT 242 (Computing Machine Organization)/Chapter 4 - A High-Level Overview of Processors.md",
     "CMPT 242 (Computing Machine Organization)/Chapter 22 - Building Blocks (Transistors, Gates, And Clocks).md",
     "CMPT 242 (Computing Machine Organization)/Class 6 - ASCII, Binary, and HEX.md",
     "CMPT 242 (Computing Machine Organization)/Class 8 - Mathematics & Instruction Sets.md",
