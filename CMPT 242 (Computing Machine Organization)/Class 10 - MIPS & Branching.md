@@ -37,6 +37,21 @@
 	2. Have results from one pipeline forwarded to the other one.
 	3. Have one pipeline, have an algorithm to predict the most common/likely result of a boolean meditated branch.
 - Task one may be taking a long time on stage 3, leading to task 2 and 3 spending extra time in stage 2 and 1.
+## Operator Types
+- Arithmetic
+	- Integer - In integer ALU (Arithmetic Logic Unit)
+	- Boolean - In integer ALU
+	- Floating Point Unit - FPU
+	- Both FPU and ALU are now in CPU.
+- Data Fetch
+	- Move
+- Branches
+- Processor Control
+
+
+
+
+
 
 
 5. **W** _MIPS, branching, Start Chapter 6_
