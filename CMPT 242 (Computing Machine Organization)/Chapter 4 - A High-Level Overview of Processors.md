@@ -159,8 +159,13 @@
 	- The fetch-execute cycle doesn't even stop here, it continues to test the sensor for input.
 	- Therefore, from a hardware POV, it never really stops.
 ## 4.16 - Starting the Fetch-Execute Cycle
-- 
-
+- *Reset Mechanism*: Some hardware has a reset line that applies voltage until all components are ready to operate.
+	- The program automatically starts when voltage is gone.
+- *Bootstrap*: The steps used to start up a processor on a conventional computer.
+	- Read a copy of the OS from an I/O device
+	- Place copy in memory
+	- Branch to the copy
+- Embedded systems 
 
 
 
