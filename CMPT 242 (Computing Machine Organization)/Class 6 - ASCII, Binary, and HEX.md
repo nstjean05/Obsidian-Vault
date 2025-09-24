@@ -1,7 +1,7 @@
 6.  _ASCII, Binary, Hexadecimal representation, widening the representation, IEEE floating point 3.8, 3.9, 3.17-3.20_
 
 a. Look up EBCDIC character coding and give an explanation of how it worked and compared to ASCII.
-- This was created by IBM in the 1960s as one of the first-ever standardized character sets. 
+- This was created by IBM in the 1960s as one of the first-ever standardized character sets. It used 8-bit encoding to reserve a 256 English characters/symbols, which an IBM mainframe could then use to understand text. ASCII was developed around the same time (IBM helped to develop it), and was a standardized across manufacturers. It used a 7-bit system to reserve the characters, and left 
 
 b. Design and hand in a circuit that would divide a clock signal by 10. You have only 8-bit counters.
 
