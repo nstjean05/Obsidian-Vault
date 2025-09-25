@@ -76,3 +76,17 @@
 - For example if it starts to rain, then the agent can update its knowledge of how effectively its breaks will operate.
 	- This shows how it can change its variables.
 ![[Pasted image 20250925150329.png]]
+#### Utility-Based Agents
+- Some goals have greater utility than others.
+- **Utility Functions** map states onto a real number.
+	- The number describes the associated degree of goodness or success.
+- The utility measure comes from any variety of sources.
+	- Economics --> Money
+	- Biology --> Number of Offspring
+	- Exam --> Mark
+	- Game --> Score or Fun
+![[Pasted image 20250925151622.png]]
+- A utility agent has advantages in flexibility and learning.
+- If goals are inadequate, the agent can still make rational decisions.
+## Learning Agents
+- All the previous
