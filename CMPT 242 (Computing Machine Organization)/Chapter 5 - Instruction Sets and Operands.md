@@ -23,13 +23,8 @@
 - Modern CPU vendors use this same approach.
 	1. Define an Instruction Set Architecture
 	2. Offer a series of processor chips
-		- 
-
-
-
-
-
-
+		- Each implement the same ISA
+		- Differ in speed, consumption, size, etc.
 ## 5.5 - Opcodes, Operands, and Results
 
 
