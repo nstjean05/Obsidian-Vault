@@ -71,4 +71,8 @@
 ![[Pasted image 20250925144738.png]]
 #### Goal-Based Agents
 - Agents need goals to know which situations are desirable.
-- 
+- The big difference in this agent from prior ones is that the **future** is taken into account.
+- It is more flexible than prior agents.
+- For example if it starts to rain, then the agent can update its knowledge of how effectively its breaks will operate.
+	- This shows how it can change its variables.
+![[Pasted image 20250925150329.png]]
