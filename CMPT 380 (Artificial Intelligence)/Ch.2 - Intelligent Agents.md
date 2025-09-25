@@ -52,4 +52,23 @@
 ## Structure of Agents
 - Agents are described by their behaviours.
 - Job of an AI is to design an agent program that implements the agent function.
-	- It 
+	- It maps percepts to actions.
+- All *agent programs* have the same skeleton:
+	- Input = Current Percepts
+	- Output = Action
+	- Program = Manipulates input to make output
+- There are four kinds of agent programs.
+#### Simple Reflex Agents
+- Select action on the basis of only current perceptions.
+- Only possible in a small variety of situations.
+- Work only if the correct decision can be made solely on the basis of the current percept.
+	- The environment must be *fully observable*.
+- It may get stuck in an infinite loop, and then must randomize its actions to get out.
+![[Pasted image 20250925144717.png]]
+#### Model-Based Reflect Agents
+- It is rarely possible to determine the state of a partially observable environment.
+	- The sensors feed into a box which determines the agent's best guess.
+![[Pasted image 20250925144738.png]]
+#### Goal-Based Agents
+- Agents need goals to know which situations are desirable.
+- 
