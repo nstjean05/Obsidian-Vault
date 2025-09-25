@@ -13,3 +13,14 @@
 - Actions are the operators which take the agents from its initial state to its goal state.
 ## Problem Formulation
 - This is the process of deciding which actions and states to consider.
+## Search
+- There are many ways to express a goal, so we express them as a **tree**.
+- Multiple options of unknown value to get to a point.
+- We use various search algorithms to travel through the tree to the goal.
+- The best sequence is called the **solution**.
+## Well-Defined Problems & Solutions
+- A problem is defined by five components:
+	1. **Initial State**: Where the agent starts.
+	2. **Action Set**: What the agent can do.
+	3. **Transition Model/Successor**: Description of actions, and the states they can reach.
+	4. **State Space**: Initial state, actions
