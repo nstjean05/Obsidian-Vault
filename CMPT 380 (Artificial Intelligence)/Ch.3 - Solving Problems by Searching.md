@@ -23,4 +23,14 @@
 	1. **Initial State**: Where the agent starts.
 	2. **Action Set**: What the agent can do.
 	3. **Transition Model/Successor**: Description of actions, and the states they can reach.
-	4. **State Space**: Initial state, actions
+	4. **State Space**: Initial state, actions, and transition model.
+	5. **Path**: Within the state space, what sequences of states connected by actions are there?
+- We use a **goal test** on each state to test if the agent has reached its goal.
+- **Path Cost** functions assign numeric cost to each path.
+- The **optimal** solution is the one with lowest path.
+- **Abstraction**
+	- A process to take out any irrelevant information from states and actions.
+	- Leaves the most essential parts to the description of the states.
+	- Removes detail from representation.
+	- Only the most important parts that are contributing to searching are used.
+	- 
