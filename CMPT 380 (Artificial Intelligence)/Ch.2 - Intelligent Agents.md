@@ -89,4 +89,32 @@
 - A utility agent has advantages in flexibility and learning.
 - If goals are inadequate, the agent can still make rational decisions.
 ## Learning Agents
-- All the previous
+- All the previous agents describe methods for selecting actions.
+	- This does not explain how agent programs come into being.
+![[Pasted image 20250925151852.png]]
+- Learning agents have four conceptual components:
+	1. Learning Element
+		- Responsible for making improvements, which are introduced in the *performance element.*
+	2. Performance Element
+		- Responsible for selecting external actions based on its percepts.
+	3. Critic
+		- Informs the LE how the agent is doing with respect to a constant/fixed performance standard.
+		- Necessary, as the percepts themselves don't provide an indication of the agent's success.
+	4. Problem Generator
+		- Suggest exploratory actions leading to new experiences.
+		- These may be suboptimal in the short run, but lead to the discovery of better long-run actions.
+## How Agent Programs Components Work
+- Representations of the environment:
+	- **Atomic**
+		- Each state of the world is indivisible.
+		- No internal structure
+		- Ex. search, Hidden Markov Models, etc.
+	- **Factored**
+		- Splits up each state into a fixed set of variables or attributes
+		- Each of these variables has a value
+		- Ex. Constraint satisfaction, Bayesian Networks, machine learning, etc.
+	- **Structured**
+		- Structured representations
+		- Relationships.
+		- Ex. First-order logic models, knowledge-based learning, etc.
+		- 
