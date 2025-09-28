@@ -35,8 +35,7 @@
               "title": "Class 10.5 - Ways of Knowing Interlude"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -197,7 +196,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "881b3d5899ecf286",
+  "active": "718b1971c3544328",
   "lastOpenFiles": [
     "Class 10.5 - Ways of Knowing Interlude.md",
     "CMPT 242 (Computing Machine Organization)/Class 10 - MIPS & Branching.md",
