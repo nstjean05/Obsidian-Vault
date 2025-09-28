@@ -26,10 +26,15 @@
 		- Each implement the same ISA
 		- Differ in speed, consumption, size, etc.
 ## 5.5 - Opcodes, Operands, and Results
-- 
-
-
-
+- **Opcode**
+	- Specifies the exact operation to be performed.
+	- A unique opcode is assigned to each operation by the architect.
+	- Ex. int addition might be assigned the nibble opcode 0100.
+- **Operands**
+	- This term refers the a value needed to perform an operation.
+	- The definition of an instruction set specifies the exact number of operands and possible values for each instruction.
+- **Results**
+	- 
 
 
 
