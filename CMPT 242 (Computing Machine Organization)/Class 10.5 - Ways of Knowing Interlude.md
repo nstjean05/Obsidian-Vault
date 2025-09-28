@@ -28,4 +28,4 @@
 	- Humans created knowledge, so we can create patterns of connection to unit disciplines.
 - Concinnity (Holistic Solutions)
 	- All truth is God's created truth, and His universe is unity.
-	- Knowledge of it and its connectedness
+	- Knowledge of it and its connectedness patterns are discovered by thinking God's thoughts after Him.

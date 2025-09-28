@@ -4,35 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "6d321d503a422885",
+        "id": "8fe12e99e74358ce",
         "type": "tabs",
         "children": [
           {
-            "id": "718b1971c3544328",
+            "id": "39f663f0097ff27e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CMPT 242 (Computing Machine Organization)/Class 10 - MIPS & Branching.md",
+                "file": "CMPT 242 (Computing Machine Organization)/Class 8 - Mathematics & Instruction Sets.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Class 10 - MIPS & Branching"
-            }
-          },
-          {
-            "id": "881b3d5899ecf286",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Class 10.5 - Ways of Knowing Interlude.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Class 10.5 - Ways of Knowing Interlude"
+              "title": "Class 8 - Mathematics & Instruction Sets"
             }
           }
         ]
@@ -196,19 +182,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "718b1971c3544328",
+  "active": "39f663f0097ff27e",
   "lastOpenFiles": [
-    "Class 10.5 - Ways of Knowing Interlude.md",
+    "z. Images/Pasted image 20250922124050.png",
     "CMPT 242 (Computing Machine Organization)/Class 10 - MIPS & Branching.md",
+    "CMPT 242 (Computing Machine Organization)/Class 10.5 - Ways of Knowing Interlude.md",
     "CMPT 242 (Computing Machine Organization)/Class 8 - Mathematics & Instruction Sets.md",
     "CMPT 380 (Artificial Intelligence)/Ch.3 - Solving Problems by Searching.md",
     "CMPT 380 (Artificial Intelligence)/Ch.2 - Intelligent Agents.md",
-    "Pasted image 20250925151852.png",
-    "Pasted image 20250925151622.png",
-    "Pasted image 20250925150329.png",
-    "Pasted image 20250925144738.png",
-    "Pasted image 20250925144717.png",
-    "Pasted image 20250925144716.png",
+    "z. Images/Pasted image 20250925151852.png",
+    "z. Images/Pasted image 20250925151622.png",
+    "z. Images/Pasted image 20250925150329.png",
+    "z. Images/Pasted image 20250925144738.png",
+    "z. Images/Pasted image 20250925144717.png",
+    "z. Images/Pasted image 20250925144716.png",
     "CMPT 242 (Computing Machine Organization)/Chapter 5 - Instruction Sets and Operands.md",
     "CMPT 242 (Computing Machine Organization)/Chapter 4 - A High-Level Overview of Processors.md",
     "CMPT 242 (Computing Machine Organization)/Class 9 - Instructions and Pipelining.md",
@@ -226,13 +213,11 @@
     "CMPT 380 (Artificial Intelligence)/Ch.13 - Solving Problems By Searching.md",
     "Git Workshop/Git Workshop.md",
     "Git Workshop",
-    "Pasted image 20250922124050.png",
     "Learning Java/8 - Random Class.md",
     "Learning Java/7 - IF Statements.md",
     "Learning Java/5 - Arithmetic Operators.md",
     "Learning Java/6 - Shopping Cart Program.md",
     "CMPT 385 (Software Eng. I)/Unit 3 - Dev. Processes II.md",
-    "CMPT 385 (Software Eng. I)/Unit 3 - Dev. Processes I.md",
     "z. Images/Pasted image 20250916141942.png",
     "z. Images/Pasted image 20250916194821.png",
     "Learning Java",
