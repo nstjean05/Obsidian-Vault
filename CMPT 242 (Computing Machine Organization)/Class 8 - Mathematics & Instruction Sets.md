@@ -59,15 +59,3 @@ could be
 8. _Chapter 4 concluded Chapter 5 started Note that Chapter 3 has also been done in bits and pieces._
 
 a. **# 3.1, 3.2, 3.4**
-
-**3.1** Give a mathematical proof that a string of k bits can represent 2k possible values (hint: argue by induction on the number of bits).
-- A given string has N number of values.
-- 
-
-
-**3.2** What is the hexadecimal notation for the following binary string?
-1101 1110 1010 1101 1011 1110 1110 1111
-
-
-**3.4** Write a function that prints 1s and 0s for the individual bits of an integer. Add a space between bytes.
-

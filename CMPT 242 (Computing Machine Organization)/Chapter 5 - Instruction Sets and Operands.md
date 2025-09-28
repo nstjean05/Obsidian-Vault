@@ -26,7 +26,7 @@
 		- Each implement the same ISA
 		- Differ in speed, consumption, size, etc.
 ## 5.5 - Opcodes, Operands, and Results
-
+- 
 
 
 

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CMPT 242 (Computing Machine Organization)/Class 8 - Mathematics & Instruction Sets.md",
+                "file": "CMPT 242 (Computing Machine Organization)/Chapter 5 - Instruction Sets and Operands.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Class 8 - Mathematics & Instruction Sets"
+              "title": "Chapter 5 - Instruction Sets and Operands"
             }
           }
         ]
@@ -184,10 +184,13 @@
   },
   "active": "39f663f0097ff27e",
   "lastOpenFiles": [
+    "CMPT 242 (Computing Machine Organization)/Class 5 - Representing Negative Integers.md",
+    "CMPT 242 (Computing Machine Organization)/Class 9 - Instructions and Pipelining.md",
+    "CMPT 242 (Computing Machine Organization)/Class 8 - Mathematics & Instruction Sets.md",
+    "CMPT 242 (Computing Machine Organization)/Chapter 5 - Instruction Sets and Operands.md",
     "z. Images/Pasted image 20250922124050.png",
     "CMPT 242 (Computing Machine Organization)/Class 10 - MIPS & Branching.md",
     "CMPT 242 (Computing Machine Organization)/Class 10.5 - Ways of Knowing Interlude.md",
-    "CMPT 242 (Computing Machine Organization)/Class 8 - Mathematics & Instruction Sets.md",
     "CMPT 380 (Artificial Intelligence)/Ch.3 - Solving Problems by Searching.md",
     "CMPT 380 (Artificial Intelligence)/Ch.2 - Intelligent Agents.md",
     "z. Images/Pasted image 20250925151852.png",
@@ -196,16 +199,13 @@
     "z. Images/Pasted image 20250925144738.png",
     "z. Images/Pasted image 20250925144717.png",
     "z. Images/Pasted image 20250925144716.png",
-    "CMPT 242 (Computing Machine Organization)/Chapter 5 - Instruction Sets and Operands.md",
     "CMPT 242 (Computing Machine Organization)/Chapter 4 - A High-Level Overview of Processors.md",
-    "CMPT 242 (Computing Machine Organization)/Class 9 - Instructions and Pipelining.md",
     "CMPT 242 (Computing Machine Organization)/Chapter 3 - Data and Program Representation.md",
     "Learning Java/3 - User Input.md",
     "CMPT 242 (Computing Machine Organization)/Chapter 22 - Building Blocks (Transistors, Gates, And Clocks).md",
     "CMPT 242 (Computing Machine Organization)/Class 6 - ASCII, Binary, and HEX.md",
     "CMPT 242 (Computing Machine Organization)/Class 7 - Processors.md",
     "Learning Java/1 - Intro to Java.md",
-    "CMPT 242 (Computing Machine Organization)/Class 5 - Representing Negative Integers.md",
     "CMPT 242 (Computing Machine Organization)/Class 4 - Combining Circuits.md",
     "CMPT 242 (Computing Machine Organization)/Class 3 - Circuit Building Blocks and Gates.md",
     "CMPT 380 (Artificial Intelligence)/Ch.1 - Introduction.md",
