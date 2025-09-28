@@ -41,7 +41,7 @@
 ## 5.6 - Typical Instruction Format
 
 
-
+![](Pasted%20image%2020250927215100.png)
 
 
 

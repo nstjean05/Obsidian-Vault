@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "8fe12e99e74358ce",
+        "id": "66e9d939f4fbac92",
         "type": "tabs",
         "children": [
           {
-            "id": "39f663f0097ff27e",
+            "id": "f1bfa977a8b04a49",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -167,8 +167,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -182,12 +181,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "39f663f0097ff27e",
+  "active": "f1bfa977a8b04a49",
   "lastOpenFiles": [
+    "Pasted image 20250927215100.png",
+    "2025-09-27.md",
+    "CMPT 242 (Computing Machine Organization)/Chapter 5 - Instruction Sets and Operands.md",
     "CMPT 242 (Computing Machine Organization)/Class 5 - Representing Negative Integers.md",
     "CMPT 242 (Computing Machine Organization)/Class 9 - Instructions and Pipelining.md",
     "CMPT 242 (Computing Machine Organization)/Class 8 - Mathematics & Instruction Sets.md",
-    "CMPT 242 (Computing Machine Organization)/Chapter 5 - Instruction Sets and Operands.md",
     "z. Images/Pasted image 20250922124050.png",
     "CMPT 242 (Computing Machine Organization)/Class 10 - MIPS & Branching.md",
     "CMPT 242 (Computing Machine Organization)/Class 10.5 - Ways of Knowing Interlude.md",
@@ -217,7 +218,6 @@
     "Learning Java/7 - IF Statements.md",
     "Learning Java/5 - Arithmetic Operators.md",
     "Learning Java/6 - Shopping Cart Program.md",
-    "CMPT 385 (Software Eng. I)/Unit 3 - Dev. Processes II.md",
     "z. Images/Pasted image 20250916141942.png",
     "z. Images/Pasted image 20250916194821.png",
     "Learning Java",
