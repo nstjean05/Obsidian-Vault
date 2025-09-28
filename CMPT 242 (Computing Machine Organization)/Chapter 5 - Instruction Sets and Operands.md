@@ -34,18 +34,15 @@
 	- This term refers the a value needed to perform an operation.
 	- The definition of an instruction set specifies the exact number of operands and possible values for each instruction.
 - **Results**
-	- 
-
-
-
+	- Some architectures allow one or more of the operand fields to specify where the processor should place results of the instruction.
+	- Some architectures the location of the result is automatically chosen.
 ## 5.6 - Typical Instruction Format
-
-
-![](Pasted%20image%2020250927215100.png)
-
-
-
+- Each instruction is represented by a binary string.
+- Opcode values specify how many operands to follow, and many specify the operand size.
 ## 5.7 - General-Purpose Registers
+- 
+
+
 
 
 
