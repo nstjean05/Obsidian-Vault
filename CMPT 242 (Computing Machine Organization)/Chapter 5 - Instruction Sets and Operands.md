@@ -46,15 +46,14 @@
 		- Processor with 32-bit arithmetic ==> 32-bit wide register.
 	- Values from memory are placed in the register, and then all values and results are kept in the register.
 		- Code may need to save the results in memory for later computation.
-	- 
-
-
-
-
-
-
-
+	- An access always returns the last stored value in the register.
 ## 5.8 - Floating Point Registers and Register Identification
+- 
+
+
+
+
+
 
 
 
