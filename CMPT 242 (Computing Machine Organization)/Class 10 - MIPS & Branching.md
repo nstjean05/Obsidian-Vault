@@ -72,9 +72,15 @@
 	- **Case 3**: Subroutine Call
 		- e.g. `jsr 0xABCD`
 		- INC program counter to point to next address
-		- Store that address on a stack
+		- Store *that address* on a stack
 		- Put ABCD in program counter
-		- if the subroutine has parameters, these are also pushed onto the stack.
+		- If the subroutine has parameters, these are also pushed onto the stack.
+		- Now the subroutine at ABCD has control.
+		- Pulls any parameters it is entitled to off the stack so now the stack pointer points to the return/resume address.
+		- Then it executes and when done executes a return to sender command
+		- If it is a function (i.e. returning a value) it goes on the stack for a resuming code to pull.
+		- This pulls the return address from the stack and increments the pipeline counter.
+
 
 
 
