@@ -61,7 +61,9 @@
 ## 5.10 - Register Banks
 - Some architectures divide registers into multiple **banks**, and require operands to come from separate banks.
 - Register banks allow hardware to operate faster.
-	- Each bank has a separate physical access mechanism, and the two mechanisms can operate simultaneo
+	- Each bank has a separate physical access mechanism, and the two mechanisms can operate simultaneously.
+	- Placing the operands in separate banks can speed up access if they are called at the same time.
+-  
 
 
 
