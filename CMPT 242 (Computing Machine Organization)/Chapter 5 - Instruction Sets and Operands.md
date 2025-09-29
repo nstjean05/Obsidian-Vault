@@ -65,13 +65,26 @@
 	- Placing the operands in separate banks can speed up access if they are called at the same time.
 ![](Pasted%20image%2020250929135919.png)
 - Above is eight registers, in two banks.
-- 
-
-
-
-
-
+- Sometimes a *register conflict* will occur if the two values being operated on are in the same register.
+	- In this case, a compiler must insert an instruction to copy a value into another register bank.
 ## 5.11 - Terminology: Complex and Reduced Instruction Sets
+- Instruction sets can be divided into two categories.
+	- **CISC - Complex Instruction Set Computer**
+		- Includes many instructions (hundreds), and each instruction can perform an arbitrarily complex function.
+		- x86 instruction sets from Intel are CISC because it includes so many instructions, many which take a long time to execute.
+	- **RISC - Reduced Instruction Set Computer**
+		- A RISC instruction set is small compared to CISC.
+		- RISC
+
+
+
+
+
+
+
+
+
+
 
 
 
