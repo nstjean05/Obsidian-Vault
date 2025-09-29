@@ -1,0 +1,14 @@
+- Your strategies for parameters if using Assembler
+	- Push/pull with stack as above.
+	- Reserve some scratch memory for these
+- Sometimes the OS may reserve page 0 addresses 0 --> n(256)
+	- You might  be able to use some of these
+	- You might use some of the registers to store parameters.
+- You may have a block of registers with an index to the first computer register number and references relative to that.
+- Put 6 arguments in R$_n$ ... R$_n$$_+$$_6$  
+	- Set window index to n
+	- jsr
+	- The subroutine accesses these as 0 --> 5
+1. There is a sample of a minimal set of instructions (MIPS) in 5.23
+	- In some instruction sets R$_0$ gives you fast access to the value 0.
+	- 

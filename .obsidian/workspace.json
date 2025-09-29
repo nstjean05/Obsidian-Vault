@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CMPT 242 (Computing Machine Organization)/Class 11 - Parameters.md",
+                "file": "CMPT 242 (Computing Machine Organization)/Class 11 - Registers.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Class 11 - Parameters"
+              "title": "Class 11 - Registers"
             }
           }
         ],
@@ -201,7 +201,7 @@
   "lastOpenFiles": [
     "CMPT 242 (Computing Machine Organization)/Chapter 5 - Instruction Sets and Operands.md",
     "CMPT 242 (Computing Machine Organization)/Class 10 - MIPS & Branching.md",
-    "CMPT 242 (Computing Machine Organization)/Class 11 - Parameters.md",
+    "CMPT 242 (Computing Machine Organization)/Class 11 - Registers.md",
     "CMPT 242 (Computing Machine Organization)/Class 10.5 - Ways of Knowing Interlude.md",
     "Pasted image 20250927215100.png",
     "2025-09-27.md",
