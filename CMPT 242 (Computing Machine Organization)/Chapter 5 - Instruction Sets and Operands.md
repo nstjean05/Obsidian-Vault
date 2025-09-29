@@ -75,6 +75,8 @@
 	- **RISC - Reduced Instruction Set Computer**
 		- A RISC instruction set is small compared to CISC.
 		- RISC designs strive for the minimum set of instructions that is enough for all computations (e.g. totalling 32 instructions).
+		- To achieve max speed, RISC constrains instructions to a fixed size.
+		- RISC processors are designed to execute an instruction in one clock cycle.
 		- 
 
 
