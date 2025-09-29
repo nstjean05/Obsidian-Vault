@@ -57,10 +57,24 @@
 	4. Pull SP to PC then DEC(SP)
 	5. Pull SP to PC then DEC(SP)
 - Suppose there is a branch during steps 3-5.
-
-
-To be continued on Friday
-
+	- **Case 1**: Absolute Jump
+		- Jump OxABCD (goto another address)
+		- The indicated address is placed in SP and the cycle being executed ended.
+		- The pipeline starts to refill.
+		- Execution resumes immediately at the new address.
+	- **Case 2**: Relative Jump
+		- e.g. branch +3 (= branch forward 3 addresses)
+		- SP <-- SP+3
+		- Then end the cycle.
+		- Execution resumes 3 addresses ahead.
+	- In both cases, any previous addresses in the pipeline or instructions get erased by new ones.
+	- In some very modern processors, if its a relative jump ahead, then then the blank spaces behind can be filled.
+	- **Case 3**: Subroutine Call
+		- e.g. `jsr 0xABCD`
+		- INC program counter to point to next address
+		- Store that address on a stack
+		- Put ABCD in program counter
+		- if the subroutine has parameters, these are also pushed onto the stack.
 
 
 
