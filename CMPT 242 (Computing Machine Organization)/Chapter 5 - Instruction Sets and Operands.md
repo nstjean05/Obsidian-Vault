@@ -63,7 +63,9 @@
 - Register banks allow hardware to operate faster.
 	- Each bank has a separate physical access mechanism, and the two mechanisms can operate simultaneously.
 	- Placing the operands in separate banks can speed up access if they are called at the same time.
--  
+![](Pasted%20image%2020250929135919.png)
+- Above is eight registers, in two banks.
+- 
 
 
 
