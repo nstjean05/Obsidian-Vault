@@ -78,8 +78,9 @@
 		- Now the subroutine at ABCD has control.
 		- Pulls any parameters it is entitled to off the stack so now the stack pointer points to the return/resume address.
 		- Then it executes and when done executes a return to sender command
-		- If it is a function (i.e. returning a value) it goes on the stack for a resuming code to pull.
+			- If it is a function (i.e. returning a value) it goes on the stack for a resuming code to pull.
 		- This pulls the return address from the stack and increments the pipeline counter.
+
 
 
 
