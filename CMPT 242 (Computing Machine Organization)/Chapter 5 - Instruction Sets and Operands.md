@@ -54,14 +54,14 @@
 ## 5.9 - Programming with Registers
 - Sometimes the the instruction will also specify the type of register to send the computed value to.
 - Leaving values in a register temporarily will save time, rather than storing it in memory right away.
-- A compiler or programmer must decide which values to keep a register at any given time
-
-
-
-
-
+- A compiler or programmer must decide which values to keep in a register at any given time.
+	- Sent to memory at a given time.
+	- This is known at *register allocation*.
+- **Extended values** arise when instructions yield large results, leading to multiple registers combining to hold the value.
 ## 5.10 - Register Banks
-
+- Some architectures divide registers into multiple **banks**, and require operands to come from separate banks.
+- Register banks allow hardware to operate faster.
+	- Each bank has a separate physical access mechanism, and the two mechanisms can operate simultaneo
 
 
 
