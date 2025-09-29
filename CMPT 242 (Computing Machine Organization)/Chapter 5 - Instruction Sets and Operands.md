@@ -48,7 +48,8 @@
 		- Code may need to save the results in memory for later computation.
 	- An access always returns the last stored value in the register.
 ## 5.8 - Floating Point Registers and Register Identification
-- 
+- Floating point arithmetic often use a separate set of registers.
+- The opcode will specify which to send a value to.
 
 
 
