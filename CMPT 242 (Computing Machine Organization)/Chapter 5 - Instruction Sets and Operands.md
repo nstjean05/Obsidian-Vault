@@ -53,6 +53,8 @@
 - The opcode will specify which to send a value to.
 ## 5.9 - Programming with Registers
 - Sometimes the the instruction will also specify the type of register to send the computed value to.
+- Leaving values in a register temporarily will save time, rather than storing it in memory right away.
+- A compiler or programmer must decide which values to keep a register at any given time
 
 
 
