@@ -49,20 +49,10 @@
 	- An access always returns the last stored value in the register.
 ## 5.8 - Floating Point Registers and Register Identification
 - Floating point arithmetic often use a separate set of registers.
+- General-purpose registers are used for integer values.
 - The opcode will specify which to send a value to.
-
-
-
-
-
-
-
-
-
-
-
 ## 5.9 - Programming with Registers
-
+- Sometimes the the instruction will also specify the type of register to send the computed value to.
 
 
 
