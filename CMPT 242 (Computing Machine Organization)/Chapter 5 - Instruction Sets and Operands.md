@@ -74,7 +74,7 @@
 		- x86 instruction sets from Intel are CISC because it includes so many instructions, many which take a long time to execute.
 	- **RISC - Reduced Instruction Set Computer**
 		- A RISC instruction set is small compared to CISC.
-		- RISC
+		- RISC designs strive for the minimum set of instructions that is enough for all computations.
 
 
 
