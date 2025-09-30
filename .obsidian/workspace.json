@@ -167,7 +167,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -183,9 +184,13 @@
   },
   "active": "8808c689aca41861",
   "lastOpenFiles": [
+    "Pasted image 20250930131100.png",
+    "Pasted image 20250930130618.png",
+    "Untitled 1.md",
+    "CMPT 334 (Principles of Operating Systems)/Chapter 1 - Introduction.md",
+    "Pasted image 20250930130419.png",
     "Pasted image 20250930125532.png",
     "CMPT 334 (Principles of Operating Systems)/Chapter 5 - CPU Scheduling.md",
-    "CMPT 334 (Principles of Operating Systems)/Chapter 1 - Introduction.md",
     "Git Workshop/Git Workshop.md",
     "Pasted image 20250930125116.png",
     "Untitled.md",
@@ -207,9 +212,6 @@
     "z. Images/Pasted image 20250925151852.png",
     "z. Images/Pasted image 20250925151622.png",
     "z. Images/Pasted image 20250925150329.png",
-    "z. Images/Pasted image 20250925144738.png",
-    "z. Images/Pasted image 20250925144717.png",
-    "z. Images/Pasted image 20250925144716.png",
     "CMPT 242 (Computing Machine Organization)/Chapter 4 - A High-Level Overview of Processors.md",
     "CMPT 242 (Computing Machine Organization)/Chapter 3 - Data and Program Representation.md",
     "Learning Java/3 - User Input.md",
@@ -218,7 +220,6 @@
     "CMPT 242 (Computing Machine Organization)/Class 7 - Processors.md",
     "Learning Java/1 - Intro to Java.md",
     "CMPT 242 (Computing Machine Organization)/Class 4 - Combining Circuits.md",
-    "CMPT 242 (Computing Machine Organization)/Class 3 - Circuit Building Blocks and Gates.md",
     "Git Workshop",
     "Learning Java",
     "CMPT 334 (Principles of Operating Systems)",

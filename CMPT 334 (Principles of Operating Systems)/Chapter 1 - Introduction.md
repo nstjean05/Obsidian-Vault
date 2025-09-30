@@ -39,9 +39,20 @@
 	- Below is an image of interrupt timeline for a single program completing output.
 ![](Pasted%20image%2020250930125116.png)
 - **Interrupt Vector**: An array of addresses holding the interrupt service routines.
-- 
-
-
+- **Interrupt-Request Line**: A wire in the CPU which it senses after executing each instruction.
+- **Interrupt-Handler Routine**: When a controller is detected via signal on the line, the CPU reads the interrupt number as an index into the interrupt vector.
+	- Execution begins at that address.
+- Device controller ***raises*** an interrupt by asserting a signal on the line.
+- CPU ***catches*** the interrupt, ***dispatching*** it to the handler.
+- Interrupt handler ***clears*** the interrupt by servicing the device.
+- Below is a diagram of the interrupt-driven I/O cycle
+![](Pasted%20image%2020250930130618.png)
+- Most CPUs have two interrupt request lines.
+	1. **Non-maskable Interrupt:** Reserved for events like unrecoverable memory errors.
+	2. **Maskable:** Can be turned off by the CPU before the execution of critical instruction sequences that mustn't be interrupted.
+- **Interrupt Chaining**: There are too many devices (interrupt handlers) than addresses in the interrupt vector, so each element in the interrupt vector points to the head of a list of interrupt handles.
+- **Interrupt Priority**: Levels allowing CPU to prioritize important interrupts.
+#### 1.2.2
 
 
 
