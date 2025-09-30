@@ -18,22 +18,24 @@
 - **System Programs** - Associated with the OS but not part of the kernel.
 - **Application Programs** - Not associated with the OS.
 - **Middleware** - Set of software frameworks on mobile devices to provide services to application developers.
-
-
-
-
-
-
-
-
-
+	- An expansion of sorts on the kernel.
 ## 1.2 - Computer-System Organization
-
-
-
-
-
-
+- **Bus**: Connection between components (ex. CPU) and shared memory.
+- **Device Driver**: A part of the OS that understands the device controller and provides the rest of the OS with a uniform interface to the device.
+- All of these devices (CPU, USB controller for mouse/keyboard/printer, graphic adapter for monitor) are connected on the *system bus* to memory.
+#### 1.2.1 Interrupts
+- I/O operations begin as such:
+	1. Device driver loads the appropriate registers in the device controller.
+	2. Device controller examines the content of registers to determine an action to take.
+		- Ex. Read character from keyboard.
+	3. Controller begins to transfer data from device to local buffer.
+	4. After data transfer completes, the device's controller tells its driver that the operation is finished.
+	5. Device driver gives control to other parts of the OS
+	6. For further operations, the device driver returns status information.
+		- Ex. "Write completed successfully"
+- **Interrupt**: How the controller informs the device driver that its operation is done.
+	- Hardware may trigger an interrupt bus at any time by sending a signal to the CPU
+	- 
 
 
 
