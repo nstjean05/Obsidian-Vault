@@ -52,7 +52,8 @@
 	2. **Maskable:** Can be turned off by the CPU before the execution of critical instruction sequences that mustn't be interrupted.
 - **Interrupt Chaining**: There are too many devices (interrupt handlers) than addresses in the interrupt vector, so each element in the interrupt vector points to the head of a list of interrupt handles.
 - **Interrupt Priority**: Levels allowing CPU to prioritize important interrupts.
-#### 1.2.2
+#### 1.2.2 Storage Structure
+- 
 
 
 
