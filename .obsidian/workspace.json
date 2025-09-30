@@ -167,8 +167,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -184,9 +183,12 @@
   },
   "active": "8808c689aca41861",
   "lastOpenFiles": [
-    "Untitled.md",
-    "CMPT 334 (Principles of Operating Systems)/Chapter 1 - Introduction.md",
+    "Pasted image 20250930125532.png",
     "CMPT 334 (Principles of Operating Systems)/Chapter 5 - CPU Scheduling.md",
+    "CMPT 334 (Principles of Operating Systems)/Chapter 1 - Introduction.md",
+    "Git Workshop/Git Workshop.md",
+    "Pasted image 20250930125116.png",
+    "Untitled.md",
     "CMPT 334 (Principles of Operating Systems)/Chapter 3 - Processes.md",
     "CMPT 334 (Principles of Operating Systems)/Unit 0 - Administration.md",
     "CMPT 242 (Computing Machine Organization)/Chapter 5 - Instruction Sets and Operands.md",
@@ -217,9 +219,6 @@
     "Learning Java/1 - Intro to Java.md",
     "CMPT 242 (Computing Machine Organization)/Class 4 - Combining Circuits.md",
     "CMPT 242 (Computing Machine Organization)/Class 3 - Circuit Building Blocks and Gates.md",
-    "CMPT 380 (Artificial Intelligence)/Ch.1 - Introduction.md",
-    "z. Images/Pasted image 20250920204415.png",
-    "CMPT 380 (Artificial Intelligence)/Ch.13 - Solving Problems By Searching.md",
     "Git Workshop",
     "Learning Java",
     "CMPT 334 (Principles of Operating Systems)",

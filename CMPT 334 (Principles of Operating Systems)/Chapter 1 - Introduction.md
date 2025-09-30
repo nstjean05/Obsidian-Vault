@@ -35,8 +35,11 @@
 		- Ex. "Write completed successfully"
 - **Interrupt**: How the controller informs the device driver that its operation is done.
 	- Hardware may trigger an interrupt bus at any time by sending a signal to the CPU
-	- 
-
+	- When interrupted, the CPU stops what it's doing and transfers execution to a fixed location, containing the starting address where the service routing for the interrupt is located.
+	- Below is an image of interrupt timeline for a single program completing output.
+![](Pasted%20image%2020250930125116.png)
+- **Interrupt Vector**: An array of addresses holding the interrupt service routines.
+- 
 
 
 
