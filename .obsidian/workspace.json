@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "ad5aa5ed983ceaf7",
+        "id": "25768589864b9bcb",
         "type": "tabs",
         "children": [
           {
-            "id": "8808c689aca41861",
+            "id": "75a2a3404ab3048b",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -182,12 +182,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8808c689aca41861",
+  "active": "75a2a3404ab3048b",
   "lastOpenFiles": [
+    "CMPT 242 (Computing Machine Organization)/Class 10 - MIPS & Branching.md",
+    "CMPT 242 (Computing Machine Organization)/Class 9 - Instructions and Pipelining.md",
+    "CMPT 334 (Principles of Operating Systems)/Chapter 1 - Introduction.md",
     "Pasted image 20250930131100.png",
     "Pasted image 20250930130618.png",
     "Untitled 1.md",
-    "CMPT 334 (Principles of Operating Systems)/Chapter 1 - Introduction.md",
     "Pasted image 20250930130419.png",
     "Pasted image 20250930125532.png",
     "CMPT 334 (Principles of Operating Systems)/Chapter 5 - CPU Scheduling.md",
@@ -199,19 +201,16 @@
     "CMPT 242 (Computing Machine Organization)/Chapter 5 - Instruction Sets and Operands.md",
     "Pasted image 20250929135919.png",
     "CMPT 242 (Computing Machine Organization)/Class 11 - Registers.md",
-    "CMPT 242 (Computing Machine Organization)/Class 10 - MIPS & Branching.md",
     "CMPT 242 (Computing Machine Organization)/Class 10.5 - Ways of Knowing Interlude.md",
     "Pasted image 20250927215100.png",
     "2025-09-27.md",
     "CMPT 242 (Computing Machine Organization)/Class 5 - Representing Negative Integers.md",
-    "CMPT 242 (Computing Machine Organization)/Class 9 - Instructions and Pipelining.md",
     "CMPT 242 (Computing Machine Organization)/Class 8 - Mathematics & Instruction Sets.md",
     "z. Images/Pasted image 20250922124050.png",
     "CMPT 380 (Artificial Intelligence)/Ch.3 - Solving Problems by Searching.md",
     "CMPT 380 (Artificial Intelligence)/Ch.2 - Intelligent Agents.md",
     "z. Images/Pasted image 20250925151852.png",
     "z. Images/Pasted image 20250925151622.png",
-    "z. Images/Pasted image 20250925150329.png",
     "CMPT 242 (Computing Machine Organization)/Chapter 4 - A High-Level Overview of Processors.md",
     "CMPT 242 (Computing Machine Organization)/Chapter 3 - Data and Program Representation.md",
     "Learning Java/3 - User Input.md",

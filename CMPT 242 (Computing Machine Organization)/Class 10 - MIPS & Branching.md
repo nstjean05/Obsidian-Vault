@@ -91,3 +91,11 @@
 a. Make a list of differences between CISC and RISC chips and evaluate these differences for tradeoffs
 
 b. **# 5.4, 5.5, 5.6, 5.7**
+
+**5.4** If a computer can add, subtract, multiply, and divide 16-bit integers, 32-bit integers, 32-bit floating point values, and 64-bit floating point values, how many unique opcodes will be needed? (Hint: assume one opcode for each operation and each data size.)
+
+**5.5** A computer architect boasted that they were able to design a computer in which every instruction occupied exactly thirty-two bits. What is the advantage of such a design?
+
+**5.6** Classify the following as RISC or CISC instruction sets: the ARM architecture owned by ARM Limited, the SPARC architecture owned by Oracle Corporation, and the Intel Architecture owned by Intel Corporation.
+
+**5.7** Consider a pipeline of N stages in which stage *i* takes time *t$_i$*. Assuming no delay between stages, what is the total time (start to finish) that the pipeline will spend handling a single instruction?

@@ -41,3 +41,7 @@
 **9. M** _Chapter 5 5.1 - 5.20 Instructions, pipelining, optimization, and the PC and SC_
 
 a. # **3.3, 3.12**
+
+**3.3** Write a function that determines whether the computer on which it is running uses big endian or little endian representation for integers. Hint: use a character pointer to treat the integer as an array of bytes.
+
+**3.12** The C programming language allows a programmer to specify constants in decimal, binary, hexadecimal, and octal. Write a program that declares 0, 5, 65, 128, –1, and –256 in decimal, binary, hexadecimal, and octal, and uses printf to show that the values are correct. Which is the easiest representation?

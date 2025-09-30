@@ -53,7 +53,9 @@
 - **Interrupt Chaining**: There are too many devices (interrupt handlers) than addresses in the interrupt vector, so each element in the interrupt vector points to the head of a list of interrupt handles.
 - **Interrupt Priority**: Levels allowing CPU to prioritize important interrupts.
 #### 1.2.2 Storage Structure
-- 
+- CPU loads instructions only from memory.
+- **Random Access Memory** (RAM, Main Memory): Rewritable memory used to run programs.
+
 
 
 
