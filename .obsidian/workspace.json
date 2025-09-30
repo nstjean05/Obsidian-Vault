@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CMPT 334 (Principles of Operating Systems)/Chapter 5 - CPU Scheduling.md",
+                "file": "CMPT 334 (Principles of Operating Systems)/Chapter 1 - Introduction.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Chapter 5 - CPU Scheduling"
+              "title": "Chapter 1 - Introduction"
             }
           }
         ]
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "1c1db9715e53cd8f",
@@ -183,8 +184,8 @@
   },
   "active": "8808c689aca41861",
   "lastOpenFiles": [
-    "CMPT 334 (Principles of Operating Systems)/Chapter 3 - Processes.md",
     "CMPT 334 (Principles of Operating Systems)/Chapter 5 - CPU Scheduling.md",
+    "CMPT 334 (Principles of Operating Systems)/Chapter 3 - Processes.md",
     "CMPT 334 (Principles of Operating Systems)/Chapter 1 - Introduction.md",
     "CMPT 334 (Principles of Operating Systems)/Unit 0 - Administration.md",
     "CMPT 242 (Computing Machine Organization)/Chapter 5 - Instruction Sets and Operands.md",
