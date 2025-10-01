@@ -86,7 +86,7 @@
 
 
 
-2. **W** _MIPS, branching, Start Chapter 6_
+10. **W** _MIPS, branching, Start Chapter 6_
 
 a. Make a list of differences between CISC and RISC chips and evaluate these differences for tradeoffs
 
