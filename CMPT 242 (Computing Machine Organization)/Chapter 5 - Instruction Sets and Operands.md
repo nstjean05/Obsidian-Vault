@@ -63,7 +63,7 @@
 - Register banks allow hardware to operate faster.
 	- Each bank has a separate physical access mechanism, and the two mechanisms can operate simultaneously.
 	- Placing the operands in separate banks can speed up access if they are called at the same time.
-![](Pasted%20image%2020250929135919.png)
+![](z.%20Images/Pasted%20image%2020250929135919.png)
 - Above is eight registers, in two banks.
 - Sometimes a *register conflict* will occur if the two values being operated on are in the same register.
 	- In this case, a compiler must insert an instruction to copy a value into another register bank.

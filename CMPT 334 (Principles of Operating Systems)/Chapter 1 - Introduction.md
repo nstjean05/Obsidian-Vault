@@ -37,7 +37,7 @@
 	- Hardware may trigger an interrupt bus at any time by sending a signal to the CPU
 	- When interrupted, the CPU stops what it's doing and transfers execution to a fixed location, containing the starting address where the service routing for the interrupt is located.
 	- Below is an image of interrupt timeline for a single program completing output.
-![](Pasted%20image%2020250930125116.png)
+![](z.%20Images/Pasted%20image%2020250930125116.png)
 - **Interrupt Vector**: An array of addresses holding the interrupt service routines.
 - **Interrupt-Request Line**: A wire in the CPU which it senses after executing each instruction.
 - **Interrupt-Handler Routine**: When a controller is detected via signal on the line, the CPU reads the interrupt number as an index into the interrupt vector.
@@ -46,7 +46,7 @@
 - CPU ***catches*** the interrupt, ***dispatching*** it to the handler.
 - Interrupt handler ***clears*** the interrupt by servicing the device.
 - Below is a diagram of the interrupt-driven I/O cycle
-![](Pasted%20image%2020250930130618.png)
+![](z.%20Images/Pasted%20image%2020250930130618.png)
 - Most CPUs have two interrupt request lines.
 	1. **Non-maskable Interrupt:** Reserved for events like unrecoverable memory errors.
 	2. **Maskable:** Can be turned off by the CPU before the execution of critical instruction sequences that mustn't be interrupted.
