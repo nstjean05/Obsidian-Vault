@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CMPT 334 (Principles of Operating Systems)/Chapter 1 - Introduction.md",
+                "file": "CMPT 385 (Software Eng. I)/Unit 3 - Dev. Processes II.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Chapter 1 - Introduction"
+              "title": "Unit 3 - Dev. Processes II"
             }
           }
         ]
@@ -183,6 +183,9 @@
   },
   "active": "8869be26c9590e42",
   "lastOpenFiles": [
+    "CMPT 385 (Software Eng. I)/Unit 3 - Dev. Processes I.md",
+    "CMPT 385 (Software Eng. I)/Unit 3 - Dev. Processes II.md",
+    "CMPT 334 (Principles of Operating Systems)/Chapter 1 - Introduction.md",
     "CMPT 380 (Artificial Intelligence)/Ch.3 - Solving Problems by Searching.md",
     "CMPT 380 (Artificial Intelligence)/Ch.3 - Solving Problems By Searching Pt. 2.md",
     "CMPT 242 (Computing Machine Organization)/Class 9 - Instructions and Pipelining.md",
@@ -190,7 +193,6 @@
     "Untitled.md",
     "CMPT 242 (Computing Machine Organization)/Chapter 5 - Instruction Sets and Operands.md",
     "CMPT 242 (Computing Machine Organization)/Class 10 - MIPS & Branching.md",
-    "CMPT 334 (Principles of Operating Systems)/Chapter 1 - Introduction.md",
     "z. Images/Pasted image 20250930131100.png",
     "z. Images/Pasted image 20250930130618.png",
     "Untitled 1.md",
@@ -217,8 +219,6 @@
     "CMPT 242 (Computing Machine Organization)/Chapter 22 - Building Blocks (Transistors, Gates, And Clocks).md",
     "CMPT 242 (Computing Machine Organization)/Class 6 - ASCII, Binary, and HEX.md",
     "CMPT 242 (Computing Machine Organization)/Class 7 - Processors.md",
-    "Learning Java/1 - Intro to Java.md",
-    "CMPT 242 (Computing Machine Organization)/Class 4 - Combining Circuits.md",
     "Git Workshop",
     "Learning Java",
     "CMPT 334 (Principles of Operating Systems)",
