@@ -12,9 +12,11 @@
 		- Gates are replicated for each bit of each register.
 		- Dual FPU (floating point unit) and ALU (arithmetic logic unit) units per core
 		- Replication of cores
-	- Various modes of execution
-		- Supervisory or executive mode
-			- High Priority
-		- Standard Mode
-			- Lower Priority
-|Stupervisory Mode |
+	- Various modes of execution:
+
+| Supervisory or Executive mode                      | Standard Mode                                                 |
+| -------------------------------------------------- | ------------------------------------------------------------- |
+| High Priority                                      | Low Priority                                                  |
+| Special Instructions                               | Somewhat limited standard instructions                        |
+| Only usable on chip, or possibly by the OS         | Used by programs (compiled/assembled to)                      |
+| All peripherals and memory are accessible to these | No Direct Usage - Access to memory is through the MMV (in OS) |
