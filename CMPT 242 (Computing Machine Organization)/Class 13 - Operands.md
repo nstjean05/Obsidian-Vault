@@ -28,7 +28,10 @@
 | **Exceptional Execution**                             | **Regional Execution Mode**                |
 | Special handling behaviour                            |                                            |
 | - On Chip, in the OS, and in your program             |                                            |
-- How is the node changed
+- How is the node changed and stored?
+	- There is a setting - the node register
+	- Classic example:
+		- Divide by 0 triggers exceptional 1 node.
 
 
 
