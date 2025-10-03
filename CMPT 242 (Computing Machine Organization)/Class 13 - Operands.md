@@ -20,3 +20,28 @@
 | Special Instructions                               | Somewhat limited standard instructions                        |
 | Only usable on chip, or possibly by the OS         | Used by programs (compiled/assembled to)                      |
 | All peripherals and memory are accessible to these | No Direct Usage - Access to memory is through the MMV (in OS) |
+- **Examples** of some things that may be in a CPU
+
+| Backwards Compatibility                               | Correct Mode                               |
+| ----------------------------------------------------- | ------------------------------------------ |
+| Ability to do 8 or 16-bit operations or run an old OS | Can only 32 or 64-bit operations on an OS. |
+
+
+
+
+
+
+
+
+
+
+
+
+
+13. _Finish chapter 6:, operands, addressing modes_
+
+a. Look up calculators with arithmetic logic, algebraic logic, and RPN logic. Consider an operation like 4 + 6*7 - 8 and determine how many key presses are required in each logic.
+
+b. Describe at least 4 different modes of access (to data) that there are for instruction op codes?
+
+c. **p123 #6.7, 6.11**

@@ -11,4 +11,13 @@
 	- The subroutine accesses these as 0 --> 5
 1. There is a sample of a minimal set of instructions (MIPS) in 5.23
 	- In some instruction sets R$_0$ gives you fast access to the value 0.
-	- 
+
+
+
+
+
+2. Text: 5.19 - 5.26 The flow of control when branching or jumping
+
+a. **# 5.3**
+
+b. What is the principle of orthogonality? Does it also apply to programming languages?
