@@ -25,8 +25,10 @@
 | Backwards Compatibility                               | Correct Mode                               |
 | ----------------------------------------------------- | ------------------------------------------ |
 | Ability to do 8 or 16-bit operations or run an old OS | Can only 32 or 64-bit operations on an OS. |
-
-
+| **Exceptional Execution**                             | **Regional Execution Mode**                |
+| Special handling behaviour                            |                                            |
+| - On Chip, in the OS, and in your program             |                                            |
+- How is the node changed
 
 
 
