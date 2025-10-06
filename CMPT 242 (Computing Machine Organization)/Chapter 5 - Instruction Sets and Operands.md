@@ -104,14 +104,16 @@
 - Stalls have a negative effect on performance.
 - When an instruction waits for one or more ticks for the one ahead of it, and then continues, we say that a *bubble* has formed in the pipeline.
 ## 5.14 - Other Causes of Pipeline Stalls
-- 
-
-
-
-
-
+- There are number of reasons that pipelines may stall.
+	- Accessing internal storage
+	- Invoking a coprocessor
+	- Branching to a new location
+	- Calling a subroutine
+- Some sophisticated processors contain extra hardware to avoid stalls.
+	- Two copies of a pipeline
+	- Shortcut hardware to pass a copy of a result back to a previous stage.
 ## 5.15 - Consequences for Programmers
-
+- 
 
 
 
