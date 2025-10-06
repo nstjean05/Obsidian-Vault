@@ -128,14 +128,16 @@
 	- K+1 needs the value C, so gets stuck.
 	- When K finishes, the value C is forwarded.
 ## 5.18 - Types of Operations
-- 
-
-
-
-
-
+- There are several categories of instructions:
+	1. Integer arithmetic
+	2. Floating point arithmetic
+	3. Logical (boolean)
+	4. Data access/transfer
+	5. Conditional and unconditional branch
+	6. Processor control
+	7. Graphics
 ## 5.19 - Program Counter, Fetch-Execute, and Branching
-
+- 
 
 
 
