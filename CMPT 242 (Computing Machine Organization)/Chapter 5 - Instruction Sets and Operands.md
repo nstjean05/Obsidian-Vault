@@ -113,21 +113,16 @@
 	- Two copies of a pipeline
 	- Shortcut hardware to pass a copy of a result back to a previous stage.
 ## 5.15 - Consequences for Programmers
-- 
-
-
-
-
-
+- For maximum speed, programs on RISC should be written with accommodation to the instruction pipeline.
+	- Separate references from when they are used in computation.
+- Fortunately, compilers for high-level languages perform most optimizations automatically.
 ## 5.16 - Programming, Stalls, and No-Op Instructions
-
-
-
-
-
-
+- Sometimes, rearranging to avoid stalls is not possible.
+	- Documentation is important here so other users or programmers know about the stall.
+- *No-op* instructions do nothing but occupy time, so that it doesn't look like a stall is occurring or a bubble is forming.
+	- Use this in tandem with documentation.
 ## 5.17 - Forwarding
-
+- **Forwarding*** is another technique 
 
 
 
