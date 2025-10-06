@@ -89,15 +89,19 @@
 	3. Perform the operation.
 	4. Perform memory read/write if needed.
 	5. Store the result back to the registers.
-
-
-
-
-
-
+- **Multistage Pipeline**: Parallel hardware units each perform one of the steps at a time.
+	- Whenever the clock ticks, the instructions are passed down the line.
+- Once the pipeline is full, then an instruction completes on each tick.
+![](Pasted%20image%2020251006103223.png)
 ## 5.13 - Pipelines and Instruction Stalls
-
-
+- The instruction pipeline is *transparent* to programmers, as the instruction set doesn't explicitly reference a pipeline.
+	- Hardware is constructed so the programs results are the same whether or not a pipeline is present.
+- Programs think of instruction k, and k+1, and so on, instead of instruction 1, instruction 2, etc.
+- If an instruction doesn't complete and move on to the next stage in the pipeline, we say the pipeline has *stalled*
+	- The instruction and all the ones behind it must wait until it continues.
+	- The stall may be caused because the instruction is waiting for a previous one to, say, yield a value.
+- Stalls have a negative effect on performance.
+- When 
 
 
 
