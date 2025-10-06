@@ -124,13 +124,11 @@
 ## 5.17 - Forwarding
 - **Forwarding*** is another technique to improve pipeline performance
 	- Hardware can detect a dependency and pass the value forward.
-
-
-
-
-
+- Ex. K computes the value C
+	- K+1 needs the value C, so gets stuck.
+	- When K finishes, the value C is forwarded.
 ## 5.18 - Types of Operations
-
+- 
 
 
 
