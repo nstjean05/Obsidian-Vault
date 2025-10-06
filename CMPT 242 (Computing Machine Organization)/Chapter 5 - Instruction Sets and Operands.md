@@ -78,23 +78,17 @@
 		- RISC designs strive for the minimum set of instructions that is enough for all computations (e.g. totalling 32 instructions).
 		- To achieve max speed, RISC constrains instructions to a fixed size.
 		- RISC processors are designed to execute an instruction in one clock cycle.
-- 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+- Modern computers with CISC instruction sets usually also contain a RISC design.
+	- RISC engine performs the actual computation, decoding the CISC instructions.
+	- CPUs have a lower engine built-in running *microcode* (learn more later)
 ## 5.12 - RISC Design and the Execution Pipeline
+- RISC processors can complete one instruction on each clock cycle.
+- **Fetch-Execute Cycle:**
+	1. Fetch next instruction.
+	2. Decode the operation specified by the opcode.
+	3. Perform the operation.
+	4. Perform memory read/write if needed.
+	5. Store the result back to the registers.
 
 
 
