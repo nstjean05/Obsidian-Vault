@@ -137,6 +137,7 @@
 	6. Processor control
 	7. Graphics
 ## 5.19 - Program Counter, Fetch-Execute, and Branching
+- ***Instruction Pointer***: Hardware register to implement moving through instructions.
 - 
 
 
