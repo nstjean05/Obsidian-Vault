@@ -96,18 +96,15 @@
 ## 5.13 - Pipelines and Instruction Stalls
 - The instruction pipeline is *transparent* to programmers, as the instruction set doesn't explicitly reference a pipeline.
 	- Hardware is constructed so the programs results are the same whether or not a pipeline is present.
-- Programs think of instruction k, and k+1, and so on, instead of instruction 1, instruction 2, etc.
+- Programs think of instruction relative to another.
+	- If instruction *K* is the focus, then behind it is *k-1*, and ahead is *k+1*.
 - If an instruction doesn't complete and move on to the next stage in the pipeline, we say the pipeline has *stalled*
 	- The instruction and all the ones behind it must wait until it continues.
 	- The stall may be caused because the instruction is waiting for a previous one to, say, yield a value.
 - Stalls have a negative effect on performance.
-- When 
-
-
-
-
+- When an instruction waits for one or more ticks for the one ahead of it, and then continues, we say that a *bubble* has formed in the pipeline.
 ## 5.14 - Other Causes of Pipeline Stalls
-
+- 
 
 
 
