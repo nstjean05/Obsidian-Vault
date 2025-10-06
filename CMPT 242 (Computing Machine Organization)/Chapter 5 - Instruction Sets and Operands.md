@@ -122,7 +122,8 @@
 - *No-op* instructions do nothing but occupy time, so that it doesn't look like a stall is occurring or a bubble is forming.
 	- Use this in tandem with documentation.
 ## 5.17 - Forwarding
-- **Forwarding*** is another technique 
+- **Forwarding*** is another technique to improve pipeline performance
+	- Hardware can detect a dependency and pass the value forward.
 
 
 
