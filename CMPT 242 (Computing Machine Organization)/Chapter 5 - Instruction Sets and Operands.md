@@ -9,6 +9,7 @@
 ## 5.3 Instruction Sets
 - Two decisions in designing programmable processors:
 	- **Instruction Set**: Set of operations provided by the processor.
+		- Every command that a given CPU can understand/execute.
 	- **Instruction Representation**: Format for each instruction.
 - Assume that on each iteration of the processor's fetch-execute cycle, it will fetch and execute 1 instruction.
 - *Instruction representation* refers to the binary representation that hardware uses for instructions.
@@ -77,7 +78,7 @@
 		- RISC designs strive for the minimum set of instructions that is enough for all computations (e.g. totalling 32 instructions).
 		- To achieve max speed, RISC constrains instructions to a fixed size.
 		- RISC processors are designed to execute an instruction in one clock cycle.
-		- 
+- 
 
 
 

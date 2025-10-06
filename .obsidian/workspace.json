@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "1c1db9715e53cd8f",
@@ -183,9 +184,10 @@
   },
   "active": "abf74223fd49e38c",
   "lastOpenFiles": [
-    "CMPT 242 (Computing Machine Organization)/Class 13 - Operands.md",
-    "CMPT 242 (Computing Machine Organization)/Class 12 - Branching.md",
     "CMPT 242 (Computing Machine Organization)/Class 11 - Registers.md",
+    "CMPT 242 (Computing Machine Organization)/Class 12 - Branching.md",
+    "CMPT 242 (Computing Machine Organization)/Chapter 5 - Instruction Sets and Operands.md",
+    "CMPT 242 (Computing Machine Organization)/Class 13 - Operands.md",
     "CMPT 242 (Computing Machine Organization)/Class 10 - MIPS & Branching.md",
     "CMPT 242 (Computing Machine Organization)/Class 9 - Instructions and Pipelining.md",
     "CMPT 242 (Computing Machine Organization)/Ice Cream.md",
@@ -196,7 +198,6 @@
     "CMPT 380 (Artificial Intelligence)/Ch.3 - Solving Problems by Searching.md",
     "CMPT 380 (Artificial Intelligence)/Ch.3 - Solving Problems By Searching Pt. 2.md",
     "z. Images/Pasted image 20250927215100.png",
-    "CMPT 242 (Computing Machine Organization)/Chapter 5 - Instruction Sets and Operands.md",
     "z. Images/Pasted image 20250930131100.png",
     "z. Images/Pasted image 20250930130618.png",
     "Untitled 1.md",
