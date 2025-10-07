@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CMPT 242 (Computing Machine Organization)/Class 13 - Operands.md",
+                "file": "CMPT 242 (Computing Machine Organization)/Chapter 5 - Instruction Sets and Operands.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Class 13 - Operands"
+              "title": "Chapter 5 - Instruction Sets and Operands"
             }
           }
         ]
@@ -183,9 +183,9 @@
   },
   "active": "abf74223fd49e38c",
   "lastOpenFiles": [
+    "CMPT 242 (Computing Machine Organization)/Class 13 - Operands.md",
     "CMPT 242 (Computing Machine Organization)/Class 12 - Branching.md",
     "CMPT 242 (Computing Machine Organization)/Class 11 - Registers.md",
-    "CMPT 242 (Computing Machine Organization)/Class 13 - Operands.md",
     "CMPT 242 (Computing Machine Organization)/Chapter 4 - A High-Level Overview of Processors.md",
     "CMPT 242 (Computing Machine Organization)/Chapter 5 - Instruction Sets and Operands.md",
     "Pasted image 20251006103223.png",
