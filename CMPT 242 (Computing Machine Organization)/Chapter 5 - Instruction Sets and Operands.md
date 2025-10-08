@@ -92,7 +92,7 @@
 - **Multistage Pipeline**: Parallel hardware units each perform one of the steps at a time.
 	- Whenever the clock ticks, the instructions are passed down the line.
 - Once the pipeline is full, then an instruction completes on each tick.
-![](Pasted%20image%2020251006103223.png)
+![](z.%20Images/Pasted%20image%2020251006103223.png)
 ## 5.13 - Pipelines and Instruction Stalls
 - The instruction pipeline is *transparent* to programmers, as the instruction set doesn't explicitly reference a pipeline.
 	- Hardware is constructed so the programs results are the same whether or not a pipeline is present.
