@@ -1,4 +1,4 @@
- Chapter 8 _More CPU Design Considerations_
+Chapter 8 _More CPU Design Considerations_
 
 a. How many address lines had a G5 chip? Therefore how many bytes of memory could it address?
 

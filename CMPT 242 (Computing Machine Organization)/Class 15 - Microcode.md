@@ -1,3 +1,3 @@
-15. **F Oct 9** _Chapter 8 Cont'd , Microcode_
+15. _status, microcode; hi vs low level programming_ Read 7.1- 7.3 
 
-       a. **p123 6.11, 6.14**
+a. Summarize in your own words and 3-4 sentences how microcode works. If you use the Internet, cite your sources

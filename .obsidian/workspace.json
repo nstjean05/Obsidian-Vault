@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "90dcf22bc2f2bf5a",
+        "id": "f0560e349c4ef502",
         "type": "tabs",
         "children": [
           {
-            "id": "abf74223fd49e38c",
+            "id": "cf54681960c380de",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CMPT 242 (Computing Machine Organization)/Chapter 5 - Instruction Sets and Operands.md",
+                "file": "CMPT 242 (Computing Machine Organization)/Class 15 - Microcode.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Chapter 5 - Instruction Sets and Operands"
+              "title": "Class 15 - Microcode"
             }
           }
         ]
@@ -181,20 +181,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b7bafca48f2d6c08",
+  "active": "cf54681960c380de",
   "lastOpenFiles": [
-    "CMPT 242 (Computing Machine Organization)/Class 16 -.md",
     "CMPT 242 (Computing Machine Organization)/Class 14 - CPU Design.md",
-    "CMPT 242 (Computing Machine Organization)/Class 15 - Microcode.md",
+    "CMPT 242 (Computing Machine Organization)/Class 16 -.md",
+    "Class 18 -.md",
     "CMPT 242 (Computing Machine Organization)/Chapter 5 - Instruction Sets and Operands.md",
+    "Class 17 -.md",
+    "CMPT 242 (Computing Machine Organization)/Class 15 - Microcode.md",
     "CMPT 242 (Computing Machine Organization)/Class 13 - Operands.md",
+    "CMPT 242 (Computing Machine Organization)/Ice Cream.md",
     "CMPT 242 (Computing Machine Organization)/Class 12 - Branching.md",
     "CMPT 242 (Computing Machine Organization)/Class 11 - Registers.md",
     "CMPT 242 (Computing Machine Organization)/Chapter 4 - A High-Level Overview of Processors.md",
     "z. Images/Pasted image 20251006103223.png",
     "CMPT 242 (Computing Machine Organization)/Class 10 - MIPS & Branching.md",
     "CMPT 242 (Computing Machine Organization)/Class 9 - Instructions and Pipelining.md",
-    "CMPT 242 (Computing Machine Organization)/Ice Cream.md",
     "CMPT 242 (Computing Machine Organization)/Class 10.5 - Ways of Knowing Interlude.md",
     "CMPT 385 (Software Eng. I)/Unit 3 - Dev. Processes II.md",
     "CMPT 385 (Software Eng. I)/Unit 3 - Dev. Processes I.md",
@@ -215,9 +217,7 @@
     "z. Images/Pasted image 20250929135919.png",
     "2025-09-27.md",
     "CMPT 242 (Computing Machine Organization)/Class 5 - Representing Negative Integers.md",
-    "CMPT 242 (Computing Machine Organization)/Class 8 - Mathematics & Instruction Sets.md",
     "z. Images/Pasted image 20250922124050.png",
-    "CMPT 380 (Artificial Intelligence)/Ch.2 - Intelligent Agents.md",
     "z. Images/Pasted image 20250925151852.png",
     "Git Workshop",
     "Learning Java",
