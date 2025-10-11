@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CMPT 242 (Computing Machine Organization)/Class 16 -.md",
+                "file": "CMPT 242 (Computing Machine Organization)/Chapter 5 - Instruction Sets and Operands.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Class 16 -"
+              "title": "Chapter 5 - Instruction Sets and Operands"
             }
           }
         ]
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "1c1db9715e53cd8f",
@@ -183,6 +184,7 @@
   },
   "active": "98bc4975295702e7",
   "lastOpenFiles": [
+    "CMPT 242 (Computing Machine Organization)/Class 16 -.md",
     "CMPT 242 (Computing Machine Organization)/Class 17 -.md",
     "CMPT 242 (Computing Machine Organization)/Class 12 - Branching.md",
     "CMPT 242 (Computing Machine Organization)/Class 13 - Operands.md",
@@ -190,7 +192,6 @@
     "CMPT 242 (Computing Machine Organization)/Class 15 - Microcode.md",
     "CMPT 242 (Computing Machine Organization)/Chapter 5 - Instruction Sets and Operands.md",
     "CMPT 242 (Computing Machine Organization)/Chapter 4 - A High-Level Overview of Processors.md",
-    "CMPT 242 (Computing Machine Organization)/Class 16 -.md",
     "CMPT 242 (Computing Machine Organization)/Class 18 -.md",
     "CMPT 242 (Computing Machine Organization)/Ice Cream.md",
     "CMPT 242 (Computing Machine Organization)/Class 11 - Registers.md",
