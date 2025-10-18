@@ -138,7 +138,10 @@
 	7. Graphics
 ## 5.19 - Program Counter, Fetch-Execute, and Branching
 - ***Instruction Pointer***: Hardware register to implement moving through instructions.
-- 
+- Once an instruction is fetched, the program counter must update the address to and of the next instruction.
+	- Allows the processor to automatically move on to the next instruction in memory when its task is complete.
+- An *absolute branch* computes a memory address, and that address contains the location of the next instruction.
+- A *relative branch instruction* doesn't specify an address, rather computing an increment for the program counter.
 
 
 
