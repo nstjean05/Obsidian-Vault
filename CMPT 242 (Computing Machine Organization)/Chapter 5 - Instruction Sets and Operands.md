@@ -142,13 +142,9 @@
 	- Allows the processor to automatically move on to the next instruction in memory when its task is complete.
 - An *absolute branch* computes a memory address, and that address contains the location of the next instruction.
 - A *relative branch instruction* doesn't specify an address, rather computing an increment for the program counter.
-
-
-
-
-
+	- Ex. `br + 8` specifies branching to a location 8 bytes forward from the current one.
 ## 5.20 - Condition Codes and Conditional Branching
-
+- 
 
 
 
