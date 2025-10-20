@@ -152,12 +152,7 @@
 		2. Status
 	- Operand in instruction says where to store result
 - ALU sets a condition code to specify if the result is pos/neg/zero/overflowed.
-	- A conditional branch then follows this 
-
-
-
-
-
+	- A conditional branch then follows the operation.
 ## 5.21 - Subroutine and Function Calls
 
 
