@@ -144,7 +144,15 @@
 - A *relative branch instruction* doesn't specify an address, rather computing an increment for the program counter.
 	- Ex. `br + 8` specifies branching to a location 8 bytes forward from the current one.
 ## 5.20 - Condition Codes and Conditional Branching
-- 
+- *Conditional execution* is when a processor performs a different series of steps depending on its input value (pos/neg int).
+- *Conditional branch* instructions allow the processor to decide amongst its options.
+- *Condition codes* (held in registers) provide the basis for conditional branching.
+	- Two values are produced after instruction computation:
+		1. Result of computation
+		2. Status
+	- Operand in instruction says where to store result
+- ALU sets a condition code to specify if the result is pos/neg/zero/overflowed.
+	- A conditional branch then follows this 
 
 
 
