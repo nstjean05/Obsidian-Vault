@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "cad2e6ebfcbdfd31",
+        "id": "2f95027ba0f01ed8",
         "type": "tabs",
         "children": [
           {
-            "id": "dda30b238faacc0f",
+            "id": "b2de7b89b882655a",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "CMPT 242 (Computing Machine Organization)/Chapter 5 - Instruction Sets and Operands.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Chapter 5 - Instruction Sets and Operands"
             }
           }
         ]
@@ -74,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "1c1db9715e53cd8f",
@@ -177,7 +182,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "dda30b238faacc0f",
+  "active": "b2de7b89b882655a",
   "lastOpenFiles": [
     "CMPT 242 (Computing Machine Organization)/Class 20 -.md",
     "CMPT 242 (Computing Machine Organization)/Class 21 -.md",
