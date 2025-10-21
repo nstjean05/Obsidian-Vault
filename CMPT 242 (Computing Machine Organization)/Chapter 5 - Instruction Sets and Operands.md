@@ -207,7 +207,10 @@ Assign the program counter an initial address, and repeat forever{
 - Minimalism is important, as additional operations require more physical circuitry, which drain power passively.
 - MIPS register 0 always contains the value 0; therefore any register can be tested if it contains 0 by comparison.
 ## 5.25 - The Principles of Elegance and Orthogonality
-- 
+- An architect must consider elegance—how the instruction set will appear to programmers.
+- Orthogonality states that we must minimize overlap between instructions.
+	- An instruction set is *orthogonal* if each instruction performs a completely separate task.
+	- This takes away the 
 
 
 
