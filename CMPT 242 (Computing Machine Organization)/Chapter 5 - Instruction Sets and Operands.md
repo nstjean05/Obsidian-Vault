@@ -156,7 +156,21 @@
 ## 5.21 - Subroutine and Function Calls
 - Programs *call* subroutines, which *return* to the caller.
 - Subroutines are also called subprograms, functions, and methods.
-- 
+- Instruction implementing a subroutine must save the address of the caller before branching to the subroutine.
+	- When it returns to the caller, subroutine must extract that address and branch to it.
+- On the processor side, the address of the instruction is saved, but only after the instruction is used to invoke the subroutine.
+	- This allows the processor to branch to the instruction after the call once control has returned to the caller.
+- There are two general approaches to implementing subroutine calls:
+	- Subroutine call instruction **pushes** the return address on the **stack**.
+		- Used by earlier computers.
+	- Subroutine call instruction **saves** the return address in a **register**.
+		- Accessing a register takes shorter time than memory, so we gain efficiency this way.
+		- The name `bl` (branch and link) is often used for the instruction that makes a subroutine call.
+```
+Assign the program counter
+```
+
+
 
 
 
