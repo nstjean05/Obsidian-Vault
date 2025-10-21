@@ -166,18 +166,23 @@
 	- Subroutine call instruction **saves** the return address in a **register**.
 		- Accessing a register takes shorter time than memory, so we gain efficiency this way.
 		- The name `bl` (branch and link) is often used for the instruction that makes a subroutine call.
+- Below outlines the fetch-execute cycle.
+	- This is how the hardware computes the next step.
 ```
-Assign the program counter
+Assign the program counter an initial address, and repeat forever{
+	Fetch: Access next step of program from the location given by program counter
+	
+	Set an internal register (A) to the address beyond the instruction just fetched.
+	
+	Execute: Perform the step just fetched
+	
+	Copy the contents of A to the program counter.
+}
 ```
-
-
-
-
-
-
 ## 5.22 - Argument Passing and Return Values
-
-
+- **Parameterized Subroutines**
+	- When a function is called/method invoked, the calling code *passes* on a set of arguments to the subroutine.
+	- 
 
 
 
