@@ -194,6 +194,7 @@ Assign the program counter an initial address, and repeat forever{
 - This balances speed, flexibility, and efficiency.
 ## 5.23 - An Example Instruction Set
 - The MIPS processor is a good example, as it is small and easy to understand, as well as includes a wide enough range of concepts.
+- MIPS = Microprocessor without Interlocked Pipelined Stages
 - A MIPS processor has 32 general-purpose registers.
 - MIPS architecture defines a set of floating point instructions for single and double precision floating point values.
 	- These are separate from the general registers.
@@ -203,14 +204,10 @@ Assign the program counter an initial address, and repeat forever{
 - The MIPS instruction set has two goals: speed and minimalism.
 	- Designed to be fast, especially given pipelines.
 	- Contains the fewest possible instructions for standard computation.
-- 
-
-
-
-
-
+- Minimalism is important, as additional operations require more physical circuitry, which drain power passively.
+- MIPS register 0 always contains the value 0; therefore any register can be tested if it contains 0 by comparison.
 ## 5.25 - The Principles of Elegance and Orthogonality
-
+- 
 
 
 
