@@ -196,13 +196,14 @@ Assign the program counter an initial address, and repeat forever{
 - The MIPS processor is a good example, as it is small and easy to understand, as well as includes a wide enough range of concepts.
 - A MIPS processor has 32 general-purpose registers.
 - MIPS architecture defines a set of floating point instructions for single and double precision floating point values.
-
-
-
-
-
+	- These are separate from the general registers.
+	- Floating point registers operate as pairs to handle double precision values.
+- Find a copy of the instruction set here: https://www.dsi.unive.it/~gasparetto/materials/MIPS_Instruction_Set.pdf
 ## 5.24 - The Principle of Minimalism
-
+- The MIPS instruction set has two goals: speed and minimalism.
+	- Designed to be fast, especially given pipelines.
+	- Contains the fewest possible instructions for standard computation.
+- 
 
 
 
