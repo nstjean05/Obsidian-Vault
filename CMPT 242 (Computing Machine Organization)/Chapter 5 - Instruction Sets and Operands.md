@@ -182,13 +182,20 @@ Assign the program counter an initial address, and repeat forever{
 ## 5.22 - Argument Passing and Return Values
 - **Parameterized Subroutines**
 	- When a function is called/method invoked, the calling code *passes* on a set of arguments to the subroutine.
-	- 
-
-
-
-
+- *Calling sequence* is the order of steps taken when calling a subroutine.
+- There are a limited number of registers, so you must wisely choose what to use them for.
+	- Arguments = Faster subroutine calls
+	- Computation = Faster execution of instructions
+- If a value in a register is needed later, it must be saved elsewhere before that register can be used.
+- **ARM** compromises the tradeoff as such:
+	- Registers 0-2 for the first few arguments.
+	- Stack is used for any further arguments.
+	- Other registers used for computation.
+- This balances speed, flexibility, and efficiency.
 ## 5.23 - An Example Instruction Set
-
+- The MIPS processor is a good example, as it is small and easy to understand, as well as includes a wide enough range of concepts.
+- A MIPS processor has 32 general-purpose registers.
+- MIPS architecture defines a set of floating point instructions for single and double precision floating point values.
 
 
 
