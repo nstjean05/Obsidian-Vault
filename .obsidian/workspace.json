@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "thr",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,12 +74,12 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "1c1db9715e53cd8f",
@@ -182,7 +182,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0492444b7e950a68",
+  "active": "35875cf250fde7d5",
   "lastOpenFiles": [
     "CMPT 242 (Computing Machine Organization)/Class 17 -.md",
     "CMPT 242 (Computing Machine Organization)/Chapter 5 - Instruction Sets and Operands.md",
