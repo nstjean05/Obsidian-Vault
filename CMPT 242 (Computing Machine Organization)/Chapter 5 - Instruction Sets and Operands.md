@@ -154,8 +154,9 @@
 - ALU sets a condition code to specify if the result is pos/neg/zero/overflowed.
 	- A conditional branch then follows the operation.
 ## 5.21 - Subroutine and Function Calls
-
-
+- Programs *call* subroutines, which *return* to the caller.
+- Subroutines are also called subprograms, functions, and methods.
+- 
 
 
 
