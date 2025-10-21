@@ -210,15 +210,17 @@ Assign the program counter an initial address, and repeat forever{
 - An architect must consider elegance—how the instruction set will appear to programmers.
 - Orthogonality states that we must minimize overlap between instructions.
 	- An instruction set is *orthogonal* if each instruction performs a completely separate task.
-	- This takes away the 
-
-
-
-
-
+	- This takes away the paradox of choice for programmers and compilers.
 ## 5.26 - Summary
-
-
-
-
-
+- Processors define instructions sets; the operations it supports.
+- This set is chosen to balance convenience and efficiency.
+- Most processors have a small set of general purpose registers for high-speed storage.
+	- Value is loaded from memory into a register, a computation is performed, and the result is transferred from a register into memory.
+- For performance optimization, programmers can leave frequently used values in registers.
+- Processors are classified as CISC and RISC.
+	- Depends on whether they have many complex instructions, or a minimal set.
+- RISC architectures use an instruction pipeline so that one instruction can complete every clock tick.
+	- Code can be rearranged to avoid pipeline stalls.
+- Conditional execution relies on a condition code mechanism
+	- ALU instruction sets this code, and later instructions test it.
+	- Used for loops (if/then/else, etc.)

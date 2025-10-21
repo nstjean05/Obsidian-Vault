@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "2f95027ba0f01ed8",
+        "id": "80cd161a6ba2ed68",
         "type": "tabs",
         "children": [
           {
-            "id": "b2de7b89b882655a",
+            "id": "35875cf250fde7d5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CMPT 242 (Computing Machine Organization)/Chapter 5 - Instruction Sets and Operands.md",
+                "file": "CMPT 242 (Computing Machine Organization)/Class 16 -.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Chapter 5 - Instruction Sets and Operands"
+              "title": "Class 16 -"
             }
           }
         ]
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "1c1db9715e53cd8f",
@@ -182,16 +181,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b2de7b89b882655a",
+  "active": "35875cf250fde7d5",
   "lastOpenFiles": [
+    "CMPT 242 (Computing Machine Organization)/Class 17 -.md",
+    "CMPT 242 (Computing Machine Organization)/Chapter 5 - Instruction Sets and Operands.md",
     "CMPT 242 (Computing Machine Organization)/Class 20 -.md",
     "CMPT 242 (Computing Machine Organization)/Class 21 -.md",
     "CMPT 242 (Computing Machine Organization)/Class 16 -.md",
     "CMPT 242 (Computing Machine Organization)/Class 19 -.md",
     "CMPT 242 (Computing Machine Organization)/Chapter 4 - A High-Level Overview of Processors.md",
-    "CMPT 242 (Computing Machine Organization)/Class 17 -.md",
     "CMPT 242 (Computing Machine Organization)/Class 18 -.md",
-    "CMPT 242 (Computing Machine Organization)/Chapter 5 - Instruction Sets and Operands.md",
     "CMPT 242 (Computing Machine Organization)/Class 12 - Branching.md",
     "CMPT 242 (Computing Machine Organization)/Class 13 - Operands.md",
     "CMPT 242 (Computing Machine Organization)/Class 14 - CPU Design.md",
