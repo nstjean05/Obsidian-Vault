@@ -25,6 +25,9 @@
 - MMU can enforce data protection, jail programs
 - User Protection
 - Processor mode switching can be tied to the MMU so, say, supervisory mode has its own memory.
+- Code segmentation (allows for unused code to be swapped out)
+
+
 
 
 21.  _Start on Virtual Memory_
