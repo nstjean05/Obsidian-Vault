@@ -11,7 +11,9 @@
 	- IP address -> Input/Output -> cached
 	- The information may be damaged when there is data coming/going from different locations.
 ### Virtual and Logical Organization
-- These are abstractions of physical memory to hid implementation details and to crete
+- These are abstractions of physical memory to hid implementation details and to create a higher level interface to lower-level details.
+	- Ex. A virtual byte addressing scheme to isolate logical access from physical memory.
+	- Installed memory usually isn't at contiguous addresses.
 
 
 
