@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CMPT 242 (Computing Machine Organization)/Class 22 - Memory Organization.md",
+                "file": "CMPT 242 (Computing Machine Organization)/Class 21 - Virtual Memory.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Class 22 - Memory Organization"
+              "title": "Class 21 - Virtual Memory"
             }
           }
         ],
@@ -198,8 +198,14 @@
   },
   "active": "5876a824f9dbbeb0",
   "lastOpenFiles": [
+    "CMPT 242 (Computing Machine Organization)/Class 22 -.md",
+    "CMPT 242 (Computing Machine Organization)/Class 21 - Virtual Memory.md",
+    "CMPT 242 (Computing Machine Organization)/Class 20 -.md",
+    "CMPT 242 (Computing Machine Organization)/Class 19 -.md",
+    "CMPT 242 (Computing Machine Organization)/Class 18 -.md",
+    "CMPT 242 (Computing Machine Organization)/Class 17 -.md",
+    "CMPT 242 (Computing Machine Organization)/Class 16 -.md",
     "Unit 6 - Architectural Design.md",
-    "CMPT 242 (Computing Machine Organization)/Class 22 - Memory Organization.md",
     "CMPT 385 (Software Eng. I)/Unit 3 - Dev. Processes II.md",
     "CMPT 380 (Artificial Intelligence)/Ch.3 - Solving Problems by Searching.md",
     "CMPT 385 (Software Eng. I)/Unit 3 - Dev. Processes I.md",
@@ -210,18 +216,12 @@
     "Learning Assembly/1. Intro to Assembly.md",
     "Learning Assembly/Untitled.base",
     "Learning Assembly/Untitled.canvas",
-    "CMPT 242 (Computing Machine Organization)/Class 16 -.md",
     "Learning Assembly",
     "Learning Java/Untitled",
     "Untitled.md",
     "Programming In Assembly.md",
-    "CMPT 242 (Computing Machine Organization)/Class 17 -.md",
     "CMPT 242 (Computing Machine Organization)/Chapter 5 - Instruction Sets and Operands.md",
-    "CMPT 242 (Computing Machine Organization)/Class 20 -.md",
-    "CMPT 242 (Computing Machine Organization)/Class 21 -.md",
-    "CMPT 242 (Computing Machine Organization)/Class 19 -.md",
     "CMPT 242 (Computing Machine Organization)/Chapter 4 - A High-Level Overview of Processors.md",
-    "CMPT 242 (Computing Machine Organization)/Class 18 -.md",
     "CMPT 242 (Computing Machine Organization)/Class 12 - Branching.md",
     "CMPT 242 (Computing Machine Organization)/Class 13 - Operands.md",
     "CMPT 242 (Computing Machine Organization)/Class 14 - CPU Design.md",
