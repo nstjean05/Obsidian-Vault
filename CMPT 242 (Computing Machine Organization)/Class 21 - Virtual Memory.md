@@ -18,8 +18,13 @@
 	- Stored blocks
 	- Paged out virtual memory
 - As if it were contiguous actual memory
-
-
+![](Pasted%20image%2020251024124914.png)
+- The MMU maps the memory to a contiguous block
+#### Goals Achieved
+- Heterogenous real memory can be homogenized
+- MMU can enforce data protection, jail programs
+- User Protection
+- Processor mode switching can be tied to the MMU so, say, supervisory mode has its own memory.
 
 
 21.  _Start on Virtual Memory_
