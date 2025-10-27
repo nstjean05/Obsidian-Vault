@@ -14,4 +14,17 @@
 	- This is called *demand paging*
 - Needed code in MMV to detect page faults (page/block need but not loaded)
 	- Code to prioritize pages
+#### MMU Page Tables
+- Indexes all pages
+- Has priority info
+- Records what pages are loaded
+- Say whether the page has been written to since last loaded - if dirty then write before purging
+- May be stored in MMU but more likely in RAM (main memory)
+- Clever use of binary enumeration to load pages of size s$^k$ bytes or address on 2$^n$ boundaries saves time.
+- Paging can be sped up further with a TLB (translation look-aside buffer) in the MMU or high-speed RAM
+- This contains a copy of the most recent page reference vectors (addresses) copied from the index of the page table the previous time it was used
+- When a page is needed:
+	- Two searches happen simultaneously
+		- One in the page index
+		- One in the TLB
 - 
