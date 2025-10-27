@@ -26,5 +26,4 @@
 - When a page is needed:
 	- Two searches happen simultaneously
 		- One in the page index
-		- One in the TLB
-- 
+		- One in the *TLB*
