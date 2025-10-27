@@ -27,3 +27,10 @@
 	- Two searches happen simultaneously
 		- One in the page index
 		- One in the *TLB*
+#### Programming Tricks for Speed Advantage
+1. Learn whether the OS/compiler stores arrays in row-major or column-major order and code your loops over arrays to match.
+	- Row major:
+		- | Row | Row | Row | ...
+	- Column major: 
+		- | Column | Column | ...
+	- 
