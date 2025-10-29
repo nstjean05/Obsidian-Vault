@@ -11,7 +11,7 @@
 	- Knowledge representation
 	- Automated reasoning
 	- Machine Learning, Computer Vision, and Robotics are also necessary for the "Total Turing Test".
-![[Pasted image 20250909153703.png]]
+![[z. Images/Pasted image 20250909153703.png]]
 - **Total Turing Test**
 	- 1991 - Harnad dubs this as the new standard.
 		- Verbal behaviours are not the sole standard for intelligence.

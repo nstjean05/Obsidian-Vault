@@ -1,0 +1,1 @@
+https://learn.twu.ca/pluginfile.php/1623068/mod_resource/content/1/Chapter6.pdf

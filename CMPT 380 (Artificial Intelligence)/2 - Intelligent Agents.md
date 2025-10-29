@@ -1,3 +1,4 @@
+https://learn.twu.ca/pluginfile.php/1606544/mod_resource/content/1/Chapter2.pdf
 ## Agents
 - An *agent* is anything that can be viewed as perceiving its environment through sensors, and acting upon that information.
 - There are both human and robotic agents, both with their own kinds of sensors.
@@ -64,18 +65,18 @@
 - Work only if the correct decision can be made solely on the basis of the current percept.
 	- The environment must be *fully observable*.
 - It may get stuck in an infinite loop, and then must randomize its actions to get out.
-![[Pasted image 20250925144717.png]]
+![[z. Images/Pasted image 20250925144717.png]]
 #### Model-Based Reflect Agents
 - It is rarely possible to determine the state of a partially observable environment.
 	- The sensors feed into a box which determines the agent's best guess.
-![[Pasted image 20250925144738.png]]
+![[z. Images/Pasted image 20250925144738.png]]
 #### Goal-Based Agents
 - Agents need goals to know which situations are desirable.
 - The big difference in this agent from prior ones is that the **future** is taken into account.
 - It is more flexible than prior agents.
 - For example if it starts to rain, then the agent can update its knowledge of how effectively its breaks will operate.
 	- This shows how it can change its variables.
-![[Pasted image 20250925150329.png]]
+![[z. Images/Pasted image 20250925150329.png]]
 #### Utility-Based Agents
 - Some goals have greater utility than others.
 - **Utility Functions** map states onto a real number.
@@ -85,13 +86,13 @@
 	- Biology --> Number of Offspring
 	- Exam --> Mark
 	- Game --> Score or Fun
-![[Pasted image 20250925151622.png]]
+![[z. Images/Pasted image 20250925151622.png]]
 - A utility agent has advantages in flexibility and learning.
 - If goals are inadequate, the agent can still make rational decisions.
 ## Learning Agents
 - All the previous agents describe methods for selecting actions.
 	- This does not explain how agent programs come into being.
-![[Pasted image 20250925151852.png]]
+![[z. Images/Pasted image 20250925151852.png]]
 - Learning agents have four conceptual components:
 	1. Learning Element
 		- Responsible for making improvements, which are introduced in the *performance element.*
