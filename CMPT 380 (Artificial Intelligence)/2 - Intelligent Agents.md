@@ -1,4 +1,5 @@
 https://learn.twu.ca/pluginfile.php/1606544/mod_resource/content/1/Chapter2.pdf
+#complete
 ## Agents
 - An *agent* is anything that can be viewed as perceiving its environment through sensors, and acting upon that information.
 - There are both human and robotic agents, both with their own kinds of sensors.
@@ -113,9 +114,9 @@ https://learn.twu.ca/pluginfile.php/1606544/mod_resource/content/1/Chapter2.pdf
 	- **Factored**
 		- Splits up each state into a fixed set of variables or attributes
 		- Each of these variables has a value
+		- Vector attribute values ( x -- > q, y --> b, y -/-> q)
 		- Ex. Constraint satisfaction, Bayesian Networks, machine learning, etc.
 	- **Structured**
 		- Structured representations
 		- Relationships.
 		- Ex. First-order logic models, knowledge-based learning, etc.
-		- 
