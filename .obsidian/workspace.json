@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "0d4fe6d63ebdc2b3",
+        "id": "00bd23fa6cee7f33",
         "type": "tabs",
         "children": [
           {
-            "id": "450eea5b48481bad",
+            "id": "0c38ce3f15e054c4",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CMPT 380 (Artificial Intelligence)/Midterm Cram Sheet.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Midterm Cram Sheet"
+              "title": "New tab"
             }
           }
         ]
@@ -78,7 +74,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "1c1db9715e53cd8f",
@@ -181,10 +178,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "450eea5b48481bad",
+  "active": "0c38ce3f15e054c4",
   "lastOpenFiles": [
-    "CMPT 380 (Artificial Intelligence)/3.1 - Solving Problems by Searching.md",
     "CMPT 380 (Artificial Intelligence)/Midterm Cram Sheet.md",
+    "CMPT 380 (Artificial Intelligence)/3.1 - Solving Problems by Searching.md",
     "CMPT 380 (Artificial Intelligence)/3.2 - Solving Problems by Searching.md",
     "CMPT 380 (Artificial Intelligence)/5 - Adversarial Search.md",
     "CMPT 380 (Artificial Intelligence)/6 - Constraint Satisfaction Problems.md",
