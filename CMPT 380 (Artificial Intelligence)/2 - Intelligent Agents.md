@@ -67,7 +67,7 @@ https://learn.twu.ca/pluginfile.php/1606544/mod_resource/content/1/Chapter2.pdf
 	- The environment must be *fully observable*.
 - It may get stuck in an infinite loop, and then must randomize its actions to get out.
 ![[z. Images/Pasted image 20250925144717.png]]
-#### Model-Based Reflect Agents
+#### Model-Based Reflex Agents
 - It is rarely possible to determine the state of a partially observable environment.
 	- The sensors feed into a box which determines the agent's best guess.
 ![[z. Images/Pasted image 20250925144738.png]]
