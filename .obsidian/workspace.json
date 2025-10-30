@@ -74,11 +74,13 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "1c1db9715e53cd8f",
@@ -183,13 +185,13 @@
   },
   "active": "0c38ce3f15e054c4",
   "lastOpenFiles": [
+    "CMPT 380 (Artificial Intelligence)/3.1 - Solving Problems by Searching.md",
+    "CMPT 380 (Artificial Intelligence)/2 - Intelligent Agents.md",
     "CMPT 380 (Artificial Intelligence)/1 - Introduction.md",
     "CMPT 380 (Artificial Intelligence)/Midterm Cram Sheet.md",
-    "CMPT 380 (Artificial Intelligence)/3.1 - Solving Problems by Searching.md",
     "CMPT 380 (Artificial Intelligence)/3.2 - Solving Problems by Searching.md",
     "CMPT 380 (Artificial Intelligence)/5 - Adversarial Search.md",
     "CMPT 380 (Artificial Intelligence)/6 - Constraint Satisfaction Problems.md",
-    "CMPT 380 (Artificial Intelligence)/2 - Intelligent Agents.md",
     "CMPT 380 (Artificial Intelligence)/7 - Logical Agents.md",
     "CMPT 385 (Software Eng. I)/Unit 6 - Architectural Design.md",
     "CMPT 380 (Artificial Intelligence)/4. - Search in Complex Environments.md",
