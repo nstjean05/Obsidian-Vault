@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CMPT 380 (Artificial Intelligence)/2 - Intelligent Agents.md",
+                "file": "CMPT 380 (Artificial Intelligence)/6 - Constraint Satisfaction Problems.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2 - Intelligent Agents"
+              "title": "6 - Constraint Satisfaction Problems"
             }
           }
         ]
@@ -74,13 +74,11 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "1c1db9715e53cd8f",
@@ -185,8 +183,8 @@
   },
   "active": "0c38ce3f15e054c4",
   "lastOpenFiles": [
-    "CMPT 380 (Artificial Intelligence)/3.1 - Solving Problems by Searching.md",
     "CMPT 380 (Artificial Intelligence)/2 - Intelligent Agents.md",
+    "CMPT 380 (Artificial Intelligence)/3.1 - Solving Problems by Searching.md",
     "CMPT 380 (Artificial Intelligence)/1 - Introduction.md",
     "CMPT 380 (Artificial Intelligence)/Midterm Cram Sheet.md",
     "CMPT 380 (Artificial Intelligence)/3.2 - Solving Problems by Searching.md",
