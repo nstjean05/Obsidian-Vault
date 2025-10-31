@@ -5,5 +5,9 @@
 	- Makes circuits more complex
 #### Strategies
 - Write through - uses parallel - does both simultaneously
-- Write back does first cache, sets a *dirty bit* and before purging the cache checks that bit and if set, writes to main memory.
-- 
+- Write back - write first cache, sets a *dirty bit* and before purging the cache checks that bit and if set, writes to main memory.
+#### Problems
+1. Multiple processors may have independent caches only if the write-through strategy is used. But its still worth it.
+2. Random access to cached data increases the likelihood of a miss.
+3. The above problem does not happen when accessing instructions, except for large jumps (high locality).
+- **Note**: Since each application has its own environment, including any cache, with an addressing space starting at 0, 
