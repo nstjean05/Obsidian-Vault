@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CMPT 380 (Artificial Intelligence)/7 - Logical Agents.md",
+                "file": "CMPT 242 (Computing Machine Organization)/Class 22 - Memory Management Contd..md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "7 - Logical Agents"
+              "title": "Class 22 - Memory Management Contd."
+            }
+          },
+          {
+            "id": "2b78fdf92b153d0e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Class 23 - Cache.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Class 23 - Cache"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -181,10 +196,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0c38ce3f15e054c4",
+  "active": "2b78fdf92b153d0e",
   "lastOpenFiles": [
-    "CMPT 380 (Artificial Intelligence)/Midterm Cram Sheet.md",
+    "CMPT 242 (Computing Machine Organization)/Class 22 - Memory Management Contd..md",
+    "Class 23 - Cache.md",
+    "CMPT 242 (Computing Machine Organization)/Class 21 - Virtual Memory.md",
     "CMPT 380 (Artificial Intelligence)/7 - Logical Agents.md",
+    "CMPT 380 (Artificial Intelligence)/Midterm Cram Sheet.md",
     "CMPT 380 (Artificial Intelligence)/6 - Constraint Satisfaction Problems.md",
     "CMPT 380 (Artificial Intelligence)/2 - Intelligent Agents.md",
     "CMPT 380 (Artificial Intelligence)/3.1 - Solving Problems by Searching.md",
@@ -202,14 +220,11 @@
     "CMPT 242 (Computing Machine Organization)/Class 18 -.md",
     "CMPT 242 (Computing Machine Organization)/Class 16 -.md",
     "CMPT 242 (Computing Machine Organization)/Class 17 -.md",
-    "CMPT 242 (Computing Machine Organization)/Class 22 - Memory Management Contd..md",
     "CMPT 242 (Computing Machine Organization)/Class 20 -.md",
-    "CMPT 242 (Computing Machine Organization)/Class 21 - Virtual Memory.md",
     "Pasted image 20251024124914.png",
     "CMPT 385 (Software Eng. I)/Unit 2 -Project Management.md",
     "CMPT 334 (Principles of Operating Systems)/Chapter 1 - Introduction.md",
     "CMPT 334 (Principles of Operating Systems)/Chapter 5 - CPU Scheduling.md",
-    "CMPT 334 (Principles of Operating Systems)/Chapter 3 - Processes.md",
     "Learning Assembly/Untitled.base",
     "Learning Assembly/Untitled.canvas",
     "Learning Assembly",
