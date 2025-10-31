@@ -10,4 +10,7 @@
 1. Multiple processors may have independent caches only if the write-through strategy is used. But its still worth it.
 2. Random access to cached data increases the likelihood of a miss.
 3. The above problem does not happen when accessing instructions, except for large jumps (high locality).
-- **Note**: Since each application has its own environment, including any cache, with an addressing space starting at 0, 
+- **Note**: Since each application has its own environment, including any cache, with an addressing space starting at 0 context switching (say to another app) usually involves:
+	- Flush the current app cache before switching
+	- Disambiguate the address space using some bits as identifiers to a  specific app - the rest is relative address.
+- 
