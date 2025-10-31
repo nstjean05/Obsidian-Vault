@@ -13,4 +13,17 @@
 - **Note**: Since each application has its own environment, including any cache, with an addressing space starting at 0 context switching (say to another app) usually involves:
 	- Flush the current app cache before switching
 	- Disambiguate the address space using some bits as identifiers to a  specific app - the rest is relative address.
+#### Simplest Paradigm
+- Communication via signal channel & data bus & local cache for controller
+	- Tell controller --> device what to do
+	- Supply data
+	- Get back a status code (in progress, ready)
+- May reside in computer enclosure, or
+	- On an installed card
+	- Some may be on the external device
+### Data Transfer
+- Basic Idea
+	- DTE - Data Terminal Equipment
+	- DCE - Data Communication Equipment
+- CPU --> Interface Controller <--> ... Connecting coded 2-Way Comms ... <--> Interface Controller --> Device
 - 
