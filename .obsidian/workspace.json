@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CMPT 242 (Computing Machine Organization)/Class 23 - Cache.md",
+                "file": "CMPT 242 (Computing Machine Organization)/Class 16 -.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Class 23 - Cache"
+              "title": "Class 16 -"
             }
           }
         ],
@@ -93,8 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "1c1db9715e53cd8f",
@@ -110,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CMPT 242 (Computing Machine Organization)/Class 23 - Cache.md",
+                "file": "CMPT 242 (Computing Machine Organization)/Class 16 -.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Class 23 - Cache"
+              "title": "Backlinks for Class 16 -"
             }
           },
           {
@@ -198,8 +197,12 @@
   },
   "active": "2b78fdf92b153d0e",
   "lastOpenFiles": [
-    "CMPT 242 (Computing Machine Organization)/Class 22 - Memory Management Contd..md",
+    "CMPT 242 (Computing Machine Organization)/Class 17 -.md",
+    "CMPT 242 (Computing Machine Organization)/Class 18 -.md",
+    "CMPT 242 (Computing Machine Organization)/Class 19 -.md",
+    "CMPT 242 (Computing Machine Organization)/Class 20 -.md",
     "CMPT 242 (Computing Machine Organization)/Class 23 - Cache.md",
+    "CMPT 242 (Computing Machine Organization)/Class 22 - Memory Management Contd..md",
     "CMPT 242 (Computing Machine Organization)/Class 21 - Virtual Memory.md",
     "CMPT 380 (Artificial Intelligence)/7 - Logical Agents.md",
     "CMPT 380 (Artificial Intelligence)/Midterm Cram Sheet.md",
@@ -216,11 +219,7 @@
     "CMPT 242 (Computing Machine Organization)/Class 8 - Mathematics & Instruction Sets.md",
     "CMPT 385 (Software Eng. I)/Unit 3 - Dev. Processes II.md",
     "CMPT 385 (Software Eng. I)/Unit 3 - Dev. Processes I.md",
-    "CMPT 242 (Computing Machine Organization)/Class 19 -.md",
-    "CMPT 242 (Computing Machine Organization)/Class 18 -.md",
     "CMPT 242 (Computing Machine Organization)/Class 16 -.md",
-    "CMPT 242 (Computing Machine Organization)/Class 17 -.md",
-    "CMPT 242 (Computing Machine Organization)/Class 20 -.md",
     "Pasted image 20251024124914.png",
     "CMPT 385 (Software Eng. I)/Unit 2 -Project Management.md",
     "CMPT 334 (Principles of Operating Systems)/Chapter 1 - Introduction.md",

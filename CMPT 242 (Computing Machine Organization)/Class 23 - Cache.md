@@ -26,4 +26,3 @@
 	- DTE - Data Terminal Equipment
 	- DCE - Data Communication Equipment
 - CPU --> Interface Controller <--> ... Connecting coded 2-Way Comms ... <--> Interface Controller --> Device
-- 
