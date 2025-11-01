@@ -2,5 +2,6 @@
 
 a. Write code in your favourite language to declare an array of integers, populate it with values,  then add the elements of the array using (a) a for loop, (b) again in a while loop, (c) and again in a repeat loop
 
-- google sheets for data hub
+- Data hub in the cloud (Excel?)
 - Get an API to send emails, text message to email
+	- Could use Power Automate from MS
