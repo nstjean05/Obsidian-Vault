@@ -30,4 +30,12 @@
 		- The most modern systems my automatically assert DTR and don't bother with RTS but may use CTS on a different pin.
 ## Interfaces
 - Earlier - S232 - Confusion over which was a "terminal" (req. custom cables)
+- Later serial interfaces included Firewire (400/800/1600)
+- ESATA (Usually an internal bus/drive, but external cables were made)
+- USB A - 1, 2, 3, 3,1, 3.2
+- USB B - Style for peripherals, 4 kinds
+- Potential speeds go up with every iteration of cable
+#### Bi-Directional and Transfer
+- Very important for, say, networking, and cloud computing/storage
+- Is acheived with one of two protocols:
 - 
