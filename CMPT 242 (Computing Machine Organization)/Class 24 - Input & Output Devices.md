@@ -19,7 +19,7 @@
 - Parallel
 	- One data channel for each bit plus control lines, ground, power
 	- Can be very fast but doesn't scale up for wide (64-bit) busses.
-		- Centronics connections were used 25/50 pins
+		- Centronics connectors were used, 25/50 pins
 	- Series
 		- Channels for send, receive, signalling (2-3), ground, power (6-9 connections)
 		- Control signals
@@ -27,3 +27,7 @@
 			- RTS (ready to send)
 			- CTS (clean to send)
 			- CLK (clock)
+		- The most modern systems my automatically assert DTR and don't bother with RTS but may use CTS on a different pin.
+## Interfaces
+- Earlier - S232 - Confusion over which was a "terminal" (req. custom cables)
+- 
