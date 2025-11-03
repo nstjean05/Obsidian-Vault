@@ -15,4 +15,15 @@
 		- DTE - Data Terminal Equipment
 		- DCE - Data Communications Equipment
 	- CPU --> Interface Controller <--> ... Connecting coded 2-Way Comms ... <--> Interface Controller --> Device
-	- 
+## Types
+- Parallel
+	- One data channel for each bit plus control lines, ground, power
+	- Can be very fast but doesn't scale up for wide (64-bit) busses.
+		- Centronics connections were used 25/50 pins
+	- Series
+		- Channels for send, receive, signalling (2-3), ground, power (6-9 connections)
+		- Control signals
+			- DTR (data-terminal ready)
+			- RTS (ready to send)
+			- CTS (clean to send)
+			- CLK (clock)
