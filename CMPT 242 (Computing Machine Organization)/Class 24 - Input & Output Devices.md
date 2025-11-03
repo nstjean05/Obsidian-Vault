@@ -37,5 +37,9 @@
 - Potential speeds go up with every iteration of cable
 #### Bi-Directional and Transfer
 - Very important for, say, networking, and cloud computing/storage
-- Is acheived with one of two protocols:
-- 
+- Is achieved with one of two protocols:
+	1. Full Duplex
+		- Complete set of lines in both directions
+		- Send/receive are simultaneous
+	2. Half Duplex
+		1. Share 1 set of lines
