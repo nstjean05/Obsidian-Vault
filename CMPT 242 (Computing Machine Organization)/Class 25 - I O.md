@@ -43,6 +43,10 @@
 		- Send/receive are simultaneous
 	2. Half Duplex
 		1. Share 1 set of lines
+- Left out last two
+	- Ethernet is a serial protocol
+	- 1M, 10M, 1G, 2.5G, 5G, 10G, ... (Over the years)
+
 
 
 25. _I/O_
