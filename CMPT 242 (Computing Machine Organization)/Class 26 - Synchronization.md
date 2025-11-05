@@ -23,5 +23,6 @@ end
 	- Receiver decodes data
 		- Check for errors
 	- Either sends DTR or resends data (bad)
-		- If there are too many errors, they must agree on a new han
+		- If there are too many errors, they must agree on a new handshake.
+		- Usually this just means slower data transmission.
 	- Eventually both agree, and transmission finishes.
