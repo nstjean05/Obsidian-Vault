@@ -43,3 +43,10 @@
 		- Send/receive are simultaneous
 	2. Half Duplex
 		1. Share 1 set of lines
+
+
+25. _I/O_
+
+a. Pick a current commercial system and report on its cache (L1, L2, L3, none, or…)
+
+**12.1, 12.2, 12.3, 12.4, 12.**

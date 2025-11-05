@@ -26,3 +26,7 @@
 	- DTE - Data Terminal Equipment
 	- DCE - Data Communication Equipment
 - CPU --> Interface Controller <--> ... Connecting coded 2-Way Comms ... <--> Interface Controller --> Device
+
+23.  _Finish Storage schemes, Start on Cache_
+
+**# 5.5, 5.11 (any C or Pascal (Pascal, Modula, Ada) family language)**

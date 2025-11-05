@@ -33,3 +33,8 @@
 		- | Row | Row | Row | ...
 	- Column major: 
 		- | Column | Column | ...
+
+
+ 2. _13. Finish Virtual memory and further on the MMU (storage schemes)_
+
+**_No handins, but read Chapter 8 again_**

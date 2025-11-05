@@ -4,35 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "e0ec36f07d48bb18",
+        "id": "2bce833d5fa7da30",
         "type": "tabs",
         "children": [
           {
-            "id": "e9769b15d8ba6f74",
+            "id": "da6e2737c2b78f3d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CMPT 242 (Computing Machine Organization)/Chapter 5 - Instruction Sets and Operands.md",
+                "file": "CMPT 242 (Computing Machine Organization)/Class 25 - I O.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Chapter 5 - Instruction Sets and Operands"
+              "title": "Class 25 - I O"
             }
           },
           {
-            "id": "e028bdafabb47096",
+            "id": "6dc5dd46e406acd3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CMPT 242 (Computing Machine Organization)/Class 24 - Input & Output Devices.md",
+                "file": "Class 24 - Cache and IO.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Class 24 - Input & Output Devices"
+              "title": "Class 24 - Cache and IO"
             }
           }
         ],
@@ -93,8 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "1c1db9715e53cd8f",
@@ -195,12 +194,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e028bdafabb47096",
+  "active": "6dc5dd46e406acd3",
   "lastOpenFiles": [
+    "CMPT 242 (Computing Machine Organization)/Class 25 - I O.md",
+    "Class 24 - Cache and IO.md",
     "CMPT 242 (Computing Machine Organization)/Class 23 - Cache.md",
-    "CMPT 242 (Computing Machine Organization)/Class 24 - Input & Output Devices.md",
-    "CMPT 242 (Computing Machine Organization)/Chapter 5 - Instruction Sets and Operands.md",
     "CMPT 242 (Computing Machine Organization)/Class 22 - Memory Management Contd..md",
+    "CMPT 242 (Computing Machine Organization)/Chapter 5 - Instruction Sets and Operands.md",
     "CMPT 242 (Computing Machine Organization)/Class 16 -.md",
     "CMPT 242 (Computing Machine Organization)/Class 17 -.md",
     "CMPT 242 (Computing Machine Organization)/Class 18 -.md",
@@ -223,7 +223,6 @@
     "CMPT 385 (Software Eng. I)/Unit 3 - Dev. Processes II.md",
     "CMPT 385 (Software Eng. I)/Unit 3 - Dev. Processes I.md",
     "Pasted image 20251024124914.png",
-    "CMPT 385 (Software Eng. I)/Unit 2 -Project Management.md",
     "Learning Assembly/Untitled.base",
     "Learning Assembly/Untitled.canvas",
     "Learning Assembly",
