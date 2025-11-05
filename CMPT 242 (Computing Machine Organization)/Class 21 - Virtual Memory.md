@@ -18,7 +18,7 @@
 	- Stored blocks
 	- Paged out virtual memory
 - As if it were contiguous actual memory
-![](Pasted%20image%2020251024124914.png)
+![](z.%20Images/Pasted%20image%2020251024124914.png)
 - The MMU maps the memory to a contiguous block
 #### Goals Achieved
 - Heterogenous real memory can be homogenized

@@ -8,26 +8,40 @@
         "type": "tabs",
         "children": [
           {
-            "id": "da6e2737c2b78f3d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CMPT 242 (Computing Machine Organization)/Class 25 - I O.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Class 25 - I O"
-            }
-          },
-          {
             "id": "6dc5dd46e406acd3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Class 24 - Cache and IO.md",
+                "file": "CMPT 242 (Computing Machine Organization)/Class 22 - Memory Management Contd..md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Class 22 - Memory Management Contd."
+            }
+          },
+          {
+            "id": "6ec71bad14ab2b18",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CMPT 242 (Computing Machine Organization)/Class 23 - Cache.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Class 23 - Cache"
+            }
+          },
+          {
+            "id": "c0891f08d836a4da",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CMPT 242 (Computing Machine Organization)/Class 24 - Cache and IO.md",
                 "mode": "source",
                 "source": false
               },
@@ -35,8 +49,7 @@
               "title": "Class 24 - Cache and IO"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -196,10 +209,10 @@
   },
   "active": "6dc5dd46e406acd3",
   "lastOpenFiles": [
-    "CMPT 242 (Computing Machine Organization)/Class 25 - I O.md",
-    "Class 24 - Cache and IO.md",
     "CMPT 242 (Computing Machine Organization)/Class 23 - Cache.md",
+    "CMPT 242 (Computing Machine Organization)/Class 24 - Cache and IO.md",
     "CMPT 242 (Computing Machine Organization)/Class 22 - Memory Management Contd..md",
+    "CMPT 242 (Computing Machine Organization)/Class 25 - I O.md",
     "CMPT 242 (Computing Machine Organization)/Chapter 5 - Instruction Sets and Operands.md",
     "CMPT 242 (Computing Machine Organization)/Class 16 -.md",
     "CMPT 242 (Computing Machine Organization)/Class 17 -.md",
@@ -222,7 +235,7 @@
     "CMPT 242 (Computing Machine Organization)/Class 8 - Mathematics & Instruction Sets.md",
     "CMPT 385 (Software Eng. I)/Unit 3 - Dev. Processes II.md",
     "CMPT 385 (Software Eng. I)/Unit 3 - Dev. Processes I.md",
-    "Pasted image 20251024124914.png",
+    "z. Images/Pasted image 20251024124914.png",
     "Learning Assembly/Untitled.base",
     "Learning Assembly/Untitled.canvas",
     "Learning Assembly",
