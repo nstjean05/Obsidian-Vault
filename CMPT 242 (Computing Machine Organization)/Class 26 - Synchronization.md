@@ -30,4 +30,6 @@ end
 	- Latency - time to send/receive 1 bit (≤9ms for some devices)
 	- Throughput - bits/unit time Mb/s or MB/s which is much slower than latency.
 ## Multiplexing
-- 
+- Can be used in parallel connections as a compromise between having one line/pin for each bit (fastest transmission) and reducing connector size but with less throughput.
+	- Ex. Send a 64-bit transmission in 4x16 bit ones.
+	- In hardware so it is transparent to software.
