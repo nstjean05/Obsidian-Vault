@@ -33,3 +33,10 @@ end
 - Can be used in parallel connections as a compromise between having one line/pin for each bit (fastest transmission) and reducing connector size but with less throughput.
 	- Ex. Send a 64-bit transmission in 4x16 bit ones.
 	- In hardware so it is transparent to software.
+- Another form of MUX:
+	- Use one interface to control multiple devices
+		- Besides data lines, there are control bits to select a device
+	- Prom a processor point of view,
+		- Each interface controller presents a programming interface to the CPU which sends it instructions to execute locally.
+		- It will likely use its own controller, perhaps an older CPU
+## Buses
