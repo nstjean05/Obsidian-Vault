@@ -26,3 +26,8 @@ end
 		- If there are too many errors, they must agree on a new handshake.
 		- Usually this just means slower data transmission.
 	- Eventually both agree, and transmission finishes.
+- Lots of overhead, so it is crucial to distinguish:
+	- Latency - time to send/receive 1 bit (≤9ms for some devices)
+	- Throughput - bits/unit time Mb/s or MB/s which is much slower than latency.
+## Multiplexing
+- 
