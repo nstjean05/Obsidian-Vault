@@ -23,4 +23,12 @@
 	- Select device
 	- Use control line to select a bus.
 	- Use control line to select a device
-	- Place 
+	- Place address on address lines
+	- If storing place data on data lines
+	- Specify store or fetch
+	- Wait on control lines for operation to complete
+	- If fetching, latch data from data lines
+	- If fetching, move data from data lines
+	- Use control lines to free device
+	- Use control lines to free bus
+- This is the outline of a bus cycle
