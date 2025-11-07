@@ -32,3 +32,16 @@
 	- Use control lines to free device
 	- Use control lines to free bus
 - This is the outline of a bus cycle
+- Memory busses are fairly simple
+	- Need only interface with memory controller/address decoder to determine when to do fetch/store
+- I/O busses are more complicated, because they need:
+	- Device select lines
+	- Device type lines
+	- Device select lines
+	- Data direction lines
+	- Control data select
+	- Reserved memory for control (may include a bit register)
+	- Local "intelligence" to execute commands (ROM)
+	- Local memory (buffer)
+- On boot the BIOS looks for devices containing bootable OS by checking device types - may be able to access manufacturer/date/model/serial number and version of any control ROM
+- **Note:** A serial interface has *much* less complexity of hardware, but may not be very fast.
