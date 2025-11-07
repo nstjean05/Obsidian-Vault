@@ -39,4 +39,3 @@ end
 	- Prom a processor point of view,
 		- Each interface controller presents a programming interface to the CPU which sends it instructions to execute locally.
 		- It will likely use its own controller, perhaps an older CPU
-## Buses
