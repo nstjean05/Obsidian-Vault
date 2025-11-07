@@ -15,4 +15,12 @@
 ## Required
 - Access protocol interface (available to CPU & devices & memory)
 - Control circuitry to select read/write, device/memory, etc.
-- 
+- Selection circuitry to select memory location/specific device.
+- (may be) slots for plugging in interface cards.
+	- These have assigned addresses, may have on board buffer memory, CPU, and control lines at fixed addresses
+- Modifying the fetch store cycles
+	- Select bus
+	- Select device
+	- Use control line to select a bus.
+	- Use control line to select a device
+	- Place 
