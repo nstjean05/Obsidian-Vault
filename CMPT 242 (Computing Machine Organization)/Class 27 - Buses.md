@@ -11,4 +11,8 @@
 	- Proprietary / Internal
 	- Standard / External / both
 - Most buses are shared (Multi-purpose, select with control line)
-- Memory device
+- Memory devices are usually plugged directly into a bus
+## Required
+- Access protocol interface (available to CPU & devices & memory)
+- Control circuitry to select read/write, device/memory, etc.
+- 

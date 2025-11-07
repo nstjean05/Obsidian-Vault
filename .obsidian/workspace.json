@@ -106,7 +106,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "1c1db9715e53cd8f",
@@ -209,9 +210,9 @@
   },
   "active": "3721d9dd6d06f88a",
   "lastOpenFiles": [
-    "CMPT 242 (Computing Machine Organization)/Class 26 - Synchronization.md",
-    "CMPT 242 (Computing Machine Organization)/Class 27 - Buses.md",
     "CMPT 242 (Computing Machine Organization)/Chapter 6 - Operand Addressing And Operand Types.md",
+    "CMPT 242 (Computing Machine Organization)/Class 27 - Buses.md",
+    "CMPT 242 (Computing Machine Organization)/Class 26 - Synchronization.md",
     "CMPT 242 (Computing Machine Organization)/Chapter 5 - Instruction Sets and Operands.md",
     "CMPT 242 (Computing Machine Organization)/Class 6 - ASCII, Binary, and HEX.md",
     "CMPT 242 (Computing Machine Organization)/Chapter 4 - A High-Level Overview of Processors.md",
