@@ -77,9 +77,9 @@ pop X
 | Add memory             | `R1 M`   | `R1 <-- R1 + memory[M]` |
 #### Explicit Encoding
 - Associates type information with each operand, so uses a much small set of opcodes than implicit encoding.
-- An opcode (*and*) will have a multiple operands 
+- An opcode (*and*) will have a multiple operands (operand 1, operand 2), each of which has its own type information and value (register, 1), (signed integer, 2)
 ## 6. 10 - Operands That Combine Multiple Values
-
+- Unlike in the 
 
 
 
