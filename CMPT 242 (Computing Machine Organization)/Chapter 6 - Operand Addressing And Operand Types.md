@@ -15,7 +15,14 @@
 	- The operands are kept implicitly on a stack in memory.
 		- An internal register contains the address to the top of the stack, and the stack changes when an instruction is executed.
 	- This stack uses standard push/pop operations.
-	- It is disadvantaged, as it takes much long to get an operand from memory.
+	- It is disadvantaged, as it takes much long to get an operand from memory
+- The instruction to add X + 7 would execute as such:
+```
+push X
+push 7
+add
+pop X
+```
 ## 6.4 - One Operand Per Instruction
 - If there is a single operand per instruction, is a **Single Address** architecture.
 - Again uses implicit operands per each instruction.
@@ -24,27 +31,27 @@
 	- When the operation completes:
 		- Processor returns result to the accumulator
 	- Each instruction operates on the value in the accumulator.
-
-
-
-
+		- Instruction to `add X` does `accumulator <-- accumulator + X`
 ## 6. 5 - Two Operands Per Instruction
-
-
-
-
-
-
+- The *Two-Address Architecture* allows two operands per instruction.
+- We can have operations like `add X Y`, which means `Y <-- Y + X`
+- It can also move data very effectively, since it can specify a source and a destination.
+	- `move Q R`
 ## 6. 6 - Three Operands Per Instruction
-
-
-
-
-
-
+- This *Three-Address Architecture* enhances the data movement from two-address.
+	- Now, we can add two values, and specify where they should be put.
+	- `add X Y Z` would mean `Z <-- X + Y`
 ## 6. 7 - Operand Sources And Immediate Values
-
-
+- There are many ways to use and obtain the operand data value.
+	- **Operand used in operation**:
+		- Signed/unsigned constant in instruction
+		- Contents of a general purpose register
+		- Contents of a memory location
+	- **Operand used as result destination**:
+		- A general purpose register
+		- A contiguous pair of general purpose registers
+		- A memory location
+- It is often useful for for architectures 
 
 
 
