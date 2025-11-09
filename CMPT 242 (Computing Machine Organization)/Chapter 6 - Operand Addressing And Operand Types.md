@@ -51,19 +51,27 @@ pop X
 		- A general purpose register
 		- A contiguous pair of general purpose registers
 		- A memory location
-- It is often useful for for architectures 
-
-
-
-
+- **Immediate Values** (operand constants) are useful in many architectures
+	- For instance, small constants that can be stored as an immediate value can be referenced frequently (incrementing a loop)
 ## 6. 8 - The Von Neumann Bottleneck
-
-
-
-
-
-
+- Von Neumann Architecture: Programs stored in data and memory
+- Memory access can become a bottleneck, as instructions are stored there.
+	- Therefore there is one memory reference per instruction (minimum)
+- If one or more operand is in memory, then there is a lot of time spent fetching.
+- Efficiencies must be made by accessing operands in registers instead.
 ## 6. 9 - Implicit and Explicit Operand Encoding
+#### Implicit Encoding
+- The opcode specifies the types of operands
+	- A processor using implicit encoding contains multiple opcodes for each operation.
+- Below are addition instructions for a 2-address processor w/ implicit encoding.
+	- Those that each 
+
+| Opcode                 | Operands | Meaning                 |
+| ---------------------- | -------- | ----------------------- |
+| Add Register           | `R1 R2`  | `R1 <-- R1 + `          |
+| Add immediate signed   | `R1 I`   | `R1 <-- R1 + I`         |
+| Add immediate unsigned | `R1 UI`  | `R1 <-- R1 + UI`        |
+| Add memory             | `R1 M`   | `R1 <-- R1 + memory[M]` |
 
 
 
