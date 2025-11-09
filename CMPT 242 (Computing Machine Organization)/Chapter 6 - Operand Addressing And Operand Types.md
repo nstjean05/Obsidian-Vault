@@ -64,20 +64,20 @@ pop X
 - The opcode specifies the types of operands
 	- A processor using implicit encoding contains multiple opcodes for each operation.
 - Below are addition instructions for a 2-address processor w/ implicit encoding.
-	- Those that each 
+	- Those that each combination of operations needs its own opcode.
+	- Ex. *add immediate signed* has two operands:
+		- First operand = register number
+		- Second operand = Signed integer (immediate value)
 
 | Opcode                 | Operands | Meaning                 |
 | ---------------------- | -------- | ----------------------- |
-| Add Register           | `R1 R2`  | `R1 <-- R1 + `          |
+| Add Register           | `R1 R2`  | `R1 <-- R1 + R2`        |
 | Add immediate signed   | `R1 I`   | `R1 <-- R1 + I`         |
 | Add immediate unsigned | `R1 UI`  | `R1 <-- R1 + UI`        |
 | Add memory             | `R1 M`   | `R1 <-- R1 + memory[M]` |
-
-
-
-
-
-
+#### Explicit Encoding
+- Associates type information with each operand, so uses a much small set of opcodes than implicit encoding.
+- An opcode (*and*) will have a multiple operands 
 ## 6. 10 - Operands That Combine Multiple Values
 
 
