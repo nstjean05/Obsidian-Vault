@@ -146,8 +146,6 @@ pop X
 5. Indirect Memory Reference
 	- Even more flexible than indirect register addressing for even more complex structures (linked lists, etc.), but also even slower and more memory intensive.
 	- Ex. `Add R1, [[1000]]` (given that 1000 is a memory address, which points to another)
-
-
-
-
 ## 6. 14 - Summary
+- Architects choose the number of operands and their types, for each instruction.
+- Immediate operands specify a constant, and other addressing modes allow for a wide variety of possibilities and ways of accessing some kind of memory.
