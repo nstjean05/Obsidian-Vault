@@ -115,8 +115,13 @@ pop X
 	- Power consumption depends on transistor count, and more complex operands need more power.
 	- More complexity leads to more power drawn.
 ## 6. 12 - Direct and Indirect Operands in Memory
-
-
+- The instruction set must have at least one instruction with at least one operand which the processor interprets as a memory address.
+- Operand specifies a memory location --> Direct access memory
+- Extended memory access --> Indirect access memory
+	1. Obtain A, the current value from register 6
+	2. Interpret A as a memory address, and fetch the operand from memory
+- There is another form of operand indirection called *double indirection*.
+	1. Obtain M, the 
 
 
 
