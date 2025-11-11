@@ -121,13 +121,13 @@ pop X
 	1. Obtain A, the current value from register 6
 	2. Interpret A as a memory address, and fetch the operand from memory
 - There is another form of operand indirection called *double indirection*.
-	1. Obtain M, the 
-
-
-
-
+	1. Obtain M, the value in the operand itself
+	2. Interpret M as a memory address, and fetch value A from memory location M
+	3. Interpret A as another memory address, and fetch the operand from memory at location A.
+- Double indirection allows the processor to assume M contains a pointer to the value.
 ## 6. 13 - Illustration of Operand Addressing Modes
-
+- **Instruction Registers** hold an instruction while it is being decoded.
+- Inside the CPU, an instruction is temporarily stored in an instruction register while its
 
 
 
