@@ -96,12 +96,24 @@ pop X
 	- Less steps to consider, easier to directly accomplish goals.
 - **Fewer Instructions**
 	- If one operand can do more things, then the number of instructions needed is less.
-	- A 3-add
-
-
-
-
-
+	- A 3-address processor requires fewer instructions than a 2-address processor.
+	- Lower numbers of instructions also lead to larger instruction size.
+- **Small Instruction Size**
+	- Limited operands/set of operand types/maximum operand size keeps instructions smaller.
+	- Allows processor to identify the operand type in fewer bytes.
+	- Small, low-powered processors can still be used effectively (even if just for load and store operations)
+	- Smaller instruction size also unfortunately lowers the expressive power, increasing the number of instructions.
+- **Larger Range of Immediate Values**
+	- A string of *k* bits can hold 2$^k$ values
+	- Therefore, the number of bits allocated an operand determines how many values can be immediately specified.
+	- More values = larger instructions.
+- **Faster Operand Fetch and Decode**
+	- Lower number of operands/operand types allows hardware to operate faster.
+	- One benefit is that each operand could accessed as a register address.
+		- Ex. `add R1 R2`
+- **Decreased Hardware Size and Complexity**
+	- Power consumption depends on transistor count, and more complex operands need more power.
+	- More complexity leads to more power drawn.
 ## 6. 12 - Direct and Indirect Operands in Memory
 
 
