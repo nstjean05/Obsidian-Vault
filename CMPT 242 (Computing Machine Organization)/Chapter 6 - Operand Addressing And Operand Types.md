@@ -126,9 +126,26 @@ pop X
 	3. Interpret A as another memory address, and fetch the operand from memory at location A.
 - Double indirection allows the processor to assume M contains a pointer to the value.
 ## 6. 13 - Illustration of Operand Addressing Modes
-- **Instruction Registers** hold an instruction while it is being decoded.
-- Inside the CPU, an instruction is temporarily stored in an instruction register while its
-
+- Inside the CPU, an instruction is temporarily stored in an instruction register while its meaning is decoded.
+	- If this instruction contains an operand (such as an immediate value), then the value is already in the instruction register, and is already available.
+- There are five potential addressing modes:
+1. Immediate Value
+	- This is the fastest, and the cheapest
+	- Limited to only the simple values in the equation
+	- Ex. `add R1, #5` (#5 is a constant value in the register)
+2. Direct Register Reference
+	- No memory access needed, but slightly slower.
+	- Check another register for the value
+	- Ex. `add R1, R2`
+3. Direct Memory Reference
+	- CPU fetches from RAM allowing for more data, but is slower than a register
+	- Ex. `add R1, [1000]` (given that 1000 is a memory address)
+4. Indirect Through a Register
+	-  Can change what address is being pointed to very dynamically, but still must access RAM, and has added complexity.
+	- Ex. `Add R1, [R2]` (given that R2 stores a memory address)
+5. Indirect Memory Reference
+	- Even more flexible than indirect register addressing for even more complex structures (linked lists, etc.), but also even slower and more memory intensive.
+	- Ex. `Add R1, [[1000]]` (given that 1000 is a memory address, which points to another)
 
 
 
