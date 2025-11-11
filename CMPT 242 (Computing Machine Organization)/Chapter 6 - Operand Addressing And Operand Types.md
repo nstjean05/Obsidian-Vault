@@ -79,14 +79,24 @@ pop X
 - Associates type information with each operand, so uses a much small set of opcodes than implicit encoding.
 - An opcode (*and*) will have a multiple operands (operand 1, operand 2), each of which has its own type information and value (register, 1), (signed integer, 2)
 ## 6. 10 - Operands That Combine Multiple Values
-- Unlike in the 
-
-
-
-
-
+- Unlike described in the prior section, some processors allow operands with more than one value.
+	- It can be computed by extracting/combining values from multiple sources.
+- **Register-Offset Mechanism:** Each operand consists of three subfields:
+	- *Register-Offset*
+	- *Register Number*
+	- *Offset Value*
+	- When an operand value is created, the contents of the offset field and the specified register are aded, and the result is used as the operand.
+	- For example, below is an *add* instruction:
+![](Pasted%20image%2020251111110129.png)
+- It can be useful to allow an operand to specify a register plus an offset when dealing with a data aggregate (like a *struct* in C), since a pointer to it can be left in a register, and offsets used to reference individual items.
 ## 6. 11 - Tradeoffs in the Choice of Operands
-
+- None of the described designs is definitively "the best", as there are many tradeoffs.
+- **Ease of Programming**
+	- Complex operands allow for easier programming.
+	- Less steps to consider, easier to directly accomplish goals.
+- **Fewer Instructions**
+	- If one operand can do more things, then the number of instructions needed is less.
+	- A 3-add
 
 
 
