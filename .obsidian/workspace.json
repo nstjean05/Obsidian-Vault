@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CMPT 242 (Computing Machine Organization)/Chapter 7 - Assembly Languages and Programming Paradigm.md",
+                "file": "CMPT 242 (Computing Machine Organization)/Chapter 8 - Main Memory and Memory Addressing.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Chapter 7 - Assembly Languages and Programming Paradigm"
+              "title": "Chapter 8 - Main Memory and Memory Addressing"
             }
           }
         ]
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "1c1db9715e53cd8f",
@@ -182,8 +181,8 @@
   },
   "active": "d7cff25bda99884c",
   "lastOpenFiles": [
-    "CMPT 242 (Computing Machine Organization)/Chapter 6 - Operand Addressing And Operand Types.md",
     "CMPT 242 (Computing Machine Organization)/Chapter 7 - Assembly Languages and Programming Paradigm.md",
+    "CMPT 242 (Computing Machine Organization)/Chapter 6 - Operand Addressing And Operand Types.md",
     "CMPT 242 (Computing Machine Organization)/Chapter 8 - Main Memory and Memory Addressing.md",
     "CMPT 242 (Computing Machine Organization)/Chapter 12 - A Programmerʼs View OfDevices, IO, And Buffering.md",
     "CMPT 242 (Computing Machine Organization)/Chapter 22 - Building Blocks (Transistors, Gates, And Clocks).md",
