@@ -1,5 +1,5 @@
 ### Memory Organization
-- May be arranged like memory-in banks, each with its own controller to acheive some parallelism
+- May be arranged like memory-in banks, each with its own controller to achieve some parallelism
 - It may (usually) be distributed across chips with groups of bytes going in parallel to different banks.
 - These schemes are transparent.
 	- Programmers and even the OS don't need to know this.
@@ -14,7 +14,7 @@
 - These are abstractions of physical memory to hid implementation details and to create a higher level interface to lower-level details.
 	- Ex. A virtual byte addressing scheme to isolate logical access from physical memory.
 	- Installed memory usually isn't at contiguous addresses.
-- The MMU maps the different...
+- The MMU (memory management unit) maps the different...
 	- Stored blocks
 	- Paged out virtual memory
 - As if it were contiguous actual memory
