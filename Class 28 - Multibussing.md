@@ -8,4 +8,5 @@
 		- We need even more signal lines
 #### Switching Fabric
 - Busses may need a switching fabric for interconnections
-	- Simplest is allow only 
+	- Simplest is allow only 2 busses to connect at any one time
+	- More complex: allow any two non-overlapping pairs to connect.
