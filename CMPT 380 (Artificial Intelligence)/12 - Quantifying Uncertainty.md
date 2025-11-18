@@ -9,5 +9,11 @@
 	- Ignorance leads to an incomplete view of the domain.
 	- Practical ignorance: even with complete rules to the goal, sometimes it's not possible to do all of them.
 - Realistically, diagnostics may not follow the most absolutely logical path.
-#### Epistemological Commitment
-- **Ontological Commitment:** 
+## Epistemological Commitment
+- **Ontological Commitment:** What a representational language assumes about reality
+	- Logic and probability theory should agree on whether a fact is true or not.
+- **Epistemological Commitment:** Possible state of knowledge allow, with respect to a fact.
+	- In logic, sentences are true, false, or unknown.
+	- In probability theory, there's a numerical degree of belief between 0 (false) and 1 (true).
+## The Qualification Problem
+-  
