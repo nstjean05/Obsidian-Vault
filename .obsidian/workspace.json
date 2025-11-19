@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CMPT 380 (Artificial Intelligence)/12 - Quantifying Uncertainty.md",
+                "file": "CMPT 385 (Software Eng. I)/Unit 3 - Dev. Processes II.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "12 - Quantifying Uncertainty"
+              "title": "Unit 3 - Dev. Processes II"
             }
           }
         ],
@@ -68,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "scrum",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -89,12 +89,12 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "1c1db9715e53cd8f",
@@ -197,8 +197,8 @@
   },
   "active": "c0406175fb459792",
   "lastOpenFiles": [
-    "Untitled.md",
     "CMPT 380 (Artificial Intelligence)/12 - Quantifying Uncertainty.md",
+    "Untitled.md",
     "Class 28 - Multibussing.md",
     "CMPT 242 (Computing Machine Organization)/Class 27 - Buses.md",
     "CMPT 242 (Computing Machine Organization)/Chapter 8 - Main Memory and Memory Addressing.md",
