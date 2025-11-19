@@ -16,5 +16,11 @@
 	- In logic, sentences are true, false, or unknown.
 	- In probability theory, there's a numerical degree of belief between 0 (false) and 1 (true).
 ## The Qualification Problem
--  In a logical representation,
-	- A plan's success cannot be inferred, since all of the possible interferences
+-  **Qualification Problem:** It is hard to list every action required for a plan to succeed.
+	- In logic, if not every single parameter is listed, the right outcome cannot be guaranteed.
+- This is problematic, as logic is all or nothing, true or false.
+- In the real world, there are many unknowns and uncertainties.
+- Therefore, we use probability to guess at what we don't know.
+	- **Numerical Uncertainty:** A summarization of uncertainty.
+- **Knowledge State:** Probability, therefore, reflects the agent's state of knowledge rather than its environment's actual state.
+## Rational Decisions
