@@ -31,3 +31,12 @@
 		- FPM-DRAM
 		- QDR-SRAM
 		- etc.
+## 8.5 - Memory Addresses for an Array of Bytes
+- Instructions cannot reference individual bits in memory.
+	- Memory appears to be an array of bytes.
+	- The array has an address starting at 0.
+- Multi-byte objects (like an int) the operand specifies the address of the lowest byte.
+	- Ex. A four-byte integer will occupy contiguous addresses
+		- A, A+1, A+2, A+3
+	- Instructions referencing that address will just use address A.
+- Unsigned values *k* bits long can represent values from *0* to *2$^k$-1*.

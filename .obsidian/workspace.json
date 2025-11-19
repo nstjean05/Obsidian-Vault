@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CMPT 242 (Computing Machine Organization)/Class 31 - Device Drivers.md",
+                "file": "CMPT 242 (Computing Machine Organization)/Chapter 8 - Main Memory and Memory Addressing.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Class 31 - Device Drivers"
+              "title": "Chapter 8 - Main Memory and Memory Addressing"
             }
           }
         ]
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "1c1db9715e53cd8f",
@@ -181,6 +182,7 @@
   },
   "active": "0028d1197d79263d",
   "lastOpenFiles": [
+    "CMPT 242 (Computing Machine Organization)/Class 8 - Mathematics & Instruction Sets.md",
     "CMPT 242 (Computing Machine Organization)/Class 31 - Device Drivers.md",
     "CMPT 242 (Computing Machine Organization)/Class 30 - MIA.md",
     "CMPT 242 (Computing Machine Organization)/Class 27 - Buses.md",
@@ -207,7 +209,6 @@
     "CMPT 242 (Computing Machine Organization)/Class 26 - Synchronization.md",
     "CMPT 242 (Computing Machine Organization)/Chapter 5 - Instruction Sets and Operands.md",
     "CMPT 242 (Computing Machine Organization)/Chapter 4 - A High-Level Overview of Processors.md",
-    "CMPT 242 (Computing Machine Organization)/Class 24 - Cache and IO.md",
     "z. Images/Pasted image 20251024124914.png",
     "Learning Assembly/Untitled.base",
     "Learning Assembly/Untitled.canvas",
