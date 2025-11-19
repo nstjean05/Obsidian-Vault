@@ -22,3 +22,6 @@
 	- Transfer 1 character/byte at a time
 		- e.g. keyboard - one interrupt/character or byte
 		- Some have line buffers
+- **Block Oriented**
+	- Transfer a block of B characters/bytes at a time.
+		- Disk sector, network packet, data and error detection/prevention
