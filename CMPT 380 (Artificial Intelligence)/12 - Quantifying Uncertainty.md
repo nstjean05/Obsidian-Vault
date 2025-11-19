@@ -24,3 +24,7 @@
 	- **Numerical Uncertainty:** A summarization of uncertainty.
 - **Knowledge State:** Probability, therefore, reflects the agent's state of knowledge rather than its environment's actual state.
 ## Rational Decisions
+- Making choices along plans or actions, even when the probabilities of their success differ.
+	- This requires knowledge of preferences amongst outcomes.
+- **Utility Theory:** Each state has a certain degree of utility to the agent, and the agent will prefer high-utility states.
+- Agents can combine preferences and probabilities to make a generally rational decision.
