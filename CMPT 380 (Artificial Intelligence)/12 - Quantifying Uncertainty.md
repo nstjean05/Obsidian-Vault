@@ -16,4 +16,5 @@
 	- In logic, sentences are true, false, or unknown.
 	- In probability theory, there's a numerical degree of belief between 0 (false) and 1 (true).
 ## The Qualification Problem
--  
+-  In a logical representation,
+	- A plan's success cannot be inferred, since all of the possible interferences
