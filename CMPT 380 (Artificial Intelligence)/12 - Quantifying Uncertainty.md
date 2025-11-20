@@ -28,3 +28,8 @@
 	- This requires knowledge of preferences amongst outcomes.
 - **Utility Theory:** Each state has a certain degree of utility to the agent, and the agent will prefer high-utility states.
 - Agents can combine preferences and probabilities to make a generally rational decision.
+- **Maximum Expected Utility (MEU) Principle**
+	- The *expected outcome* is the average of all possibilities, weighted by their probabilities.
+	- *Choice of action* is the one with highest expected utility.
+## Probability Notation & Basic
+- 
