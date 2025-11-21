@@ -1,0 +1,3 @@
+- The DD interaction is modulated by:
+	- A request queue (in the CSR space_Where the API deposits requests
+		- Control Status Register
