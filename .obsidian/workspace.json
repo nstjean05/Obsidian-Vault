@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "18185534de72a693",
+        "id": "81a4aeeaa1e72654",
         "type": "tabs",
         "children": [
           {
-            "id": "2c422229c64c6185",
+            "id": "4e060ccfce82674d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "CMPT 385 (Software Eng. I)/Unit 6 - Architectural Design.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Unit 6 - Architectural Design"
             }
           }
         ]
@@ -74,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "1c1db9715e53cd8f",
@@ -176,8 +179,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2c422229c64c6185",
+  "active": "4e060ccfce82674d",
   "lastOpenFiles": [
+    "CMPT 385 (Software Eng. I)/Unit 3 - Dev. Processes I.md",
+    "CMPT 385 (Software Eng. I)/Unit 3 - Dev. Processes II.md",
+    "CMPT 385 (Software Eng. I)/Unit 6 - Architectural Design.md",
     "CMPT 380 (Artificial Intelligence)/12 - Quantifying Uncertainty.md",
     "CMPT 242 (Computing Machine Organization)/Chapter 8 - Main Memory and Memory Addressing.md",
     "CMPT 242 (Computing Machine Organization)/Class 8 - Mathematics & Instruction Sets.md",
@@ -187,7 +193,6 @@
     "CMPT 242 (Computing Machine Organization)/Class 29 - Midterm.md",
     "Untitled.md",
     "CMPT 242 (Computing Machine Organization)/Class 28 - Multibussing.md",
-    "CMPT 385 (Software Eng. I)/Unit 3 - Dev. Processes II.md",
     "CMPT 242 (Computing Machine Organization)/Chapter 7 - Assembly Languages and Programming Paradigm.md",
     "CMPT 242 (Computing Machine Organization)/Class 23 - Cache.md",
     "CMPT 242 (Computing Machine Organization)/Class 22 - Memory Management Contd..md",
@@ -203,8 +208,6 @@
     "Pasted image 20251111110129.png",
     "CMPT 242 (Computing Machine Organization)/Class 6 - ASCII, Binary, and HEX.md",
     "CMPT 242 (Computing Machine Organization)/Class 26 - Synchronization.md",
-    "CMPT 242 (Computing Machine Organization)/Chapter 5 - Instruction Sets and Operands.md",
-    "CMPT 242 (Computing Machine Organization)/Chapter 4 - A High-Level Overview of Processors.md",
     "z. Images/Pasted image 20251024124914.png",
     "Learning Assembly/Untitled.base",
     "Learning Assembly/Untitled.canvas",
