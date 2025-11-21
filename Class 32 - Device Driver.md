@@ -1,3 +1,15 @@
 - The DD interaction is modulated by:
-	- A request queue (in the CSR space_Where the API deposits requests
+	- A request queue (in the CSR space) where the API deposits requests and the back end fetches them.
 		- Control Status Register
+		- Application Programming Interface
+	- One or more data buffers for temporary storage
+		- Waiting on the appropriate commands.
+- **Note**: Because the back end generates interrupts on task completion, it enables itself to be re-invoked to service the next request
+	- The instruction flow could be modified
+	- If request queue empty, clean interrupt status return
+- **Note:** A device driver CSR has an interrupt bit that can be set by calling the API to force an interrupt.
+	- If it is idle, if already working nothing happens.
+	- Effect of doing this: The APU need not ask if the device is busy - just set the bit and drop in a request.
+- Queued Input
+	- Can be handled simply with input events and dot buffered by the backend - waiting for the application to pull data via requests.
+- 
