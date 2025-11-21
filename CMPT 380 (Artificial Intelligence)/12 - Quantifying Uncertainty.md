@@ -32,4 +32,11 @@
 	- The *expected outcome* is the average of all possibilities, weighted by their probabilities.
 	- *Choice of action* is the one with highest expected utility.
 ## Probability Notation & Basic
+- Probabilities describe possible worlds and their likelihoods.
+- Possible worlds are mutually exclusive and exhaustive.
+- Assertions and Queries are used in probabilistic reasoning.
+	- Event --> A single possible world
+	- For AI, sets of events are described using formal language.
+	- The likelihood of the proposition is the sum over these possible worlds.
+## Propositions
 - 
