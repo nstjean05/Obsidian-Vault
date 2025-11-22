@@ -29,3 +29,4 @@
 	- Must be able to handle a read request on queued output data
 - **Note:** Polling is synchronous (code looks for events)
 	- Interrupts are asynchronous (events are just signals to request attention)
+- Asynchronous events must have an exclusion mechanism
