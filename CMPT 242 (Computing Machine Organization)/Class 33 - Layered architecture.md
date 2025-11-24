@@ -25,4 +25,8 @@
 #### Version 3
 - May be...
 	- Explicit - under program control
-	- Implicit - automatic and vi
+	- Implicit - automatic and invisible
+#### Parallel Architecture Strategies
+- **Note:** The term "parallel architecture" is used for scalable parallelism
+	- i.e. A system to which we can add more CPU
+- 
