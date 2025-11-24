@@ -40,7 +40,22 @@
 		- May move whole screenfuls of data (or at least windows) at once - copying multiple bytes simultaneously.
 - **MIMD** - Multiple Instruction Multiple Data
 	- Processors perform multiple data operations simultaneously
-		- **Symmetric Multiprocessing** (SMP) Multiprocessing
+		- **Symmetric Multiprocessing** (SMP)
+			- True Multiprocessing
 			- Multiple identical processors
 			- In theory these are peers and independent.
-		- **Asymmetric Multiprocessing**
+		- **Asymmetric Multiprocessing** (AMP)
+			- May be different
+			- Two methods;
+			- One runs a monitor or master processor, the rest are slaves reporting back to it.
+			- **OR** - One starts up the others and passes control to them but each listens so the system can regain control.
+- Specialized processors for a multiprocessing environment
+	- Matl (not common today)
+	- Graphics (usually the case - GPU)
+	- I/O
+	- Peripheral processor (I/O or other things)
+- Performance Issues
+	- Overhead needed for
+		- Communication
+		- Coordination (master/slave, cooperative)
+		- Contention Resolution (scheduling resource use)
