@@ -29,4 +29,18 @@
 #### Parallel Architecture Strategies
 - **Note:** The term "parallel architecture" is used for scalable parallelism
 	- i.e. A system to which we can add more CPU
-- 
+#### Flynn Classification for Macroscopic Parallelism
+- **SISD** - Single instruction single data store
+	- No Parallelism
+- **SIMD** - Single instruction multiple data
+	1. Vector Machines
+		- Execute the same instruction on vectors - say multiple vector multiplications at once.
+		- Matrix multiplication is a good example.
+	2. Graphics Processors
+		- May move whole screenfuls of data (or at least windows) at once - copying multiple bytes simultaneously.
+- **MIMD** - Multiple Instruction Multiple Data
+	- Processors perform multiple data operations simultaneously
+		- **Symmetric Multiprocessing** (SMP) Multiprocessing
+			- Multiple identical processors
+			- In theory these are peers and independent.
+		- **Asymmetric Multiprocessing**
