@@ -15,4 +15,4 @@
 	- Looser coupling than multiple-CPU is possible when:
 		- Standalone computers work on a problem with high computation and low communication needs.
 		- This is called cluster computing (used by most AI systems)
-		- For example, 
+		- For example, a high demand web server could load balanced over a cluster of machines to increase throughput
