@@ -16,3 +16,8 @@
 		- Standalone computers work on a problem with high computation and low communication needs.
 		- This is called cluster computing (used by most AI systems)
 		- For example, a high demand web server could load balanced over a cluster of machines to increase throughput
+- **Pipelining**
+	- Refers to any architecture in which information or code flow through stations or stages each of which interacts with the flow
+	- Can be implemented in
+	- A - Hardware, Some chips have extensive instruction pipelines in the CPU
+	- B - Software, UNIX uses this all the time
