@@ -7,4 +7,12 @@
 		- Metric: Speedup $T_1/T_n$ time for one or many processors
 - **Assorted Issues**
 	- Systems where multiple processors access the same data are inherently slower than when each has its own data.
-		- Suspend requestors 
+		- Suspend requestors on a task queue
+	- Reassembling the parallel processed data must respect the data order, NOT the time of completion
+	- Symmetric systems have the advantage that only instruction set need be learned, but you may thereby lose performance
+	- To check results, you may need a redundant system.
+		- Different programs on different hardware to check results
+	- Looser coupling than multiple-CPU is possible when:
+		- Standalone computers work on a problem with high computation and low communication needs.
+		- This is called cluster computing (used by most AI systems)
+		- For example, 
