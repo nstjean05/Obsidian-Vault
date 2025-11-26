@@ -1,0 +1,10 @@
+- **Note:** Because of the overhead issues...
+	- Adding more processors is ineffective beyond a certain point
+		- Things may get worse as overhead increases more than the time saved by adding more processors.
+	- Multiprocessing machines do give the best performance on complex operations/computations.
+	- BUT, I/O is always the worst bottleneck.
+		- Non I/O problems can be sped up with MP
+		- Metric: Speedup $T_1/T_n$ time for one or many processors
+- **Assorted Issues**
+	- Systems where multiple processors access the same data are inherently slower than when each has its own data.
+		- Suspend requestors 
