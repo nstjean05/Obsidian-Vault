@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "eaeaa9caca0db852",
+        "id": "89e1eb4f66e28c61",
         "type": "tabs",
         "children": [
           {
-            "id": "6898f1e5fecbac78",
+            "id": "21b0b1fd9c03bb88",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -177,7 +177,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6898f1e5fecbac78",
+  "active": "21b0b1fd9c03bb88",
   "lastOpenFiles": [
     "CMPT 242 (Computing Machine Organization)/Class 28 - Multibussing.md",
     "CMPT 242 (Computing Machine Organization)/Class 33 - Layered architecture.md",
