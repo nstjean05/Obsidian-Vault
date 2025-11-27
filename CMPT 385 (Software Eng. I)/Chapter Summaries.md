@@ -68,7 +68,12 @@
 
 # Ch. 3 – Agility and Process
 - Agile is optimized for modern, rapidly changing market conditions
-- 
+- There are four key issues:
+	1. Self-organizing teams with control over their work.
+	2. Communication and collaboration between team members, practitioners, and customers.
+	3. Recognition that change represents an opportunity.
+	4. Rapid delivery of software the satisfies the customer.
+- Agile can greatly lower the cost of change as project 
 
 
 
