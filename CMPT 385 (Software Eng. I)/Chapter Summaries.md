@@ -20,7 +20,16 @@
 
 
 # Ch. 2 – Process Models
-- 
+- Process Models --> Framework of activities actions, and work tasks.
+	- Various models have different flows, organized sequentially or chronologically.
+	- These patterns are useful for solving common software process challenges.
+### Prescriptive Models
+- Bring order and structure to software development.
+- Vary, but have the same framework of generic activities.
+	- Communication
+	- Planning
+	- Modelling
+	- Construction
 
 
 
