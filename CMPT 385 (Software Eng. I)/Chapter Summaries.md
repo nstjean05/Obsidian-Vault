@@ -46,6 +46,8 @@
 	- Start in the middle, and spiral out.
 	- Begin with communication > planning > modelling > construction > deployment/feedback > communication
 	- Useful for designing large-scale systems
+#### Unified Process Model
+- Similar to the spiral model, but conducted in increments after each deployment.
 
 
 
@@ -65,7 +67,8 @@
 
 
 # Ch. 3 – Agility and Process
-
+- Agile is optimized for modern, rapidly changing market conditions
+- 
 
 
 
