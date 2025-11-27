@@ -11,10 +11,14 @@
             "id": "553b864a624fb804",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "CMPT 385 (Software Eng. I)/Ch. 1 – Software and Software Engineering.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Ch. 1 – Software and Software Engineering"
             }
           }
         ]
@@ -74,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "1c1db9715e53cd8f",
@@ -177,6 +182,18 @@
   },
   "active": "553b864a624fb804",
   "lastOpenFiles": [
+    "CMPT 385 (Software Eng. I)/Ch. 14 - Pattern-based Design.md",
+    "CMPT 385 (Software Eng. I)/Ch. 1 – Software and Software Engineering.md",
+    "CMPT 385 (Software Eng. I)/Ch. 12 - User Experience Design.md",
+    "CMPT 385 (Software Eng. I)/Ch. 11 – Component-Level Design.md",
+    "CMPT 385 (Software Eng. I)/Ch. 10 – Architectural design.md",
+    "CMPT 385 (Software Eng. I)/Ch. 9 - Design Concepts.md",
+    "CMPT 385 (Software Eng. I)/Ch. 8 - Requirements Modeling—A Recommended Approach.md",
+    "CMPT 385 (Software Eng. I)/Ch. 7 - Understanding Requirements.md",
+    "CMPT 385 (Software Eng. I)/5 - Human Aspects of SW Engr.md",
+    "CMPT 385 (Software Eng. I)/Ch. 4 – Recommended Process Model.md",
+    "CMPT 385 (Software Eng. I)/Ch. 3 – Agility and Process.md",
+    "CMPT 385 (Software Eng. I)/Ch. 2 – Process Models.md",
     "CMPT 242 (Computing Machine Organization)/Class 34.md",
     "CMPT 242 (Computing Machine Organization)/Class 28 - Multibussing.md",
     "CMPT 242 (Computing Machine Organization)/Class 33 - Layered architecture.md",
@@ -191,18 +208,6 @@
     "CMPT 242 (Computing Machine Organization)/Class 8 - Mathematics & Instruction Sets.md",
     "CMPT 242 (Computing Machine Organization)/Class 27 - Buses.md",
     "CMPT 242 (Computing Machine Organization)/Class 29 - Midterm.md",
-    "CMPT 242 (Computing Machine Organization)/Chapter 7 - Assembly Languages and Programming Paradigm.md",
-    "CMPT 242 (Computing Machine Organization)/Class 23 - Cache.md",
-    "CMPT 242 (Computing Machine Organization)/Class 22 - Memory Management Contd..md",
-    "CMPT 242 (Computing Machine Organization)/Class 21 - Virtual Memory.md",
-    "CMPT 242 (Computing Machine Organization)/Class 25 - I O.md",
-    "CMPT 242 (Computing Machine Organization)/Chapter 6 - Operand Addressing And Operand Types.md",
-    "CMPT 242 (Computing Machine Organization)/Chapter 12 - A Programmerʼs View OfDevices, IO, And Buffering.md",
-    "CMPT 242 (Computing Machine Organization)/Chapter 22 - Building Blocks (Transistors, Gates, And Clocks).md",
-    "CMPT 242 (Computing Machine Organization)/Chapter 13 - Buses and Bus Architectures.md",
-    "CMPT 242 (Computing Machine Organization)/Chapter 9 - Technologies and Virtual Addressing.md",
-    "CMPT 242 (Computing Machine Organization)/Chapter 10 - Caches and Caching.md",
-    "CMPT 242 (Computing Machine Organization)/Class 1 - Basic Circuits.md",
     "Pasted image 20251111110129.png",
     "z. Images/Pasted image 20251024124914.png",
     "Learning Assembly/Untitled.base",
