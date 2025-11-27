@@ -30,6 +30,17 @@
 	- Planning
 	- Modelling
 	- Construction
+#### Sequential
+- Older paradigms such as the waterfall model.
+	- Communication > Planning > Modelling > Construction > Deployment
+	- Each can only begin when the prior is complete.
+- Linear process flow
+	- Often inconsistent with reality.
+#### Incremental
+- Iterative in nature, and quickly produce a working version of software
+- Includes the prototyping and spiral model.
+- **Prototyping Model**
+
 
 
 
