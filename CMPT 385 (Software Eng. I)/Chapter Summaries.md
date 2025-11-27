@@ -42,8 +42,10 @@
 - **Prototyping Model**
 	- Good when the customer has a lot of unknown variables.
 	- Communication > Quick Plan > Modelling and Quick Design > Prototype > Deployment/Feedback > More Communication
-- 
-
+- **Spiral Model**
+	- Start in the middle, and spiral out.
+	- Begin with communication > planning > modelling > construction > deployment/feedback > communication
+	- Useful for designing large-scale systems
 
 
 
