@@ -40,7 +40,9 @@
 - Iterative in nature, and quickly produce a working version of software
 - Includes the prototyping and spiral model.
 - **Prototyping Model**
-
+	- Good when the customer has a lot of unknown variables.
+	- Communication > Quick Plan > Modelling and Quick Design > Prototype > Deployment/Feedback > More Communication
+- 
 
 
 
