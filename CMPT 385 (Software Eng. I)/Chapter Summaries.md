@@ -73,8 +73,15 @@
 	2. Communication and collaboration between team members, practitioners, and customers.
 	3. Recognition that change represents an opportunity.
 	4. Rapid delivery of software the satisfies the customer.
-- Agile can greatly lower the cost of change as project 
-
+- Agile can greatly lower the cost of change as the project progresses.
+- Criticized for not holding up at organizational-scale development.
+#### Scrum
+- 15-min meeting each 24 hours, over a period of 4 weeks (a sprint).
+- 3 Questions at each meeting:
+	1. What did you do since last meeting?
+	2. What obstacles do you have?
+	3. What do you plan to do by next meeting?
+- 
 
 
 
