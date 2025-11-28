@@ -70,50 +70,36 @@
 	3. Modelling
 	4. Construction
 	5. Deployment
-- **Evoluiti**
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-# Ch. 5 - Human Aspects of SW Engr
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+- **Evolutionary Process Models**
+	- Flexible planning, frequent stakeholder involvement
+	- Incremental prototyping
+	- Limited requirements, documents, and models allows early prototype production.
+- Making use of paper prototypes early on can avoid making products which don't satisfy customer expectations.
+- You can only know all the requirements once the software has been delivered.
+- Risk assessment and acceptance are important in assessing prototypes.
+- Make sure that the scope of a project doesn't get out of hand.
+# Ch. 5 - Human Aspects of SW Engineering
+- A successful software engineer must have good technical and interpersonal skills.
+	- Responsible for commitments
+	- Aware of peers
+	- Give honest assesments
+- A **jelled** software team is more productive and effective.
+	1. Sense of purpose
+	2. Trust
+	3. Involvement
+	4. Sense of improvement
+	5. Avoid toxicity
+- Agile teams have more autonomy than conventional teams.
+	1. Communication
+	2. Simplicity
+	3. Feedback
+	4. Courage
+	5. Respect
+- Social media and electronic comms are highly important for remote projects.
 # Ch. 7 - Understanding Requirements
-
-
+- Requirements engineering tasks are conducted to establish a solid foundation for design and construction.
+	- Occurs during communication and modelling (as described in the teams processes.)
+-  Seven requirement engineer
 
 
 
