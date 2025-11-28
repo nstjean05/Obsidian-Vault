@@ -143,48 +143,34 @@
 - Each level of the design gets more specific.
 # Ch. 11 – Component-Level Design
 - Slowly reduce the level of abstraction
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+- 3 Views of component-level data:
+	1. Object Oriented
+	2. Traditional
+		- Representation of data structures, interfaces, and languages
+	3. Process
+- Make sure to be refactoring at every stage.
+- Component-level design must consider both content and functionality.
 # Ch. 12 - User Experience Design
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+- Arguable the most important element of a computer-based system.
+- 3 Important design principles:
+	1. Place the user in control
+	2. Reduce the user's memory load
+	3. Make the interface consistent.
+- Begin UX development with a series of tasks
+- Define personas for the profiles of users.
+- Create interface objects and actions for screen layout.
+- Address design issues
+	- Response time
+	- Command and action structure
+	- Error handling
+	- Help facilities
 # Ch. 14 - Pattern-based Design
-
+- Patters describe a problem, enabling the user to understand what is happening
+- Many pattern domains:
+	- Architectural
+	- Data
+	- Component
+	- Software anti-patterns
 
 
 
