@@ -87,7 +87,7 @@ pop X
 	- *Offset Value*
 	- When an operand value is created, the contents of the offset field and the specified register are aded, and the result is used as the operand.
 	- For example, below is an *add* instruction:
-![](Pasted%20image%2020251111110129.png)
+![](z.%20Images/Pasted%20image%2020251111110129.png)
 - It can be useful to allow an operand to specify a register plus an offset when dealing with a data aggregate (like a *struct* in C), since a pointer to it can be left in a register, and offsets used to reference individual items.
 ## 6. 11 - Tradeoffs in the Choice of Operands
 - None of the described designs is definitively "the best", as there are many tradeoffs.

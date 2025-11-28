@@ -63,10 +63,14 @@
 	1. What did you do since last meeting?
 	2. What obstacles do you have?
 	3. What do you plan to do by next meeting?
-- 
-
 # Ch. 4 – Recommended Process Model
-
+- There are some fundamental steps to remember about road maps:
+	1. Communication
+	2. Planning
+	3. Modelling
+	4. Construction
+	5. Deployment
+- **Evoluiti**
 
 
 
