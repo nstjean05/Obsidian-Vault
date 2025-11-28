@@ -12,3 +12,6 @@
 		- OR
 	- Does an external mechanism control this?
 7. Serial or Parallel data?
+8. Homogenous or Heterogenous data
+	- All the same kind?
+9. 
