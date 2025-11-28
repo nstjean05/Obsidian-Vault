@@ -114,6 +114,11 @@
 - As requirements are identified, software team/stakeholders must negotiate the priority and cost of each task.
 # Ch. 8 - Requirements Modelling—A Recommended Approach
 - Create a variety of representations that describe what the customer requires.
+- Requirements model bridges gap between system-level description and business functionality.
+- User stories help create scenario-based models
+- Class-based modelling takes information from use cases to identify analysis classes.
+- UML is helpful for organizing a program's components
+- Behavioural modelling during requirements analysis 
 
 
 
