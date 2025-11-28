@@ -168,30 +168,17 @@
 - Patters describe a problem, enabling the user to understand what is happening
 - Many pattern domains:
 	- Architectural
+		- Broad design problems
 	- Data
+		- Recurring dat problems and modelling issues
 	- Component
+		- aka design patterns
+		- development of subsystems
 	- Software anti-patterns
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+		- Common solutions to a problem
+		- Lead to poor software quality
 # Ch. 15 - Quality Concepts
-
+- 
 
 
 
@@ -212,28 +199,17 @@
 
 
 # Ch. 17 - SW Quality Assurance
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+- Umbrella activity applied at each step of the process.
+- Effective application of methods and tools
+	- Technical reviews and software testing
+	- Procedures for change management
+	- Compliance to standards
+	- Measurement and reporting mechanisms
+- Mapping of managerial precepts onto applicable managerial and technical space of SW Engineering
 # Ch. 19 - SW Testing - Component Level
-
+- SW Testing accounts for the largest part of technical effort in the SW process
+- Consider the small elements and move outward towards the program as a whole
+- Condition and data flow testing exercise program logic.
 
 
 
