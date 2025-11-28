@@ -99,27 +99,21 @@
 # Ch. 7 - Understanding Requirements
 - Requirements engineering tasks are conducted to establish a solid foundation for design and construction.
 	- Occurs during communication and modelling (as described in the teams processes.)
--  Seven requirement engineer
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+-  Seven requirement engineering activities:
+	1. Inception
+	2. Elicitation
+	3. Elaboration
+	4. Negotiation
+	5. Specification
+	6. Validation
+	7. Management
+- At inception, stakeholders establish basic requirements
+	- Define constraints
+	- Address major features
+- Elaboration is a series of elements built of scenarios, activities, classes, and behaviours.
+- As requirements are identified, software team/stakeholders must negotiate the priority and cost of each task.
 # Ch. 8 - Requirements Modelling—A Recommended Approach
-
+- Create a variety of representations that describe what the customer requires.
 
 
 
