@@ -118,70 +118,31 @@
 - User stories help create scenario-based models
 - Class-based modelling takes information from use cases to identify analysis classes.
 - UML is helpful for organizing a program's components
-- Behavioural modelling during requirements analysis 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+- Behavioural modelling during requirements analysis takes input from the prior models, and analyses them.
 # Ch. 9 - Design Concepts
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+- Design Goal: To create a model of software to implement all the customer requirements.
+	- Converge on a solution that best suits the stakeholder's needs
+- Design concepts emphasize the need for abstraction.
+- Four elements of design:
+	1. Architecture
+		- Complete structural representation of the software.
+	2. Interface
+		- External and internal interfaces and UI
+	3. Components
+		- Modules of the architecture
+	4. Deployment
+		- Physical Configuration
 # Ch. 10 – Architectural design
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+- Holistic view of the system to be built
+- Architectural design has four steps:
+	1. System in context
+		- Define externalities
+	2. Archetypes (top level abstractions)
+	3. Implementation domain
+	4. Specific instantiations of the architecture.
+- Each level of the design gets more specific.
 # Ch. 11 – Component-Level Design
-
+- Slowly reduce the level of abstraction
 
 
 
