@@ -83,23 +83,6 @@
 	3. What do you plan to do by next meeting?
 - 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 # Ch. 4 – Recommended Process Model
 
 
