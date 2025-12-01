@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "Class 35 - Considerations"
             }
+          },
+          {
+            "id": "fb4eb2969305b8b0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Class 36 - Pipelining Contd..md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Class 36 - Pipelining Contd."
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -181,10 +196,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "65914dbeb85346f0",
+  "active": "fb4eb2969305b8b0",
   "lastOpenFiles": [
-    "Untitled 1.md",
     "Class 35 - Considerations.md",
+    "Class 36 - Pipelining Contd..md",
+    "Untitled 1.md",
     "CMPT 242 (Computing Machine Organization)/Class 34.md",
     "CMPT 385 (Software Eng. I)/Chapter Summaries.md",
     "CMPT 385 (Software Eng. I)/Unit 2 -Project Management.md",
@@ -209,7 +225,6 @@
     "CMPT 385 (Software Eng. I)/Unit 6 - Architectural Design.md",
     "CMPT 242 (Computing Machine Organization)/Class 31 - Device Drivers.md",
     "CMPT 385 (Software Eng. I)/Unit 3 - Dev. Processes I.md",
-    "CMPT 385 (Software Eng. I)/Unit 3 - Dev. Processes II.md",
     "z. Images/Pasted image 20251024124914.png",
     "Learning Assembly/Untitled.base",
     "Learning Assembly/Untitled.canvas",
