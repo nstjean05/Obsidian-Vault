@@ -13,4 +13,7 @@
 	- At this point the second packet has only one stage
 		- It also takes $\frac{1}{4}t$ more time
 	- The third packet, once packet #2 is done, also needs $\frac{1}{4}t$ more time
-- 
+- **Note**
+	- Speed is constrained by the slowest stage so partitioning into stages has to be done carefully and tends to be applications specific
+		- Router pipeline != CPU pipeline
+	- Note all tasks has 
