@@ -16,4 +16,14 @@
 - **Note**
 	- Speed is constrained by the slowest stage so partitioning into stages has to be done carefully and tends to be applications specific
 		- Router pipeline != CPU pipeline
-	- Note all tasks has 
+	- Note all tasks can be pipelined particularly on the motherboard of a general purpose computer
+	- Pipelining is a special case of multiprocessing.
+# Operational Considerations
+- Initialization
+	- It takes extra time to set up and run the first packet through, or process the first instruction.
+	- a.k.a. setup time
+- Finalization
+	- The last instruction/packet must actually finish and the pipeline shut down.
+### Problem
+- If the pipeline stalls frequently the effficiency goes down dramatically.
+#### Subdividing the pipeline
