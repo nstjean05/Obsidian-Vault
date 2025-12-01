@@ -25,5 +25,17 @@
 - Finalization
 	- The last instruction/packet must actually finish and the pipeline shut down.
 ### Problem
-- If the pipeline stalls frequently the effficiency goes down dramatically.
+- If the pipeline stalls frequently the efficiency goes down dramatically.
 #### Subdividing the pipeline
+- e.g. An ALU pipeline
+```
+op fetch = determine immediate location
+	fetch immediate value
+	//Some of the following can be bypassed.
+	fetch memory location
+	fetch memory value
+	fetch indirect location
+	fetch indirect value
+```
+- This is called superpipelining (i.e. with potential for branching)
+- There could be branches to sub-pipes at various locations.
