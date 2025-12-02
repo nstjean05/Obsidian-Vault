@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "CMPT 380 (Artificial Intelligence)/12 - Quantifying Uncertainty.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "12 - Quantifying Uncertainty"
             }
           }
         ]
@@ -183,6 +183,11 @@
   },
   "active": "65914dbeb85346f0",
   "lastOpenFiles": [
+    "CMPT 380 (Artificial Intelligence)/6 - Constraint Satisfaction Problems.md",
+    "CMPT 380 (Artificial Intelligence)/7 - Logical Agents.md",
+    "CMPT 380 (Artificial Intelligence)/5 - Adversarial Search.md",
+    "CMPT 242 (Computing Machine Organization)/Chapter 22 - Building Blocks (Transistors, Gates, And Clocks).md",
+    "README.md",
     "CMPT 242 (Computing Machine Organization)/Class 36 - Pipelining Contd..md",
     "Untitled 1.md",
     "CMPT 242 (Computing Machine Organization)/Class 35 - Considerations.md",
@@ -191,7 +196,6 @@
     "CMPT 385 (Software Eng. I)/Chapter Summaries.md",
     "CMPT 385 (Software Eng. I)/Unit 2 -Project Management.md",
     "CMPT 385 (Software Eng. I)/Unit 5 - Human Aspects of SW Engr.md",
-    "README.md",
     "z. Images/Pasted image 20251111110129.png",
     "CMPT 385 (Software Eng. I)/Ch. 12 - User Experience Design.md",
     "CMPT 385 (Software Eng. I)/Ch. 11 – Component-Level Design.md",
@@ -206,10 +210,6 @@
     "CMPT 385 (Software Eng. I)/Ch. 14 - Pattern-based Design.md",
     "CMPT 242 (Computing Machine Organization)/Class 28 - Multibussing.md",
     "CMPT 242 (Computing Machine Organization)/Class 32 - Device Driver.md",
-    "CMPT 242 (Computing Machine Organization)/Class 30 - MIA.md",
-    "CMPT 385 (Software Eng. I)/Unit 6 - Architectural Design.md",
-    "CMPT 242 (Computing Machine Organization)/Class 31 - Device Drivers.md",
-    "CMPT 385 (Software Eng. I)/Unit 3 - Dev. Processes I.md",
     "z. Images/Pasted image 20251024124914.png",
     "Learning Assembly/Untitled.base",
     "Learning Assembly/Untitled.canvas",
