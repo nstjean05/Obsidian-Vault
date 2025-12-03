@@ -13,4 +13,18 @@
 	- Whetstone
 	- Dhrystone
 	- These all have standard completion run times.
-- 
+6. Problems with benchmarks:
+	- Processor intensive so do not measure other things like I/O
+	- Compilers can detect when one is running & cheat with optimized code.
+	- Results may depend on the compiler and language
+	- SPEC - Standard performance evaluation corporation
+		- A series of specialized benchmarks to measure integer and FP speeds
+		- Many vendors cite mark results.
+	- Application suite bench marks
+		- Common in trade publications, they run a collection of common apps to simulate what a user might do.
+		- Tend to lean toward power users.
+			- WP, DB, SS, Graphics, Browser, compiler framework, editor, etc.
+		- They weight these and report results
+	- Advantages: Try to be realistic
+	- Disadvantages:
+	- Over time the have to be changed - only valid for the current go.
