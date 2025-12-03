@@ -12,3 +12,5 @@
 		- Went out of use, as compiler makers started inserting highly efficient algorithms that detected the sieve, and ran it really fast to trick the benchmark.
 	- Whetstone
 	- Dhrystone
+	- These all have standard completion run times.
+- 
