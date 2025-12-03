@@ -40,3 +40,9 @@
 		- A, A+1, A+2, A+3
 	- Instructions referencing that address will just use address A.
 - Unsigned values *k* bits long can represent values from *0* to *2$^k$-1*.
+- Using 64-bit addresses allows for 32-bit hardware to be reused for an address.
+	- Two 32-bit registers can be used to hold a 32-bit address.
+## 8.6 - The Fetch-Store Paradigm, Pointers, and Dereferencing
+- Instructions can either fetch from a memory location or store a value in a memory location.
+- This is also how interaction with the I/O works.
+- 
