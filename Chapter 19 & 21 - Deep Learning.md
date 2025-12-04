@@ -57,4 +57,6 @@
 	- Learns specific examples, and discover applicable rules.
 - **Deductive**
 	- Learns a general rule (or set), and applies this to situations.
-- Most machine learn
+- Most machine learning models use a specific type of one of these models.
+	- A model is made up of these general rules.
+	- 
