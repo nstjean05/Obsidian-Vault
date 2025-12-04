@@ -53,3 +53,4 @@
 	- `int *q;` declares variable q to be a pointer to an integer
 	- The difference between these two pointers is how the compiler interprets them.
 ## 8.7 - Memory Dumps
+- 
