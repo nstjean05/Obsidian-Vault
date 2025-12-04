@@ -47,4 +47,14 @@
 	1. Direct mapping from the current state's conditions to actions
 	2. Infer relevant details about environment from percepts
 	3. Take information about the worlds evolution to determine results of actions.
-	4. 
+	4. Utility info indicating state desirability
+	5. Action-value info indicating action desirability
+	6. Goals describing state classes whose achievement maximizes agent utility.
+- These components can all be learned.
+- Machine learning takes **factored representations** of inputs (vectors)
+	- Outputs a continuous numerical value or a discrete value
+- **Inductive**
+	- Learns specific examples, and discover applicable rules.
+- **Deductive**
+	- Learns a general rule (or set), and applies this to situations.
+- Most machine learn
