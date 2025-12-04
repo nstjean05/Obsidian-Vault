@@ -45,4 +45,11 @@
 ## 8.6 - The Fetch-Store Paradigm, Pointers, and Dereferencing
 - Instructions can either fetch from a memory location or store a value in a memory location.
 - This is also how interaction with the I/O works.
-- 
+- **Dereferencing**: When an instruction follows an address to a value in memory.
+- **Pointer**: A variable that points to an object in memory.
+	- In assembly, pointers are just memory addresses.
+- For example,
+	- `char *p;` declares variable p to point to a character
+	- `int *q;` declares variable q to be a pointer to an integer
+	- The difference between these two pointers is how the compiler interprets them.
+## 8.7 - Memory Dumps
