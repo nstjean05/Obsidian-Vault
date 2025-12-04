@@ -35,4 +35,16 @@
 		- Method and standard performance measures.
 - An autonomous agent must learn how to use probabilities and rules on its known, and this is accomplished by machine learning.
 ### What is Learning?
-- 
+- Machine learning refers to a system capable of the autonomous acquisition and integration of knowledge.
+- If a system is capable of learning, its is generally considered intelligent.
+### Forms of Learning
+- There are four major techniques to make improvements to learning data:
+	1. The **component** to be improved
+	2. The agent's **prior knowledge**
+	3. The data's **representation**
+	4. What **feedback** is available to learn from.
+- Chapter 2's agent's had various components:
+	1. Direct mapping from the current state's conditions to actions
+	2. Infer relevant details about environment from percepts
+	3. Take information about the worlds evolution to determine results of actions.
+	4. 
