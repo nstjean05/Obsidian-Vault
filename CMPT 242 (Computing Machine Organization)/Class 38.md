@@ -13,4 +13,5 @@
 	- Chip - Microscopic
 ### Bridges
 - A bridge may be
-	- On
+	- On the motherboard attached to/including a controller or on a PCI card
+	- So devices can be connected through bases attached to this bridge
