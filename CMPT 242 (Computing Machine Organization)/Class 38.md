@@ -1,0 +1,7 @@
+- Optimizations can be achieved by:
+	- Replace some software functions with hardware
+	- Produce better code for special cases (compile it!)
+	- **Amdahl's Law**
+		- Speedup is constrained by the amount of time the machine takes to execute the program
+		- Rule of thumb: Only optimize what the program spends a lot of time on
+	- 
