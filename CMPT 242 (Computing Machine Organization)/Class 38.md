@@ -11,3 +11,6 @@
 	- System - Macroscopic
 	- Board - Mid level
 	- Chip - Microscopic
+### Bridges
+- A bridge may be
+	- On
