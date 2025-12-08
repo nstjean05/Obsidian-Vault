@@ -20,8 +20,8 @@
 14. Programming Devices, 14.1 --> 14.7, 14.10 --> 14.12
 15. Data Paths, Not really covered
 16. CPUs, Microcodes, Modes, 16.1 --> 16.8
-17. Parallelsim, 17.1 --> 17.3, 17.7, 17.10 --> 1
-18. Pipelining, 
+17. Parallelism, 17.1 --> 17.3, 17.7, 17.10 --> 17.13
+18. Pipelining, 18
 19. Metrics, 
 20. Multicore Processing, 
 21. Power & Energy, Not covered
