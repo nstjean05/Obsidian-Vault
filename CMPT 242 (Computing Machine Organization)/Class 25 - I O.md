@@ -20,7 +20,7 @@
 	- One data channel for each bit plus control lines, ground, power
 	- Can be very fast but doesn't scale up for wide (64-bit) busses.
 		- Centronics connectors were used, 25/50 pins
-	- Series
+	- Serial
 		- Channels for send, receive, signalling (2-3), ground, power (6-9 connections)
 		- Control signals
 			- DTR (data-terminal ready)

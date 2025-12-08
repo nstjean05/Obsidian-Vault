@@ -41,3 +41,23 @@ part a and part b questions (2 marks each)
 pick one of a, b, c, d.
 - learn a lot about a couple chapters, answer all the Qs on that
 pick one chapter of the book or labs, and give a robust answer about it
+
+
+
+In serial, all control bits have to go through the pipeline
+- check bits (parity bits, or a bit to check a block of data)
+- Negotiate ahead of time, since you are sending data paced
+- If there are a lot of errors, you have to re-handshake
+- What is length of data block, what will we do about errors, what kind of parity is being used.
+- Start and stop bits on a block
+- Theoretically can do it with 3 conductors
+	- power, ground, transmitter
+Parallel data can, in theory, go faster
+- 1 conductor for every path + for power, errors, etc.
+- Inside a computer, it is faster than serial
+- Over long distances, the small differences in time between bits arrival times on different pins, makes it less reliable
+Pretty much settled on distance outside computer = serial
+inside computer = parallel
+Ex. Time for electricity to get from Bennet Dam to Vancouver is ~8mins
+- If some data is routed a little differently, then the potential for large error increases greatly
+- 
