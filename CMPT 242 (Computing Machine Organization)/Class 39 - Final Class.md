@@ -1,5 +1,5 @@
 ## The Course From a Textbook POV
-- Format is Chapter. Section
+- Format is Number. Chapter, Section
 1. Overview, All
 2. Programs, See 360
 3. Representation, 3.1 --> 3.17
@@ -9,6 +9,28 @@
 		- binary storage, sequential operation
 	- For hardware, a computer that uses a single memory to hold both programs and data.
 5. Instruction Sets, All except 5.17, 23 --> 25
+6. Operands, All but 6.11
+7. Assembler, All but 7.10 --> 7.12
+8. Memory and Addressing, 8.1 --> 8.6, 8.9, 8.16, 8.17
+9. Virtual Memory, 9.1 --> 9.6, 9.11, 9.16
+10. Cache, 10.1 --> 10.5, 10.10, 10.13, 10.16 --> 10.18
+11. Storage & File Systems, 11.1 --> 11.5, 11.13
+12. Devices, I/O, & Buffering, 12.1 --> 12.6
+13. Busses & their Architecture, 13.1 --> 13.9, 13.14, 13.21, 13.22, 13.4
+14. Programming Devices, 14.1 --> 14.7, 14.10 --> 14.12
+15. Data Paths, Not really covered
+16. CPUs, Microcodes, Modes, 16.1 --> 16.8
+17. Parallelsim, 17.1 --> 17.3, 17.7, 17.10 --> 1
+18. Pipelining, 
+19. Metrics, 
+20. Multicore Processing, 
+21. Power & Energy, Not covered
+22. Building Blocks, 
+23. 
+24. Modularity, 
+
+
+
 
 20 fill-in-blank
 - Resistor colour codes
