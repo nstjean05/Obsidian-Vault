@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "RELS 475/Class 1 - Introduction.md",
+                "file": "CMPT 461/Class 1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Class 1 - Introduction"
+              "title": "Class 1"
             }
           }
         ]
@@ -181,10 +181,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8f571f93d5f3f8b8",
+  "active": "b7bafca48f2d6c08",
   "lastOpenFiles": [
-    "CMPT 242 (Computing Machine Organization)/Class 16 -.md",
+    "CMPT 380 (Artificial Intelligence)/Chapter 19 & 21 - Deep Learning.md",
+    "Table of Contents.base",
+    "CMPT 461/Class 1.md",
     "RELS 475/Class 1 - Introduction.md",
+    "CMPT 461",
+    "CMPT 242 (Computing Machine Organization)/Class 16 -.md",
     "RELS 475",
     "CMPT 242 (Computing Machine Organization)/Class 17 -.md",
     "CMPT 242 (Computing Machine Organization)/Class 18 -.md",
@@ -208,9 +212,6 @@
     "CMPT 242 (Computing Machine Organization)/Class 10 - MIPS & Branching.md",
     "CMPT 242 (Computing Machine Organization)/Class 9 - Instructions and Pipelining.md",
     "CMPT 242 (Computing Machine Organization)/Class 8 - Mathematics & Instruction Sets.md",
-    "CMPT 242 (Computing Machine Organization)/Class 6 - ASCII, Binary, and HEX.md",
-    "CMPT 242 (Computing Machine Organization)/Chapter 4 - A High-Level Overview of Processors.md",
-    "Untitled.base",
     "CMPT 380 (Artificial Intelligence)/genetic_algorithm.py",
     "z. Images/Pasted image 20251111110129.png",
     "z. Images/Pasted image 20251024124914.png",
@@ -229,7 +230,6 @@
     "Git Workshop",
     "Learning Java",
     "CMPT 334 (Principles of Operating Systems)",
-    "CMPT 380 (Artificial Intelligence)",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]
