@@ -13,32 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CMPT 242 (Computing Machine Organization)/Class 16 -.md",
+                "file": "RELS 475/Class 1 - Introduction.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Class 16 -"
-            }
-          }
-        ]
-      },
-      {
-        "id": "a95918ad99e40997",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "6a547b16faac88b2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CMPT 242 (Computing Machine Organization)/Class 39 - Final Class.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Class 39 - Final Class"
+              "title": "Class 1 - Introduction"
             }
           }
         ]
@@ -203,11 +183,13 @@
   },
   "active": "8f571f93d5f3f8b8",
   "lastOpenFiles": [
+    "CMPT 242 (Computing Machine Organization)/Class 16 -.md",
+    "RELS 475/Class 1 - Introduction.md",
+    "RELS 475",
     "CMPT 242 (Computing Machine Organization)/Class 17 -.md",
     "CMPT 242 (Computing Machine Organization)/Class 18 -.md",
     "CMPT 242 (Computing Machine Organization)/Class 19 -.md",
     "CMPT 242 (Computing Machine Organization)/Class 20 -.md",
-    "CMPT 242 (Computing Machine Organization)/Class 16 -.md",
     "CMPT 242 (Computing Machine Organization)/Chapter 8 - Main Memory and Memory Addressing.md",
     "CMPT 242 (Computing Machine Organization)/Chapter 7 - Assembly Languages and Programming Paradigm.md",
     "CMPT 242 (Computing Machine Organization)/Chapter 9 - Technologies and Virtual Addressing.md",
@@ -229,7 +211,6 @@
     "CMPT 242 (Computing Machine Organization)/Class 6 - ASCII, Binary, and HEX.md",
     "CMPT 242 (Computing Machine Organization)/Chapter 4 - A High-Level Overview of Processors.md",
     "Untitled.base",
-    "CMPT 242 (Computing Machine Organization)/Class 1 - Basic Circuits.md",
     "CMPT 380 (Artificial Intelligence)/genetic_algorithm.py",
     "z. Images/Pasted image 20251111110129.png",
     "z. Images/Pasted image 20251024124914.png",
@@ -249,7 +230,6 @@
     "Learning Java",
     "CMPT 334 (Principles of Operating Systems)",
     "CMPT 380 (Artificial Intelligence)",
-    "CMPT 385 - Software Engineering",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]
