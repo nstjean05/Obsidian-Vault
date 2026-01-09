@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CMPT 461/Chapter 1 - Introduction.md",
+                "file": "CMPT 102 (Career Preparation in Technology)/Class 1 - Course Overview.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Chapter 1 - Introduction"
+              "title": "Class 1 - Course Overview"
             }
           }
         ],
@@ -198,10 +198,12 @@
   },
   "active": "822fbc380d07f6fb",
   "lastOpenFiles": [
+    "CMPT 461/Chapter 1 - Introduction.md",
+    "CMPT 102 (Career Preparation in Technology)/Class 1 - Course Overview.md",
+    "CMPT 102 (Career Preparation in Technology)",
     "RELS 475/Lecture 1 - God's Creation and Transcending the Secular.md",
     "RELS 475/Class 1 - Introduction.md",
     "RELS 475/Class 2.md",
-    "CMPT 461/Chapter 1 - Introduction.md",
     "Language Learning",
     "RELS 475/475 Flash Cards.md",
     "CMPT 461/461 Flash Cards.md",
@@ -227,7 +229,6 @@
     "CMPT 242 (Computing Machine Organization)/Class 29 - Midterm.md",
     "CMPT 242 (Computing Machine Organization)/Class 30 - MIA.md",
     "CMPT 242 (Computing Machine Organization)/Class 25 - I O.md",
-    "CMPT 242 (Computing Machine Organization)/Class 39 - Final Class.md",
     "CMPT 380 (Artificial Intelligence)/genetic_algorithm.py",
     "z. Images/Pasted image 20251111110129.png",
     "z. Images/Pasted image 20251024124914.png",
@@ -244,7 +245,6 @@
     "z. Images/Pasted image 20250930125116.png",
     "z. Images/Pasted image 20250929135919.png",
     "Git Workshop",
-    "Language Learning/Learning Java",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]
