@@ -45,4 +45,10 @@
 - 1967-90: GROPE
 	- Frederick Brooks' haptic interface
 - 1978: Aspen Movie Map
-	- Prii
+	- Primitive form of Google Maps street view
+- 1980s: VIEW (Virtual Interface Environment Workstation)
+	- This was the first true VR system
+	- Very immature
+- 1980s: 
+- 1990s: A rush to develop consumer VR products that failed, as the technology wasn't ready yet
+- 2016
