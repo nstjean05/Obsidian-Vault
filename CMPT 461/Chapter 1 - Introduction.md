@@ -49,6 +49,9 @@
 - 1980s: VIEW (Virtual Interface Environment Workstation)
 	- This was the first true VR system
 	- Very immature
-- 1980s: 
+- 1985: VPL research starts to sell VR goggles and gloves
 - 1990s: A rush to develop consumer VR products that failed, as the technology wasn't ready yet
-- 2016
+	- VPL goes under
+- 2016: Oculus Rift, the first fully-immersive VR headset
+- 2024: Apple Vision Pro Release and failure
+- 
