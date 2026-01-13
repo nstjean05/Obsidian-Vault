@@ -22,4 +22,27 @@
 	- Is the user involved and having emotional reactions?
 - There is a difference between presence and involvement
 	- You can watch a hockey game and be present, while not being involved in the game.
-- 
+- VR produces a lot of involvement, in spite of non-immersion.
+## Multimodal Experiences
+- Using more than one mode of behaviour or action.
+	- Engage multiple human senses
+- Misalignment between stimuli can lead to nausea
+- Immersion increases with more stimuli
+- Text, illustrated text, audio or video, audio and video, audio/video/haptic
+## Reality Spectrum
+- **Virtual Reality** (VR) - 100% in a visual, digital world.
+- **Augmented Reality** (AR) - Digital images layered on top of your view.
+- **Mixed Reality** (MR) - Digital objects which can interact with your real world.
+- **eXtended Reality** (XR) - Umbrella term for immersive technologies like the above.
+#### A Brief History of VR
+- 1962: Sensorama
+	- Vehicle simulator with sounds, 3D slides, smell/wind
+	- No computer
+	- No interactivity
+- 1963: **Ivan Sutherland** (father of VR)
+	- Designs "Sketchpad", the origin of CAD
+- 1968: First stereoscopic display
+- 1967-90: GROPE
+	- Frederick Brooks' haptic interface
+- 1978: Aspen Movie Map
+	- Prii
