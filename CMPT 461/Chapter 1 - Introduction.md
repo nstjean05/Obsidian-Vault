@@ -44,6 +44,7 @@
 - 1968: First stereoscopic display
 - 1967-90: GROPE
 	- Frederick Brooks' haptic interface
+- 1969: The Ultimate Display
 - 1978: Aspen Movie Map
 	- Primitive form of Google Maps street view
 - 1980s: VIEW (Virtual Interface Environment Workstation)
