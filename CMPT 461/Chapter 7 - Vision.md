@@ -41,4 +41,9 @@
 		- Colour LCDs have 3 sub-pixels (RGB)
 #### Plasma Displays
 - Invented in 1964 at University of Illinois
-- Flat display with many cells between two glass panels, containing 
+- Flat display with many cells between two glass panels, containing inert gases
+	- Electrically turned in a plasma (UV) to emit light
+- Wide screen, high brightness, fast response, wide view
+- Screen burn-in, more power
+#### Digital Light Processing
+- Uses light 
