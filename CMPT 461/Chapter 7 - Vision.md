@@ -68,7 +68,11 @@
 - CRT, LCD, LCoS, or OLED
 - Include sound equipment and a tracking device
 - Stereoscopic images for two displays
-- FOV from 25-45°
+- FOV from 25-45°, and 3 or 6 degrees of freedom (DoF)
+- Can be wired or wireless
+##### See-Through HMDs
+- A CG image superimposed on the real world
+- 
 #### Fish Tank VR
 - Use a high-res monitor with hardware for stereoscopic viewing
 - LCD shutter glasses alternately cover one eye and show an image to the other, producing a stereoscopic effect.
