@@ -45,9 +45,24 @@
 	- Electrically turned in a plasma (UV) to emit light
 - Wide screen, high brightness, fast response, wide view
 - Screen burn-in, more power
-#### Digital Light Processing
-- Uses micromirrors to reflect light onto a larger surface
+#### Digital Light Processing (DLP)
+- Uses micro-mirrors to reflect light onto a larger surface
 - Mostly used in projectors
+#### Liquid Crystal on Silicon (LCoS)
+- High resolution micro-displays for projectors or VR
+- High pixel density, contrast, and detail
 #### Organic Light-Emitting Diode (OLED)
-- An LED wherein the electroluminescent layer of film emits light in response to electric current.
-- 
+- An LED display wherein the electroluminescent layer of film emits light in response to electric current.
+- Allows for 'perfect blacks'
+	- Each pixel has its own light source, rather than a backlight layer
+#### Active-Matrix Organic Light-Emitting Diode (AMOLED)
+- Adds the TFT technology from LCDs on top of an OLED display for even more control.
+- Faster response time, brighter, power efficiency, smoother visuals
+- Still susceptible to burn-in
+## VR Displays
+- Have two main categories; **individual** or **collective**
+- Classified on the degree of visual immersion
+- Range from HMDs to handheld displays
+#### Head-Mounted Displays (HMDs)
+- One or two small displays
+- CRT, LCD, LCoS, or OLED
