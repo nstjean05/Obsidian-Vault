@@ -68,11 +68,13 @@
 - CRT, LCD, LCoS, or OLED
 - Include sound equipment and a tracking device
 - Stereoscopic images for two displays
-- FOV from 25-45°, and 3 or 6 degrees of freedom (DoF)
+- FOV from 110° horiz/96°vert, and 3 or 6 degrees of freedom (DoF)
 - Can be wired or wireless
-##### See-Through HMDs
-- A CG image superimposed on the real world
-- 
+- **See-Through HMDs**
+	- A CG image superimposed on the real world
+	- Project a synthetic image on a semitransparent mirror
+- Advantages: Most immersive experience, appropriate for VR applications with frequent turns/spatial orientation
+- Disadvantages: Motion sickness
 #### Fish Tank VR
 - Use a high-res monitor with hardware for stereoscopic viewing
 - LCD shutter glasses alternately cover one eye and show an image to the other, producing a stereoscopic effect.
@@ -86,3 +88,19 @@
 - Ideally overcomes poor resolution and inability to share experience with others, and isolation from reality
 - Head tracking allows for a correct stereo perspective
 - Disadvantages: Expensive, still in prototypes, and very specific care/maintenance
+## Summary
+
+|Display Type|Advantages|Disadvantages|
+|---|---|---|
+|**Human Vision**|Primary source of info, stereo vision for depth, monocular cues for single-eye depth perception|Subjective, can be misleading, limited by biological constraints|
+|**Cathode-Ray Tubes (CRTs)**|High refresh rates, good color accuracy, low input lag|Bulky, heavy, high power consumption, screen flicker|
+|**Liquid Crystal Displays (LCDs)**|Thin, lightweight, energy efficient, no screen burn-in (usually)|Limited viewing angles, slower response time (passive-matrix), backlight bleed|
+|**Plasma Displays**|Wide screen, high brightness, fast response, wide viewing angles|Screen burn-in, higher power consumption, heavier than LCDs|
+|**Digital Light Processing (DLP)**|High contrast, smooth motion, good for large venues/projectors|Rainbow effect (color separation), bulb replacement needed, limited viewing angles|
+|**Liquid Crystal on Silicon (LCoS)**|High resolution, high pixel density, good for VR/projectors|Expensive, complex manufacturing, limited brightness|
+|**Organic Light-Emitting Diode (OLED)**|Perfect blacks, thin, lightweight, flexible, wide viewing angles|Screen burn-in, shorter lifespan, expensive|
+|**Active-Matrix OLED (AMOLED)**|Faster response, brighter, power efficient, smoother visuals|Screen burn-in, expensive, complex manufacturing|
+|**Head-Mounted Displays (HMDs)**|Most immersive, high FOV, stereoscopic 3D, suitable for VR applications|Motion sickness, can be heavy/bulky, expensive, potential isolation|
+|**Fish Tank VR**|High resolution, stereoscopic effect, less motion sickness|Limited FOV, requires shutter glasses, less immersive than HMDs|
+|**Large Projection Screens**|Semi-immersive, shared experience, good for group interaction|Requires space, lower resolution per user, limited portability|
+|**CAVE Systems**|Shared immersive experience, head tracking for correct perspective, high immersion|Expensive, prototype stage, high maintenance, space-intensive|
