@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "RELS 475/Lecture 3 - Moment's of Transcendence, God's Creation, and the Transcending the Secular.md",
+                "file": "CMPT 461/Chapter 7 - Vision.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lecture 3 - Moment's of Transcendence, God's Creation, and the Transcending the Secular"
+              "title": "Chapter 7 - Vision"
             }
           }
         ],
@@ -93,7 +93,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 256.5
+    "width": 256.5,
+    "collapsed": true
   },
   "right": {
     "id": "1c1db9715e53cd8f",
@@ -198,9 +199,9 @@
   },
   "active": "7f24b2415c9dc6e9",
   "lastOpenFiles": [
+    "RELS 475/Lecture 3 - Moment's of Transcendence, God's Creation, and the Transcending the Secular.md",
     "RELS 475/Lecture 2 - The Best People in Life are Free.md",
     "RELS 475/Lecture 1 - God's Creation and Transcending the Secular.md",
-    "RELS 475/Lecture 3 - Moment's of Transcendence, God's Creation, and the Transcending the Secular.md",
     "Untitled.md",
     "CMPT 461/Chapter 7 - Vision.md",
     "CMPT 461/461 Flash Cards.md",
