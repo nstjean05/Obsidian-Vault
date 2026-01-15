@@ -46,4 +46,8 @@
 - Wide screen, high brightness, fast response, wide view
 - Screen burn-in, more power
 #### Digital Light Processing
-- Uses light 
+- Uses micromirrors to reflect light onto a larger surface
+- Mostly used in projectors
+#### Organic Light-Emitting Diode (OLED)
+- An LED wherein the electroluminescent layer of film emits light in response to electric current.
+- 
