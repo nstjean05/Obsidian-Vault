@@ -15,9 +15,30 @@
 	- Stereopsis: ability to perceive the world in 3D
 	- Resolution
 ## Graphical Display Technologies
-- **Cathode-Ray Tubes** (CRTs):
-	- Invented by Karl Ferdinand in 1879
-	- Coils use magnetism to deflect the ray of electrons to a point of phosphor, which displays on the screen
-- **Liquid Crystal Displays** (LCDs):
-	- Discovered by Friedrich Reinitzer in 1888
-	- 
+#### Cathode-Ray Tubes (CRTs):
+- Invented by Karl Ferdinand in 1879
+- Coils use magnetism to deflect the ray of electrons to a point of phosphor, which displays on the screen
+#### Liquid Crystal Displays (LCDs):
+- Discovered by Friedrich Reinitzer in 1888
+- Uses liquid crystal, which twists to let pass through, or untwists to block it.
+- Six layers:
+	1. Vertical polarizing film
+	2. Glass substrate with ITO electrodes (determines shape when LCD is on)
+	3. Twisted nematic liquid crystal
+	4. Glass substrate with common electrode film (horizontal ridges to align with horizontal filter)
+	5. Horizontal polarizing film
+	6. Reflective surface to send light to viewer
+		- Backlit lCDs replace this with a light source
+- Two types of LCDS:
+	- Passive-Matrix
+		- Simple grid of two glass layers (row/col), with liquid crystal between them
+		- Charge sent to a particular col/row to turn on a pixel
+		- Slow and imprecise voltage control
+	- Active-Matrix
+		- Thin film transistors (TFTs) are arranged in a matrix on the glass
+		- Only the proper row and column are switched on
+		- Amount of voltage is proportional to light passing through
+		- Colour LCDs have 3 sub-pixels (RGB)
+#### Plasma Displays
+- Invented in 1964 at University of Illinois
+- Flat display with many cells between two glass panels, containing 
