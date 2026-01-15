@@ -77,3 +77,8 @@
 - Stereo glasses and 3D surround sound can enhance the effect
 - Allow direction interaction/communication between users
 #### CAVE Systems
+- Designed in 1992
+- CAVE Automatic Virtual Environment
+- Ideally overcomes poor resolution and inability to share experience with others, and isolation from reality
+- Head tracking allows for a correct stereo perspective
+- Disadvantages: Expensive, still in prototypes, and very specific care/maintenance
