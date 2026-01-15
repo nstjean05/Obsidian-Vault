@@ -66,3 +66,14 @@
 #### Head-Mounted Displays (HMDs)
 - One or two small displays
 - CRT, LCD, LCoS, or OLED
+- Include sound equipment and a tracking device
+- Stereoscopic images for two displays
+- FOV from 25-45°
+#### Fish Tank VR
+- Use a high-res monitor with hardware for stereoscopic viewing
+- LCD shutter glasses alternately cover one eye and show an image to the other, producing a stereoscopic effect.
+#### Large Projection Screens
+- Semi-immersive
+- Stereo glasses and 3D surround sound can enhance the effect
+- Allow direction interaction/communication between users
+#### CAVE Systems
