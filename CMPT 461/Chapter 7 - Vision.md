@@ -8,4 +8,16 @@
 	- Relative Size
 	- Overlap
 	- etc.
-## Virtual Visu
+## Virtual Visual System
+- There are several factors for a sense of visual immersion
+	- FOV
+	- Refresh rate
+	- Stereopsis: ability to perceive the world in 3D
+	- Resolution
+## Graphical Display Technologies
+- **Cathode-Ray Tubes** (CRTs):
+	- Invented by Karl Ferdinand in 1879
+	- Coils use magnetism to deflect the ray of electrons to a point of phosphor, which displays on the screen
+- **Liquid Crystal Displays** (LCDs):
+	- Discovered by Friedrich Reinitzer in 1888
+	- 
