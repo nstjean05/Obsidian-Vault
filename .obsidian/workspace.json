@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CMPT 461/Chapter 7 - Vision.md",
+                "file": "ANTH 210 (Islamic Culture)/Lecture 1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Chapter 7 - Vision"
+              "title": "Lecture 1"
             }
           }
         ],
@@ -93,8 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 256.5,
-    "collapsed": true
+    "width": 256.5
   },
   "right": {
     "id": "1c1db9715e53cd8f",
@@ -200,6 +199,8 @@
   "active": "7f24b2415c9dc6e9",
   "lastOpenFiles": [
     "CMPT 461/Chapter 7 - Vision.md",
+    "ANTH 210 (Islamic Culture)/Lecture 1.md",
+    "ANTH 210 (Islamic Culture)",
     "RELS 475/Lecture 3 - Moment's of Transcendence, God's Creation, and the Transcending the Secular.md",
     "RELS 475/Lecture 2 - The Best People in Life are Free.md",
     "RELS 475/Lecture 1 - God's Creation and Transcending the Secular.md",
@@ -229,7 +230,6 @@
     "CMPT 242 (Computing Machine Organization)/Chapter 12 - A Programmerʼs View OfDevices, IO, And Buffering.md",
     "CMPT 242 (Computing Machine Organization)/Chapter 5 - Instruction Sets and Operands.md",
     "CMPT 242 (Computing Machine Organization)/Class 4 - Combining Circuits.md",
-    "CMPT 242 (Computing Machine Organization)/Class 37 - Metrics.md",
     "CMPT 380 (Artificial Intelligence)/genetic_algorithm.py",
     "z. Images/Pasted image 20251111110129.png",
     "z. Images/Pasted image 20251024124914.png",
@@ -245,7 +245,6 @@
     "z. Images/Pasted image 20250930125532.png",
     "z. Images/Pasted image 20250930125116.png",
     "z. Images/Pasted image 20250929135919.png",
-    "Git Workshop",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]
