@@ -5,4 +5,7 @@
 	- Love of this world is the desire for power, to satiate worldly desires
 - **Transience** of the human condition - we will die
 	- The answer to this pain of loss is immortality - going to heaven
+- Humans are aware of death, and don't want to
+	- Machines are not aware that they will die, but may perhaps develop that in the future.
+- Moments in time can define us
 - 
