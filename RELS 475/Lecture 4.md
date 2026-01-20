@@ -3,4 +3,6 @@
 - Augustine's Two Cities
 	- Either have love for God, or love of things of this world
 	- Love of this world is the desire for power, to satiate worldly desires
-	- 
+- **Transience** of the human condition - we will die
+	- The answer to this pain of loss is immortality - going to heaven
+- 
