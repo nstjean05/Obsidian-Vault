@@ -1,0 +1,6 @@
+- Does God have a different degree of presence in some places than others?
+- How meaningful is that presence, and how do we associate places with presence?
+- Augustine's Two Cities
+	- Either have love for God, or love of things of this world
+	- Love of this world is the desire for power, to satiate worldly desires
+	- 

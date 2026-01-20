@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CMPT 470 (Bioinformatics)/2. Databases.md",
+                "file": "RELS 475/Lecture 4.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2. Databases"
+              "title": "Lecture 4"
             }
           }
         ]
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 256.5,
-    "collapsed": true
+    "width": 256.5
   },
   "right": {
     "id": "1c1db9715e53cd8f",
@@ -184,6 +183,9 @@
   },
   "active": "7f24b2415c9dc6e9",
   "lastOpenFiles": [
+    "RELS 475/Lecture 3 - Moment's of Transcendence, God's Creation, and the Transcending the Secular.md",
+    "RELS 475/Lecture 4.md",
+    "RELS 475/Lecture 2 - The Best People in Life are Free.md",
     "CMPT 470 (Bioinformatics)/1. Introduction.md",
     "CMPT 470 (Bioinformatics)/3. Pairwise Sequencing Algorithms.md",
     "CMPT 470 (Bioinformatics)/2. Databases.md",
@@ -192,8 +194,6 @@
     "CMPT 470 (Bioinformatics)",
     "CMPT 461/Chapter 7 - Vision.md",
     "ANTH 210 (Islamic Culture)",
-    "RELS 475/Lecture 3 - Moment's of Transcendence, God's Creation, and the Transcending the Secular.md",
-    "RELS 475/Lecture 2 - The Best People in Life are Free.md",
     "RELS 475/Lecture 1 - God's Creation and Transcending the Secular.md",
     "Untitled.md",
     "CMPT 461/Chapter 1 - Introduction.md",
@@ -216,7 +216,6 @@
     "CMPT 242 (Computing Machine Organization)/Chapter 8 - Main Memory and Memory Addressing.md",
     "CMPT 242 (Computing Machine Organization)/Chapter 7 - Assembly Languages and Programming Paradigm.md",
     "CMPT 242 (Computing Machine Organization)/Chapter 9 - Technologies and Virtual Addressing.md",
-    "CMPT 242 (Computing Machine Organization)/Chapter 10 - Caches and Caching.md",
     "CMPT 380 (Artificial Intelligence)/genetic_algorithm.py",
     "z. Images/Pasted image 20251111110129.png",
     "z. Images/Pasted image 20251024124914.png",
