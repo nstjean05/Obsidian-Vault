@@ -17,4 +17,13 @@
 	- Sinner - righteous
 	- Politics - love
 	- Secular - transcendent
+- **Anabaptist Social Separatism**
+	- Two viewpoints:
+		- Same separation and hierarchy
+			- Martin Luther: If you are a butcher, be the best butcher you can.
+			- The profession is not necessarily related to the spiritual
+		- Physically enact sacred-secular hierarchy
+			- Anabaptists: Physically separate into self-sustaining communities
+	- Today, there are ideas such as *The Benedict Option* where we can live as Christians in a non-Christian nation.
+- The embraces sacred-secular hierarchy
 - 
