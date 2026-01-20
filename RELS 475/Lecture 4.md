@@ -26,4 +26,8 @@
 			- Anabaptists: Physically separate into self-sustaining communities
 	- Today, there are ideas such as *The Benedict Option* where we can live as Christians in a non-Christian nation.
 - The embraces sacred-secular hierarchy
-- 
+	1. Common and Special Grace
+		- Common - Holding open the door, using turn signals
+		- Special - Bible
+	2. General and Spiritual Revelation
+	3. Creation and Redemption
