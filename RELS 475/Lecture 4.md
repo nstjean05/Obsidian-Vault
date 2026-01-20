@@ -1,6 +1,6 @@
 - Does God have a different degree of presence in some places than others?
 - How meaningful is that presence, and how do we associate places with presence?
-- Augustine's Two Cities
+- **Augustine's Two Cities**
 	- Either have love for God, or love of things of this world
 	- Love of this world is the desire for power, to satiate worldly desires
 - **Transience** of the human condition - we will die
@@ -8,4 +8,13 @@
 - Humans are aware of death, and don't want to
 	- Machines are not aware that they will die, but may perhaps develop that in the future.
 - Moments in time can define us
+- **Luther's Two Kingdoms**
+	- Faith and Salvation --> Spiritual/Inward Kingdom
+	- State and Church --> Civic/Temporal/Outward Kingdom
+- Paradigms:
+	- Reason - faith
+	- Law - gospel
+	- Sinner - righteous
+	- Politics - love
+	- Secular - transcendent
 - 
