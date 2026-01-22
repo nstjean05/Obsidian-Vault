@@ -28,6 +28,9 @@
 - The embraces sacred-secular hierarchy
 	1. Common and Special Grace
 		- Common - Holding open the door, using turn signals
-		- Special - Bible
-	2. General and Spiritual Revelation
+		- You can participate in these to the fullest extent, and not be moving towards salvation
+	2. General and Special Revelation
+		- General - people have minds that can be used to generate knowledge
+		- Special - God gives a revelation to an individual or group a specific revelation for a specific purpose
 	3. Creation and Redemption
+		- 
