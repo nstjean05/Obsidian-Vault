@@ -78,3 +78,10 @@
 	- The body had to be buried before the sun went down, or within 24 hours
 	- This contributed to the idea of spirits as the ancestors may not be happy they were left there when they died.
 - This translated to Islam, which has very specific hygiene and burial rights.
+## Culture
+- The Qur'an's significant stories demonstrate a derivation from the New Testament
+- The Bedouin's love of poetry was Muhammads only cultural legacy
+- Qur'an doesn't mention head coverings, but the **Hadith** has four mentions of Muhammad talking about the *hijab*
+	- It is unclear in the Hadith of whether the hijab refers to a head covering or not
+	- A *niqab* is a face covering up to the eyes
+	- 
