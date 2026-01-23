@@ -1,1 +1,12 @@
-- 
+- *The Haram* - The Forbidden Triangle
+	- Within the borders of Mecca, Medina, and Bedr
+	- No wars, weapons, etc. allowed in this holy region
+- *Jahiliyyah*
+	- Arabic for *ignorance*
+	- When you existed in the time of jahiliyyah, you lived before having the revelation from God, and are therefore not bound by the law.
+	- People of this time get to go to heaven.
+	- If you die today, then you will be judged according to your books of life.
+- Three main trade routes through the ANE
+	- Silk road: Damascus --> Babylon --> Iran --> China
+	- Nile route: Alexandria --> Red sea --> around Yemen/Oman --> India/China
+	- Desert roads: A series of roads connecting Damascus and areas between the Red Sea and Persian Gulf
