@@ -50,4 +50,21 @@
 - There were a few tribes practising Judaism
 - Pagan Arabs made up the majority, believing in ~360 Gods and Goddesses
 	- Allah was a religious reality for few Arabs
-	- Arabia was a highly P
+	- Arabia was a highly polytheistic environment
+	- Held beliefs in a myriad of demons, djinn, demigods, etc.
+		- These were seen as evil characters
+	- Their beliefs are seen through their stories of genies, ghouls, etc.
+		- As seen in the *One Thousand and One Nights* stories
+- Both the sun and moon were worshipped, the moon being superior
+- **Moon**
+	- Brings coolness, light, and shade
+	- Signifies a nomadic lifestyle
+- **Sun**
+	- Heat, fire, and hell were associated
+	- Agricultural lifestyle
+	- Sun was viewed as an enemy, depriving them of water, pasture, etc.
+- **Al Manat** and **Al Uzza** were the two primary goddesses
+	- Important as they are female Gods, sexualized, and allowed to have icons made of them.
+	- Invited orgies and an open sex life
+- Islam then comes and swings the pendulum all the way to the other side.
+	- This brings a bi
