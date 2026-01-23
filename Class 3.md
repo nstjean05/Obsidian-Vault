@@ -16,4 +16,21 @@
 	- Problem or goal to solve/accomplish
 	- Steps taken to address/solve the problem
 	- Outcome as a result of the actions
+## Common Student Pitfalls
+- Listing tools without context
+	- Weak: Used Python, Git, NumPy, Pandas, and Matplotlib for course projects
+- Describing tasks instead of contributions
+	- Weak: Worked on a group project to build a web application for a class assignment
+- The industry cares less about what you were assigned and more about what you contributed, learned, and acheived.
+## Quantifying Results and Outcomes
+- Numbers increase credibility and clarity
+	- Performance measures
+	- Scale
+	- Scope
+- Qualitative outcomes are okay when numbers are limited
+	- Efficiency improvements
+	- Reliability/maintainability gains
+	- User or team impact
+	- Learning outcomes achieved
+## Industry vs. Academic Language
 - 
