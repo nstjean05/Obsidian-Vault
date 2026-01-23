@@ -66,5 +66,15 @@
 - **Al Manat** and **Al Uzza** were the two primary goddesses
 	- Important as they are female Gods, sexualized, and allowed to have icons made of them.
 	- Invited orgies and an open sex life
+	- Women of low class or slavery were not allowed to wear a head covering, as a point of shame
 - Islam then comes and swings the pendulum all the way to the other side.
-	- This brings a bi
+	- A major shift occurs at Mecca, as they cannot drink alcohol, have prostitution, drugs, etc.
+	- All women now have the right to wear a head covering
+		- *Note: this is a right, not an obligation*
+- The 360 idols are found surrounding the Kaaba
+- Animal and human sacrifice (to the goddess Venus) was common
+	- It is said that Muhammad himself gave sacrifices to Venus
+- Since the people were Bedouins, there were no graveyards
+	- The body had to be buried before the sun went down, or within 24 hours
+	- This contributed to the idea of spirits as the ancestors may not be happy they were left there when they died.
+- This translated to Islam, which has very specific hygiene and burial rights.
