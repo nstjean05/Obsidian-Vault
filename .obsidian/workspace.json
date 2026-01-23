@@ -74,8 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 256.5,
-    "collapsed": true
+    "width": 256.5
   },
   "right": {
     "id": "1c1db9715e53cd8f",
@@ -110,12 +109,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Class 35 - Considerations.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Class 35 - Considerations"
+              "title": "Outgoing links"
             }
           },
           {
@@ -159,12 +157,11 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -178,11 +175,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c05fe10b55b6a8bd",
+  "active": "45cdf323638441e0",
   "lastOpenFiles": [
     "ANTH 210 (Islamic Culture)/Lecture 1 - Basics.md",
     "Language Learning/Learning Java/6 - Shopping Cart Program.md",
-    "Class 3.md",
+    "CMPT 102 (Career Preparation in Technology)/Class 3.md",
     "CMPT 102 (Career Preparation in Technology)/Class 1 - Course Overview.md",
     "ANTH 210 (Islamic Culture)/Lecture 2 - The Time Before Islam.md",
     "RELS 475/Lecture 1 - God's Creation and Transcending the Secular.md",
