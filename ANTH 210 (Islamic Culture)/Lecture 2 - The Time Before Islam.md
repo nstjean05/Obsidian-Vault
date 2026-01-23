@@ -84,4 +84,5 @@
 - Qur'an doesn't mention head coverings, but the **Hadith** has four mentions of Muhammad talking about the *hijab*
 	- It is unclear in the Hadith of whether the hijab refers to a head covering or not
 	- A *niqab* is a face covering up to the eyes
-	- 
+	- Depending on the school of thought, the Islamic Law is interpreted differently
+- 
