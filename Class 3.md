@@ -32,5 +32,6 @@
 	- Reliability/maintainability gains
 	- User or team impact
 	- Learning outcomes achieved
-## Industry vs. Academic Language
+## General
+- Try to keep the style simple - a complicated but aesthetically pleasing resume can be difficult to scan
 - 
