@@ -1,3 +1,4 @@
+## Arabian Contexts
 - *The Haram* - The Forbidden Triangle
 	- Within the borders of Mecca, Medina, and Bedr
 	- No wars, weapons, etc. allowed in this holy region
@@ -24,23 +25,29 @@
 		- Couldn't sleep like some other cultures (such as a siesta in Mexico), since it was too dangerous around.
 	- This led to great development of music, literature, and storytelling
 - Led to learning about the stars and moon, as most walking was done at night.
-### Economic Components
+## Economic Components
 - Three main groups of people:
 	- Bedouins
 	- Farmers
 	- Traders
-#### Bedouins
+### Bedouins
 - Nomadic pastoralists of sheep and cows
 - Regular raids on one another and caravans
 - Small scale town trading
-#### Farmers
+### Farmers
 - Farming the land was difficult
 - Easy to get raided
 - Rain was infrequent, soil was bad, no irrigation
-#### Traders
+### Traders
 - These are the people who lived in cities, forming the economic and political elite
 - Carrying luxury goods from the Indian ocean region to southern Arabia and the Mediterranean
 - **Mecca** was the most important trade center in Arabia, dominated by the Quraysh tribe
 	- This is also the locations of the **Kaaba**, founded by Abraham
 	- People had come here for centuries, even before Islam
-	- Islam somewhat took over the habit of this pilgrammage
+	- Islam somewhat took over the habit of this pilgrimage, as it brings in wealth
+## Religion
+- Christianity was not active in the region, pre-Islam
+- There were a few tribes practising Judaism
+- Pagan Arabs made up the majority, believing in ~360 Gods and Goddesses
+	- Allah was a religious reality for few Arabs
+	- Arabia was a highly P
