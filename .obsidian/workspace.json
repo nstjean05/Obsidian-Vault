@@ -20,8 +20,37 @@
               "icon": "lucide-file",
               "title": "3. Pairwise Sequence Alignment"
             }
+          },
+          {
+            "id": "f7c4cfd8d084cd19",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "RELS 475/Lecture 1 - God's Creation and Transcending the Secular.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Lecture 1 - God's Creation and Transcending the Secular"
+            }
+          },
+          {
+            "id": "d60211a9bbbdba11",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "RELS 475/Lecture 5.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Lecture 5"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -78,8 +107,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 256.5,
-    "collapsed": true
+    "width": 256.5
   },
   "right": {
     "id": "1c1db9715e53cd8f",
@@ -114,12 +142,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CMPT 470 (Bioinformatics)/3. Pairwise Sequence Alignment.md",
+                "file": "RELS 475/Lecture 5.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 3. Pairwise Sequence Alignment"
+              "title": "Outgoing links from Lecture 5"
             }
           },
           {
@@ -143,13 +171,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CMPT 470 (Bioinformatics)/3. Pairwise Sequence Alignment.md",
+                "file": "RELS 475/Lecture 5.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 3. Pairwise Sequence Alignment"
+              "title": "Outline of Lecture 5"
             }
           }
         ],
@@ -172,10 +200,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e795df88bc831381",
+  "active": "d60211a9bbbdba11",
   "lastOpenFiles": [
-    "CMPT 470 (Bioinformatics)/2. Databases.md",
+    "RELS 475/Lecture 4.md",
+    "RELS 475/Lecture 3 - Moment's of Transcendence, God's Creation, and the Transcending the Secular.md",
+    "RELS 475/Lecture 5.md",
+    "RELS 475/Lecture 1 - God's Creation and Transcending the Secular.md",
     "CMPT 470 (Bioinformatics)/3. Pairwise Sequence Alignment.md",
+    "CMPT 470 (Bioinformatics)/2. Databases.md",
     "CMPT 242 (Computing Machine Organization)/Chapter 3 - Data and Program Representation.md",
     "CMPT 470 (Bioinformatics)/4..md",
     "CMPT 470 (Bioinformatics)/1. Introduction.md",
@@ -184,11 +216,8 @@
     "CMPT 102 (Career Preparation in Technology)/Class 3.md",
     "CMPT 102 (Career Preparation in Technology)/Class 1 - Course Overview.md",
     "ANTH 210 (Islamic Culture)/Lecture 2 - The Time Before Islam.md",
-    "RELS 475/Lecture 1 - God's Creation and Transcending the Secular.md",
     "CMPT 461 (Immersive Computing)/Chapter 7 - Vision.md",
     "Untitled",
-    "RELS 475/Lecture 4.md",
-    "RELS 475/Lecture 3 - Moment's of Transcendence, God's Creation, and the Transcending the Secular.md",
     "RELS 475/Lecture 2 - The Best People in Life are Free.md",
     "CMPT 461 (Immersive Computing)/461 Flash Cards.md",
     "CMPT 470 (Bioinformatics)",
@@ -207,7 +236,6 @@
     "RELS 475",
     "CMPT 242 (Computing Machine Organization)/Class 17 -.md",
     "CMPT 242 (Computing Machine Organization)/Class 18 -.md",
-    "CMPT 242 (Computing Machine Organization)/Class 19 -.md",
     "CMPT 380 (Artificial Intelligence)/genetic_algorithm.py",
     "z. Images/Pasted image 20251111110129.png",
     "z. Images/Pasted image 20251024124914.png",
