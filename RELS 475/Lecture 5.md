@@ -16,4 +16,5 @@
 	- Job 34:14-15
 		- If it were his intention and he withdrew his spirit and breath, all humanity would perish together and mankind would return to the dust.
 	- Augustine - Why are we restless? Because this breath is irritating us to become so.
-- 
+- Why does the spirit come to us?
+	- 
