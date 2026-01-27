@@ -48,9 +48,19 @@
               "icon": "lucide-file",
               "title": "Lecture 5"
             }
+          },
+          {
+            "id": "3fdec674ec7f32a2",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -142,12 +152,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "RELS 475/Lecture 5.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Lecture 5"
+              "title": "Outgoing links"
             }
           },
           {
@@ -171,13 +180,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "RELS 475/Lecture 5.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Lecture 5"
+              "title": "Outline"
             }
           }
         ],
@@ -200,11 +208,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d60211a9bbbdba11",
+  "active": "3fdec674ec7f32a2",
   "lastOpenFiles": [
+    "RELS 475/Lecture 5.md",
     "RELS 475/Lecture 4.md",
     "RELS 475/Lecture 3 - Moment's of Transcendence, God's Creation, and the Transcending the Secular.md",
-    "RELS 475/Lecture 5.md",
     "RELS 475/Lecture 1 - God's Creation and Transcending the Secular.md",
     "CMPT 470 (Bioinformatics)/3. Pairwise Sequence Alignment.md",
     "CMPT 470 (Bioinformatics)/2. Databases.md",
