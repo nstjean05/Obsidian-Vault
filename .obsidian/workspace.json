@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "RELS 475/Lecture 5.md",
+                "file": "CMPT 461 (Immersive Computing)/Chapter.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lecture 5"
+              "title": "Chapter"
             }
           }
         ],
@@ -142,12 +142,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "RELS 475/Lecture 5.md",
+                "file": "CMPT 461 (Immersive Computing)/Chapter.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Lecture 5"
+              "title": "Outgoing links from Chapter"
             }
           },
           {
@@ -171,13 +171,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "RELS 475/Lecture 5.md",
+                "file": "CMPT 461 (Immersive Computing)/Chapter.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Lecture 5"
+              "title": "Outline of Chapter"
             }
           }
         ],
@@ -203,6 +203,7 @@
   "active": "d60211a9bbbdba11",
   "lastOpenFiles": [
     "RELS 475/Lecture 5.md",
+    "CMPT 461 (Immersive Computing)/Chapter.md",
     "RELS 475/Lecture 4.md",
     "RELS 475/Lecture 3 - Moment's of Transcendence, God's Creation, and the Transcending the Secular.md",
     "RELS 475/Lecture 1 - God's Creation and Transcending the Secular.md",
@@ -235,7 +236,6 @@
     "CMPT 242 (Computing Machine Organization)/Class 16 -.md",
     "RELS 475",
     "CMPT 242 (Computing Machine Organization)/Class 17 -.md",
-    "CMPT 242 (Computing Machine Organization)/Class 18 -.md",
     "CMPT 380 (Artificial Intelligence)/genetic_algorithm.py",
     "z. Images/Pasted image 20251111110129.png",
     "z. Images/Pasted image 20251024124914.png",
