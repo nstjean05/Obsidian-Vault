@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CMPT 461 (Immersive Computing)/Chapter.md",
+                "file": "CMPT 461 (Immersive Computing)/Chapter 2 - Computer Graphics.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Chapter"
+              "title": "Chapter 2 - Computer Graphics"
             }
           }
         ],
@@ -107,7 +107,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 256.5
+    "width": 256.5,
+    "collapsed": true
   },
   "right": {
     "id": "1c1db9715e53cd8f",
@@ -142,12 +143,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CMPT 461 (Immersive Computing)/Chapter.md",
+                "file": "CMPT 461 (Immersive Computing)/Chapter 2 - Computer Graphics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Chapter"
+              "title": "Outgoing links from Chapter 2 - Computer Graphics"
             }
           },
           {
@@ -171,13 +172,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CMPT 461 (Immersive Computing)/Chapter.md",
+                "file": "CMPT 461 (Immersive Computing)/Chapter 2 - Computer Graphics.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Chapter"
+              "title": "Outline of Chapter 2 - Computer Graphics"
             }
           }
         ],
@@ -203,7 +204,7 @@
   "active": "d60211a9bbbdba11",
   "lastOpenFiles": [
     "RELS 475/Lecture 5.md",
-    "CMPT 461 (Immersive Computing)/Chapter.md",
+    "CMPT 461 (Immersive Computing)/Chapter 2 - Computer Graphics.md",
     "RELS 475/Lecture 4.md",
     "RELS 475/Lecture 3 - Moment's of Transcendence, God's Creation, and the Transcending the Secular.md",
     "RELS 475/Lecture 1 - God's Creation and Transcending the Secular.md",
