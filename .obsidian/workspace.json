@@ -48,19 +48,9 @@
               "icon": "lucide-file",
               "title": "Lecture 5"
             }
-          },
-          {
-            "id": "588b364d44eac99d",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -152,11 +142,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "RELS 475/Lecture 5.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Lecture 5"
             }
           },
           {
@@ -180,12 +171,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "RELS 475/Lecture 5.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Lecture 5"
             }
           }
         ],
@@ -208,7 +200,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "588b364d44eac99d",
+  "active": "d60211a9bbbdba11",
   "lastOpenFiles": [
     "RELS 475/Lecture 5.md",
     "RELS 475/Lecture 4.md",
