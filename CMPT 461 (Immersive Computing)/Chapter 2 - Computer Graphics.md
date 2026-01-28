@@ -18,4 +18,7 @@
 		- Triangles, squares, hexagons
 	- Transformations
 		- Translation, rotation, reflection
-- In CS, *tessellation* is the proces
+- In CS, *tessellation* is the process of subdividing a surface into a mesh of polygons
+	- Tessellation ≈ Triangle Subdivision
+- *Vertex Set* = A dataset of polygons which divide a scene into renderable structures
+- 
