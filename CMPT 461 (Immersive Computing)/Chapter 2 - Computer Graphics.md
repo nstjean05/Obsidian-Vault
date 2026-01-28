@@ -21,4 +21,25 @@
 - In CS, *tessellation* is the process of subdividing a surface into a mesh of polygons
 	- Tessellation ≈ Triangle Subdivision
 - *Vertex Set* = A dataset of polygons which divide a scene into renderable structures
+### Curves
+- Represented by a list of points
+	- Connected with short line segments
+	- Interpolation = loose drawing precision
+	- Storage issues and limited resolution
+	- Problems with computation and transformation
+- Represented by analytical definition
+	- Precise
+	- Compact storage
+	- Easy calculation of intermediate points
+- **Interpolation**: Calculation of the value of a function between the already known values
+#### Nonparametric Curves
+- Explicit: y = f(x) --> Straight lines
+- Implicit: f(x,y) = 0 --> curves/circles
+- Limitations:
+	- Axis-dependent
+		- Choice of coordinate system affects ease of use
+	- Unequal point distribution
+		- Affects the quality and accuracy of the visual
+- The 
+## 3D Modelling
 - 
