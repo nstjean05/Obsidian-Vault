@@ -40,6 +40,6 @@
 		- Choice of coordinate system affects ease of use
 	- Unequal point distribution
 		- Affects the quality and accuracy of the visual
-- The 
-## 3D Modelling
+### Parametric Curves
+- Each point's coordinates in a curve are represented as functions of a single parameter that varies across a predefined range of values
 - 
