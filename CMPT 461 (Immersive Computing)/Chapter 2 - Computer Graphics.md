@@ -43,7 +43,23 @@
 ### Parametric Curves
 - Each point's coordinates in a curve are represented as functions of a single parameter that varies across a predefined range of values
 
-
+- How do we represent curves in computer graphics?
+	- 
+- What are the advantages of using parametric curves over non-parametric curves?
+	- Axis independent
+	- Normalize the parameter t between 0 and 1
+	- Can apply transformations
+- What is the difference between local and global illumination?
+	- 
+- What are the three different reflections in the local illumination model?
+	- Ambient
+		- Background illumination of unlit surfaces
+	- Diffused
+		- Dull, matte surfaces
+		- Equal intensity from all directions
+	- Specular
+		- Shiny surfaces
+		- Bright highlights from certain directions
 
 
 
