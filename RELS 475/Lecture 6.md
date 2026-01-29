@@ -10,4 +10,6 @@
 - Day 5: Fill sea
 - Day 6: Fill land
 ### Key Differences Between the Tiamat and Bible
+- The Genesis 1 account is not solely dependent on Babylonian theology, taking input from Egyptian, Canaanite, Sumerian, and other cultures.
+- Although Genesis is unique and is scriptural, it reflects ancient ways of thinking.
 - 
