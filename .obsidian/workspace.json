@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CMPT 461 (Immersive Computing)/Chapter 2 - Computer Graphics.md",
+                "file": "RELS 475/Lecture 6.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Chapter 2 - Computer Graphics"
+              "title": "Lecture 6"
             }
           }
         ],
@@ -143,12 +143,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CMPT 461 (Immersive Computing)/Chapter 2 - Computer Graphics.md",
+                "file": "RELS 475/Lecture 6.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Chapter 2 - Computer Graphics"
+              "title": "Outgoing links from Lecture 6"
             }
           },
           {
@@ -172,13 +172,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CMPT 461 (Immersive Computing)/Chapter 2 - Computer Graphics.md",
+                "file": "RELS 475/Lecture 6.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Chapter 2 - Computer Graphics"
+              "title": "Outline of Lecture 6"
             }
           }
         ],
@@ -203,8 +203,9 @@
   },
   "active": "d60211a9bbbdba11",
   "lastOpenFiles": [
-    "RELS 475/Lecture 5.md",
     "CMPT 461 (Immersive Computing)/Chapter 2 - Computer Graphics.md",
+    "RELS 475/Lecture 6.md",
+    "RELS 475/Lecture 5.md",
     "RELS 475/Lecture 4.md",
     "RELS 475/Lecture 3 - Moment's of Transcendence, God's Creation, and the Transcending the Secular.md",
     "RELS 475/Lecture 1 - God's Creation and Transcending the Secular.md",
@@ -236,7 +237,6 @@
     "CMPT 461 (Immersive Computing)",
     "CMPT 242 (Computing Machine Organization)/Class 16 -.md",
     "RELS 475",
-    "CMPT 242 (Computing Machine Organization)/Class 17 -.md",
     "CMPT 380 (Artificial Intelligence)/genetic_algorithm.py",
     "z. Images/Pasted image 20251111110129.png",
     "z. Images/Pasted image 20251024124914.png",
