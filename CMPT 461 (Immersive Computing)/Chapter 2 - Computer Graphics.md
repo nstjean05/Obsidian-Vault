@@ -42,4 +42,13 @@
 		- Affects the quality and accuracy of the visual
 ### Parametric Curves
 - Each point's coordinates in a curve are represented as functions of a single parameter that varies across a predefined range of values
-- 
+
+
+
+
+
+
+
+
+
+https://learn.twu.ca/pluginfile.php/1692258/mod_resource/content/1/Chapter%202%28Part2%29.pdf
