@@ -9,3 +9,5 @@
 - Day 4: Fill heavens
 - Day 5: Fill sea
 - Day 6: Fill land
+### Key Differences Between the Tiamat and Bible
+- 
