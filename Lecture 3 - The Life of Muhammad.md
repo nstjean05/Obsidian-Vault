@@ -39,4 +39,9 @@
 	- Question the legitimacy of the shrines in Mecca
 	- Jeopardize the traditional pilgrimages to the Kaaba
 	- Reduce incoming trade
-- 
+- When Muhammad and his followers were forced out, they fled to Medina (Yathrib)
+	- He was asked to be the leader in Medina, as they were troubled by dissent
+	- Medina is a term for *city*, but Yathrib became colloquially known as such
+- The journey from Mecca to Medina is called the Hijra
+	- This event is of such significance that 622 is the year in which the Islamic calendar begins.
+- There is a 
