@@ -74,6 +74,13 @@
 	- Sunni - Mullah
 	- These leaders led Friday prayers and usually offered sermons
 - However, there is no official appointments
-- There are further religious appointments of judges
+- There are further religious appointments of judges who answer questions of the law
 	- Shia - Mufti
-	- 
+	- Sunni - Ayatollah
+- In order to become an Ayatollah, you have to be a *Sayed*
+	- Sayeds come from the family of the prophet Muhammad
+	- Therefore, they are enlightened, having greater authority
+	- Can't argue with them in the same way as a Mufti
+- **The Sunna** were compiled after Muhammad by his followers
+	- Some additional teachings, sayings, and prayers
+- 
