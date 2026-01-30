@@ -17,8 +17,47 @@
 - Email
 - GitHub/Portfolio
 - LinkedIn
-#### 
-
-#### 
-
-#### 
+- Typically, addresses are no longer included
+#### Education
+- Full name of your degree and major
+	- No abbreviations
+- List the name of the institution that granted the degree, along with the city and province
+- Include GPA if it is 3.0 or higher
+- Include relevant course work and projects
+	- Extra curricular involvement
+- If not in first year, omit high school experience
+#### Technical Skills
+- Include technical skills
+- Reflect skill level accurately
+#### Experience
+- Include internship/co-op experience, paid work, volunteer work
+- Position title, company, province, etc.
+- WHO Method:
+	- What you did
+	- How you did it
+	- Outcomes
+#### Honours
+- List only honours earned after high school
+- Any scholarships, lists, etc.
+#### ATS
+- Automated tracking systems (ATS)
+- Automatically scan to filter and rank resumes
+- They use:
+	- Keyword matching
+	- Parsing
+	- Ranking
+- They prioritize:
+	- Plain text and standard formatting
+	- Clear section headings
+	- Keyword matching
+	- Logical structure
+- Submit as PDF unless otherwise instructed
+- Use simple fonts and consistent formatting
+- Avoid text boxes, columns, graphics, icons
+#### Keyword Optimization
+- Do not claim skills you do not posses
+- Use qualifiers
+	- Familiar with
+	- Developing proficiency
+	- Experiences
+- 
