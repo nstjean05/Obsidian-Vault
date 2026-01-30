@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CMPT 470 (Bioinformatics)/5. Phylogeny.md",
+                "file": "CMPT 470 (Bioinformatics)/5. Phylogenetic Trees.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "5. Phylogeny"
+              "title": "5. Phylogenetic Trees"
             }
           }
         ],
@@ -121,7 +121,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 256.5
+    "width": 256.5,
+    "collapsed": true
   },
   "right": {
     "id": "1c1db9715e53cd8f",
@@ -156,12 +157,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CMPT 470 (Bioinformatics)/5. Phylogeny.md",
+                "file": "CMPT 470 (Bioinformatics)/5. Phylogenetic Trees.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 5. Phylogeny"
+              "title": "Outgoing links from 5. Phylogenetic Trees"
             }
           },
           {
@@ -185,13 +186,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CMPT 470 (Bioinformatics)/5. Phylogeny.md",
+                "file": "CMPT 470 (Bioinformatics)/5. Phylogenetic Trees.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 5. Phylogeny"
+              "title": "Outline of 5. Phylogenetic Trees"
             }
           }
         ],
@@ -217,7 +218,7 @@
   "active": "07b136cfd9c65938",
   "lastOpenFiles": [
     "CMPT 102 (Career Preparation in Technology)/Class 4.md",
-    "CMPT 470 (Bioinformatics)/5. Phylogeny.md",
+    "CMPT 470 (Bioinformatics)/5. Phylogenetic Trees.md",
     "CMPT 102 (Career Preparation in Technology)/Class 1 - Course Overview.md",
     "ANTH 210 (Islamic Culture)/Lecture 3 - The Life of Muhammad.md",
     "ANTH 210 (Islamic Culture)/Lecture 1 - Basics.md",
