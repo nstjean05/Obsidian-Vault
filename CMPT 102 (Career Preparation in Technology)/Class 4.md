@@ -73,12 +73,11 @@
 	- Why this role?
 	- Why you?
 - **Combine**
-	- Fit
-	- Want
-	- Can
+	- Fit - How well you fit the role
+	- Want - Do you want the job (or are you planning to move away soon after)
+	- Can - Do you actually have the skills to do the work
 	- The ideal candidate is at the intersection
 - Send to *Dear...*
 	- First and Last Name
 	- Hiring Manager
 	- Hiring Team
-- 
