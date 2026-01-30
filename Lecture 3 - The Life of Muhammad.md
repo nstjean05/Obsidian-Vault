@@ -29,4 +29,8 @@
 - This was miraculous, as he was unable to read nor write, but in this instance did both
 - Qadr 97:1-5
 	- He begins to doubt himself, but Kadija reaffirmed him
+- He is taken up to heaven on a horse, where he meets the prior prophets, who tell him that he is the final prophet
+- Muslims argue that in the time of Moses, Judaism was correct. In the time of Jesus, Christianity was correct. Since the time of Muhammad, Islam is correct.
+	- We must use the most updated version
+	- The issue with Christians are that they're stuck in the second message.
 - 
