@@ -60,4 +60,25 @@
 	- Familiar with
 	- Developing proficiency
 	- Experiences
+#### Customization
+- Create one master resume
+- Several targeted resumes for different job types
+#### Cover Letters
+- **Purpose**
+	- Context for the resume
+	- Explain motivation and alignment
+	- 1-2 experiences demonstrating a good fit
+- No longer than one page
+- **Clarify**
+	- Why this role?
+	- Why you?
+- **Combine**
+	- Fit
+	- Want
+	- Can
+	- The ideal candidate is at the intersection
+- Send to *Dear...*
+	- First and Last Name
+	- Hiring Manager
+	- Hiring Team
 - 
