@@ -22,7 +22,7 @@
 	- Muslims respect Jesus for doing so many of these
 - Muhammad got married to Kadija at 25, which gave him financial stability since his wife had business in trading
 ## Revelations
-- In 610 AD, Muhammad received the first of many revelations while meditiating and praying in the desert.
+- In 610 AD, Muhammad received the first of many revelations while meditating and praying in the desert.
 - He was commanded by Gabriel to teach all people two things;
 	1. An unquestioned belief in God (Allah)
 	2. A deep commitment to social justice
@@ -33,4 +33,10 @@
 - Muslims argue that in the time of Moses, Judaism was correct. In the time of Jesus, Christianity was correct. Since the time of Muhammad, Islam is correct.
 	- We must use the most updated version
 	- The issue with Christians are that they're stuck in the second message.
+## Teaching In Mecca
+- Muhammad began teaching in Mecca, but he converted few people outside of this own circle
+- Meccans feared that his new faith might be a detriment.
+	- Question the legitimacy of the shrines in Mecca
+	- Jeopardize the traditional pilgrimages to the Kaaba
+	- Reduce incoming trade
 - 
