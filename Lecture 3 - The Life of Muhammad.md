@@ -33,7 +33,7 @@
 - Muslims argue that in the time of Moses, Judaism was correct. In the time of Jesus, Christianity was correct. Since the time of Muhammad, Islam is correct.
 	- We must use the most updated version
 	- The issue with Christians are that they're stuck in the second message.
-## Teaching In Mecca
+## Teaching In Mecca and Medina
 - Muhammad began teaching in Mecca, but he converted few people outside of this own circle
 - Meccans feared that his new faith might be a detriment.
 	- Question the legitimacy of the shrines in Mecca
@@ -44,4 +44,14 @@
 	- Medina is a term for *city*, but Yathrib became colloquially known as such
 - The journey from Mecca to Medina is called the Hijra
 	- This event is of such significance that 622 is the year in which the Islamic calendar begins.
-- There is a 
+- The first mosque was in Medina
+- A large community of believers began to gather here
+	- Faith replaced blood ties, leading to greater unity
+- In the 620 there were a number of attacks by Muhammad's followers on Meccan caravans
+	- Culminated in 630 when Muhammad returned to Mecca in triumph
+	- Created confidence
+- When you die, especially as a martyr, your book of life is closed
+	- Shortcut to heaven
+## The Return to Mecca
+- He returns to Mecca as a prophet
+- It
