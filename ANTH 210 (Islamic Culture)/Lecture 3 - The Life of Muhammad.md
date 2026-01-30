@@ -54,4 +54,26 @@
 	- Shortcut to heaven
 ## The Return to Mecca
 - He returns to Mecca as a prophet
-- It
+- Muhammad makes it very clear that Ali is to be in charge after him
+	- All 3 of Muhammad's sons died, and Ali married his daughter
+- This is a major debate, as another group says that Muhammad never says Ali is to be his successor
+- Kadija died after they returned
+	- Once this happens, Muhammad took one wife from each of the tribes
+	- There are few sources about it, and little detail, so it is hard to absolutely know the cause of this
+- Muhammad asks people to surrender themselves under God
+- Initiates the five pillars
+	1. Faith - One God
+	2. Prayer - 5 Times/Day Towards Mecca
+	3. Alms - Give to the Poor (2.5% of net worth, once per year)
+	4. Fasting - Ramadan
+	5. Pilgrimage - Go to Mecca
+## Early Islam
+- The pillars affirmed Islam and built a sense of community
+- Leader of the church (like a pastor) is called:
+	- Shia - Imam
+	- Sunni - Mullah
+	- These leaders led Friday prayers and usually offered sermons
+- However, there is no official appointments
+- There are further religious appointments of judges
+	- Shia - Mufti
+	- 
