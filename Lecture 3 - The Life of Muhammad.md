@@ -13,4 +13,6 @@
 	- Sent to live with his grandfather, who died two years later
 	- Went to live with his uncle, who had a son called Ali. They became like brothers
 - Often in paintings, if two eyes are shown then they are 'good guys', but only one eye indicates 'bad' people
-- 
+- Faces of holy people are covered in Islam, and this is seen by Muslims as a shortcoming of Christianity
+	- If you put your own 'spin' on an image, this allows people to have an imagination, and inaccuracies
+- Every year there was an argument at Meccah ab
