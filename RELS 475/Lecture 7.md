@@ -1,0 +1,20 @@
+## Jesus and the Samaritan
+- John 4:1-30
+- There are several primary reasons why the Samaritan woman should have been an untouchable to Jesus.
+	- Religious
+		- Samaritans were seen to be of a different religion than Jews, and a corrupted one.
+		- Worshipped on the mountaintops rather than in Jerusalem
+		- John 4:20-21
+	- Gender
+		- She was a woman, and in this time/place men and woman would not have spoken to one another in public
+	- Moral
+		- Had 5 husbands, and was currently with someone who wasn't any of them
+	- Race
+		- Samaritans, native to Israel, had intermarried with other groups (ex. the Edomites) after the Assyrian invasion
+## The Powers
+- Colossians 1:15-20, 2:13-15
+- Romans 8:19-22
+- 1 Corinthians 2:6-8
+- Ephesians 6:10-17
+- There is repeated reference to '*powers*' in these texts
+- The cross may be viewed as a triumph, as the cross could not 

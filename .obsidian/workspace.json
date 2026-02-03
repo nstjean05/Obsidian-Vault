@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CMPT 470 (Bioinformatics)/6. Intro to Research.md",
+                "file": "RELS 475/Lecture 7.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "6. Intro to Research"
+              "title": "Lecture 7"
             }
           }
         ],
@@ -129,12 +129,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CMPT 470 (Bioinformatics)/6. Intro to Research.md",
+                "file": "RELS 475/Lecture 7.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 6. Intro to Research"
+              "title": "Outgoing links from Lecture 7"
             }
           },
           {
@@ -158,13 +158,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CMPT 470 (Bioinformatics)/6. Intro to Research.md",
+                "file": "RELS 475/Lecture 7.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 6. Intro to Research"
+              "title": "Outline of Lecture 7"
             }
           }
         ],
@@ -189,8 +189,9 @@
   },
   "active": "8fb22f4b3f674b31",
   "lastOpenFiles": [
-    "CMPT 470 (Bioinformatics)/5. Phylogenetic Analysis.md",
     "CMPT 470 (Bioinformatics)/6. Intro to Research.md",
+    "RELS 475/Lecture 7.md",
+    "CMPT 470 (Bioinformatics)/5. Phylogenetic Analysis.md",
     "CMPT 102 (Career Preparation in Technology)/Class 4.md",
     "CMPT 102 (Career Preparation in Technology)/Class 1 - Course Overview.md",
     "ANTH 210 (Islamic Culture)/Lecture 3 - The Life of Muhammad.md",
@@ -214,7 +215,6 @@
     "CMPT 470 (Bioinformatics)/4..md",
     "CMPT 470 (Bioinformatics)/1. Introduction.md",
     "Language Learning/Learning Java/6 - Shopping Cart Program.md",
-    "CMPT 102 (Career Preparation in Technology)/Class 3.md",
     "Untitled",
     "CMPT 470 (Bioinformatics)",
     "ANTH 210 (Islamic Culture)",
