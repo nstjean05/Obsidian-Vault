@@ -1,4 +1,4 @@
-## The Craft
+# The Craft
 - **Anima**: Soul, in Latin
 	- **Animate**: Give life to an inanimate object, image, or drawing
 	- **Animation**: Display of movement by rapidly displaying many still images
@@ -28,7 +28,16 @@
 - Natural phenomena (rain, snow, smoke, rivers, etc.)
 - Special lighting effects
 - Techniques like particle systems, procedural techniques, and dynamic simulations
-- 
+### Visual Effects for Live Action
+- Main goal is to complement the live action
+- Animated elements must visually match the live sequence
+	- Motion, lighting, perspective, etc.
+# Introduction to Computer Animation
+- **Computer Animation**: The illusion of movement is created by displaying on a screen a series of individual states of a dynamic scene
+- **Computer Animation Sequence**: A set of objects characterized by state variables evolving over time
+- **Animators**: Those who design the objects dynamic behaviour
+- **Animation Systems**: Provide users with motion control tools
+- **Scientific Visualization**: Computer animation helps to understand physical laws when new models are created and simulated
 
 
 
