@@ -17,4 +17,7 @@
 - 1 Corinthians 2:6-8
 - Ephesians 6:10-17
 - There is repeated reference to '*powers*' in these texts
-- The cross may be viewed as a triumph, as the cross could not 
+- The cross may be viewed as a triumph, as the cross could not hold Him back
+	- Jesus' endurance after death
+	- The *powers* couldn't deter Him from His mission
+- 
