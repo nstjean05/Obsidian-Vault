@@ -40,10 +40,35 @@
 - **Scientific Visualization**: Computer animation helps to understand physical laws when new models are created and simulated
 ### Animation Types
 - **Real Time Animation**: Computer calculates the movement fast enough to see them in real time.
-- 
-
-
-
+- **Image by Image**: Traditional animation
+	- Calculate the image --> Record them digitally --> Visualize/project them
+### Articulated Bodies/Virtual Characters
+- **Virtual characters**: Articulated figures with multiple layers
+- **Skeleton**: Hierarchically organized set of joints
+- **Humanoid Animation Specification** (H-Anim)
+	- Standard for common representation for virtual humans
+	- Defined by Web3D for VRML and MPEG4
+	- Fixed topology and naming convention for the structure
+	- Specify tools for adding an outer mesh, the skin or cloth
+# Motion Control Methods
+- According to the nature of privileged information at the level of animation control:
+	- **Geometric**
+		- Heavily relied on by the animator who provides lots of geometric data
+	- **Physical**
+		- Use physical laws to animate a simulation
+	- **Behavioural**
+		- Drives the behaviour of objects by providing high-level directives for a specific behaviour
+		- Ex. Autonomous creatures
+# Motion Capture and Performance Animation
+- Measuring and recording direct actions of a real person or animal
+- Used for 3D character animation
+- Mapping measurements onto the motion of a digital character
+	- Direct = Human arm motion controls characters arm
+	- Indirect = Mouse movement controls a characters head direction
+	- Real-time = Important in VR, allows position and orientation of a user's limbs etc.
+### Optical Motion Capture Systems
+- **Passive Optical Systems**
+	- Marke
 
 
 
