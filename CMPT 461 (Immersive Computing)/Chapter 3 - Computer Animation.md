@@ -38,6 +38,9 @@
 - **Animators**: Those who design the objects dynamic behaviour
 - **Animation Systems**: Provide users with motion control tools
 - **Scientific Visualization**: Computer animation helps to understand physical laws when new models are created and simulated
+### Animation Types
+- **Real Time Animation**: Computer calculates the movement fast enough to see them in real time.
+- 
 
 
 
