@@ -69,7 +69,32 @@
 ### Optical Motion Capture Systems
 - **Passive Optical Systems**
 	- Marke
-
+## Key-Frame Animation
+- Automatic generation of intermediate frames based on animated key-frames
+- Two fundamental approaches
+### Shape Interpolation
+- Creates the in-betweens
+- Transforms one geometrical form to another
+- Has problems if two drawings don't have the same number of vertices
+### Parametric
+- Interpolate parameters of the model
+- Spatial, physical, and visualization parameters decide the models behaviour
+- Forward kinematics method in joint space
+### Forward Kinematics
+- Most common technique for animating rigged characters
+- Specifies motion of joints through key poses
+- Lots of manual work
+- Near absolute control of the character
+- Specify the new position of every joint
+### Inverse Kinematics
+- Animating complex models and motion rigs with many joints
+- Determine the motion of the skeleton based on the final angles of key joints
+- Commonly applied to articulated figures
+- Simplifies the work of animation
+### Motion Retargeting
+- Coined by Michael Gleicher
+- Adaptation and adjustment of a captured motion to a different character
+- When 
 
 
 
