@@ -76,3 +76,20 @@
 - Many questions are a result
 	- Does God bless certain nations because of their religions?
 	- Does God bless nations that are more moral than others?
+	- Are sides picked?
+# Christendom and Monasticism
+- **Christendom** is a civilization in which a) Christianity is the dominant religion and b) that dominance has been backed up by social/legal compulsions
+- The idea of Christendom has historically been linked with the explicit vision of the church to play an important role in nation building
+	- Ex. Canada and many Western nations
+- Should the church work through the government to see Christian values enforced in the government?
+## Constantines Conversion
+- Christians were disenfranchised
+- Constantine comes to power
+	- Wins a great battle, claims it was God's will
+- Emergence of Christendom
+- Christian on Christian persecution
+	- Christians in Persia are on the 'wrong team' from a Roman POV
+- Religious coercion
+	- Ex. Charlemagne and the Germanic conquest
+- Price of patronage
+	- If the emperor is now 
