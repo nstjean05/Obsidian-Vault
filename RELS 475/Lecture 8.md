@@ -35,4 +35,24 @@
 # Christianity and Rome
 ## Christianity in the Shadows
 - It begins on the edge of Rome's empire in small Jewish groups
-- 
+- Christians generally liked Rome
+	- They didn't want to be persecuted, but the empire provided immense social stability
+	- Roman citizenship was prized
+	- Self-described exemplary Roman citizens
+		- Served in the armies
+	- Romans 13:1-5
+		- Be subject to the governing authorities
+	- 1 Peter 2:13-17
+		- Fear God, honour the emperor.
+	- Acts 5:27-32
+		- Peter is told by the Romans not to preach the gospel
+		- He responds saying that they must obey God, not humans
+- Apologists
+	- Offered a defense, explaining why Christians were not detrimental to the empire
+	- Said that they could not worship the emperor cult
+- Engagement and Integration
+	- Would use Roman philosophical contexts
+	- Follow the pattern of Roman governmental buildings
+## Christianity becomes Public
+- Rising vulnerability
+	- Once a minority group gets on the radar of the majorities, they can become a problem
