@@ -53,6 +53,26 @@
 - Engagement and Integration
 	- Would use Roman philosophical contexts
 	- Follow the pattern of Roman governmental buildings
-## Christianity becomes Public
+## Christianity Goes Public
 - Rising vulnerability
 	- Once a minority group gets on the radar of the majorities, they can become a problem
+- They became subject to persecution
+## Christians, Empire, and Civil Disobedience
+1. The emperor cult
+	- Had to please the gods for things in the empire to go well
+	- Sacrifices to images of the emperor made across the empire
+	- The *Genius of the Emperor*
+		- The gods would be represented through the emperor
+2. Social Subversion
+	- Not sacrificing to the emperor led to social subversion
+	- When things began to go poorly for the empire, the Christians not worshipping were to blame
+	- This was not an issue for non-Romans
+3. Roman Responses
+	- Christian persecution wasn't usually empire wide; it would break out in a region
+	- **Decian Persecution** (250 A.D.)
+4. Diocletian Persecution (303-313 A.D.)
+	- Ended by the Edict of Milan in 313
+	- Christians had a variety of responses, from apostatizing to martyrdom
+- Many questions are a result
+	- Does God bless certain nations because of their religions?
+	- Does God bless nations that are more moral than others?
