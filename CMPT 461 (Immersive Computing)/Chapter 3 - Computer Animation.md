@@ -94,7 +94,20 @@
 ### Motion Retargeting
 - Coined by Michael Gleicher
 - Adaptation and adjustment of a captured motion to a different character
-- When
+- It can be difficult to map motion from one skeleton to another
+- Having an intermediate skeleton makes it easy to map
+# Animation Methods
+### Procedural Animation
+- Creation of motion by a procedure, specifically describing a motion
+	- Used when motion can be described by an algorithm or formula
+- Automatically generate in real-time
+- Rules can be physical/behavioural
+### Physics-Based Animation
+- Simulate physically plausible behaviours
+- Little controls by the animator; mostly in setting up the initial configs
+- Used in video games, movies, interactive sims
+### Behavioural Animation
+- 
 
 
 
