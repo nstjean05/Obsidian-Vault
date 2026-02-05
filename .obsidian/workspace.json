@@ -34,9 +34,23 @@
               "icon": "lucide-file",
               "title": "Lecture 8"
             }
+          },
+          {
+            "id": "b940a0859cc87337",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lecture 9 - Christians, Empire, and Christendom.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Lecture 9 - Christians, Empire, and Christendom"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -129,12 +143,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "RELS 475/Lecture 8.md",
+                "file": "Lecture 9 - Christians, Empire, and Christendom.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Lecture 8"
+              "title": "Outgoing links from Lecture 9 - Christians, Empire, and Christendom"
             }
           },
           {
@@ -158,13 +172,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "RELS 475/Lecture 8.md",
+                "file": "Lecture 9 - Christians, Empire, and Christendom.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Lecture 8"
+              "title": "Outline of Lecture 9 - Christians, Empire, and Christendom"
             }
           }
         ],
@@ -187,9 +201,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8fb22f4b3f674b31",
+  "active": "b940a0859cc87337",
   "lastOpenFiles": [
     "RELS 475/Lecture 8.md",
+    "Lecture 9 - Christians, Empire, and Christendom.md",
     "RELS 475/Lecture 7 - The Powers.md",
     "RELS 475/Lecture 4 - The Two Kingdoms.md",
     "RELS 475/Lecture 5 - Biblical Creation.md",
@@ -214,7 +229,6 @@
     "CMPT 385 (Software Eng. I)/Unit 5 - Human Aspects of SW Engr.md",
     "RELS 475/Lecture 1 - God's Creation and Transcending the Secular.md",
     "RELS 475/Lecture 3 - Moment's of Transcendence, God's Creation, and the Transcending the Secular.md",
-    "CMPT 242 (Computing Machine Organization)/Chapter 3 - Data and Program Representation.md",
     "Untitled",
     "CMPT 470 (Bioinformatics)",
     "ANTH 210 (Islamic Culture)",

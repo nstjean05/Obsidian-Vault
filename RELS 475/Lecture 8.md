@@ -116,4 +116,7 @@
 	- Solitary, separated
 	- Sell of properties
 	- Often done by wealthy people
-	- **Anchorholds** are a room, built onto a church, wherein woman would be sealed
+	- **Anchorholds** are a room, built onto a church, wherein woman would be sealed to spend their life contemplating/worshipping
+- Pachomius and Communal Monasticism
+	- Started as a solitary monastic in the desert, but he read passages about community
+	- Benedictines become more popular
