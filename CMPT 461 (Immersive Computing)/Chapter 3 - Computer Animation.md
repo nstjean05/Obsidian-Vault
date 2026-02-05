@@ -94,7 +94,7 @@
 ### Motion Retargeting
 - Coined by Michael Gleicher
 - Adaptation and adjustment of a captured motion to a different character
-- When 
+- When
 
 
 
