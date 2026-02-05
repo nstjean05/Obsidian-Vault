@@ -82,7 +82,7 @@
 - The idea of Christendom has historically been linked with the explicit vision of the church to play an important role in nation building
 	- Ex. Canada and many Western nations
 - Should the church work through the government to see Christian values enforced in the government?
-## Constantines Conversion
+## Constantine's Conversion
 - Christians were disenfranchised
 - Constantine comes to power
 	- Wins a great battle, claims it was God's will
@@ -92,4 +92,28 @@
 - Religious coercion
 	- Ex. Charlemagne and the Germanic conquest
 - Price of patronage
-	- If the emperor is now 
+	- If the emperor is now Christian, and giving gifts to the clergy, they now expect to have some say in the direction of the church
+	- Ex. Council of Nicaea and Constantine
+- Urbane, stylish, and popular
+- Prestige and lethargy
+	- They have a memory of the church being persecuted, but now are not weeding out the less faithful
+## Monasticism
+- Became a form of protest, reform, and critique
+- Claims that the church has become worldly and secularized
+	- The 'Walmart,' 'big-box' churches aren't a 'true' form of Christianity
+	- They say that Jesus wouldn't go there
+- Want to reform the church, and for its rejuvenation
+- Martyrdom & Monasticism
+	- Martyrdom was the ideal, demonstrating that you were a peak Christian
+	- Once martyrdom was no longer available to you, then monasticism became a spiritual replacement
+- Theology and Practice
+	- Dualism
+		- The physical things in the world are inherently ungodly
+		- Fasting, little clothes, not bathing
+	- Asceticism
+	- Monasticism is at once a protest to the weakening of the church, and yet also assimilating to intellectual ideas common to the world (platonism - the body is degrading, try not to be of this world)
+- Anchorite/Solitary Monasticism
+	- Solitary, separated
+	- Sell of properties
+	- Often done by wealthy people
+	- **Anchorholds** are a room, built onto a church, wherein woman would be sealed
