@@ -68,7 +68,22 @@
 	- Real-time = Important in VR, allows position and orientation of a user's limbs etc.
 ### Optical Motion Capture Systems
 - **Passive Optical Systems**
-	- Marke
+	- Markers coated with retroreflective material to reflect light back
+		- Attached to an actors body
+	- Advantage - Free movement
+	- Disadvantage - Occlusion (hidden markers)
+		- No automatic way of distinguishing reflectors
+	- Modern algos can calculate the positions of hidden markers
+- **Active Optical Systems**
+	- Illuminated LEDs as markers
+	- Sophisticated software identifies them by relative positions
+- 
+
+
+
+
+
+
 ## Key-Frame Animation
 - Automatic generation of intermediate frames based on animated key-frames
 - Two fundamental approaches
@@ -107,9 +122,21 @@
 - Little controls by the animator; mostly in setting up the initial configs
 - Used in video games, movies, interactive sims
 ### Behavioural Animation
-- 
-
-
+- A type of procedural animation
+- An autonomous character determines its own actions to some extent
+- Gives the character some ability to improvise and frees the animator from the need to specify every detail
+- High-level module carries out reasoning
+- Low-level details are scripted
+- State machines are often used for specifying behaviours, but requires many states and transitions, leading to difficult upkeep
+#### Distributed Behavioural Model
+ - **Boids** by Craig Reynolds (1987 SIGGRAPH)
+- Simulate flocks of birds, herds, or schools
+- Elaborate particle systems
+- Animator controls global parameters and provides data about the leader trajectory
+#### L-Systems
+- Timed and parameterized with conditional and pseudo-stochastic production
+- Create realistic or abstract shapes
+- Tree structures, generate growth of life concepts
 
 
 
