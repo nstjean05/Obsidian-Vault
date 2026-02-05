@@ -4,53 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "ad10142ef8a228bb",
+        "id": "e90da06d30b20fd9",
         "type": "tabs",
         "children": [
           {
-            "id": "07b136cfd9c65938",
+            "id": "70a4c3561afa3fc1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CMPT 470 (Bioinformatics)/5. Phylogenetic Analysis.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "5. Phylogenetic Analysis"
-            }
-          },
-          {
-            "id": "8fb22f4b3f674b31",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "RELS 475/Lecture 8.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Lecture 8"
-            }
-          },
-          {
-            "id": "b940a0859cc87337",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lecture 9 - Christians, Empire, and Christendom.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Lecture 9 - Christians, Empire, and Christendom"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -143,12 +110,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lecture 9 - Christians, Empire, and Christendom.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Lecture 9 - Christians, Empire, and Christendom"
+              "title": "Outgoing links"
             }
           },
           {
@@ -172,13 +138,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lecture 9 - Christians, Empire, and Christendom.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Lecture 9 - Christians, Empire, and Christendom"
+              "title": "Outline"
             }
           }
         ],
@@ -201,10 +166,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b940a0859cc87337",
+  "active": "70a4c3561afa3fc1",
   "lastOpenFiles": [
-    "RELS 475/Lecture 8.md",
-    "Lecture 9 - Christians, Empire, and Christendom.md",
+    "CMPT 470 (Bioinformatics)/5. Phylogenetic Analysis.md",
+    "RELS 475/Lecture 8 - Christianity and Rome.md",
+    "RELS 475/Lecture 9 - Christians, Empire, and Christendom.md",
     "RELS 475/Lecture 7 - The Powers.md",
     "RELS 475/Lecture 4 - The Two Kingdoms.md",
     "RELS 475/Lecture 5 - Biblical Creation.md",
@@ -214,7 +180,6 @@
     "CMPT 461 (Immersive Computing)/Chapter 7 - Vision.md",
     "CMPT 461 (Immersive Computing)/Chapter 2 - Computer Graphics.md",
     "CMPT 470 (Bioinformatics)/6. Intro to Research.md",
-    "CMPT 470 (Bioinformatics)/5. Phylogenetic Analysis.md",
     "CMPT 102 (Career Preparation in Technology)/Class 4.md",
     "CMPT 102 (Career Preparation in Technology)/Class 1 - Course Overview.md",
     "ANTH 210 (Islamic Culture)/Lecture 3 - The Life of Muhammad.md",
