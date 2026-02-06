@@ -6,7 +6,7 @@
 1. Abu Bakr, 632-634
 	- Spread to the complete Arabian peninsula
 2. 'Umar, 634-644
-	- Ali is still only 20, not determined to be old enough
+	- Ali is still only 20, not determiwned to be old enough
 	- Spread the southern Mediterranean until Western Libya, North to Georgia, and East over Iran
 	- Transcription of the Quran
 	- Organized the government and currency, as he was an excellent administrator
@@ -117,7 +117,18 @@
 	- Temporary marriage is seen as adultery
 - **Shia**
 	- Up to 4 wives
-	- Temporary marriage
+	- Temporary marriage for an allotted time(Zigge marriage)
+	- A man can divorce a woman by telling her she is divorced 3 times consecutively
+		- This has led in part to many women wearing a lot of jewellery, since she must leave immediately
+	- A woman can divorce a man, but only if he admits that he cannot bear a child
+### Islam and Christianity
+- **Sunni**
+	- Virgin birth of Jesus
+	- Second coming of Jesus
+	- Jesus didn't die on the cross, but did go to heaven
+	- People in the Christian/Jewish texts
+- **Shia**
+	- All of the above are affirmed
 
 
 
