@@ -16,6 +16,17 @@
 4. Ali
 	- This is where we have the split
 	- The Shia (meaning 'party') accept him, but the Sunnis do not accept the Caliphate
-	- Shia believe that the success must be a direct descendent of the prophet Muhammad
+	- Shia believe that the successor must be a direct descendent of the prophet Muhammad
+## The 12 Imams
 - The infallibility assigned to the 12 Shi'ite Imams closely parallels the proclaimed by Pope Pius the IX in 1870
-- 
+- If the Ayatollah tells someone to do something, then they cannot be wrong, and you should absolutely do that thing
+	- Sunni tradition has legal laws, whereas in Shia the Imams make the laws
+	- Ex. In Iran, if the Mullahs say to "go kill the protesters",  then there is not even a court case about whether it was right to kill them.
+- **The Imams**
+1. Ali
+2. Hassan
+3. Husayn
+4. Ali
+5. Abu-Bakr
+6. Ja'far-I-Sadiq
+7. 
