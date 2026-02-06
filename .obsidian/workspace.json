@@ -13,12 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CMPT 461 (Immersive Computing)/Chapter 3 - Computer Animation.md",
+                "file": "ANTH 210 (Islamic Culture)/Lecture 3 - The Life of Muhammad.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Chapter 3 - Computer Animation"
+              "title": "Lecture 3 - The Life of Muhammad"
+            }
+          },
+          {
+            "id": "5518ee8a7c53aa02",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ANTH 210 (Islamic Culture)/Lecture 4 -.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Lecture 4 -"
             }
           }
         ]
@@ -114,12 +128,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CMPT 461 (Immersive Computing)/Chapter 3 - Computer Animation.md",
+                "file": "ANTH 210 (Islamic Culture)/Lecture 3 - The Life of Muhammad.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Chapter 3 - Computer Animation"
+              "title": "Outgoing links from Lecture 3 - The Life of Muhammad"
             }
           },
           {
@@ -143,13 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CMPT 461 (Immersive Computing)/Chapter 3 - Computer Animation.md",
+                "file": "ANTH 210 (Islamic Culture)/Lecture 3 - The Life of Muhammad.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Chapter 3 - Computer Animation"
+              "title": "Outline of Lecture 3 - The Life of Muhammad"
             }
           }
         ],
@@ -174,6 +188,9 @@
   },
   "active": "70a4c3561afa3fc1",
   "lastOpenFiles": [
+    "CMPT 461 (Immersive Computing)/Chapter 3 - Computer Animation.md",
+    "ANTH 210 (Islamic Culture)/Lecture 4 -.md",
+    "ANTH 210 (Islamic Culture)/Lecture 2 - The Time Before Islam.md",
     "CMPT 470 (Bioinformatics)/5. Phylogenetic Analysis.md",
     "RELS 475/Lecture 8 - Christianity and Rome.md",
     "RELS 475/Lecture 9 - Christians, Empire, and Christendom.md",
@@ -181,7 +198,6 @@
     "RELS 475/Lecture 4 - The Two Kingdoms.md",
     "RELS 475/Lecture 5 - Biblical Creation.md",
     "RELS 475/Lecture 6 - ANE Creation.md",
-    "CMPT 461 (Immersive Computing)/Chapter 3 - Computer Animation.md",
     "CMPT 461 (Immersive Computing)/Untitled.md",
     "CMPT 461 (Immersive Computing)/Chapter 7 - Vision.md",
     "CMPT 461 (Immersive Computing)/Chapter 2 - Computer Graphics.md",
@@ -190,7 +206,6 @@
     "CMPT 102 (Career Preparation in Technology)/Class 1 - Course Overview.md",
     "ANTH 210 (Islamic Culture)/Lecture 3 - The Life of Muhammad.md",
     "ANTH 210 (Islamic Culture)/Lecture 1 - Basics.md",
-    "ANTH 210 (Islamic Culture)/Lecture 2 - The Time Before Islam.md",
     "CMPT 470 (Bioinformatics)/3. Pairwise Sequence Alignment.md",
     "CMPT 470 (Bioinformatics)/2. Databases.md",
     "CMPT 385 (Software Eng. I)/Unit 1 - Intro and FAQ to Software Engineering.md",
@@ -199,7 +214,6 @@
     "CMPT 385 (Software Eng. I)/Unit 3 - Dev. Processes I.md",
     "CMPT 385 (Software Eng. I)/Unit 5 - Human Aspects of SW Engr.md",
     "RELS 475/Lecture 1 - God's Creation and Transcending the Secular.md",
-    "RELS 475/Lecture 3 - Moment's of Transcendence, God's Creation, and the Transcending the Secular.md",
     "Untitled",
     "CMPT 470 (Bioinformatics)",
     "ANTH 210 (Islamic Culture)",

@@ -83,4 +83,3 @@
 	- Can't argue with them in the same way as a Mufti
 - **The Sunna** were compiled after Muhammad by his followers
 	- Some additional teachings, sayings, and prayers
-- 
