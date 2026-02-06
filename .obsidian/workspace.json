@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ANTH 210 (Islamic Culture)/Lecture 4 - After Muhammad & Sunni vs. Shia.md",
+                "file": "CMPT 102 (Career Preparation in Technology)/Class 5 - Computing Career Advice (From an Old Timer).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lecture 4 - After Muhammad & Sunni vs. Shia"
+              "title": "Class 5 - Computing Career Advice (From an Old Timer)"
             }
           }
         ],
@@ -128,12 +128,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ANTH 210 (Islamic Culture)/Lecture 4 - After Muhammad & Sunni vs. Shia.md",
+                "file": "CMPT 102 (Career Preparation in Technology)/Class 5 - Computing Career Advice (From an Old Timer).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Lecture 4 - After Muhammad & Sunni vs. Shia"
+              "title": "Outgoing links from Class 5 - Computing Career Advice (From an Old Timer)"
             }
           },
           {
@@ -157,13 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ANTH 210 (Islamic Culture)/Lecture 4 - After Muhammad & Sunni vs. Shia.md",
+                "file": "CMPT 102 (Career Preparation in Technology)/Class 5 - Computing Career Advice (From an Old Timer).md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Lecture 4 - After Muhammad & Sunni vs. Shia"
+              "title": "Outline of Class 5 - Computing Career Advice (From an Old Timer)"
             }
           }
         ],
@@ -189,6 +189,7 @@
   "active": "5518ee8a7c53aa02",
   "lastOpenFiles": [
     "ANTH 210 (Islamic Culture)/Lecture 4 - After Muhammad & Sunni vs. Shia.md",
+    "CMPT 102 (Career Preparation in Technology)/Class 5 - Computing Career Advice (From an Old Timer).md",
     "CMPT 242 (Computing Machine Organization)/Chapter 3 - Data and Program Representation.md",
     "ANTH 210 (Islamic Culture)/Lecture 3 - The Life of Muhammad.md",
     "CMPT 461 (Immersive Computing)/Chapter 3 - Computer Animation.md",
@@ -213,7 +214,6 @@
     "CMPT 385 (Software Eng. I)/Unit 2 -Project Management.md",
     "CMPT 385 (Software Eng. I)/Unit 3 - Dev. Processes II.md",
     "CMPT 385 (Software Eng. I)/Unit 3 - Dev. Processes I.md",
-    "CMPT 385 (Software Eng. I)/Unit 5 - Human Aspects of SW Engr.md",
     "Untitled",
     "CMPT 470 (Bioinformatics)",
     "ANTH 210 (Islamic Culture)",
