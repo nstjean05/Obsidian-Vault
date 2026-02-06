@@ -77,7 +77,10 @@
 - **Active Optical Systems**
 	- Illuminated LEDs as markers
 	- Sophisticated software identifies them by relative positions
-- 
+- **Magnetic Position/Orientation Trackers**
+	- Old way of recording positions/orientations
+	- Calculated by the relative magnetic flux of 3 orthogonal coils on the transmitter and each receiver
+	- 
 
 
 
