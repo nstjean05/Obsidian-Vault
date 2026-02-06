@@ -81,4 +81,21 @@
 		- '*Free ticket*' to heaven
 ### Shahada
 - A profession of faith
-- 
+### Jurisprudence
+- **Sunni**
+	- 4 Schools of Law
+		1. Malekite
+		2. Hanafite
+		3. Shafiite
+		4. Hanbali
+- **Shia**
+	- **Imamat** (Shiite Council) is infallible & sinless, and nobody can speak against it
+### Clergy
+- **Sunni**
+	- Imam - Pastor
+	- Mufti - Islam
+	- The Grand Mufti
+	- A Qadi
+- **Shia**
+	- Imam - Prophet
+	- Ayatollah
