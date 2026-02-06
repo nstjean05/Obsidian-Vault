@@ -20,8 +20,19 @@
               "icon": "lucide-file",
               "title": "7. Gene Finding and ID"
             }
+          },
+          {
+            "id": "2d6cfe907fa57a65",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -113,12 +124,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CMPT 470 (Bioinformatics)/7. Gene Finding and ID.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 7. Gene Finding and ID"
+              "title": "Outgoing links"
             }
           },
           {
@@ -142,13 +152,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CMPT 470 (Bioinformatics)/7. Gene Finding and ID.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 7. Gene Finding and ID"
+              "title": "Outline"
             }
           }
         ],
@@ -171,10 +180,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5518ee8a7c53aa02",
+  "active": "2d6cfe907fa57a65",
   "lastOpenFiles": [
-    "CMPT 470 (Bioinformatics)/6. Intro to Research.md",
     "CMPT 470 (Bioinformatics)/7. Gene Finding and ID.md",
+    "CMPT 470 (Bioinformatics)/6. Intro to Research.md",
     "CMPT 102 (Career Preparation in Technology)/Class 5 - Computing Career Advice (From an Old Timer).md",
     "ANTH 210 (Islamic Culture)/Lecture 3 - The Life of Muhammad.md",
     "CMPT 102 (Career Preparation in Technology)/Class 4 - Resume & Cover Letter.md",
