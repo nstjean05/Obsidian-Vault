@@ -1,4 +1,4 @@
-## Muhammad's Passing
+## Muhammad's Passing and Succession
 - Islam, by Muhammad's death (632 A.D.), had spread throughout Saudi Arabia and Northern Oman/Yemen
 - Muhammad's friend and father-in-law, Abu Bakr, became his successor (caliph)
 - The **caliph** governed in accordance with Muslim law as defined by the Quran
@@ -14,3 +14,8 @@
 	- When chosen, he was a new Muslim, had not known Muhammad, and was highly corrupt
 	- Decided to move from Mecca to Baghdad for better weather
 4. Ali
+	- This is where we have the split
+	- The Shia (meaning 'party') accept him, but the Sunnis do not accept the Caliphate
+	- Shia believe that the success must be a direct descendent of the prophet Muhammad
+- The infallibility assigned to the 12 Shi'ite Imams closely parallels the proclaimed by Pope Pius the IX in 1870
+- 
