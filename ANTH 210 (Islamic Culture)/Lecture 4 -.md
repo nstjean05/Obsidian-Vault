@@ -93,9 +93,45 @@
 ### Clergy
 - **Sunni**
 	- Imam - Pastor
-	- Mufti - Islam
-	- The Grand Mufti
+	- Mufti - Islamic scholar and interpreter of Islamic Law
+	- The Grand Mufti - Issues legal opinions and edicts
 	- A Qadi
 - **Shia**
 	- Imam - Prophet
 	- Ayatollah
+### Holidays
+- **Sunni**
+	- Eid Al-Fitr - The end of Ramadan
+	- Eid Al-Adha
+		- Tenth day of Dhu al-Hijjah, lasting four days, during which a sheep is sacrificed and eaten amongst family, friends, and the poor
+- **Shia**
+	-  
+### Holy Places
+- **Sunni**
+	- Mecca, Medina, Jerusalem
+- **Shia**
+	- All the places of the Imams
+### Marriage
+- **Sunni**
+	- Up to 4 wives
+	- Temporary marriage is seen as adultery
+- **Shia**
+	- Up to 4 wives
+	- Temporary marriage
+
+
+
+
+
+
+
+
+
+
+
+
+### 
+- **Sunni**
+	- 
+- **Shia**
+	- 
