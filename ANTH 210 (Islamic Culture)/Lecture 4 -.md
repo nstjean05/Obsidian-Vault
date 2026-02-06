@@ -1,7 +1,16 @@
-## The Quran
-- Contains legal principles and wise statements, similar to the Hebrew scriptures
-- Islam is not just religion, but also a form of government
-- Islam, by Muhammad's death (632 A.D.), had spread throughout Saudi Arabia, and Northern Oman/Yemen
+## Muhammad's Passing
+- Islam, by Muhammad's death (632 A.D.), had spread throughout Saudi Arabia and Northern Oman/Yemen
 - Muhammad's friend and father-in-law, Abu Bakr, became his successor (caliph)
 - The **caliph** governed in accordance with Muslim law as defined by the Quran
 - Abu Bakr was voted in, since he was mature, rather than the 18-year-old son in law Ali
+1. Abu Bakr, 632-634
+	- Spread to the complete Arabian peninsula
+2. 'Umar, 634-644
+	- Ali is still only 20, not determined to be old enough
+	- Spread the southern Mediterranean until Western Libya, North to Georgia, and East over Iran
+	- Transcription of the Quran
+	- Organized the government and currency, as he was an excellent administrator
+3. 'Uthman, 644-656
+	- When chosen, he was a new Muslim, had not known Muhammad, and was highly corrupt
+	- Decided to move from Mecca to Baghdad for better weather
+4. Ali
