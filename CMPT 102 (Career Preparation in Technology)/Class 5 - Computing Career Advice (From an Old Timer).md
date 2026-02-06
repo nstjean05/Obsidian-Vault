@@ -1,1 +1,5 @@
-- **Dale Lutz** 
+- **Dale Lutz**
+- Just trying, and trying hard, is the major factor in success
+- Building a network is hugely important in getting seen
+- Write down your abstract career goals
+- Time will become more valuable than money - make good use of it
