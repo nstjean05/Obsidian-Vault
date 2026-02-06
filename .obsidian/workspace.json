@@ -68,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "\\",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -93,8 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 256.5,
-    "collapsed": true
+    "width": 256.5
   },
   "right": {
     "id": "1c1db9715e53cd8f",
@@ -189,8 +188,9 @@
   },
   "active": "5518ee8a7c53aa02",
   "lastOpenFiles": [
-    "ANTH 210 (Islamic Culture)/Lecture 3 - The Life of Muhammad.md",
+    "CMPT 242 (Computing Machine Organization)/Chapter 3 - Data and Program Representation.md",
     "ANTH 210 (Islamic Culture)/Lecture 4 -.md",
+    "ANTH 210 (Islamic Culture)/Lecture 3 - The Life of Muhammad.md",
     "CMPT 461 (Immersive Computing)/Chapter 3 - Computer Animation.md",
     "ANTH 210 (Islamic Culture)/Lecture 2 - The Time Before Islam.md",
     "CMPT 470 (Bioinformatics)/5. Phylogenetic Analysis.md",
@@ -214,7 +214,6 @@
     "CMPT 385 (Software Eng. I)/Unit 3 - Dev. Processes II.md",
     "CMPT 385 (Software Eng. I)/Unit 3 - Dev. Processes I.md",
     "CMPT 385 (Software Eng. I)/Unit 5 - Human Aspects of SW Engr.md",
-    "RELS 475/Lecture 1 - God's Creation and Transcending the Secular.md",
     "Untitled",
     "CMPT 470 (Bioinformatics)",
     "ANTH 210 (Islamic Culture)",

@@ -29,4 +29,32 @@
 4. Ali
 5. Abu-Bakr
 6. Ja'far-I-Sadiq
-7. 
+7. Musa Kazim
+8. Imam Rida
+9. Muhammad-Taqi
+10. Ali-Naqi
+11. Hasan-I-Askari
+12. Muhammad
+- All were assassinated except for Muhammad, who disappeared 874 A.D.
+	- Shias believe that he will come back on the day of judgement
+# Sunni vs. Shia
+| Sunni                                                                                                            | Shia                          |
+| ---------------------------------------------------------------------------------------------------------------- | ----------------------------- |
+| Qu'ran                                                                                                           | Qu'ran                        |
+| Hadith                                                                                                           | Parts of the Hadith and Sunna |
+| A collection of traditions containing saying of the prophet muhammad with accounts of his daily practice (Sunna) | LF                            |
+| Successor is elected through *free will* of Muslim Umma                                                          | Appointment through Allah     |
+|                                                                                                                  | Must be a part                |
+
+### Succession
+- **Sunni**
+	- Chaliph-at
+	- Institiution
+	- Hajji-Hajjah as title
+- **Shia**
+	- Must be a part of Muhammad's genealogy
+	- Allah's will cannot be reasoned with by humans
+	- Imam-at
+	- Imam is infallible
+	- Sayed - as a title
+- 
