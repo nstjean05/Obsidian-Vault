@@ -7,4 +7,5 @@
 	1. Be smart
 	2. Get things done
 	3. Low ego
-- Benefits will accrue to those with the curiosity to e;vee
+- Benefits will accrue to those with the curiosity to leverage new tools and the focus to execute
+- 
