@@ -65,4 +65,20 @@
 - **Shia**
 	- The Mahdi (the 12th Imam)
 	- Is it Jesus or someone else? We don't know.
-	- 
+	- The Mahdi is the redeemer of Islam and will rule for 7, 9, or 19 years before the day of judgement, and will rid the world of evil.
+	- Islamic state (sunni sects) have bombed parts of the mosque where Jesus is said to return
+### Theology
+- **Sunni**
+	- 5 Pillars of Islam
+- **Shia**
+	- 7 Pillars
+	- Jihad
+	- Big/Small Jihad
+		- The big war is overcoming my weaknesses and temptations as a human
+		- Small Jihad is considered self-defence
+	- Martyrdom
+		- Someone who sacrifices their life for Islam
+		- '*Free ticket*' to heaven
+### Shahada
+- A profession of faith
+- 
