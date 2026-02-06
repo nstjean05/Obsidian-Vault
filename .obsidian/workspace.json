@@ -35,7 +35,8 @@
               "title": "Lecture 4 -"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -128,12 +129,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ANTH 210 (Islamic Culture)/Lecture 3 - The Life of Muhammad.md",
+                "file": "ANTH 210 (Islamic Culture)/Lecture 4 -.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Lecture 3 - The Life of Muhammad"
+              "title": "Outgoing links from Lecture 4 -"
             }
           },
           {
@@ -157,13 +158,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ANTH 210 (Islamic Culture)/Lecture 3 - The Life of Muhammad.md",
+                "file": "ANTH 210 (Islamic Culture)/Lecture 4 -.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Lecture 3 - The Life of Muhammad"
+              "title": "Outline of Lecture 4 -"
             }
           }
         ],
@@ -186,10 +187,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "70a4c3561afa3fc1",
+  "active": "5518ee8a7c53aa02",
   "lastOpenFiles": [
-    "CMPT 461 (Immersive Computing)/Chapter 3 - Computer Animation.md",
+    "ANTH 210 (Islamic Culture)/Lecture 3 - The Life of Muhammad.md",
     "ANTH 210 (Islamic Culture)/Lecture 4 -.md",
+    "CMPT 461 (Immersive Computing)/Chapter 3 - Computer Animation.md",
     "ANTH 210 (Islamic Culture)/Lecture 2 - The Time Before Islam.md",
     "CMPT 470 (Bioinformatics)/5. Phylogenetic Analysis.md",
     "RELS 475/Lecture 8 - Christianity and Rome.md",
@@ -204,7 +206,6 @@
     "CMPT 470 (Bioinformatics)/6. Intro to Research.md",
     "CMPT 102 (Career Preparation in Technology)/Class 4.md",
     "CMPT 102 (Career Preparation in Technology)/Class 1 - Course Overview.md",
-    "ANTH 210 (Islamic Culture)/Lecture 3 - The Life of Muhammad.md",
     "ANTH 210 (Islamic Culture)/Lecture 1 - Basics.md",
     "CMPT 470 (Bioinformatics)/3. Pairwise Sequence Alignment.md",
     "CMPT 470 (Bioinformatics)/2. Databases.md",
