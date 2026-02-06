@@ -44,7 +44,6 @@
 | Hadith                                                                                                           | Parts of the Hadith and Sunna |
 | A collection of traditions containing saying of the prophet muhammad with accounts of his daily practice (Sunna) | LF                            |
 | Successor is elected through *free will* of Muslim Umma                                                          | Appointment through Allah     |
-|                                                                                                                  | Must be a part                |
 
 ### Succession
 - **Sunni**
@@ -57,4 +56,13 @@
 	- Imam-at
 	- Imam is infallible
 	- Sayed - as a title
-- 
+- Kaffir - Unbelievers, and can be taken as slaves
+	- Could not take Christians, Jews, or other Muslims as slaves
+### Judgement
+- **Sunni**
+	- Jesus will return in Damascus
+	- World will end, and Allah will judge the world
+- **Shia**
+	- The Mahdi (the 12th Imam)
+	- Is it Jesus or someone else? We don't know.
+	- 
