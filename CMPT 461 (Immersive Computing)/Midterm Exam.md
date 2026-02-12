@@ -1,0 +1,5 @@
+- Chapters 1,7,8,9,10,2,3,4
+- Chapters 1,2,3,7 (Textbook)
+- Assignments
+- Quizzes
+- MC, SAQ, LAQ
