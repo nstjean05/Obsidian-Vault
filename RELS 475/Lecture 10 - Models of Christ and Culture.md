@@ -3,7 +3,7 @@
 - Lived from 1894-1962
 - Taught at Yale
 - Key figure in developing *neo-orthodoxy*
-- His brother, Reinholdt Niebuhr was better known in the contemporary, at least until *Christ and Culture* released.
+- His brother, Reinhold Niebuhr was better known in the contemporary, at least until *Christ and Culture* released.
 ## Christ Versus Culture
 - Culture is bad, don't touch it
 - Christian's allegiance to Christ should be fundamental and ultimate
@@ -26,4 +26,28 @@
 		- Rev. Scotty MacLennan
 		- Jesus was all about lifting up the oppresed
 		- Ex. Christ Church in Portland had an issue since they were so progressive
-- Jesus did not reflect a concern for 
+- Jesus did not reflect a concern for building cultural institutions
+	- Build the kingdom of God, not the kingdom of Israel
+	- His disciples were very focused on Israel
+## Christ Above Culture
+- Synthesis of *Against* and *Of*
+	- According to Niebuhr, this is where most Christians fall
+- Spectrum:
+	- Of culture, Transformer, *Above Culture*, Paradox, Against
+- Recognize that culture is sinful and cannot be perfected, but is not always intrinsically bad
+- Jesus wasn't reduced to culture, but expressed within it
+- Biblical basis
+	- Incarnation and Jesus
+	- Obey the government (Paul)
+		- A kind of political conservatism
+		- Ex. Paul doesn't outright say slavery is bad, rather he worked within the system (Philemon)
+- Rick Warren - Obama visited his church (so he uses culture), but his focus is also that life really happens in heaven
+- Reconcile fidelity to Christ and existence in culture
+- Christ is the highest allegiance, and serving Him is transcendent
+- Knowing and loving God fulfills
+- Grace is required
+	- There are many things that God is happy with - but know that they aren't salvation
+	- Ex. Working hard in your career
+- Cultural activities can be good
+- **Strength**: God doesn't abandon, but is above the world
+- **Weakness**: Slide into Christ of culture
