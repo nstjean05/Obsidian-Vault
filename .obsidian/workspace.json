@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "RELS 475/Lecture 9 - Christians, Empire, and Christendom.md",
+                "file": "CMPT 461 (Immersive Computing)/Chapter 4 - Virtual Characters.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lecture 9 - Christians, Empire, and Christendom"
+              "title": "Chapter 4 - Virtual Characters"
             }
           },
           {
@@ -35,8 +35,7 @@
               "title": "Midterm Exam"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -93,7 +92,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 256.5
+    "width": 256.5,
+    "collapsed": true
   },
   "right": {
     "id": "1c1db9715e53cd8f",
@@ -184,13 +184,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9b10ec0ef74f7efc",
+  "active": "5518ee8a7c53aa02",
   "lastOpenFiles": [
+    "RELS 475/Lecture 9 - Christians, Empire, and Christendom.md",
+    "CMPT 461 (Immersive Computing)/Midterm Exam.md",
     "CMPT 461 (Immersive Computing)/Chapter 4 - Virtual Characters.md",
     "RELS 475/Lecture 10 - Models of Christ and Culture.md",
     "RELS 475/Table of Contents.base",
-    "RELS 475/Lecture 9 - Christians, Empire, and Christendom.md",
-    "CMPT 461 (Immersive Computing)/Midterm Exam.md",
     "CMPT 470 (Bioinformatics)/7. Gene Finding and ID.md",
     "CMPT 470 (Bioinformatics)/6. Intro to Research.md",
     "CMPT 102 (Career Preparation in Technology)/Class 5 - Computing Career Advice (From an Old Timer).md",
