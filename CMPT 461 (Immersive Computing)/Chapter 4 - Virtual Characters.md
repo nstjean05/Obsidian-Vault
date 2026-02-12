@@ -73,4 +73,21 @@
 	- Dynamics
 		- Describe a motion by applying physics laws
 		- Use control algorithm to describe a particular motion
-		- Not easy to determine the influence of eac
+		- Not easy to determine the influence of each parameter on the resulting motions
+	- Motion Capture Data
+		- Less work, cost-effective, and rapid results
+		- Highly effective
+		- Technologically advanced
+- **Principal Component Analysis (PCA) Locomotion**
+	- PCA is used to compress data or emphasize similarities between input data
+	- Generate motion according to control parameters such as age or gender
+	- Applied on a motion-capture database composed of various walking and running cycles
+	- Generation is performed by interpolation and extrapolation into a hierarchical structure of PCA spaces.
+- **Feature Modelling and Smart Objects**
+	- Virtual human manipulated objects have two issues:
+		1. Specification of object behaviour
+		2. Valid and believable motion for humans/objects
+	- **Grasping**
+		- The human hand is a very complicated structure
+		- Need to calculate the hands join movement and arm reaching movements
+		- 
