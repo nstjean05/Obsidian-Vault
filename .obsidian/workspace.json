@@ -13,24 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CMPT 470 (Bioinformatics)/7. Gene Finding and ID.md",
+                "file": "RELS 475/Lecture 9 - Christians, Empire, and Christendom.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "7. Gene Finding and ID"
+              "title": "Lecture 9 - Christians, Empire, and Christendom"
             }
           },
           {
-            "id": "2d6cfe907fa57a65",
+            "id": "9b10ec0ef74f7efc",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.11.7"
+                "file": "RELS 475/Lecture 10.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.11.7"
+              "icon": "lucide-file",
+              "title": "Lecture 10"
             }
           }
         ],
@@ -182,8 +184,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2d6cfe907fa57a65",
+  "active": "9b10ec0ef74f7efc",
   "lastOpenFiles": [
+    "RELS 475/Table of Contents.base",
+    "RELS 475/Lecture 10.md",
+    "RELS 475/Lecture 9 - Christians, Empire, and Christendom.md",
+    "CMPT 461 (Immersive Computing)/Untitled.md",
     "CMPT 470 (Bioinformatics)/7. Gene Finding and ID.md",
     "CMPT 470 (Bioinformatics)/6. Intro to Research.md",
     "CMPT 102 (Career Preparation in Technology)/Class 5 - Computing Career Advice (From an Old Timer).md",
@@ -196,26 +202,21 @@
     "ANTH 210 (Islamic Culture)/Lecture 2 - The Time Before Islam.md",
     "CMPT 470 (Bioinformatics)/5. Phylogenetic Analysis.md",
     "RELS 475/Lecture 8 - Christianity and Rome.md",
-    "RELS 475/Lecture 9 - Christians, Empire, and Christendom.md",
     "RELS 475/Lecture 7 - The Powers.md",
     "RELS 475/Lecture 4 - The Two Kingdoms.md",
     "RELS 475/Lecture 5 - Biblical Creation.md",
     "RELS 475/Lecture 6 - ANE Creation.md",
-    "CMPT 461 (Immersive Computing)/Untitled.md",
     "CMPT 461 (Immersive Computing)/Chapter 7 - Vision.md",
     "CMPT 461 (Immersive Computing)/Chapter 2 - Computer Graphics.md",
     "CMPT 102 (Career Preparation in Technology)/Class 1 - Course Overview.md",
     "ANTH 210 (Islamic Culture)/Lecture 1 - Basics.md",
     "CMPT 470 (Bioinformatics)/3. Pairwise Sequence Alignment.md",
     "CMPT 470 (Bioinformatics)/2. Databases.md",
-    "CMPT 385 (Software Eng. I)/Unit 1 - Intro and FAQ to Software Engineering.md",
-    "CMPT 385 (Software Eng. I)/Unit 2 -Project Management.md",
     "Untitled",
     "CMPT 470 (Bioinformatics)",
     "ANTH 210 (Islamic Culture)",
     "CMPT 102 (Career Preparation in Technology)",
     "Language Learning",
-    "RELS 475/Table of Contents.base",
     "CMPT 461 (Immersive Computing)",
     "RELS 475",
     "CMPT 380 (Artificial Intelligence)/genetic_algorithm.py",
