@@ -43,4 +43,34 @@
 	- Sculpted by skilled designers
 - 3D acquisition devices for reliable and accurate data from complex shapes like the human body
 - Use real data to cover the space of character shape variation
-- Skinning me
+- Skinning Mesh Animations (SMAs)
+	- An original skin example-based scheme
+	- No predefined skeleton
+	- Automatically estimates statistically relevant bones
+### Physics-Based Approaches
+- Dynamically-based deformations
+- Could be based on a framework for skeleton-driven animation of elastically deformable characters
+- Embed the object in a control lattice
+- Use continuum elasticity and finite element models (FEM) to compute the dynamics of the object being deformed
+- Bones of the control skeleton are restricted to lying along the edges of the control lattice, so that the skeleton can be considered a constraint in the dynamic system.
+## Locomotion
+- **Locomotion generation**
+	- Human Walking
+		- Global - Common joint angle variations
+		- Specific - Individual walk characteristics are overlaid to the global walking manner (gait)
+	- Walking alternates the centre of gravity from right to left.
+- **Walking Characteristics**
+	- At any time, at least one foot is in contact with the floor
+	- There is a short point in which both feet are in contact
+	- A periodic motion that has to be normalized in order to adapt to different anatomies
+- **Techniques and Approaches**
+	- Key-Framing
+		- An animator specifies key postures at specific key times using appropriate software
+		- Labour-intensive
+	- Kinematics
+		- Generate motions from parameters such as position, feet, or speed value.
+		- Use a predefined set of foot positions and timing information
+	- Dynamics
+		- Describe a motion by applying physics laws
+		- Use control algorithm to describe a particular motion
+		- Not easy to determine the influence of eac
