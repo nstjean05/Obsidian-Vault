@@ -7,9 +7,20 @@
 	- 34 hospitals throughout the empire with separate wards for diseases
 	- Arabic medical works translated into latin influenced 17th c. medicine
 - **Mathematics**
-	- 
+	- Al-Khwarizmi
+		- Compiled oldest known Arabic works on arithmetic and algebra
+		- Although he was Iranian, he shared with the Muslim world
 - **Astronomy**
+	- Developed compass, quadrant, sextant, and astrolabe
+	- Used in seafaring
+	- Muhammad Al-Aswat joined Columbus on his voyages
 - **Geography**
+	- 
 - **Social Sciences**
+	- Ibn Battuta
+		- Journeyed 75,000 miles in 30 years through all Arab countries
+		- Father of modern historiography and sociology
+		- Travelled from the Sahel to Mongolia, Tanzania to Venice, Spain to Indonesia
 - **Art, Architecture**
+	- 
 - **Literature**
