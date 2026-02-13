@@ -1,0 +1,15 @@
+## Aspects of Muslim Study
+- **Philosophy**
+	- Ibn-Rushd
+		- A philosopher with influence on Christian thought
+- **Medicine**
+	- Required to pass an examination for qualification
+	- 34 hospitals throughout the empire with separate wards for diseases
+	- Arabic medical works translated into latin influenced 17th c. medicine
+- **Mathematics**
+	- 
+- **Astronomy**
+- **Geography**
+- **Social Sciences**
+- **Art, Architecture**
+- **Literature**
