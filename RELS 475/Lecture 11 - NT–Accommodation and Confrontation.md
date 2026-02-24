@@ -74,3 +74,9 @@
 2. Reform movements
 	- A number of reform movements (not just The Reformation)
 3. Cultural Navigators
+	- Bishops, priests, and so on were often in the forefront of military endeavours
+	- Nuance of people who were trying to navigate a worldly space
+## Protestant Reformers
+- Magisterial
+- Radicals (anabaptist)
+- 
