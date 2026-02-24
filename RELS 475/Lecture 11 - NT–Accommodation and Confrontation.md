@@ -20,4 +20,8 @@
 	- Does the church lose something courting political favour?
 	- Does the church trade fundamental characteristics for political influence?
 	- Can Christian organizations use the same political tactics of other political groups?
-- 
+### Monasticism as Protest and Reform
+1. Concern
+	- Monks thought you couldn't pursue a Christian life in Christendom
+	- Alludes to the Essenes in the desert, who thought that urban Judaism was corrupt
+	- 
