@@ -50,4 +50,27 @@
 	- Celibacy
 #### Two Types of Monastics
 - **Anchorite**
-	- Platform on a p
+	- Platform on a post to separate from earth
+	- Solitary and separated
+	- Paul the Hermit, Anthony the Great
+	- Not all were on a pole, but they went out into the desert/cave/etc.
+- **Anchorholds**
+	- Continuation of Anchorite tradition into the medieval period
+	- Julian of Norwich
+	- Separated from the rest of the world in a small room in a church.
+	- A small opening that they could pass food and water through
+- **Pachomius and Communal Monasticism**
+	- Converts
+	- Tries Anchoritic
+	- God tells him to be with people
+	- Turns to communal
+	- Rules:
+		- Give up wealth and property
+		- Obedience
+		- Service
+		- Routine
+## Medieval Era
+1. Powerful political actors
+2. Reform movements
+	- A number of reform movements (not just The Reformation)
+3. Cultural Navigators
