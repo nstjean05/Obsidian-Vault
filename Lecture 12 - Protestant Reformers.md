@@ -10,7 +10,21 @@
 - **Problem:**
 	- Half measures and externalizing
 	- Christendom compromises form
+- **Goal**
+	- Social transformation
+- **Solution**
+	- Separate
+- There were pacifist and radical anabaptist groups
+- **Pacifists**
+	- Conrad Grebel, Menno Simons
+	- Reject Christendom, establish separate communities
+	- Result - Persecuted by protestants and Catholics
+		- Many move to the US eventually
+- **Militants**
+	- Thomas Müntzer
+	- Radical social change
+	- Military means
+	- Holy spiritual church
+	- Joins peasants revolt 1525
+	- Calamity of Münster 1533-36
 - 
-
-
-
