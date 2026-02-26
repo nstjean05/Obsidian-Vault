@@ -79,4 +79,3 @@
 ## Protestant Reformers
 - Magisterial
 - Radicals (anabaptist)
-- 
