@@ -27,4 +27,3 @@
 	- Holy spiritual church
 	- Joins peasants revolt 1525
 	- Calamity of Münster 1533-36
-- 
