@@ -44,7 +44,6 @@
 | Hadith                                                                                                           | Parts of the Hadith and Sunna |
 | A collection of traditions containing saying of the prophet muhammad with accounts of his daily practice (Sunna) | LF                            |
 | Successor is elected through *free will* of Muslim Umma                                                          | Appointment through Allah     |
-
 ### Succession
 - **Sunni**
 	- Chaliph-at
@@ -129,20 +128,3 @@
 	- People in the Christian/Jewish texts
 - **Shia**
 	- All of the above are affirmed
-
-
-
-
-
-
-
-
-
-
-
-
-### 
-- **Sunni**
-	- 
-- **Shia**
-	- 
