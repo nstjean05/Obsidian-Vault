@@ -5,7 +5,7 @@
 - MC, SAQ, LAQ
 
 ## Kinematics, forward and inverse
-- Forward kinematics involves adjusting each part of a character's skeleton, making granular adjustments each time to form movement. This is used for many junior-level character animations. Inverse kinematics is the computer is given the final body positioning, but has the freedom to decide how to get there. IK is used in large-scale animations where programming each movement is not feasable.
+- Forward kinematics involves adjusting each part of a character's skeleton, making granular adjustments each time to form movement. This is used for many junior-level character animations. Inverse kinematics is the computer is given the final body positioning, but has the freedom to decide how to get there. IK is used in large-scale animations where programming each movement is not feasible.
 ## AR vs. AV
 - Augmented reality is when virtual elements are overlaid on a real background. For example, Google Glass was released, and it featured a HUD that information could be displayed on, while still letting the user look at their environment. Augmented virtuality is effectively the inverse of this; it takes real objects and places them in an entirely virtual world. I read an example about a virtual office space, but where the coffee on the desk which was also in person was real, to avoid knocking it over.
 ## Immersion From A Technical Perspective
