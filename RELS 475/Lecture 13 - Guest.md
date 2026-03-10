@@ -15,4 +15,10 @@
 - John 8:51 - Truly, truly, I say to you, if anyone keeps my *logos*, he will never see death
 - John 14:24 - If anyone loves me, he will keep my *logos*, and my Father will love him, and we will come to him and make our home with him
 - This idea of logos becoming flesh is very unintuitive for the stoics
+#### Logos in Platonism
+- Plato has an idea of God that doesn't have anything to do with the material world - they don't touch
+	- The logos is transcendent, and can only be known through thinking philosophically
+- Saint Augustine, who was a Platonist before converting, says that there is a lot of similarities between the two philosophies.
+	- The fact that the word was made flesh is the primary difference.
+#### An Incarnate Logos in John
 - 
