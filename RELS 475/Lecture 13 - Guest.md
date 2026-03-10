@@ -20,5 +20,9 @@
 	- The logos is transcendent, and can only be known through thinking philosophically
 - Saint Augustine, who was a Platonist before converting, says that there is a lot of similarities between the two philosophies.
 	- The fact that the word was made flesh is the primary difference.
-#### An Incarnate Logos in John
+### Conclusion
+- John uses the *logos* concept to contextualize the message of the gospel
+	1. A *climactic* logos (Judaism)
+	2. An *incarnate* logos (Platonism)
+	3. A *personal* logos (Stoicism)
 - 
