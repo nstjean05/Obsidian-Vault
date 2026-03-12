@@ -36,4 +36,5 @@
 ### 
 - Could mass entertainment be a form of Mass?
 	- Would this be common or saving grace?
+	- Tension between mass entertainment (common grace) and Mass (saving grace)
 	- 
