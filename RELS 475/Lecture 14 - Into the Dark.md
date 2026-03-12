@@ -7,10 +7,17 @@
 	- Not clear cut between the good and bad teams
 - Why is the media bad if it led him to Christ?
 	- "What I experienced as a unity was being bifurcated into a war between art and faith"
-### Categories
+### Theological Categories of Grace and Revelation
 1. Common and Special Grace
 	- Common - Holding open the door, using turn signals
 	- You can participate in these to the fullest extent, and not be moving towards salvation
+	- Prevenient
+		- Used by Armenian/Wesleyans
+		- Comes before saving grace
+		- Isn't salvation
+		- Falls under common grace
 2. General and Special Revelation
 	- General - people have minds that can be used to generate knowledge
 	- Special - God gives a revelation to an individual or group a specific revelation for a specific purpose
+- Detweiler would likely have categorized film under prevenient grace
+- 
