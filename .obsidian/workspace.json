@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "Lecture 13 - Guest"
             }
+          },
+          {
+            "id": "6770b932598dfe60",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "RELS 475/Lecture 14 - Into the Dark.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Lecture 14 - Into the Dark"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -170,10 +185,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5518ee8a7c53aa02",
+  "active": "6770b932598dfe60",
   "lastOpenFiles": [
-    "CMPT 461 (Immersive Computing)/Chapter 5 - Architecture of VR Systems.md",
     "RELS 475/Lecture 13 - Guest.md",
+    "RELS 475/Lecture 14 - Into the Dark.md",
+    "CMPT 461 (Immersive Computing)/Chapter 5 - Architecture of VR Systems.md",
     "RELS 475/Lecture 12 -.md",
     "ANTH 210 (Islamic Culture)/Islam in Egypt.md",
     "RELS 475/Lecture 8 - Christianity and Rome.md",
@@ -198,7 +214,6 @@
     "CMPT 102 (Career Preparation in Technology)/Class 4 - Resume & Cover Letter.md",
     "CMPT 102 (Career Preparation in Technology)/Class 3 - Resume Communication.md",
     "CMPT 242 (Computing Machine Organization)/Chapter 3 - Data and Program Representation.md",
-    "CMPT 461 (Immersive Computing)/Chapter 3 - Computer Animation.md",
     "Untitled",
     "CMPT 470 (Bioinformatics)",
     "ANTH 210 (Islamic Culture)",
