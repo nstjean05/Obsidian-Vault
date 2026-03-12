@@ -33,8 +33,7 @@
 - If this is true, then how can it be that the Spirit can be at work in the world in things that don't reflect the Trinity?
 - The question, then, is whether Detweiler successfully unify film and faith
 	- Nope, he does do it functionally, but not theologically
-### 
+### Further Questions
 - Could mass entertainment be a form of Mass?
 	- Would this be common or saving grace?
 	- Tension between mass entertainment (common grace) and Mass (saving grace)
-	- 
