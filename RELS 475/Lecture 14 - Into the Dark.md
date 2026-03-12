@@ -20,4 +20,11 @@
 	- General - people have minds that can be used to generate knowledge
 	- Special - God gives a revelation to an individual or group a specific revelation for a specific purpose
 - Detweiler would likely have categorized film under prevenient grace
-- 
+## Why Separate General and Special?
+- Trinity
+	- Immanent - Eternity
+	- Economy - Activity of God in the world
+- The work of God in the economy always reflects the immanent Trinity
+	- If it wasn't, then God would either be inconsistent or not immutable.
+- There is a reciprocity between identity and activity
+- The (NT) Holy Spirit is portrayed as a person
