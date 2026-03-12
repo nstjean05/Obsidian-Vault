@@ -27,4 +27,13 @@
 - The work of God in the economy always reflects the immanent Trinity
 	- If it wasn't, then God would either be inconsistent or not immutable.
 - There is a reciprocity between identity and activity
-- The (NT) Holy Spirit is portrayed as a person
+- The (NT) Holy Spirit is portrayed as a person who draws people into Jesus, acting in the economy
+	- This activity reflects the Trinity
+	- Has always been reflecting the union of the people and the Father
+- If this is true, then how can it be that the Spirit can be at work in the world in things that don't reflect the Trinity?
+- The question, then, is whether Detweiler successfully unify film and faith
+	- Nope, he does do it functionally, but not theologically
+### 
+- Could mass entertainment be a form of Mass?
+	- Would this be common or saving grace?
+	- 
