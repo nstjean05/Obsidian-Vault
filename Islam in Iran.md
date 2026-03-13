@@ -28,4 +28,9 @@
 	- Feast at the end of Ramadan
 - Chahar Shanbe Suri
 	- Fire-jumping tradition
-	- Celebrate the 
+- Nowruz
+	- New year for many Persians/Central Asians
+	- Originated in Zoroastrianism, but is not religious, has cultural sense
+	- Celebration of family and friends
+	- Haft-Seen table is the core tradition
+- 
