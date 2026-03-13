@@ -33,4 +33,3 @@
 	- Originated in Zoroastrianism, but is not religious, has cultural sense
 	- Celebration of family and friends
 	- Haft-Seen table is the core tradition
-- 
