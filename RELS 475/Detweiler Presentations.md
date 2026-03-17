@@ -19,7 +19,9 @@
 - Kenton
 - "We are memories of our kids"
 - The farther the characters move from Earth, the more their humanity is clear
-- General revelation - beauty of the world and dialogie
+- General revelation - beauty of the world and dialogue
 	- There must be something 'more'
 - Special revelation - humanity cannot save itself
-- 
+### The Hangover
+- Ethan
+- Themes of human brokenness, identity/memory, 
