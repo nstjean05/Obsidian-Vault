@@ -24,4 +24,6 @@
 - Special revelation - humanity cannot save itself
 ### The Hangover
 - Ethan
-- Themes of human brokenness, identity/memory, 
+- Themes of human brokenness, identity/memory, friendship, and responsibility
+- Lacks true transformation (as evidenced by the sequels)
+- 
