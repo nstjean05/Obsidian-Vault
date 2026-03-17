@@ -15,4 +15,7 @@
 	- Without Christ, we are stuck in ambiguity
 - We long for truth, yet are resistant to it
 	- John 3:19-20
-- 
+### Intersteller
+- Kenton
+- "We are memories of our kids"
+- The farther the characters move from Earth, the more their humanity develops
