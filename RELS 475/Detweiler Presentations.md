@@ -15,7 +15,11 @@
 	- Without Christ, we are stuck in ambiguity
 - We long for truth, yet are resistant to it
 	- John 3:19-20
-### Intersteller
+### Interstellar
 - Kenton
 - "We are memories of our kids"
-- The farther the characters move from Earth, the more their humanity develops
+- The farther the characters move from Earth, the more their humanity is clear
+- General revelation - beauty of the world and dialogie
+	- There must be something 'more'
+- Special revelation - humanity cannot save itself
+- 
