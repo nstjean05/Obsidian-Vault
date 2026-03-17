@@ -5,5 +5,8 @@
 - He has to pretend to have been good friends with that boy
 - Detweiler's question: Can someone who is not practicing faith produce something that has an impact on those who do have faith?
 - "You will be found"
-	- Cover of this song play on Christian radio stations
-- 
+	- Covers of this song play on Christian radio stations
+### Spider
+- 2002 Psychological movie
+- Non-linear storyline
+- Focuses on a man with schizophrenia
