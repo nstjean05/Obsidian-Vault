@@ -10,3 +10,9 @@
 - 2002 Psychological movie
 - Non-linear storyline
 - Focuses on a man with schizophrenia
+- Humanity's brokenness and need for redemption through Christ
+- John 14:6
+	- Without Christ, we are stuck in ambiguity
+- We long for truth, yet are resistant to it
+	- John 3:19-20
+- 
