@@ -26,4 +26,6 @@
 - Ethan
 - Themes of human brokenness, identity/memory, friendship, and responsibility
 - Lacks true transformation (as evidenced by the sequels)
+### Amelie
+- Small acts of kindness/common grace
 - 
