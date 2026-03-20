@@ -39,6 +39,7 @@
 	- LinkedIn reach out
 		- This can go both ways, recruiters to you and you to them
 		- How can you stand out?
+#### Coding Interview
 - Preparations
 	- Basic data structure and algorithm, CS fundamentals
 	- LeetCode style general practice
@@ -49,7 +50,8 @@
 	- 1-2 Coding questions in 1 hour
 	- Correctness
 	- Optimal (runtime/space)
-- Preparations - System Design
+#### System Design Interview
+- Preparations
 	- Front end
 	- Back end
 	- ML and AI
@@ -58,9 +60,36 @@
 		- UX/UI
 		- Networking
 		- Error handling
-	- 
-
-
+- Expectation
+	- Knowledge breadth - what do you know
+	- Knowledge depth - how well do you know it
+#### General Expectations
+- Expectation
+	- Behaviour
+		- Conflict resolution
+		- Communication
+		- Perserverance
+		- Growth potential
+	- Past Project experience
+		- Scope
+		- Complexity
+		- Experience matching
+- Preparation
+	- Pick 1-2 projects from your portfolio
+		- Ready to talk about every aspect of the above
+	- Rehearsals!
 ### Job Market in 2026
+- More competition
+	- Layoffs - More experienced candidates
+- Fewer openings
+	- More job hugging / less job hopping
+- Higher expectations
+	- Longer interview loop
+	- Team selection stalemate
+		- Pass all the interviews, but can't get an offer because none of the teams actually want you
+	- Picking the best candidate
+- Specialist
+	- Less general hiring
+- AI
 ### How to Stand Out
 ### Q&A
