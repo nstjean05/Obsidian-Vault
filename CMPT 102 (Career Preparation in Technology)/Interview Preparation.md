@@ -92,4 +92,14 @@
 	- Less general hiring
 - AI
 ### How to Stand Out
+- Project portfolio
+	- What you've done - experience
+	- What you could do - skills / potentials
+	- Find your uniqueness
+		- e.g. Publish an iOS app on the App Store
+		- e.g. An AI agent HitHub project w/ good forks and stars
+- Practice, practice, practice
+	- interviewing is a different skill than the job you're applying for
+	- Coding | Design | Behaviour
 ### Q&A
+- What separates a portfolio project that actually impresses an interviewer from one that just looks okay on paper? What level of depth do they expect you to explain it to?
