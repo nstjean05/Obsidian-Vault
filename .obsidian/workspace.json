@@ -68,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "common grace",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -184,7 +184,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b0066c0007846a96",
+  "active": "b7bafca48f2d6c08",
   "lastOpenFiles": [
     "RELS 475/Lecture 13 - Guest.md",
     "RELS 475/Lecture 12 - Protestant Reformers.md",
