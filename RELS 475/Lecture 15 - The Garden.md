@@ -28,4 +28,15 @@
 	- Acts
 - These two are in continuity and reciprocal
 	- If they are inconsistent, we're missing something
-	- The HS's activity in the act of redemption must be cons
+	- The HS's activity in the act of redemption must be consistent economically
+- It is the HS that animates the dust in Gen, and that anoints Jesus in the synoptics
+- The HS maintains and fulfills Jesus' relationship with the Father throughout His life
+	- Upon his death, Jesus invites us to fulfillment through the Spirit-breathed dust
+- The Spirit's work in Creation is always consistent in the immanent Trinity
+- Common grace posits that the Spirit is doing work that has nothing to do with this story of redemption
+	- This means that the Spirit is doing something that is inconsistent with its identity!
+	- Hence, Detweiler's framework becomes problematic
+- There is no natural or supernatural, the Spirit's work is *always* oriented towards Christ
+- All media will have something that resonates with a Christian life
+	- The Spirit of God is breathing life through it
+- 
