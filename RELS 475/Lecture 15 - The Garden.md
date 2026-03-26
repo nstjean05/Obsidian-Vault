@@ -39,4 +39,7 @@
 - There is no natural or supernatural, the Spirit's work is *always* oriented towards Christ
 - All media will have something that resonates with a Christian life
 	- The Spirit of God is breathing life through it
-- 
+### HS and Cultural Production
+- Responses to the HS always take a concrete form
+- These responses will always be limited
+- Even Peter took a long time to catch up
