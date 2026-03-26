@@ -1,0 +1,4 @@
+- Working and tending the garden is cultural activity
+- Revelation 21-22 has a city
+	- Why would a city be part of eschatology?
+	- 
