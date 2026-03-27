@@ -1,1 +1,2 @@
 - **Folk Islam** - Handles immediate, everyday life problems by finding spiritual causes and solutions
+- Around 75% of Muslims practice folk Islam
