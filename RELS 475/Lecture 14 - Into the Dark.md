@@ -37,3 +37,7 @@
 - Could mass entertainment be a form of Mass?
 	- Would this be common or saving grace?
 	- Tension between mass entertainment (common grace) and Mass (saving grace)
+
+
+
+Would you say that the US's origins being of religious freedom and of holding Christian values are mutually exclusive?
