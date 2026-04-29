@@ -1,0 +1,20 @@
+- Use Chicago Manual Footnote style
+	- -10% deduction for alternate styles
+	- Without citations = 0 on assignment
+- Canadian Regime 7th e.d. --> Quizzes
+- Canada and the U.S. 5th e.d. --> Case Studies
+- Additional readings
+## Assignments
+- Chapter quiz --> 10%
+	- T/F, Multiple choice
+- Reading Questions
+	- 2 Submissions + extra readings
+	- If a question asks for you opinion, give it -- but make sure it is clearly opinion
+	- Each topic is 1-2 single spaces pages
+	- Give sources
+- Lab Portfolio
+- Comparative Case Studies
+	- You must base it from the textbook extensively
+	- Don't go out of scope
+- Research paper
+	- Choose from one of the essay 
