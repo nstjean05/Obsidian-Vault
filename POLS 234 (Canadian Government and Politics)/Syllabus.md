@@ -17,4 +17,19 @@
 	- You must base it from the textbook extensively
 	- Don't go out of scope
 - Research paper
-	- Choose from one of the essay 
+	- Choose from one of the essay topics
+	- At least 5 scholarly sources
+		- 7-8 scholarly sources for an A
+	- June 3rd - Draft of thesis statement
+	- If you want to pick a custom topic, you have to submit it by May 20$^t$$^h$
+### Course Policies
+- Contact instructor by email
+- No emails the night before an assignment is due
+- -5% late per day late penalty, no submissions a week after
+- Quizzes must be done by the due date
+- Do not rely on AI for this course
+	- Revise your own work
+	- Do your own research
+- Random spot checks will be conducted to see if you know the content, if suspicion is raised.
+### Course Outline
+- 
