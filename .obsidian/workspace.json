@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "cb3c3cc49e89a0ef",
+        "id": "18d8fd53ec4b1398",
         "type": "tabs",
         "children": [
           {
-            "id": "e03c1edf63fa4f57",
+            "id": "16c999465bc09072",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "POLS 234 (Canadian Government and Politics)/Syllabus.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Syllabus"
+              "title": "New tab"
             }
           }
         ]
@@ -170,11 +166,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e03c1edf63fa4f57",
+  "active": "16c999465bc09072",
   "lastOpenFiles": [
+    "POLS 234 (Canadian Government and Politics)/Syllabus.md",
     "POLS 234 (Canadian Government and Politics)",
     "RELS 475/475 Flash Cards.md",
-    "POLS 234 (Canadian Government and Politics)/Syllabus.md",
     "RELS 475/Lecture 14 - Into the Dark.md",
     "RELS 475/Lecture 15 - The Garden.md",
     "RELS 475/Lecture 12 - Protestant Reformers.md",
