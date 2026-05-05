@@ -52,4 +52,26 @@
 - **Parliamentary Democracy** - A subtype of representative democracy
 	- Individuals vote for parliament members, who select the heads of office and cabinet members.
 	- This is a step back from the American government, who directly vote for many offices, such as the president.
-	- 
+	- The crown is also given a role as a last-chance, allowing the monarch to 'stabilize'
+		- The U.S. is a Republic, meaning the final authority is in the hands of the people
+- We do not believe that people are so equal that we should share equally in the making of political decisions
+- We don't believe that all citizens must be directly involved in electing all political officers
+- Democracy comes in this case from the regime belonging to us all equally
+	- Equality of citizenship
+- Implications:
+	- Equal rights to run for public office
+	- Whoever is elected/appointed must be accountable to the people for their actions
+## Liberty
+- Democracy can go wrong if it is not tempered by liberty
+- Within the private sphere, all individuals can make choices for themselves
+	- You can do what you want, if it is legal
+- **Natural Rights**
+	- Life, liberty, pursuit of happiness
+	- *human rights* which are given because of your humanity
+	- They are inalienable
+	- Government's purpose is to secure these rights
+- **Utilitarianism**
+	- Liberty is important because it is so useful
+	- Rights are created within a given regime in response to circumstances
+	- These rights can be granted and revoked - but none are universal moral imperatives
+- These 
