@@ -74,4 +74,15 @@
 	- Liberty is important because it is so useful
 	- Rights are created within a given regime in response to circumstances
 	- These rights can be granted and revoked - but none are universal moral imperatives
-- These 
+- The articulation of utilitarian rights are guided by certain rules
+- **Harm Principle**
+	- John Stuart Mill
+	- Governments shouldn't interfere with the actions of individuals, given that those actions aren't harming others.
+	- Ex. You can drink, even though it harms yourself. You cannot drink and drive, since this has high potential to harm others.
+- As time has progressed, the Canadian understanding of rights/freedoms has trended from the British utilitarian style towards the French/American natural style.
+- Three general principles outline the essence of liberal democratic rights:
+	1. Protection of the private sphere
+		- Public = government regulation of conduct is necessary
+		- Private = everything else
+	2. Respect of minority rights
+		- 
