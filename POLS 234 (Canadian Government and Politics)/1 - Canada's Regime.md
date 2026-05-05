@@ -50,3 +50,6 @@
 	- Modern democracies are too large for direct governance
 	- Representation requires one to petition themself as a representative, which founders believes would reduce the likelihood of mob rule
 - **Parliamentary Democracy** - A subtype of representative democracy
+	- Individuals vote for parliament members, who select the heads of office and cabinet members.
+	- This is a step back from the American government, who directly vote for many offices, such as the president.
+	- 
