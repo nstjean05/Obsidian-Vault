@@ -11,10 +11,14 @@
             "id": "16c999465bc09072",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "POLS 234 (Canadian Government and Politics)/1 - Canada's Regime (Lecture).md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "1 - Canada's Regime (Lecture)"
             }
           }
         ]
@@ -74,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "1c1db9715e53cd8f",
@@ -168,6 +171,7 @@
   },
   "active": "16c999465bc09072",
   "lastOpenFiles": [
+    "POLS 234 (Canadian Government and Politics)/1 - Canada's Regime (Lecture).md",
     "POLS 234 (Canadian Government and Politics)/Syllabus.md",
     "POLS 234 (Canadian Government and Politics)",
     "RELS 475/475 Flash Cards.md",
