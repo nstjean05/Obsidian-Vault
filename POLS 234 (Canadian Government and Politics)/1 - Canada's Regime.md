@@ -27,4 +27,19 @@
 # Textbook Notes
 ## 1.1 Political Regimes
 - **Regime** is derived from latin, meaning "to rule"
-- 
+- In political science, regime refers the the government and its underlying political principles which provide its basis
+	- Who rules, and why?
+- Aristotle's initial formula:
+
+| Who Rules? | Common Good | Own Interest |
+| ---------- | ----------- | ------------ |
+| One        | Kingship    | Tyranny      |
+| Few        | Aristocracy | Oligarchy    |
+| Many       | Polity      | Democracy    |
+- Depending on whether a single ruler seeks the greater good, they are called a king or a tyrant
+- Aristotle places democracy in own interest - in many scenarios the majority will serve themselves, and oppress minority groups
+	- *tyranny of the majority*
+	- Modern democracy has come to mean that the majority must also respect the minority
+	- *Polity* has been replaced by *constitutional democracy*
+## Equality and Democracy
+- Fundamental 
