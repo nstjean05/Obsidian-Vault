@@ -25,4 +25,6 @@
 	- Liberal democracy
 	- Colonists (leading to T&R)
 # Textbook Notes
+## 1.1 Political Regimes
+- **Regime** is derived from latin, meaning "to rule"
 - 
