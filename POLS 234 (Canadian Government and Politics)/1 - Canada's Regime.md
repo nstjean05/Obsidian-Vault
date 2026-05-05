@@ -42,4 +42,11 @@
 	- Modern democracy has come to mean that the majority must also respect the minority
 	- *Polity* has been replaced by *constitutional democracy*
 ## Equality and Democracy
-- Fundamental 
+- Fundamental principle of democracy is equality
+- Democratic equality indicated equality in political principle
+	- Not social or economic
+- **Direct Democracy** - Each individual takes part in each assembly, and randomly selected for office
+- **Representative Democracy** - The equal citizens of modern democracies delegate the responsibility for public matters to a small group of elected representatives
+	- Modern democracies are too large for direct governance
+	- Representation requires one to petition themself as a representative, which founders believes would reduce the likelihood of mob rule
+- **Parliamentary Democracy** - A subtype of representative democracy
