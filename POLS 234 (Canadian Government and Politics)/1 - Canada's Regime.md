@@ -41,7 +41,7 @@
 	- *tyranny of the majority*
 	- Modern democracy has come to mean that the majority must also respect the minority
 	- *Polity* has been replaced by *constitutional democracy*
-## Equality and Democracy
+## 1.2 Equality and Democracy
 - Fundamental principle of democracy is equality
 - Democratic equality indicated equality in political principle
 	- Not social or economic
@@ -61,7 +61,7 @@
 - Implications:
 	- Equal rights to run for public office
 	- Whoever is elected/appointed must be accountable to the people for their actions
-## Liberty
+## 1.3 Liberty
 - Democracy can go wrong if it is not tempered by liberty
 - Within the private sphere, all individuals can make choices for themselves
 	- You can do what you want, if it is legal
@@ -85,4 +85,13 @@
 		- Public = government regulation of conduct is necessary
 		- Private = everything else
 	2. Respect of minority rights
-		- 
+		- A liberal regime will prohibit discrimination on the basis of race, religion, and other politically irrelevant characteristics
+	3. Rule of Law
+		- Effective protection of rights depends upon the citizens ability to rely on legal order and enforcement
+		- 3 Principles to this:
+			1. Government isn't above the law
+			2. Law must be applied equally and impartially
+			3. Actions by the government must be grounded in legal authority
+- Constitutionalism dictates that the regime itself must be ordered by agreed upon rules that are supreme
+## 1.4 Consent and Citizenship
+- 
