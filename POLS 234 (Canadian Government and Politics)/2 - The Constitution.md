@@ -14,9 +14,15 @@
 	- Provincial/State government provide regulation for regions desiring distinct policies
 		- Ex. Education
 	- Local governments are even more granular (Ex. construction of roads)
-	- 
-
-
+	- Constitutions also set a process for how these branches can dispute over jurisdiction
+3. **Delineate the limits of governmental power**
+	- A constitution's existence, in many ways, is itself a limitation
+	- Establishment of a list of base rights/liberties is common
+		- Ex. The Bill of Rights, Charter of Rights and Freedoms
+	- One common inclusion to this is freedom of religion
+		- No level of government ha the power to take measures which limit its citizens right to religious freedom
+4. **Orderly methods of constitutional change**
+	- Political regimes aren't static, so an amendment pr
 
 
 
