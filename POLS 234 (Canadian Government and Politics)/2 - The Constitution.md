@@ -52,19 +52,11 @@
 		- Provincial Legislature --> Provincial constitutions
 		- Parliament --> Executive/Legislative offices
 		- Provincially entrenched/multi-province --> Concerned provinces and Parliament
-		- 
-
-
-
-
-
-
-
-
-
-
-
-
+		- Parliament + All provincial legislatures --> Matters of the Crown/French and English/Number of provincial MPs/Amending procedures
+		- Federal Parliament + 2/3 of provincial legislatures --> General changes
 ## 2.6 Judicial Review of the Constitution
-
+- Since there are so many possible situations, judicial review is key to informing outlier cases
+- For example, *protection of the environment* may be federal, while *management of natural resources* is provincial. Who would resolve disputed over overlapping claims?
+- Courts decide whose jurisdiction a legislative matter falls within
 ## 2.7 Constitutional Politics since 1982
+- 
