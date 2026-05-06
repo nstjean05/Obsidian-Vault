@@ -43,20 +43,28 @@
 	- No matter how much public support they have, politicians cannot legally adopt measures which violate entrenched guarantees
 - Organic statues typically deal with a specific institution of the regime, while entrenched constitutional acts are generally more comprehensive
 ## 2.3 The Canadian Constitution
-- 
-
-
-
-
-
-
-
-
-
-
-
 
 ## 2.4 Rights of Indigenous Peoples in Canada
+
 ## 2.5 Amending Canada’s Constitution
+- Part 5 of CA 1982 formulates constitutional amendments
+	- Amendments made by:
+		- Provincial Legislature --> Provincial constitutions
+		- Parliament --> Executive/Legislative offices
+		- Provincially entrenched/multi-province --> Concerned provinces and Parliament
+		- 
+
+
+
+
+
+
+
+
+
+
+
+
 ## 2.6 Judicial Review of the Constitution
+
 ## 2.7 Constitutional Politics since 1982
