@@ -26,8 +26,18 @@
 ## 2.2 Constitutional Forms: Conventions and Laws
 - **Constitutional Conventions**: Rules which are enforced politically
 	- Fear of political consequences designates the boundary
-- **Judicial Enforcement**: Rules which are enforced legally
-- 
+	- Sometimes these rules can be deferred, such as the delay of elections in 1940 Britain, when Churchill had high support.
+- **Constitutional Law**: Rules which are enforced legally
+	1. Organic Statutes
+		- Establish constitutional rules, the organs of the regime
+	2. Entrenched constitutional acts
+		- Statutes dealing with the everyday matters - health care, traffic, etc.
+		- These are like super-laws
+		- The requirements for changing them are much higher
+- **Social Contract**
+	- John Locke
+	- States that consent must be given to the government to rule, and then the government can disagree with the minority
+	- 
 
 
 
