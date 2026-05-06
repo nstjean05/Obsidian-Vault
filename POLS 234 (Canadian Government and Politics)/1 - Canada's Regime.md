@@ -94,4 +94,6 @@
 			3. Actions by the government must be grounded in legal authority
 - Constitutionalism dictates that the regime itself must be ordered by agreed upon rules that are supreme
 ## 1.4 Consent and Citizenship
-- 
+- **Consent** is the basis of liberal democracies
+	- We consent to be governed, and are therefore obligated to follow the law
+	- The regime is obligated to exercise authority in acco
