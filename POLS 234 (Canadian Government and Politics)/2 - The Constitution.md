@@ -37,6 +37,9 @@
 - **Social Contract**
 	- John Locke
 	- States that consent must be given to the government to rule, and then the government can disagree with the minority
+- Entrenched acts are advantageous in some ways
+	- Beyond the unilateral reach of state or federal governments
+	- Can be more effective at guaranteeing citizens rights and liberties
 	- 
 
 
