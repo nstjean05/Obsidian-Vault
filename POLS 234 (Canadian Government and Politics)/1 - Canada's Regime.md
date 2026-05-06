@@ -96,4 +96,16 @@
 ## 1.4 Consent and Citizenship
 - **Consent** is the basis of liberal democracies
 	- We consent to be governed, and are therefore obligated to follow the law
-	- The regime is obligated to exercise authority in acco
+	- The regime is obligated to exercise authority in accordance with the laws
+	- Alteration of the regime requires that Canadians give their consent
+- This consent can be given either
+	- implicitly - by those who have grown up under Canadian laws
+	- explicitly - the opportunity to express our consent in elections
+- **Citizenship** - the general right to participate in a regime, given consent to accept its authority and abide by its rules
+- Relationship to the indigenous peoples reflects a settler-colonial regime
+	- Some sort of reconciliation may be needed for the indigenous who benefit from, yet have been oppressed by, the Canadian regime
+## The Canadian Regime
+- Equality, liberty, and consent are the regime principles of all liberal democracies
+- These principles can be applied differently
+	- Sweden, Mexico, Japan, and Israel are all very different, yet all liberal democracies
+- 
