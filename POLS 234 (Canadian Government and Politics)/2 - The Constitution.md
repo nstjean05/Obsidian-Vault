@@ -22,15 +22,20 @@
 	- One common inclusion to this is freedom of religion
 		- No level of government ha the power to take measures which limit its citizens right to religious freedom
 4. **Orderly methods of constitutional change**
-	- Political regimes aren't static, so an amendment pr
-
-
-
-
-
-
-
+	- Political regimes aren't static, so an amendment process is necessary
 ## 2.2 Constitutional Forms: Conventions and Laws
+- 
+
+
+
+
+
+
+
+
+
+
+
 ## 2.3 The Canadian Constitution
 ## 2.4 Rights of Indigenous Peoples in Canada
 ## 2.5 Amending Canada’s Constitution
