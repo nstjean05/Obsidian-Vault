@@ -59,4 +59,5 @@
 - For example, *protection of the environment* may be federal, while *management of natural resources* is provincial. Who would resolve disputed over overlapping claims?
 - Courts decide whose jurisdiction a legislative matter falls within
 ## 2.7 Constitutional Politics since 1982
+- 1984, 1990 - Mulroney tried to reconcile Quebec into the constitution, but could not get Quebec, Indigenous groups, Western Canadians, and others to all agree.
 - 
