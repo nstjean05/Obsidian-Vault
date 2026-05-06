@@ -24,6 +24,9 @@
 4. **Orderly methods of constitutional change**
 	- Political regimes aren't static, so an amendment process is necessary
 ## 2.2 Constitutional Forms: Conventions and Laws
+- **Constitutional Conventions**: Rules which are enforced politically
+	- Fear of political consequences designates the boundary
+- **Judicial Enforcement**: Rules which are enforced legally
 - 
 
 
