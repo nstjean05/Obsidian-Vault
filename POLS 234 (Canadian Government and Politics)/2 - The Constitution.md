@@ -40,19 +40,22 @@
 - Entrenched acts are advantageous in some ways
 	- Beyond the unilateral reach of state or federal governments
 	- Can be more effective at guaranteeing citizens rights and liberties
-	- 
-
-
-
-
-
-
-
-
-
-
-
+	- No matter how much public support they have, politicians cannot legally adopt measures which violate entrenched guarantees
+- Organic statues typically deal with a specific institution of the regime, while entrenched constitutional acts are generally more comprehensive
 ## 2.3 The Canadian Constitution
+- 
+
+
+
+
+
+
+
+
+
+
+
+
 ## 2.4 Rights of Indigenous Peoples in Canada
 ## 2.5 Amending Canada’s Constitution
 ## 2.6 Judicial Review of the Constitution
