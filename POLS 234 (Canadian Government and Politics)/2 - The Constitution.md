@@ -10,7 +10,11 @@
 	- This is done in "federal countries," where it is divided into federations based on geography and/or cultural regions
 	- Unitary countries (Britain/France) have one government for the whole country
 	- Federal government governs matters that should be common across the whole state
-		- na
+		- Ex. national defense
+	- Provincial/State government provide regulation for regions desiring distinct policies
+		- Ex. Education
+	- Local governments are even more granular (Ex. construction of roads)
+	- 
 
 
 
