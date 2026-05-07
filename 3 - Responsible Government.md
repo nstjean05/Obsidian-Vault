@@ -15,4 +15,18 @@
 - Responsible government makes the executive accountable to the House of Commons
 	- The House must be able to actually do something in retribution to the Executive
 ![](Pasted%20image%2020260506214000.png)
-- There are 5 conventions of 
+- There are 5 conventions of responsible government.
+	1. The Crown will only use its executive power *on the advice of* its ministers
+		- Ministers have the real power here, and their 'advice' is realistically a command to the Crown
+	2. The Crown almost always appoints as ministers or advisors those who are Members of Parliament (MPs)
+		- There is always leeway in the rules
+		- It is possible to appoint those with no elected standing, but those people must run for a seat in the House as soon as possible
+	3. Ministers act as a team led by the prime minister
+		- **Collective Responsibility**
+	4. The Crown will only appoint/maintain ministers who *have the **confidence** of* the house of commons
+		- If not for this, then the Crown could appoint a ministry of some niche party of MPs, who don't truly represent the populace
+	5. If the House expressed a lack of confidence in a Ministry, then the democratic linkage of *responsible government* has been broken.
+		- To keep responsible government going, either the House or ministry must be replaced.
+		- Therefore, when the ministry loses confidence of the House, the PM must either resign or request new elections.
+		- **Resignation:** Formation of a new ministry, and one which the House will have confidence
+		- ****
