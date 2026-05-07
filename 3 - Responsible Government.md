@@ -29,4 +29,10 @@
 		- To keep responsible government going, either the House or ministry must be replaced.
 		- Therefore, when the ministry loses confidence of the House, the PM must either resign or request new elections.
 		- **Resignation:** Formation of a new ministry, and one which the House will have confidence
-		- ****
+		- **Elections:** Two possible results
+			- Voters side with the ministry, returning a new contingent of MPs to the house who will better favour the ministry.
+			- Voters side with the House, and elect a majority of MPs who do not support the existing ministry
+- The representative of the Crown in Canada is the Governor General, who is recommended by the PM to the Crown for a 5-year term.
+## 3.3 Responsible Government as "Cabinet Government"
+- Responsible Government significantly weakens the cabinet by subordinating it to the House of Commons
+- 
