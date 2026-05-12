@@ -77,4 +77,9 @@
 	- The one rule is that you must be at most 5 years from the last election.
 	- The electorate is capable of judging whether an election was warranted, and can punish the government for calling one if they think it was not
 		- Because Jean Chrétien called several quite early elections, since 2001 provinces have passed legislation to create fixed election dates
-		- 
+			- This makes the the timing of elections more equitable
+			- However, this doesn't align with the ability to call elections
+			- Therefore, clauses are added to allow for elections to be called at additional times
+			- Harper's government added legislation dictating Federal elections every 4 years, however, the PM can choose to disregard this convention and wait for the fifth year!
+2. **Cabinet Appointments**
+	- Almost exact opposite in the U.S. and Canada
