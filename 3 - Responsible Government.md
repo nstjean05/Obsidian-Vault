@@ -83,3 +83,16 @@
 			- Harper's government added legislation dictating Federal elections every 4 years, however, the PM can choose to disregard this convention and wait for the fifth year!
 2. **Cabinet Appointments**
 	- Almost exact opposite in the U.S. and Canada
+	- In the U.S. the President can pick any American citizen to be in the cabinet
+		- This is versatile, and allows the head of state to pick for a cabinet position the person best suited for it
+		- Ex. Obama picked Timothy Geithner to be head of the Secretary of the Treasury, since he was head of the Federal Reserve Bank of New York
+	- The PM has to pick from the House
+		- Other Canadians may be appointed to the cabinet temporarily, but cannot stay unless they are able to get themselves elected quickly to a vacant house seat
+	- The U.S. bars members of Congress from holding cabinet posts because of its principle of checks and balances
+	- In Canada, responsible government requires us to restrict the PMs choice of cabinet ministers
+		- Since the PM and cabinet aren't directly elected to their positions, their democratic legitimacy depends on their capacity to maintain the confidence of the House
+3. **Head of Government and Head of State**
+	- Canada distinguishes between the heads of government (PM) and state (king/queen)
+	- In the U.S. the President fulfills both roles
+	- Responsible government --> democratic legitimacy from capacity to maintain agreement between House and government
+		- If this doesn't arise on its own, someone must be able to intervene and ensure that a if ministry that has lost confidence of the House it will step down
