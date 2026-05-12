@@ -96,3 +96,18 @@
 	- In the U.S. the President fulfills both roles
 	- Responsible government --> democratic legitimacy from capacity to maintain agreement between House and government
 		- If this doesn't arise on its own, someone must be able to intervene and ensure that a if ministry that has lost confidence of the House it will step down
+		- This has never happened, but in 1975 the Australian Governor General dismissed the PM during a political deadlock. It was very controversial, and generally sparks demands for separation from the Crown
+		- The mere threat of dismissal is enough for the PM to step down
+	- In the U.S. there is no office like the Gov. Gen. since it its democratic legitimacy is maintained by the system itself
+		- Each branch is elected by democratic mandate is nobody is overseen
+4. **Party Discipline**
+	- In Canada, party members have strong *party discipline*, meaning they almost always vote the party line in the House
+		- Many Canadians complain about this, since MPs don't utilize their autonomy
+	- American House and Senate members often vote against the position favoured by their party
+	- Although many Canadians would like to see this, is it challenging with our political structure
+		- The U.S. can afford to have less party discipling because of separation of powers
+			- The president does not depend on the support of Congress
+		- In Canada, if too many members defect from the line, the PM's power can be on shaky ground and lose House confidence
+		- The hyper-partisanship of American politics these last two decades is in strong contrast to how it's been historically (not as many defectors recently)
+## Responsible Government and Separation of Powers Compared
+- 
