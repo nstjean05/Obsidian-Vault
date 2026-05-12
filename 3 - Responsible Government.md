@@ -53,4 +53,11 @@
 	- Conservatives would only suggest right-leaning legislation, which the house would shut down
 - There are four conventions for the formation of government
 	1. Ultimate responsibility for choosing govt. must rest with the crown
-	2. The Crown 
+	2. The Crown must choose for Prime Minister the one who is most likely to have the support of the House
+	3. The government remains in office until the PM resigns on its behalf
+	4. The PM must resign if their government has lost the confidence of the House, AND has no prospect of winning the confidence of a newly elected House
+- There are two kinds of resignation
+	1. Leaving politics for private life
+		- Resign as PM, Party Leader, and MP
+	2. Vote of no confidence
+- Sometimes, a PM may stay on if his party is in good standing, call new elections, and then once re-elected step down into retirement to retain party power
