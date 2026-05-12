@@ -37,4 +37,10 @@
 - Responsible Government significantly weakens the cabinet by subordinating it to the House of Commons
 - Responsible government can be thought of as a **cabinet government**
 - **Cabinet:** Composed of MPs with the confidence of a majority of the members of the House
+	- Although it has no power of its own, through its control of executive and legislative branches it achieves **fusion of powers**
+- **Responsible Government** therefore is a regime where legislative/executive branches are fused via a cabinet, which is accountable to an assembly of elected representatives
+## 3.4 Majority and Minority Government
+- **Majority** = Party forming government controls more than half of the House
+- **Minority** = No single party controls a majority of House seats, and must form a coalition
+- It is more common to have majority than minority governments, but minorities aren't rare
 - 
