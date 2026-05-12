@@ -35,4 +35,6 @@
 - The representative of the Crown in Canada is the Governor General, who is recommended by the PM to the Crown for a 5-year term.
 ## 3.3 Responsible Government as "Cabinet Government"
 - Responsible Government significantly weakens the cabinet by subordinating it to the House of Commons
+- Responsible government can be thought of as a **cabinet government**
+- **Cabinet:** Composed of MPs with the confidence of a majority of the members of the House
 - 
