@@ -43,4 +43,14 @@
 - **Majority** = Party forming government controls more than half of the House
 - **Minority** = No single party controls a majority of House seats, and must form a coalition
 - It is more common to have majority than minority governments, but minorities aren't rare
-- 
+- Governments can be held together and collapse for many reasons
+	- Harper's 2006 government was a minority, but operated with the authority of a majority, since the Liberals were afraid of an election due to low funding and an unpopular leader
+- There are many tricks you can use. If a minority government has some sudden momentum, it may introduce legislation that is outrageous to the opposing party - this way, they get the election at a time they want, and can blame it on the opposition
+## 3.5 Forming a Government
+- Citizens only elect their local member of Parliament, not the government
+- This avoids gridlock, as is often seen in the American system
+	- Imagine if we were to vote in the House an NDP party, while a hypothetically voted-in Cabinet was Conservative. Nothing would be accomplished.
+	- Conservatives would only suggest right-leaning legislation, which the house would shut down
+- There are four conventions for the formation of government
+	1. Ultimate responsibility for choosing govt. must rest with the crown
+	2. The Crown 
