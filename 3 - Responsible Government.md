@@ -61,3 +61,20 @@
 		- Resign as PM, Party Leader, and MP
 	2. Vote of no confidence
 - Sometimes, a PM may stay on if his party is in good standing, call new elections, and then once re-elected step down into retirement to retain party power
+## 3.6 Institutional Implications of a Responsible Government
+- Why do Canadians not use the straightforward arrangements found in the U.S. Constitution?
+	- The principles of Responsible Government would make this quite difficult
+- Key differences in U.S. and Canadian institutions
+1. **Election Timing**
+	- Principle of separation of powers implies that each branch of government is elected separately
+	- Timings of elections are constitutionally dictated
+		- 2 years for the house
+		- 4 years for the President
+		- 6 years for the Senate
+	- Even if one branch goes against the other two, they cannot be changed until their dedicated time
+	- Responsible government makes this orderly schedule challenging
+		- Government dissolution is dictated by the Crown (at the PM's behest)
+	- The one rule is that you must be at most 5 years from the last election.
+	- The electorate is capable of judging whether an election was warranted, and can punish the government for calling one if they think it was not
+		- Because Jean Chrétien called several quite early elections, since 2001 provinces have passed legislation to create fixed election dates
+		- 
