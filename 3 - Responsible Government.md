@@ -109,5 +109,5 @@
 			- The president does not depend on the support of Congress
 		- In Canada, if too many members defect from the line, the PM's power can be on shaky ground and lose House confidence
 		- The hyper-partisanship of American politics these last two decades is in strong contrast to how it's been historically (not as many defectors recently)
-## Responsible Government and Separation of Powers Compared
+## 3.7 Responsible Government and Separation of Powers Compared
 - 
