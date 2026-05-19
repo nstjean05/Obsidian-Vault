@@ -49,7 +49,8 @@
               "title": "3 - Responsible Government"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -198,11 +199,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "16c999465bc09072",
+  "active": "40d85d70073a673f",
   "lastOpenFiles": [
+    "POLS 234 (Canadian Government and Politics)/1 - Canada's Regime.md",
     "3 - Responsible Government.md",
     "POLS 234 (Canadian Government and Politics)/2 - The Constitution.md",
-    "POLS 234 (Canadian Government and Politics)/1 - Canada's Regime.md",
     "Pasted image 20260506214000.png",
     "y.md",
     "POLS 234 (Canadian Government and Politics)/Syllabus.md",
