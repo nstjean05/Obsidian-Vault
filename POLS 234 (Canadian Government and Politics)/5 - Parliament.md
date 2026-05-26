@@ -64,11 +64,7 @@
     - **Parliamentary Budget Officer (PBO)**: independent financial assessments (e.g., F-35 cost estimates)
     - **Conflict of Interest and Ethics Officer**
     - Chief Electoral Officer, Commissioner of Official Languages, Privacy Commissioner
-
----
-
 ## 5.4 The Business of the House of Commons
-
 - **Legislative process**:
     - **Government bills**: introduced by cabinet
     - **Private members' bills**: introduced by non-cabinet MPs
@@ -77,34 +73,18 @@
     - **Scrutiny of public expenditure**
     - **Estimates**: government spending plans
     - **Resolutions**: non-binding expressions of opinion
-
----
-
 ## 5.5 The Rules of Procedure of the House of Commons
-
 - Governed by **Standing Orders**
 - **Closure**: can be used to limit debate and force a vote
-
----
-
 ## 5.6 The Backbencher
-
 - MPs not in cabinet or shadow cabinet
 - Sit behind **front benches**
 - Less influence but can still play important roles in scrutiny and debate
-
----
-
 ## 5.7 House of Commons Reform
-
 - Attempts to reduce party discipline and increase MP independence
 - However, party discipline is important for stability of parliamentary government
 - Real test: whether opposition MPs occasionally vote with government
-
----
-
 ## 5.8 The Senate
-
 - **Purpose**: chamber of **"sober second thought"**
 - **Original intents**:
     1. Protect **property rights** (senators must have $4,000+ assets)
@@ -122,11 +102,7 @@
         - Free trade bill (1988): Liberal Senate blocked PC government bill
         - GST bill (1991): Liberal Senate threatened to block; Mulroney appointed 8 extra PC senators via s. 26
 - **Role today**: reviews legislation, cleans up errors, provides regional perspective
-
----
-
 ## 5.9 Senate Reform
-
 - **Dissatisfaction**: long-standing, Senate seen as undemocratic, wasteful, or lobby for big business
 - **Reform options**:
     1. **Abolition**: simple but overlooks useful functions
