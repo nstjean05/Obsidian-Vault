@@ -1,12 +1,10 @@
-# Chapter 9: Canadian Charter of Rights and Freedoms
-
 ## 9.1 What Is a Charter of Rights?
 - **Purpose:** Prevent democratic majorities from violating fundamental rights, especially minority rights
 - **Key principle:** Rights entrenched in constitution = beyond reach of majority/elected representatives
 - **Individual rights:** Individuals claim violations against government (not private parties)
 - **Protects minorities:** Against tyranny of majority
 
-### Example: **Multani v. Commission scolaire Marguerite-Bourgeoys (2006)**
+### Example: Multani v. Commission scolaire Marguerite-Bourgeoys (2006)
 - Sikh student wanted to wear kirpan (ceremonial dagger) at school
 - School had no-weapons policy
 - Court balanced religious freedom vs. majority interest
