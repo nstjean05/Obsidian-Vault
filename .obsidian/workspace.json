@@ -8,104 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "16c999465bc09072",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "POLS 234 (Canadian Government and Politics)/1 - Canada's Regime.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "1 - Canada's Regime"
-            }
-          },
-          {
-            "id": "c785607401f0f48d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "POLS 234 (Canadian Government and Politics)/2 - The Constitution.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2 - The Constitution"
-            }
-          },
-          {
-            "id": "40d85d70073a673f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "POLS 234 (Canadian Government and Politics)/3 - Responsible Government.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "3 - Responsible Government"
-            }
-          },
-          {
-            "id": "ead81a17e0ff6ed0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "POLS 234 (Canadian Government and Politics)/4 - The Crown and Its Servants.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "4 - The Crown and Its Servants"
-            }
-          },
-          {
-            "id": "1a4662683f14d3da",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "POLS 234 (Canadian Government and Politics)/5 - Parliament.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "5 - Parliament"
-            }
-          },
-          {
-            "id": "ab2930809a4f735b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "POLS 234 (Canadian Government and Politics)/6 - Elections.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "6 - Elections"
-            }
-          },
-          {
-            "id": "dcaea798fd9e5856",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "POLS 234 (Canadian Government and Politics)/6 - Elections.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "6 - Elections"
-            }
-          },
-          {
             "id": "ed5971c634d2a939",
             "type": "leaf",
             "state": {
@@ -139,16 +41,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "POLS 234 (Canadian Government and Politics)/10 - The Judiciary.md",
+                "file": "POLS 234 (Canadian Government and Politics)/8 - Federalism.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "10 - The Judiciary"
+              "title": "8 - Federalism"
             }
           }
-        ],
-        "currentTab": 9
+        ]
       }
     ],
     "direction": "vertical"
@@ -296,18 +197,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ee92efe3bbdaef11",
+  "active": "ed5971c634d2a939",
   "lastOpenFiles": [
-    "POLS 234 (Canadian Government and Politics)/8 - Federalism.md",
-    "POLS 234 (Canadian Government and Politics)/9 - Canadian Charter of Rights and Freedoms.md",
-    "POLS 234 (Canadian Government and Politics)/10 - The Judiciary.md",
     "POLS 234 (Canadian Government and Politics)/6 - Elections.md",
-    "POLS 234 (Canadian Government and Politics)/7 - Political Parties.md",
     "POLS 234 (Canadian Government and Politics)/5 - Parliament.md",
     "POLS 234 (Canadian Government and Politics)/4 - The Crown and Its Servants.md",
     "POLS 234 (Canadian Government and Politics)/3 - Responsible Government.md",
-    "POLS 234 (Canadian Government and Politics)/1 - Canada's Regime.md",
     "POLS 234 (Canadian Government and Politics)/2 - The Constitution.md",
+    "POLS 234 (Canadian Government and Politics)/1 - Canada's Regime.md",
+    "POLS 234 (Canadian Government and Politics)/8 - Federalism.md",
+    "POLS 234 (Canadian Government and Politics)/10 - The Judiciary.md",
+    "POLS 234 (Canadian Government and Politics)/9 - Canadian Charter of Rights and Freedoms.md",
+    "POLS 234 (Canadian Government and Politics)/7 - Political Parties.md",
     "Pasted image 20260506214000.png",
     "y.md",
     "POLS 234 (Canadian Government and Politics)/Syllabus.md",
