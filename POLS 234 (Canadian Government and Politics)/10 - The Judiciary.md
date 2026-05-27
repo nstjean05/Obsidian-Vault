@@ -1,6 +1,3 @@
-
-# Chapter 10: The Judiciary
-
 ## 10.1 The Role of the Judiciary
 - Four main tasks (expanded from original modest role):
 	1. **Adjudicate private law disputes** (contracts, property, torts)
@@ -33,19 +30,19 @@
 - Judges decide important questions:
 	- Federal/provincial power limits
 	- Abortion access
-	- Medical assistance in dying
+	- Medical assistance in dying (MAID)
 	- Other Charter issues
 - **Triggered by cases:** Judicial review not initiated by courts, but by cases requiring constitutional ruling
 
 ## 10.2 Fundamental Principles of Canadian Judiciary
 
-### 1. **Rule of Law**
+### 1. Rule of Law
 - Everyone, including government officials, subject to law
 - Government acts must follow legal procedures
 - No arbitrary detention/punishment
 - Established in Section 7 of Charter: "principles of fundamental justice"
 
-### 2. **Judicial Independence**
+### 2. Judicial Independence
 - Judges must be free from political pressure to decide cases
 - **Three conditions for independence (Valente v. The Queen, 1985):**
 	1. **Security of tenure:** Can't be fired for unpopular rulings
@@ -56,7 +53,7 @@
 	3. **Control over court administration:** Freedom from pressure about case scheduling, decisions
 		- Not constitutionally entrenched but largely respected in practice
 
-### 3. **Equality Before Law**
+### 3. Equality Before Law
 - Everyone treated equally by courts
 - Section 15(1) of Charter: Explicit protection
 - **Challenges:**
