@@ -1,0 +1,11 @@
+- The internet is made of many connected computing devices
+	- Hosts = endpoint systems
+	- Runs network apps at the internet's 'edge'
+- **Packet Switches**: Forwarding packets
+	- Done via routers and switches
+- **Communication Links**
+	- Fiber, copper, radio, satellite
+	- *Bandwidth* describes the transmission rate
+- **Networks**
+	- Collection of devices, routers, and links, which is managed by some organization.
+- 
