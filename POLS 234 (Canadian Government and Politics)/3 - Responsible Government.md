@@ -14,7 +14,7 @@
 ## 3.2 The Conventions of Responsible Government
 - Responsible government makes the executive accountable to the House of Commons
 	- The House must be able to actually do something in retribution to the Executive
-![](Pasted%20image%2020260506214000.png)
+![](z.%20Images/Pasted%20image%2020260506214000.png)
 - There are 5 conventions of responsible government.
 	1. The Crown will only use its executive power *on the advice of* its ministers
 		- Ministers have the real power here, and their 'advice' is realistically a command to the Crown
