@@ -32,7 +32,42 @@
 	- a.k.a reports
 - Computerizing the manual (physical) filing system
 - Each program defines and manages its own data
-- 
+## File-Based Processing
+- There are many limitations to this method
+	- Separates and isolates data
+		- Each program maintains its own dataset
+		- Each is unaware of useful data in other programs
+	- Duplication of data
+		- Same data held in multiple programs
+	- Data dependence
+		- File structure defined in program code
+	- Incompatible file formats
+	- Fixed queries/proliferation of application programs
+		- Programs for specific functions
+		- New requirement --> new program
+	- Definition of data is embedded in application programs, rather than being stored independently
+	- No control over access and manipulation beyond that imposed by the given application
+## Database Approach
+- Database Management System evolved to solve the file-based issues.
+- **Database**: Shared collection of logically related data, designed to meet the needs of the organization
+- **Metadata**: System catalogue, providing descriptions of data to enable program-data independence
+- Logically related data comprises entities, attributes, and relationships of an organization's information
+## Database Management Systems (DBMS)
+- A software system enabling users to define, create, and maintain the DB
+- Provides controlled access to a DB
+- **Database Application Program**: A computer program which interacts with the DB by issuing requests to the DBMS
+	- Requests are SQL statements
+![](Pasted%20image%2020260917152503.png)
+## Database Approach
+- Data Definition Language (DDL)
+	- Permits specification of data types, structures, and any data constraints
+	- All specifications stored in DB
+- Data Manipulation Language (DML)
+	- Generic enquiry facility (query language) of the data
+- Controlled access to the DB may include:
+	1. Security systems
+	2. Integrity systems
+	3. 
 
 
 
