@@ -67,9 +67,45 @@
 - Controlled access to the DB may include:
 	1. Security systems
 	2. Integrity systems
-	3. 
-
-
-
+	3. Concurrency control
+	4. Recovery control
+	5. User-accessible catalog
+	6. A view mechanism
+		- Give users only the data they want/need
+- **Views**
+	- Allows each user to have their own view of the DB
+	- A 'view' is essentially a subset of the DB
+- Pros of views:
+	- Reduced complexity
+	- Security
+	- Custom DB appearances
+	- Consistent, unchanging experience of the database, even if the underlying structures change.
+## Components of a DBMS Environment
+- **Hardware**: Range from a PC to a network of computers
+- **Software**: DBMS, OS, network software, and application programs
+- **Data**: Used by the org and a description of this data (a schema)
+- **Procedures**: Instructions and rules applied to the design and use of the DBMS
+- **People**
+## DBMS Roles
+1. Data Administrator (DA)
+	- Management of the data resources
+2. Database Administrator (DBA)
+	- Physical realization of the DB
+	- Security/Integrity control, OS maintenance, performance
+3. Database Designers (Logical/Physical)
+	- Identifies data and the relationships between it
+	- Chooses the constraints on the data that is to be stored
+4. Application Developers
+	- Implementing the application programs that provide usability
+5. End Users (Naive vs. Sophisticated)
+	- Clients of the DB, for whom it has been designed for
+## History of DB Systems
+1. 1950/60s
+	- Hierarchical (IMS) and Network/CODASYL (IDS/IDMS) systems are developed
+2. 1970s
+	- Relational (RBDMS)
+3. 1980s
+	- Object-r
+4. 
 
 # Textbook
