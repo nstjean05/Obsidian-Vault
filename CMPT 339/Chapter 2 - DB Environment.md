@@ -4,6 +4,7 @@
 - The DB's design must start with an abstract and general description of the information requirements of the organization
 - Each user may need to have a different view of the data
 - To satisfy this, most modern DBMS are built on the **ANSI-SPARC** architecture
+- **Schema**: Structural framework or blueprint that defines how data is organized, stored, and accessed within a DB
 ## Objectives of 3-Level Architectures
 - All users should be able to access the same data
 - A user's view is immune to changes made in other views
@@ -11,8 +12,9 @@
 - DBA should be able to change the underlying structure without affecting user views
 - DB structure should be unaffected by physical storage changes
 - DBA should be able to change conceptual structure of the DB without affecting all users
-## ANSI-SPARC 3-Level Architure
+## ANSI-SPARC 3-Level Architecture
 ![](Pasted%20image%2020260917155136.png)
+![](Pasted%20image%2020260917155731.png)
 ### External
 - Users' DB view
 - Describes the part of the DB relevant to a particular user
@@ -38,4 +40,12 @@
 	- Record descriptions of data for storage
 	- Data placement
 	- Data compression and encryption
-- 
+## Data Independence
+- **Logical Independence**
+	- Immunity of external schemas to changes in the conceptual schema
+	- Conceptual schema changes should not require changes to external schema
+- **Physical Independence**
+	- Refers to the immunity of conceptual schema to changes in the internal schema
+	- Internal schema changes shouldn't necessitate changes to conceptual or external schemas
+## Database Languages
+- Allows
