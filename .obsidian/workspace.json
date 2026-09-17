@@ -4,39 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "18d8fd53ec4b1398",
+        "id": "b0588fc9ea63b8db",
         "type": "tabs",
         "children": [
           {
-            "id": "ed5971c634d2a939",
+            "id": "cdecf9a5fb8ce233",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "POLS 234 (Canadian Government and Politics)/8 - Federalism.md",
+                "file": "CMPT 339/Chapter 1 - Introduction.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "8 - Federalism"
-            }
-          },
-          {
-            "id": "5b29fdc8310740ca",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "POLS 312/Untitled.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "Chapter 1 - Introduction"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -93,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "1c1db9715e53cd8f",
@@ -184,12 +170,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5b29fdc8310740ca",
+  "active": "cdecf9a5fb8ce233",
   "lastOpenFiles": [
-    "CMPT 324 (Computer Networking)/0 - Introduction.md",
     "POLS 312/Untitled.md",
+    "CMPT 339/Chapter 1 - Introduction.md",
+    "CMPT 339",
+    "CMPT 324 (Computer Networking)/0 - Introduction.md",
     "POLS 312",
-    "Untitled",
     "CMPT 324 (Computer Networking)/5 - Wireless Networks or Multimedia Networking.md",
     "CMPT 324 (Computer Networking)/4 - Link Layer & Local Area Networks.md",
     "CMPT 324 (Computer Networking)/3 - Network Layer.md",
@@ -217,7 +204,6 @@
     "RELS 475/Lecture 12 - Protestant Reformers.md",
     "RELS 475/Lecture 13 - Guest.md",
     "RELS 475/Table of Contents.base",
-    "ANTH 210 (Islamic Culture)/Lecture 6 - Folk Islam.md",
     "CMPT 470 (Bioinformatics)",
     "ANTH 210 (Islamic Culture)",
     "CMPT 102 (Career Preparation in Technology)",
