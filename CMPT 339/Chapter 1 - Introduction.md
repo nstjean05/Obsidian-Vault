@@ -104,8 +104,33 @@
 	- Hierarchical (IMS) and Network/CODASYL (IDS/IDMS) systems are developed
 2. 1970s
 	- Relational (RBDMS)
+		- First commercial systems
 3. 1980s
-	- Object-r
-4. 
+	- Object-relational (ORDBMS)
+	- Object-oriented (OODBMS)
+	- ISO SQL Standard
+4. 1990s
+	- Data warehousing systems appear
+	- Web-DB integration
+	- XML
+## Advantages of DBMS
+- Control of data redundancy & maintenance
+- Data consistency, security, and integrity
+- More information from the same amount of data
+- Sharing data
+- Enforceable standards
+- Economies of scale
+- Balanced conflicting requirments
+- Improved data accessibility and responsiveness
+- Increased productivity
+## Disadvantages of DMBS
+- Highly complex
+- Large size
+- Can be very expensive
+- Hardware costs
+- Cost to convert from paper
+- High impact of system failures
+
+
 
 # Textbook
