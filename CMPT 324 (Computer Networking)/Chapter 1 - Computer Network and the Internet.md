@@ -9,17 +9,25 @@
 	- *Bandwidth* describes the transmission rate
 - **Networks**
 	- Collection of devices, routers, and links, which is managed by some organization.
-- **Network Edge Methods**
-	- *Connection Oriented*
-		- Prep data transfer ahead of time
-		- Establish a connection in the two communication hosts
-		- Has reliability and flow/congestion control
-		- Internet: TCP (Transmission Control Protocol)
-	- *Connectionless*
-		- No connection setup
-		- Faster, less overhead
-		- Low reliability, no flow control
-		- Internet: UDP (User Datagram Protocol)
+- **Internet**: A network of networks
+- **Protocols** control sending and receiving of messages
+- Standards:
+	- RFC: Request for comments
+	- IETF: Internet engineering task force
+- As a service:
+	- Major infrastructure providing services to apps for web streaming, email, games, e-commerce, etc.
+- 
+## Network Edge
+- *Connection Oriented*
+	- Prep data transfer ahead of time
+	- Establish a connection in the two communication hosts
+	- Has reliability and flow/congestion control
+	- Internet: TCP (Transmission Control Protocol)
+- *Connectionless*
+	- No connection setup
+	- Faster, less overhead
+	- Low reliability, no flow control
+	- Internet: UDP (User Datagram Protocol)
 - **Access Networks**
 	- Wired, wireless communication links
 - **Network Core**
