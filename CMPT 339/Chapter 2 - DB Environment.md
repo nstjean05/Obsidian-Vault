@@ -48,4 +48,9 @@
 	- Refers to the immunity of conceptual schema to changes in the internal schema
 	- Internal schema changes shouldn't necessitate changes to conceptual or external schemas
 ## Database Languages
-- Allows
+### Data Definition Language (DDL)
+- Allows the database admin (DBA) or user to describe and name entities/attributes/relationships
+- Specifies/defines the database schema
+- Doesn't manipulate data
+- Result of compiling DDL statements is a set of *tables* stored in special files collectively called the system catalog or data dictionary
+	- This catalog integrates the metadata that desc
