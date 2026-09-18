@@ -75,3 +75,49 @@
 	- Manipulative part --> Types of operation (update/receive data)
 	- An optional set of integrity rules to ensure the accuracy of the data
 - Modelling answers "What should the DB represent?"
+- DDL answers "How do I create that representation in the DBMS"
+- Purpose: Represent data in an understandable way
+- Categories include:
+	- Object-based (conceptual & internal levels)
+	- Record-based (conceptual & internal levels)
+	- Physical (internal level)
+### Object-Based Data Models
+- Concepts like entities, attributes, and relationships
+	- **Entity**: A distinct object in the organization that is to be represented in the DB
+	- **Attribute**: A property that describes some aspect of the object we wish to record
+	- **Relationship**: An association between entities
+- Common types:
+	- Entity-relationship (ER)
+	- Semantic
+	- Functional
+	- Object-oriented
+### Record-Based Data Models
+- Fixed-format records
+- **Relational Data Model** (declarative)
+	- Based on mathematical relations
+	- Data and relationships are represented as tables
+- **Network Data Model** (navigational approach)
+	- Data is represented as collections of records
+	- Relationships are represented as sets
+- **Hierarchical Model** (navigational approach)
+	- A restricted type of network model
+	- Allows a node to have only one parent (tree graph)
+### Physical Data Models
+- Describe how data is stored in the computer, representing information such as record structures, record orderings, and access paths
+## Conceptual Modelling
+- Conceptual Schema:
+	- Heart of the DB (core system)
+	- Supports all the external views and is supported by the internal schema
+	- Should be complete and accurate representation of an organization's data requirements
+- Conceptual modelling is the process of developing a model of information use that is independent of implementation details
+- Resulting in a conceptual data model
+## 10 Functions of a DBMS
+1. Data storage, retrieval, and updates
+2. A user-accessible catalog
+3. Transaction support
+4. Concurrency control
+5. Recovery services
+6. Auth services
+7. Support for data communication software
+8. Integrity services
+9. Services to p
