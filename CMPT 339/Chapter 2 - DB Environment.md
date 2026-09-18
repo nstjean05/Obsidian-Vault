@@ -120,4 +120,14 @@
 6. Auth services
 7. Support for data communication software
 8. Integrity services
-9. Services to p
+9. Services to promote data independence
+10. Utility services
+## System Catalog
+- One of the fundamental components of a DBMS
+- Repository of information (metadata)
+- Typically stores:
+	- Names of authorized users
+	- Names of data items in the DB
+	- Constraints on each data item
+	- Data items accessible by a user and the type of access
+	- Used by modules such as authorization control and integrity checker
