@@ -53,4 +53,25 @@
 - Specifies/defines the database schema
 - Doesn't manipulate data
 - Result of compiling DDL statements is a set of *tables* stored in special files collectively called the system catalog or data dictionary
-	- This catalog integrates the metadata that desc
+	- This catalog integrates the metadata that describes the objects in the DB
+### Data Manipulation Language (DML)
+- Provides basic data manipulation operations on data held in the DB
+- Data manipulation operations include the following:
+	- Insertion/Modification/Retrieval/Deletion of data stored in the DB
+- Query Language: part of a DML that involves data retrieval
+- Procedural DML
+	- Allows user to tell system *how* to manipulate data
+- Non-Procedural DML
+	- Declarative
+	- Allows user to state *what* data is needed rather than how it is retrieved
+	- e.g. SQL or QBE (query-by-example)
+## Data Models
+- DDL is used to write a schema, but is too low level
+- Data model:
+	- A higher-level description of the schema
+	- Integrated collection of concepts for describing data/relationships/constraints
+- Data model comprises:
+	- Structural part --> A set of rules
+	- Manipulative part --> Types of operation (update/receive data)
+	- An optional set of integrity rules to ensure the accuracy of the data
+- Modelling answers "What should the DB represent?"
