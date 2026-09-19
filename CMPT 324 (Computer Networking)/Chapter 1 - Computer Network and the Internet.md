@@ -16,7 +16,6 @@
 	- IETF: Internet engineering task force
 - As a service:
 	- Major infrastructure providing services to apps for web streaming, email, games, e-commerce, etc.
-- 
 ## Network Edge
 - *Connection Oriented*
 	- Prep data transfer ahead of time
