@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CMPT 324 (Computer Networking)/Chapter 1 - Computer Network and the Internet.md",
+                "file": "CMPT 325 (Computer Networking)/Chapter 1 - Computer Network and the Internet.md",
                 "mode": "source",
                 "source": false
               },
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "1c1db9715e53cd8f",
@@ -170,11 +169,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "cdecf9a5fb8ce233",
+  "active": "b7bafca48f2d6c08",
   "lastOpenFiles": [
     "CMPT 324 (Computer Networking)/2 - Transport Layer.md",
     "CMPT 324 (Computer Networking)/1 - Network Applications.md",
-    "CMPT 324 (Computer Networking)/Chapter 1 - Computer Network and the Internet.md",
+    "CMPT 325 (Computer Networking)/Chapter 1 - Computer Network and the Internet.md",
     "CMPT 339/Chapter 3 - Database Architectures and the Web.md",
     "CMPT 339/Chapter 2 - DB Environment.md",
     "CMPT 339/Chapter 1 - Introduction.md",
@@ -188,7 +187,7 @@
     "CMPT 324 (Computer Networking)/4 - Link Layer & Local Area Networks.md",
     "CMPT 324 (Computer Networking)/3 - Network Layer.md",
     "z. Images/Pasted image 20260506214000.png",
-    "CMPT 324 (Computer Networking)",
+    "CMPT 325 (Computer Networking)",
     "lab assignment.md",
     "POLS 234 (Canadian Government and Politics)/10 - The Judiciary.md",
     "POLS 234 (Canadian Government and Politics)/9 - Canadian Charter of Rights and Freedoms.md",
