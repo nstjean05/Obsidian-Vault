@@ -80,4 +80,23 @@
 	- Low error rate
 		- Far-spaced repeaters
 		- Immune to electromagnetic noise
-- ****
+- **Wireless Radio**
+	- Signal carried in various bands in electromag spectrum
+	- No physical wire
+	- Broadcast
+	- Propogration environment effectsL
+		- Reflection
+		- Obstruction by objects
+		- Interference/noise
+- **Radio Link Types**
+	1. Wireless LAN (WiFi)
+		1. 10-100s Mbps, 10s meters range
+	2. Wide Area (4G/5G)
+		1. 100s Mbps, over 10km
+	3. Bluetooth (replaces cables)
+		1. Short distances & limited rates
+	4. Terrestrial microwave
+		1. Point to point, 45Mbps
+	5. Satellite
+		1. Up to 100Mbps downlink
+		2. 270 msec end-end delay
