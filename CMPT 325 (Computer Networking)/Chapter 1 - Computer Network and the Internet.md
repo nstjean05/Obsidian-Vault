@@ -24,7 +24,7 @@
 	- Internet: TCP (Transmission Control Protocol)
 - *Connectionless*
 	- No connection setup
-	- Faster, less overhead
+	- Faster, less overheadµ
 	- Low reliability, no flow control
 	- Internet: UDP (User Datagram Protocol)
 - **Access Networks**
