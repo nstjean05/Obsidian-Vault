@@ -59,5 +59,25 @@
 	6. Data Center Networks
 		- High-bandwidth links (10s-100s Gbps) connect 100s of servers together
 - **Hosts**
-	- Send packets of data
-	- 
+	- Sends packets of data
+		- *L* bits long
+		- *R* transmission rate
+		- Link capacity = bandwidth
+- **Physical Links**
+	- **Bit**: Propogates between transmitter/receiver pairs
+	- **Physical Link:** What lies between the transmitter and receiver
+	- **Guided Media:** Signals propagate in solid media (e.g. copper, fiber, coax, etc.)
+	- **Unguided Media:** Signals propagate freely (e.g. radio)
+- **Coaxial Cable**
+	- Two concentric copper conductors
+	- Bidirectional
+	- Broadband
+		- Multiple freq channels on cable
+		- 100s Mbps per channel
+- **Fiber Optic Cable**
+	- Glass fiber carrying light pulses, each pulse a bit
+	- High-speed operation, 10s-100s Gbps
+	- Low error rate
+		- Far-spaced repeaters
+		- Immune to electromagnetic noise
+- ****
