@@ -32,4 +32,15 @@
 - **Network Core**
 	- Interconnected routers
 	- Network of networks
-- 
+- **Access Network Types**
+	1. Cable Based
+		- Frequency Division Multiplexing: Different channels transmitted in different frequency bands
+		- HFC: Hybrid fiber coax - high downstream transmission, low upstream (1/10th)
+		- Network of c
+	2. Digital Subscriber Line (DSL)
+		- 
+	3. Home Networks
+	4. Wireless Access Networks
+	5. Enterprise Networks
+	6. Data Center Networks
+	7. 
