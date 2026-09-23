@@ -30,4 +30,6 @@
 - **Access Networks**
 	- Wired, wireless communication links
 - **Network Core**
-	- 
+	- Interconnected routers
+	- Network of networks
+- 

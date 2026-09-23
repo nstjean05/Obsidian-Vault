@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "1c1db9715e53cd8f",
@@ -169,7 +170,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b7bafca48f2d6c08",
+  "active": "cdecf9a5fb8ce233",
   "lastOpenFiles": [
     "CMPT 324 (Computer Networking)/2 - Transport Layer.md",
     "CMPT 324 (Computer Networking)/1 - Network Applications.md",
