@@ -99,4 +99,4 @@
 		1. Point to point, 45Mbps
 	5. Satellite
 		1. Up to 100Mbps downlink
-		2. 270 msec end-end delay
+		2. 270 ms end-end delay
