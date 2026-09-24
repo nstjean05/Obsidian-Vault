@@ -84,7 +84,7 @@
 	- Signal carried in various bands in electromag spectrum
 	- No physical wire
 	- Broadcast
-	- Propogration environment effectsL
+	- Propogration environment effects
 		- Reflection
 		- Obstruction by objects
 		- Interference/noise
