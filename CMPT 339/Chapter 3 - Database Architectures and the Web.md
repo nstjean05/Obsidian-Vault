@@ -132,4 +132,5 @@
 - Accessed via apps
 - Each site is capable of independently processing user requests
 - Each fragment of the DDBMS is stored on one or more replica computers, each under the control of a separate DBMS
+# NoSQL
 - 
