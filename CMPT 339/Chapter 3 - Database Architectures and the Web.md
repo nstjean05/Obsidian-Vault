@@ -107,10 +107,29 @@
 	- Reusability
 		- Logic that can be reused and is designed as a separate service
 	- Contract
-		- 
+		- Services adhere to a comms contact defining the information exchange
 	- Abstraction
+		- All but necessary services logic is hidden from the outside world
 	- Composability
+		- Services may compose to others at various levels of granularity
 	- Autonomy
+		- Services have control over the logic they encapsulate
+		- Not dependent on other services
 	- Stateless
+		- Services should not manage state information
 	- Discoverability
+		- Services are outwardly descriptive, so they cna be found via discovery
+## Microservices Architecture
+- This is the modern evolution of the SOA principles
+	- Each service is a small, independently deployable, and owns its own DB
+- Microservices are containerized (docker) and orchestrated (Kubernetes) for auto deployment/scaling
+# Distributed DBMSs
+- Distributed DB (DDB)
+	- A logically interrelated collection of shared data, distributed physically over a computer network
+- Distributed DBMS (DDBMS)
+	- Software system permitting the management of the DDB (invisible to users)
+	- A distributed DBMS reflects many companies org structure that is decentralized and distributed
+- Accessed via apps
+- Each site is capable of independently processing user requests
+- Each fragment of the DDBMS is stored on one or more replica computers, each under the control of a separate DBMS
 - 
