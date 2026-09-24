@@ -67,4 +67,50 @@
 	- No UI
 	- A key technology for B2B integration
 	- Shares business data/logic/processes
-	- Devel
+	- Developers can add a web service to a web page to offer users specific functionalities
+		- Ex. Google Maps API, Stripe Payment, etc.
+- There are many legacy web enterprise standards:
+	- eXtensible Markup Language (XML)
+		- Universal structured data format
+	- Simple Object Access Protocol
+		- XML-based messaging protocol
+	- Web Services Description Language
+		- XML protocol to describe and locate a web service
+	- Universal Discovery, Description, and Integration
+		- XML-based registry
+	- RESTful Web Services
+		- REST = Representational State Transfer
+		- Dominant today
+## RESTful Web Services
+- REST is the dominant architectural style for web APIs today
+- Resources are identified by URLs and manipulated using standard HTTP verbs
+	- Ex. GET, POST, PUT, etc.
+- Stateless - each request carries all the needed information
+- Returns JSON or XML, and works over play HTTP
+	- Ex. GitHub APU, Twitter APU, mobile app backends, etc.
+## Graph QL
+- A modern API query language
+- Developed at Meta in 2015
+- Allows for clients to request only the data they need
+- REST has a limitation, as its fixed response shape risks over/under-fetching data
+- GraphQL solves this by having a single endpoint, and the client specifies exactly which fields to return
+- Fetch nested or related data in a single request, rather than multiple trips
+- Ex. GitHub, Shopify, Twitter, etc.
+- **Use ___ if:**
+	- Rest for simple CRUD APIs, when caching is important, or public APIs
+	- GraphQL for complex data relationships, mobile apps which are bandwidth-sensitive, and rapid UI iteration
+# Server-Oriented Architectures (SOA)
+- SOA is a business-centric software architecture for building applications that implement business processes, at granularity relevant to the user
+- Many principles
+	- Loose coupling
+		- Services designed to interact on a loose basis
+	- Reusability
+		- Logic that can be reused and is designed as a separate service
+	- Contract
+		- 
+	- Abstraction
+	- Composability
+	- Autonomy
+	- Stateless
+	- Discoverability
+- 
