@@ -1,3 +1,4 @@
+#incomplete 
 # Lecture
 - Many applications for databases
 	- Especially important in AI applications

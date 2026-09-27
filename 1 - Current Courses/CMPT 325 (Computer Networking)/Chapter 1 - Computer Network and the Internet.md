@@ -1,3 +1,4 @@
+#incomplete 
 # What is the internet?
 - The internet is made of many connected computing devices
 	- Hosts = endpoint systems
