@@ -11,14 +11,12 @@
             "id": "cdecf9a5fb8ce233",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "CMPT 339/Chapter 3 - Database Architectures and the Web.md",
-                "mode": "source",
-                "source": false
+                "file": "z. Images/Pasted image 20260917152503.png"
               },
-              "icon": "lucide-file",
-              "title": "Chapter 3 - Database Architectures and the Web"
+              "icon": "lucide-image",
+              "title": "Pasted image 20260917152503"
             }
           }
         ]
@@ -78,8 +76,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 420.5026054382324
   },
   "right": {
     "id": "1c1db9715e53cd8f",
@@ -172,26 +169,29 @@
   },
   "active": "cdecf9a5fb8ce233",
   "lastOpenFiles": [
-    "Pasted image 20260924151818.png",
-    "Pasted image 20260924150722.png",
-    "Pasted image 20260924150548.png",
-    "CMPT 339/Chapter 2 - DB Environment.md",
-    "CMPT 325 (Computer Networking)/Chapter 1 - Computer Network and the Internet.md",
+    "f.md",
+    "z. Images/Pasted image 20260917152503.png",
+    "1 - Current Courses/NATS 483",
+    "1 - Current Courses/CMPT 339 (Database Management)/Chapter 3 - Database Architectures and the Web.md",
+    "1 - Current Courses",
+    "z. Images/Pasted image 20260924151818.png",
+    "z. Images/Pasted image 20260924150722.png",
+    "z. Images/Pasted image 20260924150548.png",
+    "1 - Current Courses/CMPT 339 (Database Management)/Chapter 2 - DB Environment.md",
+    "1 - Current Courses/CMPT 325 (Computer Networking)/Chapter 1 - Computer Network and the Internet.md",
     "CMPT 324 (Computer Networking)/2 - Transport Layer.md",
     "CMPT 324 (Computer Networking)/1 - Network Applications.md",
-    "CMPT 339/Chapter 3 - Database Architectures and the Web.md",
-    "CMPT 339/Chapter 1 - Introduction.md",
-    "Pasted image 20260917155731.png",
-    "Pasted image 20260917155136.png",
-    "Pasted image 20260917152503.png",
-    "POLS 312/Untitled.md",
-    "CMPT 339",
-    "POLS 312",
+    "1 - Current Courses/CMPT 339 (Database Management)/Chapter 1 - Introduction.md",
+    "z. Images/Pasted image 20260917155731.png",
+    "z. Images/Pasted image 20260917155136.png",
+    "1 - Current Courses/POLS 312 (Globalization and Global Governance)/Untitled.md",
+    "1 - Current Courses/CMPT 339 (Database Management)",
+    "1 - Current Courses/POLS 312 (Globalization and Global Governance)",
     "CMPT 324 (Computer Networking)/5 - Wireless Networks or Multimedia Networking.md",
     "CMPT 324 (Computer Networking)/4 - Link Layer & Local Area Networks.md",
     "CMPT 324 (Computer Networking)/3 - Network Layer.md",
     "z. Images/Pasted image 20260506214000.png",
-    "CMPT 325 (Computer Networking)",
+    "1 - Current Courses/CMPT 325 (Computer Networking)",
     "lab assignment.md",
     "POLS 234 (Canadian Government and Politics)/10 - The Judiciary.md",
     "POLS 234 (Canadian Government and Politics)/9 - Canadian Charter of Rights and Freedoms.md",
@@ -207,18 +207,14 @@
     "POLS 234 (Canadian Government and Politics)/Syllabus.md",
     "POLS 234 (Canadian Government and Politics)",
     "RELS 475/475 Flash Cards.md",
-    "RELS 475/Lecture 14 - Into the Dark.md",
     "RELS 475/Table of Contents.base",
     "CMPT 470 (Bioinformatics)",
     "ANTH 210 (Islamic Culture)",
     "CMPT 102 (Career Preparation in Technology)",
-    "Language Learning",
-    "CMPT 461 (Immersive Computing)",
     "z. Images/Pasted image 20251111110129.png",
     "z. Images/Pasted image 20251024124914.png",
     "Learning Assembly/Untitled.canvas",
     "z. Images/Pasted image 20251006103223.png",
-    "z. Images/Pasted image 20250927215100.png",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]

@@ -57,7 +57,7 @@
 - Provides controlled access to a DB
 - **Database Application Program**: A computer program which interacts with the DB by issuing requests to the DBMS
 	- Requests are SQL statements
-![](Pasted%20image%2020260917152503.png)
+![](z.%20Images/Pasted%20image%2020260917152503.png)
 ## Database Approach
 - Data Definition Language (DDL)
 	- Permits specification of data types, structures, and any data constraints

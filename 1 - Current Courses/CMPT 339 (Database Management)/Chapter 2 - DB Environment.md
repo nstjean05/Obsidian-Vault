@@ -13,8 +13,8 @@
 - DB structure should be unaffected by physical storage changes
 - DBA should be able to change conceptual structure of the DB without affecting all users
 ## ANSI-SPARC 3-Level Architecture
-![](Pasted%20image%2020260917155136.png)
-![](Pasted%20image%2020260917155731.png)
+![](z.%20Images/Pasted%20image%2020260917155136.png)
+![](z.%20Images/Pasted%20image%2020260917155731.png)
 ### External
 - Users' DB view
 - Describes the part of the DB relevant to a particular user

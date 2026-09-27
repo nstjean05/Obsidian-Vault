@@ -9,7 +9,7 @@
 	- Processing gets distributed throughout the network
 	- File-server is connected to several workstations
 		- Like a shared Hard Disk Drive (HDD)
-![](Pasted%20image%2020260924150548.png)
+![](z.%20Images/Pasted%20image%2020260924150548.png)
 - Database resides on the file-server
 	- Inflicts a large amount of network traffic
 	- Full copy of DBMS is required on workstation
@@ -25,7 +25,7 @@
 	- Possible reduction in hardware costs
 	- Reduction in communication costs
 	- Increased consistency
-![](Pasted%20image%2020260924150722.png)
+![](z.%20Images/Pasted%20image%2020260924150722.png)
 # Multi-user DBMS Architectures 2.0
 - 3-tiered client-server architecture
 	- Introduced around 1995
@@ -60,7 +60,7 @@
 	- Load balancing
 	- Funnelling - Pools connections so all users share a small set of DBMS connections
 	- Increased reliability
-![](Pasted%20image%2020260924151818.png)
+![](z.%20Images/Pasted%20image%2020260924151818.png)
 # Web Services and Service-Oriented Architectures
 - Web Services
 	- A software designed to support interoperable machine-machine interaction over a network
