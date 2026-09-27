@@ -1,3 +1,4 @@
+#incomplete 
 # Multi-user DBMS Architectures
 - **Teleprocessing**: Traditional architecture for multi-user systems
 	- One computer with a single CPU and a few terminals
