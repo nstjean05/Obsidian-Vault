@@ -21,3 +21,11 @@
 		- In some sense, they determine every single thing about the world
 - How can a theist reconcile a purely causal universe?
 	- It seems that, at a very low level, quantum physics and chaos theory show that there is indeterminism in the functioning of the world.
+- The laws of physics are descriptive
+- We have gone from Aristotelian physics to Galileo, Newton, and modern Einstein's theory
+	- Aristotle: World is made up of elements (Earth, water, air, fire)
+	- Galileo: Realized acceleration is constant in a time interval.
+	- Newton: Force of gravity is responsible for the constant acceleration of a free-falling body.
+	- Quantum field theory understands action at a distance as being due to the exchange of particles (mediating bosons) of a pervasive field
+- This is all in the search of the *theory of everything*
+- 
