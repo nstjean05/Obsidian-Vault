@@ -37,4 +37,5 @@
 	- Human: Descriptive; God: Prescriptive
 - Isaiah 55:8-9, Human laws aren't God's laws, therefore we cannot expect Him to be bound by the same rules.
 ## Scientific Method - John Roche
-- 
+- Understanding science requires a historical perspective
+- Greek science was the first to really try and eliminate the magical from natural explanations
