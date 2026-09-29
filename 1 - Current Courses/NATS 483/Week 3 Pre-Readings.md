@@ -36,3 +36,5 @@
 - Perhaps the human pursuit of science is not a discovery of God's laws, but rather an essentially human pursuit which God has provided the possibility for.
 	- Human: Descriptive; God: Prescriptive
 - Isaiah 55:8-9, Human laws aren't God's laws, therefore we cannot expect Him to be bound by the same rules.
+## Scientific Method - John Roche
+- 
