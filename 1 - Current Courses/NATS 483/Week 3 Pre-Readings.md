@@ -39,3 +39,4 @@
 ## Scientific Method - John Roche
 - Understanding science requires a historical perspective
 - Greek science was the first to really try and eliminate the magical from natural explanations
+## Kuhn 1962 Structure of Scientific Revolutions, pp. 1-13
