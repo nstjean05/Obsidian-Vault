@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 - Current Courses/CMPT 325 (Computer Networking)/Chapter 1 - Computer Network and the Internet.md",
+                "file": "1 - Current Courses/NATS 483/Week 3 Pre-Readings.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Chapter 1 - Computer Network and the Internet"
+              "title": "Week 3 Pre-Readings"
             }
           }
         ]
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200.50260543823242
+    "width": 200.50260543823242,
+    "collapsed": true
   },
   "right": {
     "id": "1c1db9715e53cd8f",
@@ -171,11 +172,12 @@
   },
   "active": "cdecf9a5fb8ce233",
   "lastOpenFiles": [
+    "1 - Current Courses/CMPT 325 (Computer Networking)/Chapter 1 - Computer Network and the Internet.md",
+    "1 - Current Courses/NATS 483/Week 3 Pre-Readings.md",
     "1 - Current Courses/CMPT 339 (Database Management)/Chapter 1 - Introduction.md",
     "1 - Current Courses/POLS 312 (Globalization and Global Governance)/Untitled.md",
     "1 - Current Courses/CMPT 339 (Database Management)/Chapter 3 - Database Architectures and the Web.md",
     "1 - Current Courses/CMPT 339 (Database Management)/Chapter 2 - DB Environment.md",
-    "1 - Current Courses/CMPT 325 (Computer Networking)/Chapter 1 - Computer Network and the Internet.md",
     "Untitled.base",
     "z. Images/Pasted image 20260917152503.png",
     "f.md",
