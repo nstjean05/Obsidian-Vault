@@ -7,4 +7,6 @@
 	2. Laws are used in the explanation of natural structures and processes.
 	3. Used to predict what would reliably happen in given circumstances.
 	4. The development of cultural artefacts for specific ends.
-- 
+- There are several habits of mind that have developed with the advancement of the natural sciences.
+	1. Laws of nature are discoverable
+	2. Laws of nature ought to be simple
