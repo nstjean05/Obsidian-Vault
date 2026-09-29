@@ -28,4 +28,9 @@
 	- Newton: Force of gravity is responsible for the constant acceleration of a free-falling body.
 	- Quantum field theory understands action at a distance as being due to the exchange of particles (mediating bosons) of a pervasive field
 - This is all in the search of the *theory of everything*
-- 
+- **Verisimilitudinous** describes the laws of physics well; that they increasingly resemble the way things truly are in the universe.
+	- We don't totally understand why it is the case that a scientific process in one place is replicated in another. If I conduct an experiment in my lab, we can extrapolate that to assume that those results are true everywhere on earth.
+- Job 38:33: "Do you know the *ordinances* of the heavens, or fix their *rule* over the earth?"
+- Jeremiah 33:25 - the *fixed patterns* of heaven and earth
+- Genesis 8:22 - God implements and promises a set of regularities which we can rely upon.
+- Perhaps the human pursuit of science is not a discovery of God's laws, but rather 
