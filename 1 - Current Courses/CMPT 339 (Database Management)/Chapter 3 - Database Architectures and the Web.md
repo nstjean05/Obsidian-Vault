@@ -204,9 +204,35 @@
 - Open table formats add transaction support and schema enforcement to raw object storage
 - Platforms like Databricks Lakehouse Platform, Snowflake, BigQuery
 ## Cloud Computing
-- 
-
-
+- The use of multiple servers over a digital network, as if they were one computer.
+- There are several key characteristics
+	- On-demand self service
+	- Broad network access
+	- Resource pooling
+	- Repaid elasticity (capacity scaling)
+	- Measured service (usage is metered)
+- 3 Service models:
+	1. **Software as a Service (SaaS)**
+		- Software/data hosted in the cloud
+		- Accessed via browser, provider manages everything
+		- Gmail, MS365, Salesforce, etc.
+	2. **Platform as a Service (PaaS)**
+		- Platform to build and deploy apps
+		- Provider manages infrasatructure
+		- Google App Engine, Azure App Service, Heroku
+	3. **Infrastructure as a Service (IaaS)**
+		- Raw compute, storage, and networking on demand
+		- User manages everything from the OS and onward
+		- Amazon EC2, Azure VMs, Google Compute Engine
+## Serverless Computing
+- A cloud execution model where the provider automatically provisions, scales, and manages infrastructure
+- You deploy code, rather than servers
+	- The servers exist, you just don't manage them
+- **Functions as a Service (FaaS)**
+	- Event-driven code execution, billed per millisecond
+	- Deploy individual functions to the cloud.
+	- AWS Lambda, Azure Functions, Google Cloud Functions
+	- 
 
 
 
