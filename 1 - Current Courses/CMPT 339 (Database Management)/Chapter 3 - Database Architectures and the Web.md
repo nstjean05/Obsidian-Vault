@@ -196,7 +196,15 @@
 - A data lake stores raw data in its native format at massive scale
 - Schema on Read: Structure applies when data is queried, not when it's stored
 - **Data Warehouse vs. Lake**
-	- Warehouse is structured, processed data, schema on write, expensive to change, fast SQL quer
+	- **Warehouse** is structured, processed data, schema on write, expensive to change, fast SQL queries
+	- **Lake** hosts raw data in native format, schema on read, cheap storage, flexible
+- Data Swamp - a lake can turn into this without governance and a lack of metadata/quality control
+## The Lakehouse Paradigm
+- This combines the low-cost storage of a data lake with the data management and ACID guarantees of a data warehouse
+- Open table formats add transaction support and schema enforcement to raw object storage
+- Platforms like Databricks Lakehouse Platform, Snowflake, BigQuery
+## Cloud Computing
+- 
 
 
 
