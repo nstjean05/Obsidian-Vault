@@ -164,7 +164,22 @@
 	- Very large datasets
 	- High-throughput applications
 	- Rapidly changing schemas
-
+## ACID
+- ACID is a set of four properties that ensure database transactions are processed reliably and correctly
+- **Atomicity** - All operations happen, or none of them do
+- **Consistency** - A transaction must take the database from one valid state to another.
+- **Isolation** - Concurrent transaction shouldn't interfere with one another.
+- **Durability** - Once a transaction is successfully committed, its changes should survive a crash.
+## NewSQL
+- These are distributed relational databases
+- NewSQL systems provide the horizontal scalability or NoSQL while preserving full SQL and ACID guarantees
+- Traditional RDBMS does not scale horiz.
+	- NoSQL sacrifices ACID, so NewSQL bridges the gap
+- Examples:
+	- Google Spanner, CockroachDB, YugabyteDB, PlanetScale
+	- These are the DBs powering the largest web-scale applications that need relational data
+## Data Warehousing
+- 
 
 
 
