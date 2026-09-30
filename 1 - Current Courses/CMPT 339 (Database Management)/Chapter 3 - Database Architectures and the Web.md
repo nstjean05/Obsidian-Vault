@@ -134,5 +134,32 @@
 - Each site is capable of independently processing user requests
 - Each fragment of the DDBMS is stored on one or more replica computers, each under the control of a separate DBMS
 # NoSQL
+- **NoSQL** stands for *not only SQL*
+- A family of DB
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ![](Pasted%20image%2020260929181339.png)

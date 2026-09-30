@@ -1,4 +1,4 @@
-#incomplete 
+#complete 
 # Lecture
 - Many applications for databases
 	- Especially important in AI applications
@@ -131,7 +131,3 @@
 - Hardware costs
 - Cost to convert from paper
 - High impact of system failures
-
-
-
-# Textbook

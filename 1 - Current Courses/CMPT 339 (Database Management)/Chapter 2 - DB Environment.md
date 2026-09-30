@@ -1,4 +1,4 @@
-#incomplete 
+#complete 
 # Lecture
 ### Overview
 - DB systems are intended to provide users with an abstracted view of the data
