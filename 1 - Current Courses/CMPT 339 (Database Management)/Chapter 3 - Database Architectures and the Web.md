@@ -135,11 +135,35 @@
 - Each fragment of the DDBMS is stored on one or more replica computers, each under the control of a separate DBMS
 # NoSQL
 - **NoSQL** stands for *not only SQL*
-- A family of DB
-
-
-
-
+- A family of DB systems for storing and retrieving data without requiring the traditional relational-table model
+- There are many types of NoSQL DBs:
+- **Document Databases**
+	- Store JSON/BSON documents, flexible schema, nested data
+	- MongoDB, CouchDB, or Google Firestore
+	- Content management, product catalogues, user profiles, etc.
+- **Key-Value Databases**
+	- Simple Key --> value pairs; very fast read/write
+	- Redis, Amazon DynamoDB, Memcached
+	- Caching, session storage, real-time leaderboards, shopping carts
+- **Column-Family DBs**
+	- Data organized into column families, optimized for write
+	- Apache Cassandra, Apache HBase
+	- IoT Data, time-series, write-heavy workloads, analytics at scale
+- **Graph DBs**
+	- Data as nodes and edges, optimized for relationship queries
+	- Neo4j, Amazon Neptune
+	- Social Networks, fraud detection, knowledge graphs, recommendation engines
+- NoSQL emerged for a number of purposes:
+	- Web-scale applications like Google or Amazon that had outgrown the scalability of relational DBs
+	- Need for horizontal scaling
+		- Share data across thousands of servers (**sharding**)
+	- A more flexible schema, since not all data fits neatly in tables
+	- Allows for operation even during server failures
+- Review why to use NoSQL:
+	- Flexible data structures
+	- Very large datasets
+	- High-throughput applications
+	- Rapidly changing schemas
 
 
 
