@@ -179,8 +179,24 @@
 	- Google Spanner, CockroachDB, YugabyteDB, PlanetScale
 	- These are the DBs powering the largest web-scale applications that need relational data
 ## Data Warehousing
-- 
-
+- This allows an organization to turn its data archives into a source of knowledge
+- **Data Warehousing** is a consolidated view of corporate data, drawn from disparate operational data sources, which serve to support decision making.
+- Four key properties:
+	1. **Subject Oriented**
+		- Organized around major subjects (customers, sales) rather than application areas (invoicing, sock control)
+	2. **Integrated**
+		- Data from different systems is standardized into a unified view
+	3. **Time-Variant**
+		- Data is accurate at a specific point in time, and historical data is preserved
+	4. **Non-Volatile**
+		- Data is not updated in real time, but gets refreshed on a schedule
+- **OLAP** (Online Analytical Processing)
+	- The query style of data warehouses
+## Data Lake
+- A data lake stores raw data in its native format at massive scale
+- Schema on Read: Structure applies when data is queried, not when it's stored
+- **Data Warehouse vs. Lake**
+	- Warehouse is structured, processed data, schema on write, expensive to change, fast SQL quer
 
 
 
