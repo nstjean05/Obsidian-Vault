@@ -134,4 +134,5 @@
 - Each site is capable of independently processing user requests
 - Each fragment of the DDBMS is stored on one or more replica computers, each under the control of a separate DBMS
 # NoSQL
-- 
+
+![](Pasted%20image%2020260929181339.png)
