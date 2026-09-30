@@ -232,7 +232,50 @@
 	- Event-driven code execution, billed per millisecond
 	- Deploy individual functions to the cloud.
 	- AWS Lambda, Azure Functions, Google Cloud Functions
-	- 
+- **Serverless DBs**
+	- Scale storage and compute independently, costs drop to $0 when idle
+	- Ex. AWS Aurora Serverless - pauses when not in use, scales up to whatever you need
+## Benefits of Cloud Computing
+- Cost reduction
+- Scalability
+- Improved security
+	- Providers invest in security at a scale no org can match
+- Reliability
+- Access to new technologies
+- Faster development
+- Global Reach
+- Flexible working (from anywhere with internet)
+## Costs of Cloud Computing
+- Network dependency
+- System dependency
+- Vendor lock-in
+	- Proprietary services make migration hard
+- Cloud provider risk
+	- Provider could become insolvent, change pricing, etc.
+- Lack of control
+- Data residency and compliance
+- Lack of information on processing transparency
+## Cloud-based DB Solutions
+- As a type of SaaS, cloud-based DB solutions fall into two basic categories.
+	1. Data as a Service (DaaS)
+		- Provides data itself as a service via APIs
+	2. Database as a Service (DBaaS)
+		- Provides a fully managed DB
+	- Key difference: DaaS gives you access to some else's data, where DBaaS gives you your own managed DB
+## DaaS
+- Enables data definition in the cloud and subsequent querying
+- Doesn't implement a typical DBMS interface
+	- Data access via APIs
+- Enables orgs to offer valuable data access to others
+- Examples:
+	- Snowflake Data Marketplace - Share and monetize live data products
+	- AWS Data Exchange - subscribe to 3rd party datasets
+	- Databricks Delta Sharing - Share data live across orgs
+	- Bloomberg - financial market data as a service
+## DBaaS
+- Offers full Db functionality to app devs
+- Provider manages provisioning, scaling, backups
+
 
 
 

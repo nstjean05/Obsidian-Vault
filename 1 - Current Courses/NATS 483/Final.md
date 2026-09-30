@@ -1,0 +1,1 @@
+What approach to realism do you consider fits best with a christian worldview and doctrine of creation?
