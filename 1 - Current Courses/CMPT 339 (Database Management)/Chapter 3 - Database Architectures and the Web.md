@@ -274,7 +274,10 @@
 	- Bloomberg - financial market data as a service
 ## DBaaS
 - Offers full Db functionality to app devs
-- Provider manages provisioning, scaling, backups
+- Provider manages provisioning, scaling, backups, etc.
+- Spares the dev from ongoing DB admin tasks
+- Ex.
+	- 
 
 
 
