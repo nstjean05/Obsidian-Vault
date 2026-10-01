@@ -277,7 +277,16 @@
 - Provider manages provisioning, scaling, backups, etc.
 - Spares the dev from ongoing DB admin tasks
 - Ex.
-	- 
+	- AWS RDS, Azure SQL DB, Firestore, MongoDB Atlas
+- Customer-based provisioning and management using on-demand, self service mech
+- There are several architectural options of DBaaS:
+	- Separate servers
+		- High isolation, dedicated per server tenant
+		- Best for large, performance sensitive tenants
+	- Shared server, separate DB server processes
+		- Common virtualization, resources subdivided by tenant
+	- Shared DBMS server, separate DBs
+		- Single process shared,
 
 
 
