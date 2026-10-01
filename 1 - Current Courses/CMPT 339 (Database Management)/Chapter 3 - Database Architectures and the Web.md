@@ -286,7 +286,66 @@
 	- Shared server, separate DB server processes
 		- Common virtualization, resources subdivided by tenant
 	- Shared DBMS server, separate DBs
-		- Single process shared,
+		- Single process shared, better resource utilization
+	- Shared DB, shared Schema
+		- Maximum sharing, lowest cost, tenant ID column identifies rows
+## The CAP Theorem
+- CAP Theorem: A Distributed data store can guarantee at most two of three properties (C/A/P) simultaneously
+	- Consistency
+		- Every read returns the most recent write
+		- All nodes see the same data at the same time
+	- Availability
+		- Every request receives a response
+		- The system doesn't time out or return error
+	- Partition Tolerance
+		- System continues operating even when network partitions occur
+- In practice, network partitions always happen, therefore systems must choose between C and A
+	- CP - Consistency
+		- MongoDB, HBase
+	- AP - Availability
+		- Cassandra, DynamoDB
+	- CA - not partition tolerant
+		- Traditional single-mode DBMS (one datacenter)
+## Major Software Components of a DBMS
+- Query Processor
+	- Transforms queries into a series of low-level instructions directed to the DB manager
+- Database Manager
+	- Interfaces with the application programs and queries
+	- **Auth Control**
+		- Confirms whether user has permissions to do a given command
+	- **Command Processor**
+		- After auth, this receives the command and executes
+	- **Integrity Checker**
+		- Ensures the requested command satisfies integrity contstraints
+	- **Query Optimizer**
+		- Determines an optimal strategy for query execution
+	- **Transaction manager**
+		- Performs the required processing of operations that it receives from transactions
+		- Ensure ACID
+	- **Scheduler**
+		- Ensure concurrent operations on the DB proceed without conflicting with one another
+
+- File Manager
+	- Manipulates underlying storage files
+- DML Processor
+	- Converts DML statements embedded in application code into standard function calls in the host language
+- DDL Compiler
+	- Converts DDL statements (like CREATE TABLE) into a set of metadata tables stored in the system catalog
+- Catalog Manager
+	- Manages access to and maintains the sys catalog
+- Query Optimizer
+	- Determines an optimal strategy for query execution
+- Transaction manager
+	- Performs the required processing of operations that it receives from transactions
+	- Ensure ACID
+- Scheduler
+
+
+
+
+
+
+
 
 
 
