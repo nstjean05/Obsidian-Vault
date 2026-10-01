@@ -86,3 +86,23 @@
 	- Not allowed if it involves multiple base relations
 	- Not allowed if it involves aggregation or grouping operations
 ![](Pasted%20image%2020260929181339.png)
+
+
+
+
+**Client**
+
+|clientNo|fName|
+|---|---|
+|CR56|Aline|
+|CR74|Mike|
+|CR76|John|
+
+**Viewing**
+
+|clientNo|propertyNo|
+|---|---|
+|CR56|PA14|
+|CR56|PG4|
+|CR76|PG4|
+|CR62|PA14|
