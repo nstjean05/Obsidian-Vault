@@ -1,4 +1,4 @@
-#incomplete 
+#complete 
 # Multi-user DBMS Architectures
 - **Teleprocessing**: Traditional architecture for multi-user systems
 	- One computer with a single CPU and a few terminals
@@ -324,7 +324,11 @@
 		- Ensure ACID
 	- **Scheduler**
 		- Ensure concurrent operations on the DB proceed without conflicting with one another
-
+	- **Recovery Manager**
+		- Ensure the DB remains in a consistent state in the presence of failures
+		- Transaction commit/abort
+	- **Buffer Manager**
+		- Responsible for the transfer of data between main memory and storage
 - File Manager
 	- Manipulates underlying storage files
 - DML Processor
@@ -338,31 +342,3 @@
 - Transaction manager
 	- Performs the required processing of operations that it receives from transactions
 	- Ensure ACID
-- Scheduler
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-![](Pasted%20image%2020260929181339.png)
