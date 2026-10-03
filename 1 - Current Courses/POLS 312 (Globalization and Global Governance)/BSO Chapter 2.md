@@ -48,4 +48,5 @@
 	2. Geo-economic competition
 	3. Fallout from sanctions on Russia
 - Major economic powers have sought to protect themselves by strategic decoupling from global networks and restricting foreign ownership
+- Liberal accounts say that this conjuncture is going to lead to a dystopian world, or that we need to respond by strengthening the existing world order
 - 
