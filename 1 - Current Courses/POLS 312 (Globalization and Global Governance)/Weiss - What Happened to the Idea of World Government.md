@@ -19,4 +19,8 @@
 		- The private sector was seen as a necessary partner
 	3. Many people are embarrassed to be seen as naive for promoting an idealistic supra-nationality, so defer to global governance instead
 ## What happened to the idea of world government?
-- 
+- The UN was intended as a realist necessity in times of trial, not a liberal accessory to be discarded (Plesch 2008, 137)
+- The idea of a world government can be found back to the 14th century, in both Western and Eastern philosophies
+- Many prominent groups in the pre- and interwar periods pushed the idea of world governemtn
+- The June 1945 signing of the Charter of the UN in San Fransisco at once ratified the wants for a universal institution, but far from satisfied world-govt advocates
+- One prominent push for a world 
