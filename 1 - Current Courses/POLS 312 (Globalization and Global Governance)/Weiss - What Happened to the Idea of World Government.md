@@ -1,4 +1,7 @@
  - The U.N. was the first global-governance organization to be taking a bit more seriously, signed by the U.S. in 1942 and starting in 1945
  - 2005 was a point where people hoped to update it since 1945, but instead exposed debilitating bureaucratic conflicts
-	 - Highlighted the pettiness between rules the UN was supposed to solve
-	 - 
+	 - Highlighted the pettiness between rulers that the UN was supposed to solve
+- Nation states have to rise above their own sense of entrenched rights to find a realistic compromise, which may take a crisis (Malloch-Brown 2008, 7-8)
+- The poor state of affairs is usually blamed on political will, power politics, or collective action issues
+	- However, perhaps scholars also don't have enough imagination for grand, idealistic plans
+- 
