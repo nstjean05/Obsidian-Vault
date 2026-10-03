@@ -1,0 +1,4 @@
+ - The U.N. was the first global-governance organization to be taking a bit more seriously, signed by the U.S. in 1942 and starting in 1945
+ - 2005 was a point where people hoped to update it since 1945, but instead exposed debilitating bureaucratic conflicts
+	 - Highlighted the pettiness between rules the UN was supposed to solve
+	 - 
