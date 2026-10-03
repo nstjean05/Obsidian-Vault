@@ -49,4 +49,10 @@
 	3. Fallout from sanctions on Russia
 - Major economic powers have sought to protect themselves by strategic decoupling from global networks and restricting foreign ownership
 - Liberal accounts say that this conjuncture is going to lead to a dystopian world, or that we need to respond by strengthening the existing world order
+- Transformationalists would assert that the liberal order has never been very liberal, universal, nor orderly, and that global trends are more indicative of re-globalization
+- China has been a proponent of globalization, being home to 230 of the world's largest 500 multinationals
+## 2.4 Globalization and the Transformation of World Politics
+- Juts as 19th century Europe witnessed the nationalization of politics, we are seeing the globalization of politics
+- We don't yet know whether the new, post-Western world order will be essentially peaceful for conflictual
+	- Are we in a time of transition, or a new order?
 - 
