@@ -100,9 +100,9 @@
 
 **Viewing**
 
-|clientNo|propertyNo|
-|---|---|
-|CR56|PA14|
-|CR56|PG4|
-|CR76|PG4|
-|CR62|PA14|
+| clientNo | propertyNo |
+| -------- | ---------- |
+| CR56     | PA14       |
+| CR56     | PG4        |
+| CR76     | PG4        |
+| CR62     | PA14       |
