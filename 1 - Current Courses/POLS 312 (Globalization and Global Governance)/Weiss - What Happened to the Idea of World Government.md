@@ -21,6 +21,12 @@
 ## What happened to the idea of world government?
 - The UN was intended as a realist necessity in times of trial, not a liberal accessory to be discarded (Plesch 2008, 137)
 - The idea of a world government can be found back to the 14th century, in both Western and Eastern philosophies
-- Many prominent groups in the pre- and interwar periods pushed the idea of world governemtn
+- Many prominent groups in the pre- and interwar periods pushed the idea of world government
 - The June 1945 signing of the Charter of the UN in San Fransisco at once ratified the wants for a universal institution, but far from satisfied world-govt advocates
-- One prominent push for a world 
+- One prominent push for a world constitution was in 1951, from efforts to stop nuclear armament
+- There are many prominent individuals from this period in support of a world government idea, including:
+	- Kurt Vonnegut, Walter Cronkite, H. G. Wells, Peter Ustinov,
+	- Dorothy Thompson, Supreme Court Justices William Douglas and Owen Roberts,
+	- Senators Estes Kefauver and future Vice-President Hubert Humphrey.
+- But this hope was hidden by the Iron Curtain, Cold War, and McCarthyism
+- 
