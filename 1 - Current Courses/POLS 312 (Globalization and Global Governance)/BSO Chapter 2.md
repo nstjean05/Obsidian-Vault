@@ -18,4 +18,6 @@
 	- Growing interconnectedness
 	- Accelerating pace of global flows (ideas, news, good, info, capital)
 	- Deepening enmeshment of local and global
-	-  
+-  Deterritorialization
+	- As we grow more global, activities are detached from their locale
+- Globalization, from 
