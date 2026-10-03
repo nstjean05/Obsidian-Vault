@@ -4,4 +4,11 @@
 - Nation states have to rise above their own sense of entrenched rights to find a realistic compromise, which may take a crisis (Malloch-Brown 2008, 7-8)
 - The poor state of affairs is usually blamed on political will, power politics, or collective action issues
 	- However, perhaps scholars also don't have enough imagination for grand, idealistic plans
+- There is a difference between national in international governance
+	- National: Governance + Government
+		- It has shortcomings, but can usually and predictably exert control
+	- International: Governance – Government
+		- Virtually no capacity to ensure compliance
+- Global governance refers to collective efforts to identify, understand, or address worldwide problems
+	- Encompasses an extremely wide variety of cooperative problem-solving arrangements
 - 
