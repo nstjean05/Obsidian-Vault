@@ -30,4 +30,22 @@
 - Realists don't believe in globalization per se, claiming that it is a highly exaggerated and superficial phenomenon
 	- Instead, real forces like states, geopolitics, and capitalism dictate world events.
 	- Internationalization is simply the result of hegemonic states like the U.S., which impose it on the rest of the world.
-- Marxists disagree with globalization on the grounds that globalization in rooted in the expansionism of capi
+- Marxists disagree with globalization on the grounds that globalization in rooted in the expansionism of capitalism
+## 2.3 The Crisis of Globalization and the Liberal World Order
+- GFC = Great Financial Crisis
+- If the GFC was the first crisis of globalization, the second was the Covid-19 pandemic
+	- Perhaps the 3rd will have been the U.S.-Iran war?
+- The pandemic buoyed nationalist populism
+	- Ex. Brexit, MAGA
+- These, and Russia-Ukraine, may indicate a period of de-globalization
+- The dominant form of populism today is that of nationalist or radical right populism
+	- Built on public distrust with mainstream politics, predating the GFC
+- We are also seeing a resurgence in rivalry between great powers
+	- Ex. China, Brazil, India, U.S., EU
+	- Multipolar world
+- Global connectivity is become increasingly scrutinized due to several factors
+	1. Covid-19
+	2. Geo-economic competition
+	3. Fallout from sanctions on Russia
+- Major economic powers have sought to protect themselves by strategic decoupling from global networks and restricting foreign ownership
+- 
