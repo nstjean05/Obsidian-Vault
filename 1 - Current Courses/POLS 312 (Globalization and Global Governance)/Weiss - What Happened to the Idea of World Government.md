@@ -11,4 +11,12 @@
 		- Virtually no capacity to ensure compliance
 - Global governance refers to collective efforts to identify, understand, or address worldwide problems
 	- Encompasses an extremely wide variety of cooperative problem-solving arrangements
+## Why did global governance emerge?
+- 3 Explanations
+	1. Beginning of the 1970s, interdependence and rapid tech advances made people recognize some problems are too big for 1 state to solve
+	2. Expansion in the number and import of non-state actors
+		- Institutional networks
+		- The private sector was seen as a necessary partner
+	3. Many people are embarrassed to be seen as naive for promoting an idealistic supra-nationality, so defer to global governance instead
+## What happened to the idea of world government?
 - 
