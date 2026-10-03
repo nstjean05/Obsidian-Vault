@@ -20,4 +20,14 @@
 	- Deepening enmeshment of local and global
 -  Deterritorialization
 	- As we grow more global, activities are detached from their locale
-- Globalization, from 
+- Globalization, from the view of the global south, is often seen as a new imperialism
+- New technologies enact *time-space compression*, i.e. they effectively shrink geographical space and time
+	- This allows for the hubs of power to be continents apart (ex. Beijing and D.C.)
+- **Internationalization** is growing connections between sovereign states
+- **International Interdependence** is mutual dependence between states
+- **Globalization** is the uneven process of the widening, deepening, and accelerating process of trans-world connectedness
+### 2.2.3 Debating Globalization
+- Realists don't believe in globalization per se, claiming that it is a highly exaggerated and superficial phenomenon
+	- Instead, real forces like states, geopolitics, and capitalism dictate world events.
+	- Internationalization is simply the result of hegemonic states like the U.S., which impose it on the rest of the world.
+- Marxists disagree with globalization on the grounds that globalization in rooted in the expansionism of capi
