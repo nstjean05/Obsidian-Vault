@@ -55,4 +55,33 @@
 - Juts as 19th century Europe witnessed the nationalization of politics, we are seeing the globalization of politics
 - We don't yet know whether the new, post-Western world order will be essentially peaceful for conflictual
 	- Are we in a time of transition, or a new order?
-- 
+- World government still seems fanciful, but some kind of global governance is viewed as more and more realistic
+- **Does globalization erode the power of the state?**
+	- Yes
+		- States are less potent
+		- States are ceding power to unelected global and regional institutions
+		- States are more vulnerable to external events
+		- Democratic states have an erosion of democratic credentials
+		- Border control is central to sovereign statehood, but gets eroded by global systems
+	- No
+		- State power is not eroded, as pandemic responses show
+		- By acting multinationally, states gain power
+		- Globalization gives states more tools to balance from vulnerabilities
+		- Democratic challenges are only arising from internal factors
+		- State control of borders has never been greater
+## 2.5 Conclusions
+- A process of re-globalization is underway, rather than de-globalization
+- Globalization matters in the study and practice of world politics
+- The demise of the liberal world order is confused with the emergence of a post-Western world order
+## Questions
+Questions
+1. Distinguish the concept of globalization from those of internationalization and international interdependence.
+2. Critically review the major transformations in world politics associated with globalization.
+3. Why is globalization associated with conflict in world politics?
+4. Compare globalist and sceptical accounts of globalization.
+5. What are the sources of the current crisis of globalization? Is the world entering a period of deglobalization?
+6. What is meant by the term ‘liberal world order’?
+7. What is meant by the term ‘global governance system’?
+8. Distinguish the concept of global politics from those of geopolitics and international (inter-state) politics.
+9. Critically assess some of the key arguments of the transformationalists.
+10. Why do some argue the world is witnessing the emergence of a post-Western global order?
