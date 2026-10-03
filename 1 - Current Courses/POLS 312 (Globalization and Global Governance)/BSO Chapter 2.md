@@ -2,4 +2,13 @@
 ## 2.2 Making Sense of Globalization
 - Transnationals account for more than 33% of world output
 	- Control production networks for 30% of world trade
-	- 
+- Engines of globalization
+	- Technics (comms, transport)
+	- Economics
+	- Politics (ideologies, interests, and power)
+- UN Food Systems Summit (FSS) 2021 was a critical point
+	- Covid put 270M people into starvation
+	- Seed ownership has become a battleground of food security
+	- Large NGOs (Monsanta, Bill & Melinda Gates) want free trade of seeds across borders.
+	- Global southern countries and indigenous groups are trying to resist what they call a 'corporate takeover'
+- 
