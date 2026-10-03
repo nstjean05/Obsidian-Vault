@@ -11,4 +11,5 @@
 	- Seed ownership has become a battleground of food security
 	- Large NGOs (Monsanta, Bill & Melinda Gates) want free trade of seeds across borders.
 	- Global southern countries and indigenous groups are trying to resist what they call a 'corporate takeover'
-- 
+- World Risk Society: When national borders provide little protection from distant dangers or the consequences of systemic failures.
+- Transgovernmental Networks: When national and local govts becomes more reg
