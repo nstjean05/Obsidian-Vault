@@ -200,9 +200,7 @@
 - Could take two decades before it can be safely characterized
 - Surge in alternative governing structures among discrete groups of states and issues
 - Dynamism, adaptation, contestation, and change will define IR for the foreseeable future
-
 #### The end of the West and of the transatlantic partnership?
-
 - Transatlantic partnership showed unexpected unity over Ukraine
 - Western solidarity now looks unlikely to persist
     - Trump seeking a deal with Putin
@@ -210,36 +208,28 @@
 - Could still be an order built on a transatlantic partnership of shared interests, but confidence is weakened
     - Powerful adversaries (Russia, China, Iran); US re-evaluating its alignments
     - Not the first division in the West (Anderson, Ikenberry and Risse 2008), and the alliance may be more resilient than sceptics think
-
-#### A dominant China?
-
+#### A Dominant China?
 - Some: next phase is _disorder_, which China is ready for and the US isn't (Leonard 2023)
 - Others: China benefits from Trump's disruption and could become dominant, even hegemonic (Schuman 2025)
 - But past 7 decades show a desire for predictability and stability
 - No great or emerging power wants China _or_ the US to dominate
     - Strategic autonomy is meant to avoid overdependence on either
-
 #### Spheres of influence
-
 - Trump's moves on Canada, Greenland, the Panama Canal, plus admiration for McKinley, sparked speculation about a US Western Hemisphere sphere and a return to great power carve-ups (Toft 2025)
 - Why a grand bargain among regional hegemons is unlikely
     - US ceding the Indo-Pacific (ex. Taiwan) for the Western Hemisphere would be a major policy reversal
-    - Europe-Russia accommodation would reverse 30 years of history
+    - Europe-Russia accommodation would be a reversal of 30 years of history
     - US unlikely to drop interests in Australia, India, Japan, South Korea
     - Asia-Pacific states don't want to play along
     - China isn't leaving Latin America or Africa
     - Europe lacks the capacity to secure a sphere (and its contours are unclear)
-
 #### Multipolarity
-
 - Many states describe the order as multipolar, not unipolar or bipolar
     - Welcomed as a chance to diversify partnerships and limit dependence
 - Reality: power is less distributed than they think
     - Brazil, Indonesia, Russia, Saudi Arabia, South Africa, Turkey matter, but the US and China are in a category of their own
 - Still significant because states _believe_ such a world exists
-
 #### The reinvention of the liberal international order and of the West?
-
 - Few think Trump is a one-term aberration; consensus is a transformative, enduring shift
     - One exception: Lind on Japan, which wants a slimmed down, rules-based order that embraces sovereignty and focuses on development and human security
         - Human rights and democracy promotion left to sovereign states
@@ -247,9 +237,7 @@
     - A future Republican or Democratic Party could return to calibrated engagement
     - Internationalism based on shared interests: AI/tech, climate, health, peace and security
     - Newly envisioned order: more regionalism, _minilateralism_, _plurilateralism_; coalitions of the willing; respects sovereignty; less emphasis on enforcing human rights or exporting values
-
 #### The importance of agency and contingency
-
 - US plus the 11 states studied will be most influential, but other states matter for resilience
     - Africa deserves its own paper
     - Tech, climate, immigration, and demographics will test cooperation
