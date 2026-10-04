@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 - Current Courses/POLS 312 (Globalization and Global Governance)/Weiss - What Happened to the Idea of World Government.md",
+                "file": "1 - Current Courses/POLS 312 (Globalization and Global Governance)/BSO Chapter 2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Weiss - What Happened to the Idea of World Government"
+              "title": "BSO Chapter 2"
             }
           }
         ]
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200.50260543823242,
-    "collapsed": true
+    "width": 200.50260543823242
   },
   "right": {
     "id": "1c1db9715e53cd8f",
@@ -172,6 +171,7 @@
   },
   "active": "cdecf9a5fb8ce233",
   "lastOpenFiles": [
+    "1 - Current Courses/POLS 312 (Globalization and Global Governance)/BSO Chapter 6.md",
     "1 - Current Courses/POLS 312 (Globalization and Global Governance)/BSO Chapter 2.md",
     "1 - Current Courses/POLS 312 (Globalization and Global Governance)/Weiss - What Happened to the Idea of World Government.md",
     "1 - Current Courses/CMPT 339 (Database Management)/Chapter 4 - The Relational Model.md",
@@ -213,7 +213,6 @@
     "POLS 234 (Canadian Government and Politics)/3 - Responsible Government.md",
     "POLS 234 (Canadian Government and Politics)/2 - The Constitution.md",
     "POLS 234 (Canadian Government and Politics)/1 - Canada's Regime.md",
-    "POLS 234 (Canadian Government and Politics)/7 - Political Parties.md",
     "POLS 234 (Canadian Government and Politics)",
     "RELS 475/Table of Contents.base",
     "CMPT 470 (Bioinformatics)",
