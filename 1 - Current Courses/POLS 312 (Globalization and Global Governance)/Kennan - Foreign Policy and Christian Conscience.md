@@ -36,9 +36,7 @@
 - Conclusion: our wants aren't automatically God's purpose, and the Russians' aren't the devil's
     - Pattern is "complex, fuzzy, and unstable"; judge each issue, and accept what we can't know
     - Some conflicts might draw only pity and disgust from God toward _both_ sides
-
 ### The Tragedy of Colonialism
-
 - Common assumptions today
     - Any foreign rule is worse than indigenous rule
     - Any anti-colonial effort is automatically good, i.e. self-determination is a Christian purpose
@@ -54,9 +52,7 @@
     - US is a conspicuous failure on racial problems
     - Approach with humility, detachment, compassion for both sides
     - Don't invoke Christ's judgment on situations beyond mortal power to prevent or liquidate painlessly
-
 #### Foreign aid
-
 - Argues against absolutes; asks what _charity_ really is
     - Charity isn't giving what lets people avoid facing long-run necessities
     - Skeptical of the handout, even in personal life
@@ -67,9 +63,7 @@
 - Aid has a place, but its possibilities are slimmer than assumed
     - Fewer outright grants is better
     - Frame it as rational national interest, not disinterested altruism
-
 ### The UN As a Symbol of Conscience
-
 - The **sovereign national state** has no foundation in Christian principle
     - Christ never taught that humanity should divide into families that each answer to no higher authority
     - A truly Christian foreign policy would need to overcome that state egotism
@@ -82,9 +76,7 @@
     - It's a weak but real symbol: cherish it, don't overburden it, strengthen it
     - Not every UN decision is automatically right, and not every issue belongs there
     - If the idea disappears, nothing stands between us and a chaotic world in the atomic age
-
 ### The Moral Implications of War
-
 - Here a Christian _can_ take a stand: issues of civilization's interest (war, the atom, mass destruction weapons)
 - War has always posed unresolved dilemmas for Christian thought
 - Disagrees with the Quakers' renunciation of power
