@@ -12,9 +12,7 @@
     1. Convergence of states on similar ways of organizing domestic and international life
     2. How norms become internationalized and institutionalized
     3. Whether norms maintain inequality or reflect new possibilities of progress
-
-### 13.2 The rise of constructivism
-
+### 13.2 The Rise of Constructivism
 - **Neorealism**: states are primary actors, in anarchy (no supranational authority), consumed by security, power, survival
     - Distribution of power explains almost everything
 - **Neoliberal institutionalism**: states cooperate extensively for interests beyond security
@@ -39,17 +37,13 @@
 - First generation drew on late 19th century sociology (order and progress through shared norms despite modernization)
     - Imagined a post-Cold War community with shared norms, interests, outlooks
     - Downside: neglected power and domination and obscured inequalities behind "progressive" change
-
 #### Key Points
-
 - Neorealism and neoliberal institutionalism dominated 1980s US IR; both materialist and individualist
 - Critics drew on critical and sociological theory to show effects of ideas and norms
 - End of the Cold War opened space to challenge existing theories
 - First wave stressed shared identities and norms producing stable order and some progress
 - Ideas of an egalitarian international community often hid continued power and domination
-
 ### 13.3 Constructivism
-
 - Constructivism is a **social theory**, not a _substantive theory_
     - Social theory: how to conceptualize agents and structures
     - Substantive theory: specific claims about patterns (ex. democratic peace)
@@ -98,9 +92,7 @@
     - Meanings come from culture, not private beliefs
     - Culture _informs_ meaning rather than just constraining
     - Culture is fractured, so meanings are contested
-
 #### Box 13.1: Key concepts
-
 - **Agent-structure problem**: how agents and structures relate
     - Agents first means pre-social actors; structure first means "cultural dupes"
     - Solution: they _constitute each other_
@@ -111,9 +103,7 @@
     - **Norm** is "a standard of appropriate behavior for actors with a given identity" (Finnemore and Sikkink 1998)
     - Actors follow norms for costs and benefits _and_ sense of self
 - **Practices**, **rational choice** (maximizing preferences under constraints)
-
 #### Box 13.2: Wendt's three cultures of anarchy
-
 - Anarchy's deep structure is cultural, not material; based on roles of Self and Other
 - **Hobbesian** (enemy): war of all against all
     - True self-help, zero-sum security; survival depends on military power
@@ -122,9 +112,7 @@
 - **Kantian** (friend): two rules
     1. Settle disputes without war or threat of war
     2. Fight as a team if one is threatened by a third party
-
 #### Key Points
-
 - Constructivists focus on consciousness and knowledge; ideas as structural factors
     - Interested in how agents produce structures and structures produce agents
     - Practices sit between agents and structures
@@ -133,22 +121,17 @@
 - Meanings aren't always fixed; fixing meaning is central to politics
 - Social construction denaturalizes what's taken for granted and shows alternative pathways
 - Power is also the production of identities, interests, and meanings, not only making someone do what they otherwise wouldn't
-
-#### Opposing Opinions: the laws of war _(heading missing from excerpt)_
-
+#### Opposing Opinions: The Laws of War
 - **Do the laws of war still make sense?**
     - For (they're outdated)
         - Non-state actors (ex. Islamic State) cause much mayhem but aren't bound by them
         - Binding states but not non-state combatants gives the latter a battlefield advantage
         - Post-9/11 asymmetrical wars: terrorists don't play by the rules, so shouldn't benefit (ex. no POW rights)
         - IHL used as a weapon: forces in civilian areas as human shields, then win sympathy and publicity when civilians are harmed
-
 1. To what extent are those focused on the growing web of the laws of war too energized about what's "on the books" vs the theatre of war?
 2. If the laws of war disappeared, would states still regulate their conduct?
 3. Would the world be better or worse off without them?
-
 ### 13.4 Constructivism and global change
-
 - Could seem good at explaining stability, useless at change, but it isn't
     - What exists might not have existed, and need not exist
     - Big break: explaining the end of the Cold War
@@ -158,9 +141,7 @@
 - Reputation for tracking change that fuels integration and moral progress
     - Norm internationalization linked to _homogeneity_; many norms are liberal (equality, human rights, liberty, private property)
     - But all orders, even ones built on equality and justice, produce inequality and domination
-
 #### Diffusion
-
 - **Institutional isomorphism**: organizations in the same environment come to resemble each other
     - Ex. nation-state, democratic governance, market economies, multilateral IOs
     - Why: effectiveness, or desire for acceptance, legitimacy, and status
@@ -175,19 +156,15 @@
         3. Symbolic standing: ex. Third World states buying expensive weapons of little military value; Iran's nuclear ambitions may also be a status symbol
         4. Professional associations and expert communities spread standard techniques
             - Ex. economists on crises, lawyers on rights violations, humanitarians on refugee camps
-
 #### Norms and the life cycle (Finnemore and Sikkink 1998)
-
 - Norms constrain because of costs _and_ sense of self
     - Ex. "civilized" states avoid violence because it violates how they're expected to act
-
 1. **Norm emergence**: a _norm entrepreneur_ (often NGOs and IOs) names, interprets, and dramatizes an issue, then persuades states
     - Ex. humanitarian intervention and R2P: once objected to as violating non-interference, emerged after tragedies like Rwanda
 2. **Norm cascade** after a tipping point
     - Pressure for conformity, international legitimation, leaders' self-esteem
 3. **Norm internalization**: taken for granted, no longer debated
     - Ex. women voting, slavery, immunity for medical personnel
-
 - Cautions against reading this as uniformity and harmony
     1. No inevitability; high mortality for norms
         - _Cultural match_ explains receptivity and resistance (ex. liberal human rights norms)
@@ -203,9 +180,7 @@
     - Tied to colonial "civilizing" missions, generating superiority and inferiority
     - Ex. Black Lives Matter shows surface equality masks deep inequality
     - Compassion: pity or compassion? Giving over distance can produce a "stick-figure humanity," reproducing superiority and inferiority
-
 #### Case Study 13.2: "Victims"
-
 - "Victim" is a social construction: first a sacrificed creature (17th c.), then someone who suffered acute loss
 - Modern criteria for an "ideal victim"
     1. Seen as part of humanity (ex. enslaved persons rarely registered)
@@ -216,18 +191,15 @@
     - Historically neglected as inevitable; attention after the Cold War from human security, women's rights, evidence of rape as a weapon, media, women's movements
     - DRC called the "rape capital of the world"; Amnesty cited 40,000 reported cases (incomplete count)
 - Effects of the "ideal victim" label
-    - Women got more international care than ever
+	- Women got more international care than ever
     - But some were "complex victims" who were also perpetrators
     - Men overlooked as victims because they were seen as natural perpetrators
     - Tapped into racist colonial narratives ("heart of darkness"; African men as violent, predatory)
     - Unreliable but persuasive statistics reinforced a colonial view
     - Reinforced a modern "white saviour" civilizing mission
-
 1. What distinguishes "deserving" from "undeserving" victims?
 2. Why are women and children more often "innocent victims" than men? What if women aren't assumed to be "ideal victims"?
-
 ### 13.5 Conclusion
-
 - Constructivism is a _social_ theory, not a substantive one, which reshapes how we see the world "hanging together"
     - A materialist-only view is the strange one, not the idea that politics is social
     - Shows the social alternative in mainstream areas; uncovers the world being made and unmade
