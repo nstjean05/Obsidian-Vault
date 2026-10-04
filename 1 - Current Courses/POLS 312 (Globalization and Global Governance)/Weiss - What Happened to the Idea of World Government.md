@@ -29,4 +29,6 @@
 	- Dorothy Thompson, Supreme Court Justices William Douglas and Owen Roberts,
 	- Senators Estes Kefauver and future Vice-President Hubert Humphrey.
 - But this hope was hidden by the Iron Curtain, Cold War, and McCarthyism
-- 
+- Mainstream academics usually only use the term *world government* for two reasons
+	1. In explicitly telling the reader that they aren't promoting world governement
+	2. 
