@@ -96,9 +96,7 @@
 - Objection: "This means defeat"
     - He's skeptical of "victory" and "defeat" in modern great power war; the defeat _is_ war
     - Sometimes we must follow conscience and trust God's mercy
-
 ### Atomic Testing
-
 - Scientists advise him to stay away (disagreement, unknowns, he's a layman), but public facts still raise a conscience problem
 - Reports from 1958
     - Strontium fall-out on New York up 25% in the first eight months
@@ -112,9 +110,7 @@
 - Welcomes the govt's readiness to end tests; wants to go further
     - Eliminate use of atomic weapons in war
     - Free ourselves from dependence on them and from the commitment to _first use_
-
 ### Our Obligation to the Future
-
 - Principle extends beyond weapons to modern technology
     - We're **custodians, not owners**, of the earth
     - Obligations to past and future generations are as solemn as to ourselves
