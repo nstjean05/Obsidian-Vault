@@ -119,14 +119,11 @@
     - Marked by inequality, instability, stratification
 - Study the _transnational whole_ and class conflict
 #### Key Points
-
 - Realists: rising powers disrupt the balance, causing conflict (ex. US-China "inevitable")
 - Material approaches don't explain the path from diffusion to multipolarity, or status and recognition
 - International society: stability depends on accommodation
 - Marxists: look at global capitalism, not states
-
 ### 6.6 Beyond the BRICS: emerging powers in the twenty-first century
-
 - BRICS focus was a moment in time; except for China, rising powers are back to secondary roles
 - Why
     1. Return of geopolitics
@@ -144,9 +141,7 @@
     - Winners: Asian poor and middle classes; losers: rich-world lower middle classes
     - Mobilized populations plus less capable governments gives an _expectations gap_
 - Covid-19 pulled two ways: need for global governance vs walls, travel bans, blame on outsiders
-
 #### Three implications
-
 1. Limits to "emergence"
     - Slower growth, capital flight, debt, 80M more in extreme poverty (2020)
     - O'Neill (2021): BRICS have disappointed; "BRICS fallacy" (Pant 2013)
@@ -157,9 +152,7 @@
 3. More differentiation, harder collaboration
     - Uneven growth; BRICS act together less in the G20; soft-balancing against the US has faded
     - Ex. India: Indo-Pacific focus, Hindu nationalism and hard power under Modi, break from the Nehruvian identity
-
 #### Pushback: why the Global South still matters
-
 - **Is the emerging world still central to global order?**
     - Yes
         - Indispensable for global challenges: objective (forests, emissions, migration), political (veto power), legitimacy
@@ -173,18 +166,12 @@
 - **Post-Western order**: BRICS are one stage in a longer revolt against Western dominance (Bull and Watson 1985)
     - Liberal order was never global in the cold war
     - 1989 to early 2000s unipolarity is the historical anomaly
-
 #### Key Points
-
 - Emerging powers (except China) are back to secondary roles
 - Many face economic frailty and instability
 - Westphalian state system more durable than expected
 - Biggest threats to order are backlash and US-China rivalry, not emerging powers
-
 ### 6.7 Conclusion
-
-_(text cuts off mid-sentence)_
-
 - History hasn't ended; ideological cleavages are back
     - China's illiberal success is the biggest challenge to Western liberal assumptions
 - International society writers focused on non-West "membership" and missed how the emerging world navigates a post-Western system
@@ -193,3 +180,14 @@ _(text cuts off mid-sentence)_
     - Emerging countries won't fit a democracy vs authoritarianism split (migration, health, climate; alliances don't track democracy)
 - What is "global" is the **diffusion of agency and political consciousness**, i.e. more actors able to shape global politics
     - This is why the emerging world still matters
+# Questions
+1. Has the United States been a status quo or a revisionist power since the end of the cold war?
+2. Should the United States, Japan, and Europe be ‘afraid’ of the BRICS?
+3. What is left of the BRICS without China?
+4. Does the BRICS grouping represent a cohesive economic unit and power bloc?
+5. To what extent does the intensification of US–China rivalry threaten to marginalize the role of emerging powers as a distinct political grouping or analytical category?
+6. Which is more important: to measure changes in the relative power of the nation-states in the emerging world or to understand the underlying processes of social and economic change taking place domestically?
+7. Is India a great power?
+8. Does Brazilian foreign policy indicate that a state can be a major power without significant military capabilities?
+9. Do today’s emerging powers mean the end of the Third World?
+10. Do you think that the permanent members in the UN Security Council will ever be willing to offer an additional seat to countries such as India, Brazil, or South Africa?
