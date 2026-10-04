@@ -51,4 +51,12 @@
 - **Westphalian Optimism** says that the state system can be adapted and eventually modified by strengthening trade and international organizations
 - Post-Westphalian optimists see globalization as at least creating a context for global unity
 	- Over time, there will be voluntary unifying actions by governments and people
-	- 
+- Unless we aim for the seemingly unattainable, we risk settling for mediocrity (De Mello 2007, 9)
+- Most countries are ultimately not ready to accept the need for elements of global government, and the concessions on their own autonomy it would necessitate
+## Conclusion
+- Mega threats can only be held at bay by unprecedented multilateralism
+- There are a couple communications issues the U.S. president must understand for his objective
+	1. Understanding of democracy, and be willing to decide policy based on consensus
+	2. Help overcome the public ignorance (especially in congress) about why the UN works the way it does
+		- Why does it have a place in every conflict zone, even with all its weaknesses?
+- Note on this article: It was written in 2009 during the Obama administration, with lots of hope for that admin and other admins around the world. However, we can see that it has not exactly proven to be prophetic in its hopes.
