@@ -75,7 +75,6 @@
     - Biden's Inflation Reduction Act (2022) prioritized US manufacturing, causing friction with Europe
     - Protectionist turn cemented the view that the US was chipping away at the order
 #### Allies and adversaries alike see the US as an unreliable actor
-
 - Polarization since 2016 makes legislation and spending harder, so Washington looks dysfunctional
 - Biden had lulled Europe into seeing the first Trump term as an exception
     - Strong multilateral response to the Ukraine invasion helped
@@ -93,7 +92,6 @@
     - BRI has mixed success; climate finance demand unmet; developing-country debt rising; growth stagnant
 - US under Trump appears opposed to filling that gap, which gives China an opening
     - Chinese-led norms and mechanisms would break sharply with post-Cold War liberal values
-
 ### About this paper: surveying a world of competing visions and diverse agendas
 
 - Drivers of upheaval: geopolitical competition, US unilateralism, populist grievances
@@ -103,11 +101,8 @@
     1. How do elites see their state's relative power and status?
     2. Is the vision a reaction to US power, or to shifting power and US-China competition?
     3. Do elites share one vision, or is it contested internally?
-
 ### Country-by-country synopses
-
 #### US adversaries
-
 - **China** (Fravel): adapt the order to its advantage
     - Elevates sovereignty, territorial integrity, non-intervention
     - Vision is more negative than positive, aimed at reducing US influence and rejecting imposed values
@@ -121,9 +116,7 @@
     - Erosion of US leadership gives space for its revisionism
     - Wants to defy containment and weaken the US in the Middle East; believes the US will never accept its regional great power status
 - China, Russia, Iran share an interest in displacing US influence, but many wider interests diverge
-
 #### US allies
-
 - US allies no longer share one view of the order's path
 - **Germany** (Stelzenmüller): fully committed to the principles
     - Decoupled from Russian energy, raised defence spending
@@ -133,9 +126,7 @@
     - Builds Global South partnerships for autonomy
 - **Japan** (Lind): uncomfortable with parts of the order
     - Would welcome a more pragmatic, less values-based US
-
 #### Strategic autonomy seekers
-
 - **Turkey** (Aydın Düzgit and Zarakol): opportunistic and defensive
     - Autonomy is central to state security and regime survival
     - Wants to stay in Western institutions but with weaker ties and flexibility to engage China, Iran, Russia
@@ -154,9 +145,7 @@
     - Sees Washington as the greatest threat to global stability
     - Wants institutional reform (permanent UNSC seat)
     - Unlike India, sees China's rise as good, mainly for economic benefits
-
 ### Outlook
-
 - US appears increasingly alone
     - Allies uncertain of its commitment and wary of unilateralism
     - Adversaries see it in decline and want to fracture Western unity and adapt or further fracture the order
@@ -166,4 +155,104 @@
     - Only China has tried to replace the US as a provider of global public goods
     - Inaction elsewhere is mostly domestic constraints, not lack of ambition
 - Many states still believe in the benefits of the order, or parts of it
-- Only consensus: the order's future is deeply uncertain _(text cuts off mid-word)_
+- Only consensus: the order's future is deeply uncertain
+# Chapter 13
+### Envisioning the future international order
+- Today's disruptions have hastened the end of the post-war liberal order and opened a new period of order-building
+    - Great powers may divide the world into spheres of influence
+    - Middle and emerging powers want autonomy and oppose being forced to take sides
+- Liberal order gave structure and predictability for 7+ decades, but its flaws are well known
+    - Hypocrisy was a feature, not a bug
+    - Sovereignty rarely meant equality; the US and other major powers had special status
+- Critics and adversaries are more determined and more capable
+    - Stoke division in Western democracies and try to split Europe from the US (Kupchan and Vinjamuri 2021)
+- Many states reject US special status, but few agree on an alternative vision
+    - Ex. Turkey and Saudi Arabia: close to the US, but diversify through China and Russia
+- **Hedging** among other rising powers
+    - Brazil: embraces the order but welcomes multipolarity because it lessens US dominance
+    - India: strong US partnership, close Russia ties, leader of the Global South
+    - Both denied prized seats in major institutions, and won't accept that forever
+    - If UNSC reform stays a pipe dream and IMF/World Bank voting shares aren't redistributed, institutions lose relevance and legitimacy
+        - Rising expectations get met through _new points of access and influence_
+- Europe
+    - France and Germany still cling to the US-led order, but want more national and intra-European capability and strategic autonomy
+    - Far-right groups openly embrace values antithetical to the order, which hurts a coherent European agenda
+- **Most fundamental shift: the US turning against the order's organizing principles**
+    - US was always a reluctant multilateralist
+        - Exceptionalism, refused ratification of many treaties, insisted on veto power or exemptions
+        - Commitment to multilateralism and free trade in decline for 20+ years
+        - Still believed it benefited from participating, until now
+    - Trump's second term: sustained attack on multilateralism, rule of law, and the sovereignty norm
+- Next period is a moment of **reordering**
+    - Multiple structural drivers, but Trump is _more than a symptom_
+    - Upending the order's three defining features
+        1. Rejecting multilateralism and the centrality of alliances
+        2. Undermining free trade
+        3. Challenging the norms that underpin democracy at home
+- The rest of the world has changed too
+    - China is a peer competitor; emerging and middle powers shape regional outcomes (only some have global ambitions)
+    - Global problems need cooperation: tech, climate, demographics, migration and refugees, health
+- Premise of the paper: with power more dispersed than at any point since WWII, it matters how states _other than the US_ see order
+    - Order-building is dynamic, interactive, and subject to events
+        - Ex. COVID was expected to reorder things but mostly worsened inequalities and left power fundamentals in place
+        - Nuclear proliferation could alter regional orders in undetermined ways
+### The future international order
+- Could take two decades before it can be safely characterized
+- Surge in alternative governing structures among discrete groups of states and issues
+- Dynamism, adaptation, contestation, and change will define IR for the foreseeable future
+
+#### The end of the West and of the transatlantic partnership?
+
+- Transatlantic partnership showed unexpected unity over Ukraine
+- Western solidarity now looks unlikely to persist
+    - Trump seeking a deal with Putin
+    - Europe pressured to commit to its own defence; preparing for unpredictable, potentially adversarial US relations
+- Could still be an order built on a transatlantic partnership of shared interests, but confidence is weakened
+    - Powerful adversaries (Russia, China, Iran); US re-evaluating its alignments
+    - Not the first division in the West (Anderson, Ikenberry and Risse 2008), and the alliance may be more resilient than sceptics think
+
+#### A dominant China?
+
+- Some: next phase is _disorder_, which China is ready for and the US isn't (Leonard 2023)
+- Others: China benefits from Trump's disruption and could become dominant, even hegemonic (Schuman 2025)
+- But past 7 decades show a desire for predictability and stability
+- No great or emerging power wants China _or_ the US to dominate
+    - Strategic autonomy is meant to avoid overdependence on either
+
+#### Spheres of influence
+
+- Trump's moves on Canada, Greenland, the Panama Canal, plus admiration for McKinley, sparked speculation about a US Western Hemisphere sphere and a return to great power carve-ups (Toft 2025)
+- Why a grand bargain among regional hegemons is unlikely
+    - US ceding the Indo-Pacific (ex. Taiwan) for the Western Hemisphere would be a major policy reversal
+    - Europe-Russia accommodation would reverse 30 years of history
+    - US unlikely to drop interests in Australia, India, Japan, South Korea
+    - Asia-Pacific states don't want to play along
+    - China isn't leaving Latin America or Africa
+    - Europe lacks the capacity to secure a sphere (and its contours are unclear)
+
+#### Multipolarity
+
+- Many states describe the order as multipolar, not unipolar or bipolar
+    - Welcomed as a chance to diversify partnerships and limit dependence
+- Reality: power is less distributed than they think
+    - Brazil, Indonesia, Russia, Saudi Arabia, South Africa, Turkey matter, but the US and China are in a category of their own
+- Still significant because states _believe_ such a world exists
+
+#### The reinvention of the liberal international order and of the West?
+
+- Few think Trump is a one-term aberration; consensus is a transformative, enduring shift
+    - One exception: Lind on Japan, which wants a slimmed down, rules-based order that embraces sovereignty and focuses on development and human security
+        - Human rights and democracy promotion left to sovereign states
+- US democracy may prove more resilient than sceptics expect
+    - A future Republican or Democratic Party could return to calibrated engagement
+    - Internationalism based on shared interests: AI/tech, climate, health, peace and security
+    - Newly envisioned order: more regionalism, _minilateralism_, _plurilateralism_; coalitions of the willing; respects sovereignty; less emphasis on enforcing human rights or exporting values
+
+#### The importance of agency and contingency
+
+- US plus the 11 states studied will be most influential, but other states matter for resilience
+    - Africa deserves its own paper
+    - Tech, climate, immigration, and demographics will test cooperation
+- Don't discount **agency and contingency**
+    - Structures matter, but leadership is underestimated
+    - Leaders' coalitions and resources can shape the future, by design or by accident
