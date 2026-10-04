@@ -33,4 +33,13 @@
 	1. In explicitly telling the reader that they aren't promoting world government
 	2. Using it as a functional equivalent for Pax Americana
 ## Changes From Earlier Thinking
+- Global governance is crucially different from earlier collective responses:
+	1. Former development was viewed as a step in the right direction, and the growing internationalism as unstoppable
+	2. Earlier efforts emphasized the state, and begrudgingly admitted the presence of other actors
+		- In the 1980s, civil society and market groups were recognized as having a greater impact
+- In the early postwar, prominent Realists had concluded that a world state was logically necessary in light of the nuclear threat
+## The Pluses and Minuses of Global Governance
+- Global governance is a useful heuristic to understand what is happening in the world
+	- Simultaneously, it lacks prescriptive power to point toward where we should be headed/what we should do
+	- It is a process, not an entity
 - 
