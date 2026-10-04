@@ -42,4 +42,13 @@
 - Global governance is a useful heuristic to understand what is happening in the world
 	- Simultaneously, it lacks prescriptive power to point toward where we should be headed/what we should do
 	- It is a process, not an entity
-- 
+- Article 109 of the UN charter wanted a review of the org by 1955, but the assembly ever happened.
+## Are Anomalies No Longer Anomalous
+- When too many anomalies and messy paradigms arise, a new model must be created to explain the new normal
+- Global governance is currently a bridge between the new and old
+	- We need it to solve many global issues
+- There are yet many ways for people to gain a supra-national identity
+- **Westphalian Optimism** says that the state system can be adapted and eventually modified by strengthening trade and international organizations
+- Post-Westphalian optimists see globalization as at least creating a context for global unity
+	- Over time, there will be voluntary unifying actions by governments and people
+	- 
