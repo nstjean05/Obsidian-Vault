@@ -19,9 +19,7 @@
     - First Sunday after was Mother's Day again, the one-year anniversary of the worst moment
 - Before: fighting, self-preservation, outrage used "like a weapon"; after: known for showing and sharing Jesus' love
 - Key question: **What are we known for in the community? What do we represent?**
-
 ### Becoming Ambassadors to the Age of Outrage
-
 - Last chapter was _what_ we believe (worldview); this one is _who we are_
 - Christians no longer represent the dominant culture, so they must rethink cultural engagement, mission, and evangelism in a post-Christian society
 - Key text: 2 Corinthians 5:18-21
