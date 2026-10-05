@@ -41,9 +41,7 @@
     1. Sent with allegiance to the King
     2. Sent with a message of reconciliation
     3. Sent to a foreign land with a mission to complete
-
 #### 1. Sent by a King
-
 - Being an ambassador speaks to God's nature: he isn't distant, he's on a mission of reconciliation
     - **Missio Dei** (mission of God)
     - We are a _sent people_; mission is participating in God's "sending love" (David Bosch)
@@ -54,9 +52,7 @@
 - The age of outrage has endless temptations for our allegiance
     - Ultimate allegiance is only to Jesus; when people or causes step out of line with the King's will, we speak out as his representatives
 - Romans 15:20: ambition is to preach where Christ hasn't been named
-
 #### 2. Sent with a message of reconciliation
-
 - Church's mission is defined: the ministry and message of reconciliation, with no room for debate
 - Ephesians 2: four truths
     1. **Hostility and division** between God and man (2:1-3)
@@ -72,25 +68,19 @@
     - His story of redemption shapes his preaching (hope, freedom from guilt and shame)
 - Only those who've experienced reconciliation will be effective agents of it
 - Peace with God lets us trust his sovereignty while working earnestly
-
 #### 3. Sent to a foreign land
-
 - Not unique to our age; every generation (Paul, Augustine, Billy Graham, "you")
 - Mission doesn't change, but the culture does, so study it like ambassadors
 - Behind outrage is real need
     - Anger and polarization are self-defense mechanisms over real questions of origin, identity, purpose, path
     - People are busier and more connected than ever, but that covers a crisis of identity, purpose, and belonging
-
 ##### Crisis #1: Lost identity
-
 - Identity has become a primary idol (ch. 5)
 - Pascal: the empty "print and trace" of happiness, which only an infinite object (God) can fill
 - Culture asks "Who am I?" and "Where do I belong?"; identity politics and polarization follow from different answers
 - Jesus gives an identity above temporal political and cultural ones
 - Evangelism can't stay online; need real participation in people's lives
-
 ##### Crisis #2: Misplaced purpose
-
 - _Time_ (2015): attention span of 8 seconds vs a goldfish's 9 (Microsoft study)
     - 77% of 18-24 year-olds reach for their phone when nothing occupies them
     - Lots of data, no communal context to process it
@@ -98,9 +88,7 @@
 - Schopenhauer: boredom as the "empty longing for a new desire"
 - Boredom leads to outrage and harm; **outrage becomes a misplaced substitute purpose**
 - Gospel gives a new purpose: reconciliation, a new calling to go back into a now-foreign world
-
 ##### Crisis #3: Chronic loneliness
-
 - UK created a cabinet position on loneliness (Jan 2018); 9M+ adults affected
 - More connected than ever, yet loneliness is an epidemic
 - Cacioppo: loneliness is human; it's serious when it becomes a self-reinforcing loop
@@ -111,9 +99,7 @@
     - Nothing wrong with it, but it's a substitute and shadow of the church
     - What happens when someone "can't make the cut" or breaks a leg?
 - Church can offer authentic relationship, restoration, renewal; Jesus gives adoption into a family and a home
-
 ### The Outrage of Distracted Ambassadors
-
 - Much outrage at Christians comes from taking our eyes off the ambassador identity
     - Advancing any mission other than Christ's forfeits the gospel's healing power and breeds division
 - **Mission creep** (military term; Taw and Peters)
@@ -125,18 +111,14 @@
     - Competing missions and "alternative kingdoms" lead to conflict and a damaged witness
 - Self-assessment: if the community knows us as anything other than followers of Christ, a peripheral mission has crept in
     - Neighbours shouldn't be surprised by our values and beliefs
-
 ### Compassionately Love the People
-
 - Fundamental to the role: abiding love for those we're sent to
 - **Matthew 9:35-38**: Jesus had compassion on the crowds, "harassed and helpless, like sheep without a shepherd"
     - Greek word for _compassion_ means to be moved in the bowels, a "gut reaction"
     - Ex. Stetzer's feeling as a father of three daughters
     - We're not dispassionate ambassadors; we're called to love the foreign land
 - Having been reconciled, we've received the same Spirit and should have compassion for those still restless
-
 #### Compassion through prayer
-
 - Matthew 9:37-38 progression
     1. The foreign land is broken, desolate, and in danger
     2. Not enough ambassadors
@@ -156,9 +138,7 @@
     - Most pray for family, friends, own problems, own sin (42%), disasters (38%), thanksgiving (37%)
     - Only 20% regularly pray for people of other faiths or no faith
     - More people have prayed to win the lottery than regularly pray for the lost
-
 #### Compassion through action
-
 - Danger of theology without application, like skipping leg day
 - Can't leave all the work to pastors and leaders
 - **Ex. neighbour map**: Stetzer mapped his eight nearest neighbours who didn't know the Lord, built relationships, led one family to Christ and baptized the parents _(details on p. 274, not included)_
