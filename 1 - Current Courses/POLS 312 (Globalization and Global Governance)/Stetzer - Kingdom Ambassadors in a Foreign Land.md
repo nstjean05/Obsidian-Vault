@@ -152,9 +152,7 @@
     - The mother later gave her life to Jesus and now leads Celebrate Recovery at Chapel of Change
     - Brian: his story helps him see people "with the eyes of a doctor rather than a judge"
     - Ties to Mark 2:17 (Jesus came for the sick, not the well)
-
 #### Conclusion: the mirror and the door
-
 - Can't sit in comfortable churches waiting out the cultural storm; study the crises, find the pain, respond with gospel truth and compassion
 - "What are we known for?" leads to
     - A **mirror**: who we are (Christ-followers far from home, students and intercessors for the community)
