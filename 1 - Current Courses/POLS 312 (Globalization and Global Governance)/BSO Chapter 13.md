@@ -220,3 +220,16 @@
 8. How does the concept of diffusion help you to understand why and how the world has changed? Is constructivism better for thinking about conformity or diversity?
 9. Does the internationalization and institutionalization of norms imply some notion of progress?
 10. Where does the power lurk in concepts such as humanity and international community?
+
+## Lecture
+1. **Realism**: Statism
+	- State and citizens
+	- National interest is fixed
+	- Belief in what is good
+2. **Communitarianism**:
+	- Community first
+3. **Cosmopolitanism**:
+	- Thick vs Thin cosmopolitanism
+	- Everyone is equal
+	- General good (best for all)
+	- Universal (liberal philosophy)
