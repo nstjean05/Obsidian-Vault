@@ -129,3 +129,6 @@
         1. Methods of diplomacy (decency and humanity always serve the Christian cause)
         2. The apocalyptic dangers threatening the continuity of history
     - Man, driven from Eden by his own folly, must not commit the blasphemous act of destroying the world he's been allowed to live in
+## Lecture
+- There are too many outcomes to know what the result will be, with 100% certainty
+- Thereby, using good methods are more important than the purpose. Even the wisest decision (purpose) is subject to human shortcoming. By focusing on methods, we are assured to not step outside the bounds of morality.
