@@ -35,18 +35,14 @@
 - Horizontal subset
 - Ex. list all staff with salary > £10,000
     - $\sigma_{\text{salary} > 10000}(\text{Staff})$
-
 ### 5.2.2 Projection
-
 - **$\Pi_{col_1, \ldots, col_n}(R)$**
 - Works on a single relation R
 - Returns a vertical subset of R, extracting values of the specified attributes
 - _Eliminates duplicates_
 - Ex. list staffNo, fName, lName, salary for all staff
     - $\Pi_{\text{staffNo, fName, lName, salary}}(\text{Staff})$
-
 ### 5.2.3 Union
-
 - **$R \cup S$**
 - All tuples in R, or S, or both, duplicates eliminated
 - R and S must be **union-compatible**
@@ -55,37 +51,29 @@
 - If R has I tuples and S has J tuples, result has at most (I + J) tuples
 - Ex. all cities with either a branch office or a property for rent
     - $\Pi_{\text{city}}(\text{Branch}) \cup \Pi_{\text{city}}(\text{PropertyForRent})$
-
 ### 5.2.4 Set Difference
-
 - **$R - S$**
 - Tuples in R but not in S
 - R and S must be union-compatible
 - Ex. cities with a branch office but no properties for rent
     - $\Pi_{\text{city}}(\text{Branch}) - \Pi_{\text{city}}(\text{PropertyForRent})$
-
 ### 5.2.5 Intersection
-
 - **$R \cap S$**
 - Tuples in both R and S
 - R and S must be union-compatible
 - Derived from basics: **$R \cap S = R - (R - S)$**
 - Ex. cities with both a branch office and at least one property for rent
     - $\Pi_{\text{city}}(\text{Branch}) \cap \Pi_{\text{city}}(\text{PropertyForRent})$
-
 ### 5.2.6 Cartesian Product
-
 - **$R \times S$**
 - Concatenation of _every_ tuple of R with _every_ tuple of S
 - Ex. names and comments of clients who viewed a property
     - $(\Pi_{\text{clientNo, fName, lName}}(\text{Client})) \times (\Pi_{\text{clientNo, propertyNo, comment}}(\text{Viewing}))$
     - Result has lots of junk rows (mismatched clientNos)
 - Fix: add a selection on matching keys
-    - $\sigma_{\text{Client.clientNo = Viewing.clientNo}}\big((\Pi_{\text{clientNo, fName, lName}}(\text{Client})) \times (\Pi_{\text{clientNo, propertyNo, comment}}(\text{Viewing}))\big)$
+$\sigma_{\text{Client.clientNo = Viewing.clientNo}}\big((\Pi_{\text{clientNo, fName, lName}}(\text{Client})) \times (\Pi_{\text{clientNo, propertyNo, comment}}(\text{Viewing}))\big)$
 - Cartesian product + Selection reduces to a single op, the **Join**
-
 ### 5.2.7 Join Operations
-
 - **Join** is a derivative of Cartesian product
 - Same as a Selection (using the join predicate) over the Cartesian product of the operands
 - One of the hardest ops to implement efficiently in an RDBMS
@@ -96,9 +84,7 @@
     3. Natural join
     4. Outer join
     5. Semijoin
-
 #### 5.2.7.1 Theta join (θ-join)
-
 - **$R \bowtie_F S$**
 - Tuples satisfying predicate F from the Cartesian product of R and S
 - F has form $R.a_i ;\theta; S.b_i$
@@ -107,25 +93,19 @@
 - **Degree** of a theta join = sum of degrees of the operands
     - $\text{degree}(R \bowtie S) = \text{degree}(R) + \text{degree}(S)$
     - Ex. R(a, b) has degree 2, S(c, d, e) has degree 3, so $R \bowtie_{R.a = S.c} S$ has degree 5 with attributes (a, b, c, d, e)
-
 #### 5.2.7.2 Equijoin
-
 - Theta join where predicate F has _only equality (=)_
 - Ex. names and comments of clients who viewed a property
     - $(\Pi_{\text{clientNo, fName, lName}}(\text{Client})) \bowtie_{\text{Client.clientNo = Viewing.clientNo}} (\Pi_{\text{clientNo, propertyNo, comment}}(\text{Viewing}))$
 - Result keeps _both_ copies of the common attribute
-
 #### 5.2.7.3 Natural join
-
 - **$R \bowtie S$**
 - Equijoin of R and S over **all common attributes** x
 - One occurrence of each common attribute is eliminated from the result
 - $R \bowtie S = \Pi_{\text{without duplicate } x\text{'s}}(R \bowtie_{R.x = S.x} S)$
 - Ex. same client/viewing query
     - $(\Pi_{\text{clientNo, fName, lName}}(\text{Client})) \bowtie (\Pi_{\text{clientNo, propertyNo, comment}}(\text{Viewing}))$
-
 #### 5.2.7.4 Outer join
-
 - Use to show rows that _don't_ have matching values in the join column
 - **Left (natural) outer join** ($R ⟕ S$): keeps every tuple in the left relation
     - Unmatched tuples from R are padded with nulls for S's attributes
@@ -134,9 +114,7 @@
 - Ex. status report on property viewings
     - $\Pi_{\text{propertyNo, street, city}}(\text{PropertyForRent}) ⟕ \text{Viewing}$
     - Properties with no viewings still show up
-
 #### 5.2.7.5 Semijoin (Semi-Theta join)
-
 - **$R \ltimes_F S$**
 - Tuples of R that _participate_ in the join of R with S
 - Only R's attributes in the result
@@ -145,9 +123,7 @@
 - Ex. complete details of all staff who work at the Glasgow branch
     - $\text{Staff} \ltimes_{\text{Staff.branchNo = Branch.branchNo}} (\sigma_{\text{city = 'Glasgow'}}(\text{Branch}))$
 - Benefit: cuts down data that has to move/join, ex. in distributed setups
-
 ### 5.2.8 Rename
-
 - **$\rho_S(E)$** or **$\rho_{S(a_1, a_2, \ldots, a_n)}(E)$**
 - Gives expression E a new name S
 - Optionally names the attributes $a_1, a_2, \ldots, a_n$
@@ -156,9 +132,7 @@
     - Rename table Project to Pro and its attributes to P, Q, R
     - Rename first attribute of Student(A, B, C) to P
     - Rename relation Student to MaleStudent, and attributes RollNo, SName to (Sno, Name)
-
 ### 5.2.9 Division
-
 - **$R \div S$**
 - Relation over attributes C (the attributes in R but not S)
 - Tuples from R that match the combination of _every_ tuple in S
@@ -169,24 +143,19 @@
 - Think "for all" queries
 - Ex. clients who have viewed _all_ properties with three rooms
     - $(\Pi_{\text{clientNo, propertyNo}}(\text{Viewing})) \div (\Pi_{\text{propertyNo}}(\sigma_{\text{rooms = 3}}(\text{PropertyForRent})))$
-
 ### 5.2.10 Aggregate Operations
-
 - **$\mathfrak{I}_{AL}(R)$**
 - Applies aggregate function list AL to R to define a relation over the aggregate list
 - AL = one or more `(aggregate_function, attribute)` pairs
 - Main aggregate functions: COUNT, SUM, AVG, MIN, MAX
 - Ex. how many properties cost more than £350/month?
     - $\rho_{R(\text{myCount})}, \mathfrak{I}_{\text{COUNT propertyNo}}(\sigma_{\text{rent} > 350}(\text{PropertyForRent}))$
-
 ### 5.2.11 Grouping Operation
-
 - **${}_{GA}\mathfrak{I}_{AL}(R)$**
 - Groups tuples of R by grouping attributes GA, then applies AL
 - Result has the grouping attributes GA _plus_ the result of each aggregate function
 - Ex. number of staff in each branch and the sum of their salaries
     - $\rho_{R(\text{branchNo, myCount, mySum})}, {}_{\text{branchNo}}\mathfrak{I}_{\text{COUNT staffNo, SUM salary}}(\text{Staff})$
-
 ### 5.2.12 Symbol Summary
 
 |Operation|Symbol|Notes|
@@ -206,7 +175,6 @@
 |Aggregate / Grouping|$\mathfrak{I}$|COUNT, SUM, AVG, MIN, MAX|
 
 ## 5.3 Relational Calculus
-
 - Query specifies **what** to retrieve, not _how_
 - No description of how to evaluate the query
 - Based on first-order logic (predicate calculus)
@@ -219,9 +187,7 @@
     - $\land$ (AND)
     - $\lor$ (OR)
     - $\sim$ (NOT)
-
 ### 5.3.1 Tuple Relational Calculus
-
 - Find tuples for which a predicate is true
 - Uses **tuple variables**
     - A variable that _ranges over_ a named relation, only permitted values are tuples of that relation
@@ -232,9 +198,7 @@
     - ${S \mid \text{Staff}(S) \land S.\text{salary} > 10000}$
 - Ex. just the salary attribute
     - ${S.\text{salary} \mid \text{Staff}(S) \land S.\text{salary} > 10000}$
-
 ### 5.3.2 Domain Relational Calculus
-
 - Variables take values from **domains** instead of tuples of relations
 - General expression: **${d_1, d_2, \ldots, d_n \mid F(d_1, d_2, \ldots, d_m)}$**
     - F is a formula built from atoms
@@ -242,16 +206,12 @@
 - Ex. names of all managers earning more than £25,000
     - ${fN, lN \mid (\exists sN, posn, sex, DOB, sal, bN),(\text{Staff}(sN, fN, lN, posn, sex, DOB, sal, bN) \land posn = \text{'Manager'} \land sal > 25000)}$
 - Shorthand: $(\exists d_1, d_2, \ldots, d_n)$ in place of $(\exists d_1, \exists d_2, \ldots, \exists d_n)$
-
 ### 5.3.3 Equivalence and Safe Expressions
-
 - An expression is **safe** if all values in the result come from the domain of the expression
 - Safe domain relational calculus ≡ safe tuple relational calculus ≡ relational algebra
 - So every relational algebra expression has an equivalent relational calculus expression, and vice versa
     - _This is why a language that matches them is "relationally complete"_
-
 ## 5.4 Other Languages
-
 - **Transform-oriented** languages
     - Non-procedural, use relations to transform input data into required outputs
     - Ex. SQL
@@ -264,9 +224,14 @@
 - **5GLs**
     - Some systems accept a form of natural language
     - Still at an early stage
-
 ## 5.5 References
-
 - Relational algebra: http://en.wikipedia.org/wiki/Relational_algebra
 - Relational Algebra Introduction: http://egorhm.net/relational%20algebra/programming/2014/05/10/relational-algebra-introduction.html
 - GeeksforGeeks (rename examples, algebra vs calculus): https://www.geeksforgeeks.org/rename-operation-in-relational-algebra/
+## Homework 2
+a. $\Pi_{\text{equipNo, description, dailyRate}}(\sigma_{\text{category} = vision}(\text{Equipment}))$
+b. $\Pi_{\text{equipNo, description, dailyRate}}(\sigma_{\text{category} = vision}(\text{Equipment}))$
+
+
+
+
