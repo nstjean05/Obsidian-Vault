@@ -1,3 +1,4 @@
+#AISummary 
 # 1. What was each transcript actually about?
 
 ## Transcript 1: Thematic Discussion 1, AI Opportunities and Implications
@@ -469,3 +470,350 @@ The more autonomous a system becomes, the harder it becomes to identify who is l
 **Who should have the greatest influence over AI governance: states, technology companies, scientists, civil society, or communities affected by AI? Did the UN process actually solve that representation problem?**
 
 For a 10-minute presentation, **Question 1 is probably the strongest** because it comes directly out of the transcripts and gives the class something to argue about.
+
+
+
+PART 2
+
+## Revised answer to Question 2: How does it relate to this week's topic and readings?
+
+### The strongest overall connection
+
+The Geneva dialogue is a very good example of **international law and global governance operating before, or alongside, a settled legal regime**.
+
+BSO Chapter 19 says international law is one of the basic **fundamental institutions** through which states cooperate under anarchy. It also distinguishes these from **issue-specific institutions or regimes**, which establish rules and procedures for particular problems.
+
+AI governance is currently somewhere in between. There are already international legal foundations, especially human rights law and the UN system, but there is not yet a single comprehensive AI governance regime. The Geneva dialogue was an attempt to build common understandings, norms, standards, and cooperative mechanisms that might eventually support a more developed regime.
+
+That gives you a very useful line for the presentation:
+
+> **Geneva was not the creation of a global AI law. It was part of the institutional process through which states and other actors are trying to build one.**
+
+---
+
+# Connection 1: BSO Ch. 19 and the "fundamental institutions" of international society
+
+BSO argues that **international law and multilateralism are fundamental institutions** because states need them to cooperate despite the absence of a world government.
+
+That is almost exactly what the Geneva dialogue was doing.
+
+The UN co-chairs repeatedly presented the dialogue as a universal forum where states and other actors could reduce fragmentation, exchange experience, and build cooperation. The Estonian co-chair specifically described the goal as reducing fragmentation and building interoperability between different elements of the AI governance landscape.
+
+A strong way to explain this in class:
+
+> **AI creates a coordination problem under anarchy. No single state can govern a technology that crosses borders, so states turn to multilateral institutions.**
+
+That connects directly to the chapter's argument that states have incentives to escape the insecurity and coordination problems of anarchy.
+
+---
+
+# Connection 2: BSO Ch. 19 and multilateral legislation
+
+BSO describes modern international law as characterized by **multilateral legislation**, where three or more states cooperate through reciprocally binding rules.
+
+But Geneva reveals an important complication:
+
+**The participants were not yet ready for a comprehensive binding agreement.**
+
+Instead, much of the discussion centred on:
+
+- principles
+- interoperability
+- standards
+- voluntary cooperation
+- regulatory sandboxes
+- scientific evidence
+- capacity building
+- shared evaluation
+- incident reporting
+
+The dialogue's own organizers said that the immediate result would be a co-chair summary and the continuation of the process into 2027, rather than a binding treaty.
+
+This is where Abbott and Snidal become especially useful.
+
+---
+
+# Connection 3: Abbott & Snidal, hard law vs. soft law
+
+This is probably your **best reading connection**.
+
+Abbott and Snidal argue that hard and soft law exist on a continuum, and that states deliberately choose different levels of:
+
+- **obligation**
+- **precision**
+- **delegation**
+
+The Geneva discussion repeatedly showed actors choosing softer forms of legalization.
+
+For example:
+
+**Japan** pointed to the OECD AI Principles and Hiroshima AI Process and described cross-mapping between frameworks as a way to find common ground without requiring identical national systems.
+
+**Indonesia** explicitly argued for interoperability rather than uniformity and called for cooperation, capacity building, and voluntary financing mechanisms.
+
+**Australia** similarly argued for shared principles that could be implemented flexibly across different national contexts.
+
+That looks a lot like Abbott and Snidal's argument that **soft law is often deliberately chosen because it is easier to negotiate, more adaptable, and less costly to sovereignty**.
+
+### Why does that make sense for AI?
+
+The transcripts give you at least three of Abbott and Snidal's conditions.
+
+**Uncertainty:** AI is developing so quickly that governments do not know exactly what problems future rules will need to address. Amandeep Gill described the move toward adaptive governance, living risk taxonomies, staged deployment, and controlled testing.
+
+**Sovereignty costs:** Countries repeatedly resisted a single model. Indonesia explicitly rejected a one-size-fits-all approach, while the UAE warned against convergence for its own sake.
+
+**Divergent preferences:** The meeting included states with radically different levels of infrastructure, regulatory capacity, political systems, and development priorities.
+
+So you can make this argument:
+
+> **The predominance of soft-law mechanisms at Geneva was not necessarily a sign that global governance was weak. According to Abbott and Snidal, soft law can be a rational response to uncertainty, sovereignty costs, and divergent state preferences.**
+
+That's a much more interesting argument than simply saying "there was no treaty."
+
+---
+
+# Connection 4: But Geneva also shows the demand for hard law
+
+The really interesting part is that **not everyone wanted soft law**.
+
+The human rights session pushed in the other direction.
+
+UN High Commissioner Volker Türk explicitly described international human rights law as a **binding legal framework** and called for human rights due diligence, impact assessments, privacy protections, and meaningful oversight.
+
+Austria was even more direct in the closing discussions, arguing that voluntary guidelines were not enough and calling for a global framework with common principles and real safeguards.
+
+A Mexican academic representative went further and called for an international instrument containing minimum mandatory standards.
+
+This gives you a great contrast:
+
+> **The dialogue was caught between two governance strategies: flexible interoperability through softer coordination, and stronger legal obligations where fundamental rights and severe harms are at stake.**
+
+That is basically Abbott and Snidal's problem of choosing the appropriate degree of legalization.
+
+---
+
+# Connection 5: BSO 19.4, the shift from international law toward global or supranational governance
+
+This is probably your **best BSO Ch. 19 connection**.
+
+The chapter says traditional international law was primarily:
+
+- state-centred
+- interstate
+- concerned with order
+- produced by states
+
+But global governance is changing that. Individuals, groups, NGOs, international organizations, and other non-state actors increasingly participate in the production and implementation of norms.
+
+That describes Geneva extremely well.
+
+The dialogue included:
+
+- governments
+- UN agencies
+- scientists
+- technology companies
+- civil society
+- academics
+- local and regional governments
+- advocacy organizations
+- industry associations
+
+The co-chairs explicitly defended this multi-stakeholder structure as the defining feature of the process. They reported more than 4,000 participants, 1,500 written submissions, 24 side events, and 1,800 entities.
+
+That means the event illustrates BSO's argument that **non-state actors increasingly matter as agents in global governance even when they are not formally creating international law**.
+
+A good presentation phrase:
+
+> **AI governance is no longer purely interstate governance. The rules are being shaped by states, international organizations, firms, scientists, civil society, and affected communities together.**
+
+---
+
+# Connection 6: BSO Ch. 19 and international law becoming about justice, not just order
+
+This is especially strong for the **Ethics and Morality** version of your course topic.
+
+The chapter says older international law was primarily concerned with **order**, while global governance increasingly connects international law to **justice**.
+
+That's exactly what the human rights discussion showed.
+
+Volker Türk argued that AI governance should protect:
+
+- equality
+- privacy
+- access to justice
+- human dignity
+- non-discrimination
+- children
+- human agency
+
+He also argued that AI can affect decisions about employment, credit, migration, healthcare, and even life and death.
+
+That is no longer simply a question of whether states can coexist peacefully.
+
+It is a question of:
+
+> **What obligations do global institutions have toward individuals affected by AI?**
+
+That is precisely the BSO 19.4 movement from **international order toward global justice**.
+
+---
+
+# Connection 7: BSO and the legitimacy problem
+
+BSO emphasizes that international law is not just a set of rules. It also structures arguments about **legitimacy, authority, and what counts as justified behaviour**.
+
+Geneva was full of this kind of legal and political justification.
+
+Consider the repeated arguments:
+
+- AI must be human-centred.
+- AI must respect human rights.
+- AI must leave no one behind.
+- AI must remain under human control.
+- AI governance must be inclusive.
+- AI cannot be governed by a few powerful states or companies.
+
+These are not purely technical claims. They are arguments about what constitutes **legitimate global governance**.
+
+The most interesting example is the repeated claim that **human rights should serve as the common baseline** rather than merely another policy preference. The Partnership on AI called for a shared baseline of good practice using existing human rights frameworks, while the UN human rights discussion treated human rights law as a binding foundation.
+
+---
+
+# Connection 8: BSO's "practice turn"
+
+There is also a more subtle connection to the final section of Chapter 19.
+
+The practice turn says legal obligation can develop through **participation in legal practices**, rather than appearing only because someone creates a treaty or imposes coercion.
+
+That describes what Geneva may be trying to accomplish.
+
+States are:
+
+- comparing national frameworks
+- cross-mapping regulations
+- sharing standards
+- developing common terminology
+- discussing incident reporting
+- creating sandboxes
+- testing interoperability
+- learning from each other
+
+So the dialogue is not simply "talking about future law."
+
+It is already creating **shared governance practices** that could eventually make stronger legal convergence possible.
+
+That is a very good theoretical point for a global governance course:
+
+> **Institutions can shape behaviour before they create binding law.**
+
+---
+
+# Your strongest course-level argument
+
+I would now revise your main thesis to this:
+
+> **The Geneva AI Dialogue shows that global governance often develops through institutions and practices before it develops through binding international law. States broadly agreed on goals such as safety, human rights, inclusion, and accountability, but disagreement over sovereignty, capacity, uncertainty, and national context pushed them toward softer forms of governance such as interoperability, standards, and voluntary cooperation.**
+
+Then add the harder-law point:
+
+> **At the same time, the human rights discussion showed pressure in the opposite direction: where AI threatens fundamental rights, some participants argued that voluntary cooperation is insufficient and that binding international law must provide a minimum floor.**
+
+That gives you a genuine argument rather than just a summary.
+
+---
+
+# Revised SWOT using the readings
+
+The readings let you make the SWOT much more analytical.
+
+||Analysis|
+|---|---|
+|**Strengths**|The UN provides a multilateral institutional framework; multi-stakeholder participation broadens legitimacy; existing international law and human rights provide a normative foundation; soft law allows cooperation despite uncertainty and different national preferences.|
+|**Weaknesses**|Soft law can lack precision, obligation, and delegation; participation remains unequal; governance remains fragmented; there is no central authority capable of uniformly enforcing AI rules.|
+|**Opportunities**|Geneva could develop into an issue-specific international regime; existing principles could gradually become more precise; interoperability could reduce fragmentation without eliminating sovereignty; scientific and technical cooperation could build toward stronger legalization.|
+|**Threats**|Powerful states and companies may dominate rule-making; softer governance may allow regulatory arbitrage; sovereignty concerns may prevent meaningful delegation; rapid technological change may make rules obsolete before institutions can adapt.|
+
+The important thing here is that **soft law appears in both the strengths and weaknesses columns**.
+
+That is exactly what Abbott and Snidal would lead you to expect.
+
+---
+
+# One particularly strong slide
+
+I would seriously consider making one slide called:
+
+## **Why wasn't there a global AI treaty?**
+
+Put this in the middle:
+
+**AI is:**
+
+- rapidly changing
+- technically uncertain
+- politically contested
+- economically valuable
+- unevenly distributed
+- highly sensitive to sovereignty
+
+Then underneath:
+
+**Abbott & Snidal:**
+
+> High uncertainty + high sovereignty costs + divergent preferences → greater attraction of flexible legalization.
+
+And beside that:
+
+**What Geneva did:**
+
+> interoperability + standards + sandboxes + scientific cooperation + voluntary initiatives
+
+Then at the bottom:
+
+**But... human rights participants pushed toward harder law.**
+
+That single slide could tie **both readings and all three assignment questions** together.
+
+---
+
+# Best discussion question after adding the readings
+
+I would replace my earlier recommendation with this:
+
+> **Was Geneva's lack of a binding global AI treaty actually a weakness, or was soft law the rational form of governance given the uncertainty and sovereignty costs involved?**
+
+That directly puts the class into Abbott and Snidal's argument while also letting them evaluate the actual event.
+
+### A second option
+
+> **Does the AI Dialogue show international law becoming more supranational, or are states still firmly in control of the process?**
+
+That is the better choice if your professor is emphasizing BSO Chapter 19.
+
+### A third option
+
+> **Can human rights provide a common global baseline for AI governance without forcing every country to adopt the same regulatory system?**
+
+That connects BSO's discussion of global justice with the dialogue's interoperability argument.
+
+---
+
+## One caution for the presentation
+
+I would **not** say that Geneva "created a new international AI regime." The transcripts do not support that yet.
+
+A more accurate formulation is:
+
+> **The dialogue is contributing to the emergence of an international AI governance regime, but that regime is still incomplete and heavily dependent on soft-law and cooperative mechanisms.**
+
+That distinction will make your analysis much more defensible.
+
+And with these readings, I think your **central analytical thread should be "why soft law now, and whether it eventually needs to become hard law."** That gives you a clean bridge from **what happened → readings → what we learn about global governance**.
+
+You could sharpen the presentation around one of these angles:
+
+- Compare soft law and hard law
+- Draft the discussion question
+- Build the “Why no treaty?” slide

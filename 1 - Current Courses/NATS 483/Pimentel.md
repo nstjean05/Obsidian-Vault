@@ -6,4 +6,18 @@
 	- **Merits**
 		- Abstract objects are indispensable to science, if scientific theories are true then abstract objects must exist
 		- Abstract objects appear to be mind-dependent
-		- 
+	- **Problems**
+		- May violate self-aseity
+			- God gifted existence, and exists independently of everything else
+- God cannot create a self-existent thing
+- *Anti-realism:* Abstract objects don't really exist
+- **Merits**
+	- Abstract objects are quite strange
+	- We think about math -> mental activity, pretending
+- **Problems**
+	- There are too many things for humans to think about
+	- How come it is so useful for describing the natural world?
+		- Ex. Fantasy stories are made up, but are so good at describing something about the real world
+	- We seem to get out more than we put in
+	- Why does nature have such good taste!
+- 
