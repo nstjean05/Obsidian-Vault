@@ -24,5 +24,12 @@
 	- log(xy) = log(x) + log(y)
 	- log√x = (1/2)log(x)
 	- Fechner's Law
+		- Nature has found the logarithm to be a very efficient method of calculation
 	- Radioactive decay 1/2 life
+- **Case Study: Imaginary Numbers**
+	- It is very hard to puzzle out what the root of -1 would be
+	- So, mathematicians just called it *i*
+	- As it turns out, *i* is very useful in a lot of mathematics
+		- Ex. Dirac Equation
+			- Mathematics predicting things (ex. spin) before its even been observerd
 	- 
