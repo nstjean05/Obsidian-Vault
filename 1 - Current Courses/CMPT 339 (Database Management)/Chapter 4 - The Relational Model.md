@@ -11,8 +11,8 @@
 - **Cardinality** is the number of tuples in a relation
 - **Relational DB** is a collection of normalized relations, with distinct relation names
 - **Normalization** indicates no repeated groups (redundancy)
-![](Pasted%20image%2020260930211037.png)
-![](Pasted%20image%2020260930211051.png)
+![](z.%20Images/Pasted%20image%2020260930211037.png)
+![](z.%20Images/Pasted%20image%2020260930211051.png)
 ## Mathematical Definition of a Relation
 - Example: D = {2,4} and E = {1,3,5}
 	- D * E = {(2,1), (2,3), (2,5), (4,1), (4,3), (4,5)}
@@ -85,7 +85,7 @@
 	- Allowed if the query involves a single base relation and contains a primary key or candidate key of that base relation
 	- Not allowed if it involves multiple base relations
 	- Not allowed if it involves aggregation or grouping operations
-![](Pasted%20image%2020260929181339.png)
+![](z.%20Images/Pasted%20image%2020260929181339.png)
 
 
 
