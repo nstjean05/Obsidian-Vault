@@ -230,8 +230,8 @@ $\sigma_{\text{Client.clientNo = Viewing.clientNo}}\big((\Pi_{\text{clientNo, fN
 - GeeksforGeeks (rename examples, algebra vs calculus): https://www.geeksforgeeks.org/rename-operation-in-relational-algebra/
 ## Homework 2
 a. $\Pi_{\text{equipNo, description, dailyRate}}(\sigma_{\text{category} = vision}(\text{Equipment}))$
-b. $\Pi_{\text{equipNo, description, dailyRate}}(\sigma_{\text{category} = vision}(\text{Equipment}))$
-
+b. $\Pi_{\text{firstName, lastName}}(\sigma_{(\text{year} \geq 3) \,\land\, (\text{program = Computing Science})}(\text{Student}))$
+d. $\Pi_{\text{studentNo, firstName, lastName}}(\sigma_{(\text{year} \geq 3) \,\land\, (\text{program = 'Computing Science'})}(\text{Student}))$
 
 
 
