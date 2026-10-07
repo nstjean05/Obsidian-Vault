@@ -4,4 +4,4 @@
 - As you pursue the Bible from a scholarly perspective, how do you balance letting faith have authority over your life, but not over your science?
 	- Western science largely got its start from Christian convictions. They approached nature with the underlying understanding that it is ordered.
 	- There are very different perspectives on things depending on when in time you are looking at them.
-	- 
+	- Do you have a personal perspective on providence? We kind of see how when we're overlaying the Bible and science, there are a few points where there is divine intervention to set us on our current path. Ex. Adam and Eve set aside from the rest of the Homo Sapiens, Big Bang, Origin of Life, etc. Should we assume that there will be a scientific answer later? Is it acceptable to believe that any of these have divine intervention?
