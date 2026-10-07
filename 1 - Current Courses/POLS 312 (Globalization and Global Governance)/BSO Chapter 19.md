@@ -56,7 +56,6 @@
         - Customary norms uphold legal equality of states, self-determination, and non-intervention
         - Non-Western states are the most vigorous defenders of these
         - Non-Western peoples were central to building the human rights regime (Case Study 19.2)
-
 1. Which matters more for assessing contemporary law: its European origins, or its role in helping address global challenges?
 2. Has it transcended its European origins, given non-Western states defend sovereignty and non-intervention and shaped human rights law?
 ##### Case Study 19.2: Non-Western agency in international human rights law
@@ -67,7 +66,6 @@
     - Postcolonial states insisted on the _primacy_ of civil and political rights in the ICCPR
     - They defeated Western attempts to insert "federal" and "colonial" state exceptions
     - First Optional Protocol (individual petition to the UN) was a non-Western initiative (Reus-Smit 2013)
-
 1. How has non-Western involvement affected the nature of human rights law?
 2. Does it counter the criticism that the law isn't "universal"?
 #### 19.3.2 Multilateral legislation
@@ -128,17 +126,13 @@
     4. Beyond order, toward **global justice**
         - Humanitarian law; UNSC decisions treating gross rights violations as threats to peace (ex. Libya) under Chapter 7
         - Links international order with minimum standards of global justice
-
 #### Key Points
-
 - Law for order was circumscribed (states as subjects and agents, inter-state focus, order only)
 - Global governance raises the question of a shift to _supranational_ law
 - Individuals and collectivities gain rights and responsibilities
 - Non-governmental actors matter in codifying norms
 - Domestic regimes are affected, and scope extends to justice _(text cuts off mid-sentence here)_
-
 ### 19.5 The laws of war
-
 - Law on use of force is the core of the international legal system
 - Two types
     - **Jus ad bellum**: when force is permitted
