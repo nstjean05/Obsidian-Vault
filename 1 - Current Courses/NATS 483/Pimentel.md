@@ -20,4 +20,9 @@
 		- Ex. Fantasy stories are made up, but are so good at describing something about the real world
 	- We seem to get out more than we put in
 	- Why does nature have such good taste!
-- 
+- **Case Study: Logarithms**
+	- log(xy) = log(x) + log(y)
+	- log√x = (1/2)log(x)
+	- Fechner's Law
+	- Radioactive decay 1/2 life
+	- 
