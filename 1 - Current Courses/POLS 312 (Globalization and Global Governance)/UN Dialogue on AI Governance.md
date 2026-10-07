@@ -169,7 +169,7 @@ Canadian Permanent Representative David Lametti emphasized the justice system an
 **UN Women**  
 UN Women argued that without regulation, AI can amplify existing discrimination and violence against women and girls. It emphasized that states remain the primary duty bearers, while companies remain responsible across the AI lifecycle.
 
-**Instituto Alana**  
+**Instituto Alana (Brazil)**  
 This speaker focused on children and stressed that children are not one homogeneous group. It advocated proactive accountability, child rights built into systems from the beginning, and caution before deployment where serious harms are possible.
 
 **Netherlands**  
