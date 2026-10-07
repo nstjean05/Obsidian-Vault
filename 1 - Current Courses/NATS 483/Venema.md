@@ -5,3 +5,12 @@
 	- Western science largely got its start from Christian convictions. They approached nature with the underlying understanding that it is ordered.
 	- There are very different perspectives on things depending on when in time you are looking at them.
 	- Do you have a personal perspective on providence? We kind of see how when we're overlaying the Bible and science, there are a few points where there is divine intervention to set us on our current path. Ex. Adam and Eve set aside from the rest of the Homo Sapiens, Big Bang, Origin of Life, etc. Should we assume that there will be a scientific answer later? Is it acceptable to believe that any of these have divine intervention?
+	- Is the randomness of allele selection concerning? Is God still "knitting you together"?
+- Why does God use natural selection, a process of pain and death, to bring about His will?
+	- God seems to enjoy diversity, and seems not to control how that diversity is found
+	- Does an evolutionary perspective of the problem of evil harder/worse than a non-evolutionary perspective?
+- How to reconcile having death before the fall?
+	- Death is separation from God
+		- This leads to death
+	- Exclusion from access to the tree of life
+	- 
