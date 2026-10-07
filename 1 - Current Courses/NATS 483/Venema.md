@@ -1,0 +1,6 @@
+- When investigating the common ancestor of species, how can you tell when two species evolved from a common ancestor versus when they evolved separately to develop certain characteristics?
+	- We can see how amino acid chains are very very similar
+	- There are so many similarities
+- As you pursue the Bible from a scholarly perspective, how do you balance letting faith have authority over your life, but not over your science?
+	- Western science largely got its start from Christian convictions. They approached nature with the underlying understanding that it is ordered.
+	- 
