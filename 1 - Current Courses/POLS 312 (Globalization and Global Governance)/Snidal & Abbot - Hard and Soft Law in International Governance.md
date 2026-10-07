@@ -1,7 +1,5 @@
 ### Hard and Soft Law in International Governance (Abbott and Snidal, _International Organization_, 2000)
-
 #### Intro
-
 - International relations are heavily legalized, but with huge variety; few arrangements approach hard law, most is "soft"
 - Argument: actors choose legal forms to solve specific substantive and political problems, and choose **soft** forms when they're the superior solution
 - **Hard law**: legally binding obligations that are precise (or can be made precise) and delegate authority to interpret and implement
@@ -21,21 +19,15 @@
     - Helps compromise across interests, values, time horizons, power
 - Key variables: transaction costs, uncertainty, sovereignty implications, divergence of preferences, power differentials
 - Frames it around states first, nonstate actors in the final section
-
 ### Contracts and Covenants: Rationales for Hard Law
-
 - **Contract** (interests; rationalist) vs **covenant** (normative commitments; constructivist)
 - Authors reject the sharp split: law is both
-    
     1. Actors use law to pursue interests _and_ values, which are intertwined
     2. They use both normative and interest-based strategies to build it
     3. Rules work by changing incentives _and_ by changing understandings and identities
-    
     - Hammer and wrench: use both tools, no need to declare one better
 - Use contracting theory to organize the analysis
-
 #### Credible commitments
-
 - Hard to credibly commit under anarchy; matters when one side performs first or makes relation-specific investments (assurance games)
 - Disaggregate the state: political investments, binding successors or other branches, shaping citizens' incentives
     - Ex. Mexico legalized NAFTA to reassure foreign investors, accepting binding arbitration
@@ -59,18 +51,14 @@
     3. Forming "clubs" of sincerely committed states (EU, NATO), as an ex ante sorting device. Not needed for looser groups like APEC
     4. Executives want to bind other agencies or legislatures and have room to act with little interference
     5. (Secondary) the state is in other legal regimes and has strong domestic legal institutions
-
 #### Reducing transactions costs
-
 - Two interactions: _managerial_ (interpret, apply, elaborate) and _adversarial_ (enforce)
 - Hard law sets bounds on negotiation, forces consistency with existing norms and specialized procedures
     - States bargain "in the shadow" of legal decisions; unauthorized coercion looks illegitimate
     - Ex. WTO required members to use dispute settlement, not unilateral action (aimed at US Section 301)
 - **Demandeurs** (those seeking commitments) prefer hard law; resisters want flexibility
     - Demandeurs seek hard law when opportunism is high and detection hard, to limit membership to the committed, and when other states' executives agree but elites diverge
-
 #### Modifying political strategies
-
 - Legal institutions open new tactics
     - Ex. ICTY: states lobby for officials, gather evidence, push indictments (ex. Milosevic), arrange arrests
 - Domestic litigation becomes part of the toolkit; states support private litigants
@@ -78,20 +66,15 @@
 - States favour hard law when its strategies suit them
     - Ex. US has big legal staffs; states confident agreements track their preferences; powerful states have an _overlooked_ stake
     - Sublimates political conflict into legal argument
-
 #### Incomplete contracting
-
 - Precision can be wasteful, counterproductive, rigid, or block agreement
 - Complete contracts are impossible (bounded rationality, uncertainty)
 - **Delegation** is the best fix
     - Ex. ECJ on competition law ("concerted practices"); ECHR on "inhuman and degrading treatment"
     - Softer regimes use nonjudicial procedures that need state consent
 - States delegate when gains are large, consensus on principles exists, but applications are hard to anticipate
-
 ### The Advantages of Soft Legalization
-
 #### Contracting costs
-
 - Hard law cuts post-agreement costs but raises _contracting_ costs
     - Legal specialists, lengthy reviews, differing legal traditions, ratification
 - Ex. **ILO**: low ratification rates led directors-general to favour recommendations and codes of conduct over conventions (labour resisted)
@@ -105,9 +88,7 @@
 - Ex. **Trade**: ITO charter too hard to negotiate and resisted in the US; **GATT 1947** was "provisional" with a lenient withdrawal clause and skeletal institutions {o,p,-}
     - Became the WTO as states learned harder legalization pays
 - Hypothesis: softer forms attract more as contracting costs rise
-
 #### Sovereignty costs
-
 - Binding obligations, especially delegation, are costly
 - Krasner's four meanings: domestic, interdependence, international legal, Westphalian
 - Scale of costs
@@ -135,9 +116,7 @@
     - Trade: in between, benefits often outweigh costs (varies by state and over time, ex. agriculture)
     - EU: most institutionalized, from strong commitment or a long legalized process
     - WTO is now stronger than the ITO would have been: GATT success shifted domestic politics, and states learned
-
 #### Uncertainty
-
 - New or complex issues make delegation tempting but costly in sovereignty
 - Soft options
     1. **Reduce precision** {O,p,d}
@@ -156,9 +135,7 @@
     - High sovereignty cost, low uncertainty: precise and binding, little delegation {O,P,-}
     - Low sovereignty cost, high uncertainty: binding, moderate delegation, imprecise {O,p,d}
     - Both high: flexible or hortatory {o,p,-} or {-,p,-}
-
 #### Soft law as a tool of compromise
-
 - **At a point in time**
     - Heterogeneous states: set general goals, let each adapt implementation
     - Defuse sticky issues in package deals (ex. NAFTA labour and environment side agreements)
@@ -190,14 +167,10 @@
     - Ex. **Law of the Sea**: more territorial sovereignty for littoral states, a role for LDCs in resources, military passage protected; delegation limited
     - Ex. **NPT**: weak states accepted the nuclear oligopoly, powerful states agreed to restraint and technology transfer; IAEA controlled by major powers
     - Process: powerful states advantaged. Outcome: even they accept legal constraints, but shape substance and institutions
-
 ### The Role of Private Actors
-
 - Interest groups, epistemic communities (Haas), NGOs, advocacy coalitions, and transgovernmental units are key to new agreements
 - Three accounts: **pluralist**, **public choice**, **statist**
-
 #### Pluralist (Moravcsik's liberal account)
-
 - Groups within and across states are the fundamental actors; govts ratify private bargains
 - Domestic variation means more divergent preferences, higher costs, so soft law is _more_ valuable
     - Ex. Agenda 21, minorities convention
@@ -211,18 +184,14 @@
     - Activists: precise normative statements {-,P,-}, which also suits business (no concrete enforcement)
         - Ex. Rio Declaration, Agenda 21, Forest Principles
 - Soft instruments fuel "accountability politics" by exposing gaps between commitments and conduct (ex. Beijing Declaration, Helsinki)
-
 #### Public choice
-
 - Officials pursue private rewards (reelection, contributions)
 - May back hard law for credible commitments (ex. TRIPs)
 - But soft law appeals
     - Supply present benefits while keeping future rents
     - Avoid taking sides in distributional conflicts (study, vague principles, pass the buck)
     - Transgovernmental bodies (Basle Committee, IOSCO) lack treaty authority and avoid scrutiny, so soft law fits
-
 #### Statism
-
 - Govts keep some autonomy; act as "transmission belts" unless national autonomy is at stake
     - Soft law answers private demands while limiting sovereignty costs, so {-,P,-} is common
     - Ex. Rio and Beijing declarations adopted by nearly every nation _because_ nonbinding
@@ -232,9 +201,7 @@
 - Divergent discount rates (Helsinki: impatient activists, patient Western govts)
 - Offensive uses: binding deals to forestall domestic groups; nonbinding or imprecise ones to introduce unpopular rules
     - Ex. Vienna Ozone Convention, WTO services framework (change discourse, leave costly regulation for later)
-
 ### Conclusion
-
 - Legalization is diverse because it helps diverse actors solve diverse problems
 - Tradeoffs
     - States: hard law's benefits (commitment, incomplete contracting) vs sovereignty costs

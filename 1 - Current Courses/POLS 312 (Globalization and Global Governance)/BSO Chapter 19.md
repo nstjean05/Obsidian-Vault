@@ -11,7 +11,6 @@
         - Concrete enactments of fundamental practices (ex. NPT = law plus multilateralism in arms control)
 - Chapter focuses on the middle stratum
 #### Key Points
-
 - States have strong incentives to escape the insecurity of anarchy
 - Coordination and collaboration problems exist, but cooperation is hard under anarchy
 - So states build institutions at the three levels
