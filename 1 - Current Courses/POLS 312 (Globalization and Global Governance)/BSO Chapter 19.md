@@ -167,42 +167,31 @@
     - Trump: open disdain for legal limits, ended the 1987 INF Treaty
     - Russia's 2022 invasion of Ukraine: violated ad bellum, and targeting civilians violated in bello
     - Islamic State: deliberate, choreographed provocation of laws of war
-
 #### Key Points
-
 - Limiting force is a key challenge; laws of war evolved to meet it
 - Ad bellum (when) vs in bello (how)
 - Biggest shift: 19th century sovereign right to wage war vs post-1945 self-defence or UN-mandated enforcement
 - In bello covers weaponry, combatants, non-combatants
 - Since 2001 both have been challenged by US conduct in the war on terror, insurgents, and Russia undermining neighbours' territorial integrity
-
 ### 19.6 Theoretical approaches to international law
-
 #### 19.6.1 Realism
-
 - Sceptical; hostile to "peace through law"
 - Kennan: it transposes Anglo-Saxon individual law onto governments
 - No central authority to legislate, adjudicate, or enforce, so doubts it's really law
     - Morgenthau: a "primitive law," like preliterate societies
 - Obligation is weak: few sanctions, rudimentary enforcement
-
 #### 19.6.2 Neoliberal institutionalism
-
 - Avoided talking about law at first ("regimes" were close; inspired by economics, less provocative in Cold War realist field)
 - After the Cold War, pushed for IR-law dialogue, but with rationalist commitments
     - States as rational egoists
     - Law as an _intervening variable_ and a _regulatory_, not constitutive, institution (Goldstein et al. 2000)
-
 #### 19.6.3 Constructivism
-
 - Normative and ideational structures matter as much as material ones; identities shape interests; structures sustained by routinized practices
 - Common ground with legal theorists
     - Politics includes identity and purpose, not just strategy
     - Rules and norms are _constitutive_, not just constraining
     - Discourse, communication, socialization (Reus-Smit 2004; Brunnée and Toope 2010)
-
 #### 19.6.4 Critical legal studies ("new stream", 1980s)
-
 - Challenges the inherent liberalism of international law
     - Liberalism pushes theory between **apology** (rationalizing the sovereign order) and **utopia** (naive faith that law civilizes states) (Koskenniemi 1989)
 - Four propositions (Purvis 1991)
@@ -211,9 +200,7 @@
         - A "self-referential search for origins, authority, and coherence"
     3. Rules aren't **determinate**: any doctrine can justify multiple, competing outcomes (against positivism's "finding the law")
     4. Authority is **self-validating**: legitimacy comes only through internal rituals
-
 #### 19.6.5 The practice turn
-
 - Knowledgeable social practices (Pouliot 2010; Adler and Pouliot)
 - Brunnée and Toope: where does legal obligation come from?
     - Realists: coercion; liberal positivists: consent; others: legitimacy or fairness
@@ -221,24 +208,18 @@
         - Obligation is an _internalized commitment_, a feeling about the legal order's legitimacy
         - Socially constructed through participation
     - Practices must meet **criteria of legality**: general, officially promulgated, prospective, clear, non-contradictory, realistic, constant, congruent
-
 ### 19.7 Conclusion
-
 - Paradox: scholars downplay law's value, yet states invest heavily in elaborate legal regimes
 - International law is functional (needed in a complex system) _and_ grounded in ideas of legitimate rule from political liberalism
 - Trend toward supranational or transnational law
 - Each theory offers a different view on the paradox
-
 #### Key Points
-
 - Realists: law matters only when it serves powerful states' interests
 - Neoliberals: explain how self-interested states build dense legal regimes
 - Constructivists: law is part of normative structures that constitute identities, interests, and strategies
 - Critical legal studies: law's inherent liberalism curtails its radical potential
 - Practice theorists: obligation comes from participating in legal practice, not coercion, consent, or legitimacy
-
 #### Opposing Opinions 19.1: International law has no real effect on IR
-
 - **Does international law matter?**
     - For (no real effect)
         - Not "real" law: no central authority or enforcement backed by force
@@ -251,13 +232,10 @@
         - Compliance is high, even by domestic standards
             - Some laws limit power for the wider good (ex. UN Charter limits on force)
         - Law-breakers almost always _reference_ the law (deny breaking it, say it doesn't apply, or claim they defend it)
-
 1. If international law doesn't matter, why do states create it?
 2. Why are states so particular about which laws they accept if it's ineffectual?
 3. Could a system of materially unequal sovereign states survive without it?
-
 #### Questions
-
 1. Can you think of other factors, in addition to those listed in the chapter, that have contributed to the rise of modern international law in the last two centuries?
 2. Is the 'paradox of international law' really a paradox?
 3. Do you find persuasive the argument that states create institutions to sustain international order?
