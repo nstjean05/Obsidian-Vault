@@ -1,0 +1,4 @@
+- The whole Earth is full of God's glory - Isaiah 6:3
+- Beautiful equations to describe the world (Ex. Navier Stokes)
+- Deep mutual connections between the Mathematical, Mental, and Physical worlds
+- 
