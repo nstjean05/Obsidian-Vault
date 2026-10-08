@@ -241,6 +241,8 @@ g. $\Pi_{\text{studentNo, equipNo}}(\text{Loan}) \div \Pi_{\text{equipNo}}(\sigm
 **Part 2**
 Relational algebra evaluation and reasoning. Using the database instance above, show the resulting relation for each expression. For each answer, show the intermediate relation produced after each major operator and write one short sentence explaining why that operator is used.
 a. $\sigma_{\text{category = Vision} \,\land\, \text{dailyRate} \leq 20}(\text{Equipment})$
-	
+	The only column of the $\land$ that resulted with a true match value in both vision and dailyRate was E201.
 b. $\Pi_{\text{studentNo, description}}(\text{Loan} \bowtie \text{Equipment})$
+	First, we take the natural join of *Loan* and *Equipment*, matching based on *equipNo*. Then
 c. $\Pi_{\text{studentNo, firstName, lastName}}\big(\sigma_{\text{dateReturned = NULL}}(\text{Loan}) \bowtie \text{Student}\big)$
+	
