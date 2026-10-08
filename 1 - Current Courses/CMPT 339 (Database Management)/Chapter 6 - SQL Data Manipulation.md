@@ -45,7 +45,6 @@
 - Started with E. F. Codd's paper at IBM Research Laboratory in San José (Codd, 1970)
 - 1974: D. Chamberlin (IBM San Jose) defined 'Structured English Query Language' (SEQUEL)
 - 1976: SEQUEL/2 defined, name later changed to SQL for legal reasons
-	- Still pronounced 'see-quel', official pronunciation is 'S-Q-L'
 - IBM built a prototype DBMS called **System R**, based on SEQUEL/2
 - Roots of SQL are in **SQUARE** (Specifying Queries as Relational Expressions), which predates System R
 - Late 70s: ORACLE appeared, probably the first commercial SQL-based RDBMS
