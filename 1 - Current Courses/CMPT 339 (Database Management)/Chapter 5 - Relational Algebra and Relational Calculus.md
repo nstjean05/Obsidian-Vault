@@ -229,6 +229,7 @@ $\sigma_{\text{Client.clientNo = Viewing.clientNo}}\big((\Pi_{\text{clientNo, fN
 - Relational Algebra Introduction: http://egorhm.net/relational%20algebra/programming/2014/05/10/relational-algebra-introduction.html
 - GeeksforGeeks (rename examples, algebra vs calculus): https://www.geeksforgeeks.org/rename-operation-in-relational-algebra/
 ## Homework 2
+**Part 1**
 a. $\Pi_{\text{equipNo, description, dailyRate}}(\sigma_{\text{category} = vision}(\text{Equipment}))$
 b. $\Pi_{\text{firstName, lastName}}(\sigma_{(\text{year} \geq 3) \,\land\, (\text{program = Computing Science})}(\text{Student}))$
 c. $\Pi_{\text{equipNo, description}}(\sigma_{\text{dailyRate} ≤ 18}(\text{Equipment}))$
@@ -237,4 +238,7 @@ e. $\Pi_{\text{equipNo, description, firstName, lastName}}\big(\text{Equipment} 
 f. $\Pi_{\text{studentNo}}\big(\text{Loan})$
 g. $\Pi_{\text{studentNo, equipNo}}(\text{Loan}) \div \Pi_{\text{equipNo}}(\sigma_{\text{category = VR}}(\text{Equipment}))$
 
-
+**Part 2**
+a. σ<sub>category='Vision' ∧ dailyRate≤20</sub>(Equipment)
+b. $\Pi$<sub>studentNo, description</sub>(Loan ⋈ Equipment)
+c. $\Pi$<sub>studentNo, firstName, lastName</sub>(σ<sub>dateReturned=NULL</sub>(Loan) ⋈ Student)
