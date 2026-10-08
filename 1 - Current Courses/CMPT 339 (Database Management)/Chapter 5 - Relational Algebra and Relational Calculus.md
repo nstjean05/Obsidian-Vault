@@ -239,6 +239,6 @@ f. $\Pi_{\text{studentNo}}\big(\text{Loan})$
 g. $\Pi_{\text{studentNo, equipNo}}(\text{Loan}) \div \Pi_{\text{equipNo}}(\sigma_{\text{category = VR}}(\text{Equipment}))$
 
 **Part 2**
-a. σ<sub>category='Vision' ∧ dailyRate≤20</sub>(Equipment)
+a. $\sigma_{\text{category = 'Vision'} \,\land\, \text{dailyRate} \leq 20}(\text{Equipment})$
 b. $\Pi$<sub>studentNo, description</sub>(Loan ⋈ Equipment)
-c. $\Pi$<sub>studentNo, firstName, lastName</sub>(σ<sub>dateReturned=NULL</sub>(Loan) ⋈ Student)
+c. $\Pi_{\text{equipNo, description, firstName, lastName}}\big(\text{Equipment} ⟕ ((\text{Loan} - \sigma_{\text{dateReturned} \geq \text{dateOut}}(\text{Loan})) \bowtie \text{Student})\big)$
