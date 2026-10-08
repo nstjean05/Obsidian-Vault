@@ -38,3 +38,9 @@ c. $\Pi_{\text{studentNo, firstName, lastName}}\big(\sigma_{\text{dateReturned =
 | LN02   | E201    | S102      | 11-Sep-26 | 14-Sep-26 | NULL         |     |
 | LN04   | E102    | S101      | 15-Sep-26 | 18-Sep-26 | NULL         |     |
 | LN06   | E303    | S103      | 14-Sep-26 | 16-Sep-26 | NULL         |     |
+
+| loanNo | equipNo | studentNo | dateOut   | dateDue   | dateReturned | firstName | lastName | program           | year |
+| ------ | ------- | --------- | --------- | --------- | ------------ | --------- | -------- | ----------------- | ---- |
+| LN02   | E201    | S102      | 11-Sep-26 | 14-Sep-26 | NULL         | Ethan     | Wong     | Computing Science | 2    |
+| LN04   | E102    | S101      | 15-Sep-26 | 18-Sep-26 | NULL         | Mina      | Choi     | Computing Science | 3    |
+| LN06   | E303    | S103      | 14-Sep-26 | 16-Sep-26 | NULL         | Sara      | Patel    | Mathematics       | 3    |

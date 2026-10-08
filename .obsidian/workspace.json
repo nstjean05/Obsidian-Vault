@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "da0bc17869a6c865",
+        "id": "5952e4b1b0cf91e6",
         "type": "tabs",
         "children": [
           {
-            "id": "0f933db76ba6840d",
+            "id": "ee6b4dc8e23b4dcd",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -41,7 +41,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -78,8 +80,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 271.5,
-    "collapsed": true
+    "width": 271.5
   },
   "right": {
     "id": "1c1db9715e53cd8f",
@@ -170,10 +171,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0f933db76ba6840d",
+  "active": "ee6b4dc8e23b4dcd",
   "lastOpenFiles": [
-    "y.md",
     "1 - Current Courses/CMPT 339 (Database Management)/Chapter 5 - Relational Algebra and Relational Calculus.md",
+    "y.md",
     "1 - Current Courses/CMPT 339 (Database Management)/Chapter 4 - The Relational Model.md",
     "Untitled.base",
     "z. Images/Pasted image 20260929181339.png",
