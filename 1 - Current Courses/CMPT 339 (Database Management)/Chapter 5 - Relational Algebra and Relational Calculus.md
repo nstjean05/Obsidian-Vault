@@ -234,11 +234,13 @@ a. $\Pi_{\text{equipNo, description, dailyRate}}(\sigma_{\text{category} = visio
 b. $\Pi_{\text{firstName, lastName}}(\sigma_{(\text{year} \geq 3) \,\land\, (\text{program = Computing Science})}(\text{Student}))$
 c. $\Pi_{\text{equipNo, description}}(\sigma_{\text{dailyRate} ≤ 18}(\text{Equipment}))$
 d. $\Pi_{\text{studentNo, firstName, lastName, description}}\big((\text{Student} \bowtie \text{Loan}) \bowtie \text{Equipment}\big)$
-e. $\Pi_{\text{equipNo, description, firstName, lastName}}\big(\text{Equipment} ⟕ (\sigma_{\text{dateReturned = NULL}}(\text{Loan}) \bowtie \text{Student})\big)$
+e. $\Pi_{\text{equipNo, description, firstName, lastName}}\big(\text{Equipment} ⟕ ((\text{Loan} - \sigma_{\text{dateReturned} \geq \text{dateOut}}(\text{Loan})) \bowtie \text{Student})\big)$
 f. $\Pi_{\text{studentNo}}\big(\text{Loan})$
 g. $\Pi_{\text{studentNo, equipNo}}(\text{Loan}) \div \Pi_{\text{equipNo}}(\sigma_{\text{category = VR}}(\text{Equipment}))$
 
 **Part 2**
-a. $\sigma_{\text{category = 'Vision'} \,\land\, \text{dailyRate} \leq 20}(\text{Equipment})$
-b. $\Pi$<sub>studentNo, description</sub>(Loan ⋈ Equipment)
-c. $\Pi_{\text{equipNo, description, firstName, lastName}}\big(\text{Equipment} ⟕ ((\text{Loan} - \sigma_{\text{dateReturned} \geq \text{dateOut}}(\text{Loan})) \bowtie \text{Student})\big)$
+Relational algebra evaluation and reasoning. Using the database instance above, show the resulting relation for each expression. For each answer, show the intermediate relation produced after each major operator and write one short sentence explaining why that operator is used.
+a. $\sigma_{\text{category = Vision} \,\land\, \text{dailyRate} \leq 20}(\text{Equipment})$
+	
+b. $\Pi_{\text{studentNo, description}}(\text{Loan} \bowtie \text{Equipment})$
+c. $\Pi_{\text{studentNo, firstName, lastName}}\big(\sigma_{\text{dateReturned = NULL}}(\text{Loan}) \bowtie \text{Student}\big)$
