@@ -233,5 +233,7 @@ a. $\Pi_{\text{equipNo, description, dailyRate}}(\sigma_{\text{category} = visio
 b. $\Pi_{\text{firstName, lastName}}(\sigma_{(\text{year} \geq 3) \,\land\, (\text{program = Computing Science})}(\text{Student}))$
 c. $\Pi_{\text{equipNo, description}}(\sigma_{\text{dailyRate} ≤ 18}(\text{Equipment}))$
 d. $\Pi_{\text{studentNo, firstName, lastName, description}}\big((\text{Student} \bowtie \text{Loan}) \bowtie \text{Equipment}\big)$
-
+e. $\Pi_{\text{equipNo, description, firstName, lastName}}\big(\text{Equipment} ⟕ (\sigma_{\text{dateReturned = NULL}}(\text{Loan}) \bowtie \text{Student})\big)$
+f. $\Pi_{\text{studentNo}}\big(\text{Loan})$
+g. 
 
