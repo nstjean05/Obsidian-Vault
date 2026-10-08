@@ -243,6 +243,6 @@ Relational algebra evaluation and reasoning. Using the database instance above, 
 a. $\sigma_{\text{category = Vision} \,\land\, \text{dailyRate} \leq 20}(\text{Equipment})$
 	The only column of the $\land$ that resulted with a true match value in both vision and dailyRate was E201.
 b. $\Pi_{\text{studentNo, description}}(\text{Loan} \bowtie \text{Equipment})$
-	First, we take the natural join of *Loan* and *Equipment*, matching based on *equipNo*. Then
+	First, we take the natural join of *Loan* and *Equipment*, matching based on *equipNo*. Then $\Pi$ filters to display the two relevant columns, *studentNo* and *description*.
 c. $\Pi_{\text{studentNo, firstName, lastName}}\big(\sigma_{\text{dateReturned = NULL}}(\text{Loan}) \bowtie \text{Student}\big)$
-	
+	First, we filter down to the loans that specifically have no return date. Then, we use the natural join to connect *studentNo* to the loans, keeping *firstName*, *lastName*, *program*, and *year*. Finally, we use $\Pi$ to keep just the three relevant terms.
