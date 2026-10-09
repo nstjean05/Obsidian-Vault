@@ -198,8 +198,17 @@ Congestion control wouldn't be needed in this scenario, since each of the links 
 
 P7. In this problem, we consider sending real-time voice from Host A to Host B over a packet-switched network (VoIP). Host A converts analog voice to a digital 64 kbps bit stream on the fly. Host A then groups the bits into 56-byte packets. There is one link between Hosts A and B; its transmission rate is 10 Mbps and its propagation delay is 10 msec. As soon as Host A gathers a packet, it sends it to Host B. As soon as Host B receives an entire packet, it converts the packet’s bits to an analog signal. How much time elapses from the time a bit is created (from the original analog signal at Host A) until the bit is decoded (as part of the analog signal at Host B)?
 
-
+17.04ms
 
   
 
 P11. In the above problem, suppose R_1 = R_2 = R_3 = R and d_proc = 0. Further suppose that the packet switch does not store-and-forward packets but instead immediately transmits each bit it receives before waiting for the entire packet to arrive. What is the end-to-end delay?
+
+d=L/R+d1/S1+d2/s2+d3/s3
+L=1500 bytes
+R=2.5Mbps
+Prop speed 2.4•10$^8$ m/s
+Links 5000, 4000, 1000km
+
+L=1500bytes=12000bits
+L/R=12000/2,500,000
