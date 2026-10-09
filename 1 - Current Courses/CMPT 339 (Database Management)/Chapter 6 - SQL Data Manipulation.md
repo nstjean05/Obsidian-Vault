@@ -200,8 +200,6 @@ P7. In this problem, we consider sending real-time voice from Host A to Host B o
 
 17.04ms
 
-  
-
 P11. In the above problem, suppose R_1 = R_2 = R_3 = R and d_proc = 0. Further suppose that the packet switch does not store-and-forward packets but instead immediately transmits each bit it receives before waiting for the entire packet to arrive. What is the end-to-end delay?
 
 d=L/R+d1/S1+d2/s2+d3/s3
