@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 - Current Courses/CMPT 339 (Database Management)/Chapter 6 - SQL Data Manipulation.md",
+                "file": "1 - Current Courses/CMPT 325 (Computer Networking)/KR Chapter 1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Chapter 6 - SQL Data Manipulation"
+              "title": "KR Chapter 1"
             }
           }
         ]
@@ -80,8 +80,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 271.5,
-    "collapsed": true
+    "width": 271.5
   },
   "right": {
     "id": "1c1db9715e53cd8f",
@@ -174,9 +173,10 @@
   },
   "active": "ee6b4dc8e23b4dcd",
   "lastOpenFiles": [
+    "1 - Current Courses/CMPT 325 (Computer Networking)/Chapter 1 - Computer Network and the Internet.md",
+    "1 - Current Courses/CMPT 339 (Database Management)/Chapter 6 - SQL Data Manipulation.md",
     "1 - Current Courses/CMPT 339 (Database Management)/Chapter 5 - Relational Algebra and Relational Calculus.md",
     "1 - Current Courses/CMPT 339 (Database Management)/Chapter 4 - The Relational Model.md",
-    "1 - Current Courses/CMPT 339 (Database Management)/Chapter 6 - SQL Data Manipulation.md",
     "1 - Current Courses/CMPT 325 (Computer Networking)/KR Chapter 1.md",
     "y.md",
     "Untitled.base",
@@ -204,7 +204,6 @@
     "z. Images/Pasted image 20260930211051.png",
     "1 - Current Courses/NATS 483/Week 3 Pre-Readings.md",
     "1 - Current Courses/NATS 483/Final.md",
-    "1 - Current Courses/CMPT 325 (Computer Networking)/Chapter 1 - Computer Network and the Internet.md",
     "z. Images/Pasted image 20260917152503.png",
     "1 - Current Courses/NATS 483",
     "1 - Current Courses",
