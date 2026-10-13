@@ -34,3 +34,7 @@
 - Then Galileo realized that the moon was not a perfect circle
 	- It has mountains and craters (terrestrial)
 ## Relativity
+- The Sun, for example, creates a curve in space time around it
+- Massive things warp spacetime around them
+	- Ex. Bowling ball and marble on a trampoline
+- 
