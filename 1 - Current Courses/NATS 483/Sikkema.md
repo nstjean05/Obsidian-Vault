@@ -62,4 +62,31 @@
 - Dark matter - Lots of dark matter that we can't see
 - Dark energy - May explain why the universe keeps expanding
 ## Genesis 1 & the Big Bang
-- Op
+- Opinion 1: Genesis 1 forces us to **reject** the Big Bang
+	- 'Young Earth creationism'
+	- Anti-realism, instrumentalism, or thorough revision
+		- God created the universe with the light in transit
+		- Need revisions of current theories
+- Opinion 2: Genesis 1 must be **concordant** with Big Bang
+	- Hugh Ross, *Reasons to Believe*
+		- When God says 'let there be light,' light was actually created in some scientific sense
+	- Scripture contains advanced science
+- Opinion 3: Genesis 1 tells a **complementary** story
+	- Walton, Collins
+	- Context: ANE, Exodus
+	- The science doesn't need to match precisely
+	- Understand the historical context of the first hearers of Gen 1
+## Origins, Science, and Faith
+- String of distinct origin stories
+	1. Universe
+	2. Galaxies/stars
+	3. Solar system
+	4. Life
+	5. Humanity
+	6. You
+- History vs. Origin
+- Distinct but related
+	- Karl Sagan calls us "star stuff"
+- Scientific investigation
+- Creator's action
+- Each of the origin stories has a different explanation
