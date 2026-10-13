@@ -13,4 +13,3 @@
 	- Death is separation from God
 		- This leads to death
 	- Exclusion from access to the tree of life
-	- 
