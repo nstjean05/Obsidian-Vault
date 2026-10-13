@@ -29,4 +29,8 @@
 	- *Lord* - God the Father
 	- *Word* - God the Son
 	- *Breath* - God the Holy Spirit
+## Greek Dualism
+- This dualism and quintessence was integrated into Christianity by Saint Thomas Aquinas
+- Then Galileo realized that the moon was not a perfect circle
+	- It has mountains and craters (terrestrial)
 - 
