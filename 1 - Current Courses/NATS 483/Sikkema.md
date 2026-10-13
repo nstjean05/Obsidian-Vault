@@ -38,4 +38,28 @@
 - Massive things warp spacetime around them
 	- Ex. Bowling ball and marble on a trampoline
 ## Brief History of the Universe
-- 
+1. Quantum Fluctuations
+2. Inflation
+3. 400,000 years - Afterglow light pattern
+4. 400,000,000 years - First starts
+5. 13.7B years - Big Bang expansion continues
+	- Development of galaxies, planets, etc.
+	- Dark energy accel. expansion
+## Big Bang and Atheism
+- A static universe
+- Einstein's "greatest blunder"
+	- The cosmological constant
+- A steady state universe
+- Georges Lemaître
+	- Big Bang theory (Fred Hoyle pejorative)
+	- Developed by Christians, not approved by atheists
+- Not a theory of the origin of the universe, but rather of the expansion of the universe
+- Cannot yet understand the origin or singularity of the universe
+- Fine tuning - the universe may appear to have exactly the right properties for us to exist
+	- There are a number of alternative theories
+		- Multiverse
+		- Convergence idea on the fine tuning
+- Dark matter - Lots of dark matter that we can't see
+- Dark energy - May explain why the universe keeps expanding
+## Genesis 1 & the Big Bang
+- Op
