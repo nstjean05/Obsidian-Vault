@@ -31,5 +31,5 @@
 	- So, mathematicians just called it *i*
 	- As it turns out, *i* is very useful in a lot of mathematics
 		- Ex. Dirac Equation
-			- Mathematics predicting things (ex. spin) before its even been observerd
+			- Mathematics predicting things (ex. spin) before its even been observed
 	- 
