@@ -33,4 +33,4 @@
 - This dualism and quintessence was integrated into Christianity by Saint Thomas Aquinas
 - Then Galileo realized that the moon was not a perfect circle
 	- It has mountains and craters (terrestrial)
-- 
+## Relativity
