@@ -12,4 +12,21 @@
 - Jeremiah 10:2
 	- What you see in the heavens are not signs
 - John Calvin - Astronomy is the alphabet of theology
-- Essential theme
+- Essential themes
+	- Creation is actually real
+	- Creation points to a creator
+	- Creation cannot contradict Scripture
+	- Creation depends our knowledge of the Creator
+	- The Creator is covenantally faithful to Creation.
+		- Gen 8:22
+		- There is no scientific reason why standards should continue to be so, apart from God's faithfulness
+		- John 3:16
+		- Hebrews 1:3
+		- Col 1:17
+# The Trinity in Creation
+- Psalm 33:6
+	- By the word of the Lord were the heavens made, their starry host by the breath of his mouth.
+	- *Lord* - God the Father
+	- *Word* - God the Son
+	- *Breath* - God the Holy Spirit
+- 
