@@ -35,6 +35,10 @@
 		- Discomfort or distress related to perceived incongruence between one's gender identity and sex.
 	- Intersex
 		- Umbrella term to describe variation in make and female sex characteristics. Intersex people can have different, or a mixture of, sex characteristics (e.g. sex chromosomes, reproductive organs, etc.) (adapted from intersexcanada.org)
+	- Sexual orientation
+		- Who you are attracted to
+		- Generally independent of sex in some ways
+		- Many of the similar attitudes as 'problems' of sex
 - Sexual Differentiation
 	- Hormones - Chemicals, secreted by endocrine glands, that regulate target organs or tissues via the bloodstream
 	- Organization effects - Permanent alterations of the nervous system and subsequent behaviour
@@ -84,7 +88,14 @@
 		- A ton of overlap - any one trait or small collection will not determine male/female
 	- What can we learn from DSDS?
 		1. Biology has an important impact on gender and gender identity
-			1. Turner's syndrome, CAH, Guevedoces
+			- Turner's syndrome, CAH, Guevedoces
 		2. But not always, and so does the environment
-			1. CAH
+			- CAH
 		3. What about situations like AIS
+		- Bi-directional relationship between hormones and environment
+	- In transgender brains, we also have trouble telling whether there are differences
+- How should Christians respond?
+	1. Compassion and grace
+		- Christians should understand the tension between the body and identity
+	2. Exercise discernment
+	3. Curiosity
