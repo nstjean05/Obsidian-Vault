@@ -16,4 +16,9 @@
 	- Actions
 	- Reactions
 	- Effects
+#### Interpreting History
+- Historians must also produce a narrative to suitable convey a comprehensive picture
+- Evidence, no matter its weight, is irrelevant to people with a sufficiently biased view
+- In some worldviews (ex. Marxism), the worldview creates history, and the historical account must conform to the worldview
+- Some historical figures once deemed great are now vilified for their social views
 - 
