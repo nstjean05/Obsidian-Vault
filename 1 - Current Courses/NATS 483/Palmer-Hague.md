@@ -60,4 +60,31 @@
 	- Androgen intensivity (AIS)
 		- Often these women identify as such
 		- Genetically male
-	- 
+	- Congenital Adrenal Hyperplasia
+		- A masculinization of external genitilia
+		- Most live as hetero women, but are above the average for not being so
+	- Guevodoces
+		- Can't convert in DHT (they lack 5 alpha reductase)
+		- Raised as girls, but usually switch immediately to boys at puberty
+		- Don't know this until puberty
+		- A genetic condition which can be passed on
+	- How should we interpret these conditions when it comes to sex and gender?
+	- How should we classify sex?
+		- Non-Binary - Binary system is too simplistic, should be a spectrum (Nature, 2015)
+		- However, intersex conditions cannot be easily classified
+		- DSDs introduce variability within sexes
+		- Binary - Humans are anisogamous; there are only two gametes; no available evidence for variance in either
+		- Intersex conditions are rare, and are variations within male/female
+- What, then, of gender?
+	- There isn't a particularly reliable way of determining whether a given brain is male or female
+	- Looking at statistical averages, some brain areas are often larger/smaller in the male or female brains compared to one another
+		- Influenced hormonally
+	- Male and female sex differences follow a very similar bell curve, offset by a few points
+	- Common differences in empathy, spatial abilities, etc.
+		- A ton of overlap - any one trait or small collection will not determine male/female
+	- What can we learn from DSDS?
+		1. Biology has an important impact on gender and gender identity
+			1. Turner's syndrome, CAH, Guevedoces
+		2. But not always, and so does the environment
+			1. CAH
+		3. What about situations like AIS
