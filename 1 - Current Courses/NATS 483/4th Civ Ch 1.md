@@ -1,5 +1,5 @@
 # History and Technology
-## The Art and Science of History
+## 1: The Art and Science of History
 - Three concepts of history:
 	1. History
 	2. Technology
@@ -23,4 +23,14 @@
 - Some historical figures once deemed great are now vilified for their social views
 - At some points in recent history (pre-2000) Christian politicians had effective runs in office.
 	- More recently, as the Christian voting populace has moved to further right-wing nationalism, and erased much of the goodwill between religious and non-religious people
+- Two accrediting bodies denies TWUs application to certify its proposed law school
+	- Though the denial infringed on the university's freedom of religion, it was justified to protect the public interest, which was in greater support of diversity values
+	- This precedent can be dangerous precedent for future minority groups
+## 2: The First Four Phases of Civilization
+- There are four general phases of civilization, outlined below.
+- These may occur in a different order.
+#### First Civ - Hunter-Gatherers
+- Simplest type of society, very unorganized
+- Information is passed down by word of mouth, and people are organized in bands of up to a few hundred.
+- Rare use of early tools like the wheel, domestication, metalworking
 - 
