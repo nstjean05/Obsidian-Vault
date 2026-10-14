@@ -21,4 +21,6 @@
 - Evidence, no matter its weight, is irrelevant to people with a sufficiently biased view
 - In some worldviews (ex. Marxism), the worldview creates history, and the historical account must conform to the worldview
 - Some historical figures once deemed great are now vilified for their social views
+- At some points in recent history (pre-2000) Christian politicians had effective runs in office.
+	- More recently, as the Christian voting populace has moved to further right-wing nationalism, and erased much of the goodwill between religious and non-religious people
 - 
