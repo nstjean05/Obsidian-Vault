@@ -91,4 +91,9 @@
 - Creator's action
 - Each of the origin stories has a different explanation
 ## Lecture Q&A
-### Genesis uses the language and cosmology of the ancient worl
+1. Genesis uses the language and cosmology of the ancient world (ex. firmament or vault). By what principles should Christians distinguish between culturally-conditioned descriptions and timeless theological claims in a biblical text?
+	- As individual Christians, you aren't going to solve the big questions. Rather, look to the conclusions reached by the greater Christian community.
+
+
+2. Many Christians do not read the "firmament" literally today. Why, then, do the six days of creation generate much more controversy? Are we being consistent in the way we interpret Genesis 1?
+	- 
