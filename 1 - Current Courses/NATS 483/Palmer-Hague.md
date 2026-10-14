@@ -45,4 +45,19 @@
 			- Mother - X
 			- Father - X or Y
 		- Indifferent gonads develop into testes or ovaries during the first month of differentiation
-	- Gon
+	- Gonads
+		- SRY gene (sex determining region of the Y)
+		- Encodes protein that directs internal (core) cells of the indifferent gonad to proliferate
+		- Result = testis
+		- No Y-Chromosome = No SRY gene
+		- By default, external cells of the gonad differentiate
+		- Result = ovaries
+	- Masculinization - Wolffian system - Testosterone ((de)masculinization)
+	- Defeminization - Mullerian system - AMH ((de) feminization)
+	- Other hormones (ex. DHT) catalyze the formation of physical sex differences
+- Differences of Sexual Development
+	- Turner's syndrome (X0)
+	- Androgen intensivity (AIS)
+		- Often these women identify as such
+		- Genetically male
+	- 
