@@ -115,4 +115,10 @@
 	- Often we have biases in how to interpret evidence.
 	- In community, with good trusted advisors, and in conversation with Christians in the sciences and other fields.
 
-7. If Genesis is primarily 
+7. If Genesis is primarily intended to teach who created the world and why, rather than the scientific mechanism of Creation, what important truths does Genesis communicate that science cannot address?
+
+8. Modern astronomy reveals a universe of immense size and age. How should Christians think about humanity's significance, the possibility of extraterrestrial life, and God's purposes in creating such a vast cosmos?
+	- Basically: we know nothing about extraterrestrials.
+		- Until 40 years ago, we didn't even know how many universes there were.
+	- Psalm 8:3 When I consider the heavens, the work of your fingers, the moon and the stars, which you have set in place
+		- Perhaps it is even more amazing that God pays such attention to us in such an increasingly vast universe.
