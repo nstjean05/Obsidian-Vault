@@ -7,4 +7,5 @@
 - Romans 1:20
 	- We have an ongoing relationship with God's Creation
 - Our broken relationship with creation
-- 
+- We are currently in the UN Decade of Ecosystem restoration
+- We mustn't lose sight with the motivations that make us live out of harmony with creation.
