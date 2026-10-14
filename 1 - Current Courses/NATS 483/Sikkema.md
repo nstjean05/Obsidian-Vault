@@ -100,4 +100,9 @@
 	- Its easier to ignore things like the firmament that are less convenient.
 	- Ask whether plants or humans came first, and the creation accounts will differ
 
-3. 
+3. When science and traditional interpretation of Scripture appear to conflict, how can we decide whether the scientific understanding should be reconsidered, or the biblical understanding, or both?
+	- It is more likely that a scientific understanding which has reached a consensus it true rather than a Biblical understanding which has reached one. Religious consensus are much more informed by their tradition and view as compared to science.
+	- At different points in history, we have had different understandings of biblical authority. Copernicus got in trouble because at the time people gave scientific authority to the Bible. But 400 or 1000 years earlier, Copernicus would've been fine.
+
+4. The claim that "God is the author of both Scripture and creation" is often used to reconcile faith and science. In practical terms, how does this principle help us resolve disagreements about origins and cosmology?
+	- 
