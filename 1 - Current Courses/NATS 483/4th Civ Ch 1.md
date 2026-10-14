@@ -33,4 +33,4 @@
 - Simplest type of society, very unorganized
 - Information is passed down by word of mouth, and people are organized in bands of up to a few hundred.
 - Rare use of early tools like the wheel, domestication, metalworking
-- H-Gs must expend most of their working energy on feeding and defending themselvesxx
+- H-Gs must expend most of their working energy on feeding and defending themselves
