@@ -16,4 +16,8 @@
 - Redemption continues to sweep through creation, one soul at a time, one creature at a time
 - Medicine Wheel for the Planet - Dr. Jennifer Grenz
 - Matthew 15:37-40
-	- 
+	- The least of these
+	- Animals and birds are our brothers and sisters - we are in some kind of relationship with them
+- The Takahē were determined as extinct until 1984
+	- Geoffrey Orbell and 3 others journeyed up the mountain and rediscovered them
+- 
