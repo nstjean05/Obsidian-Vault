@@ -105,4 +105,14 @@
 	- At different points in history, we have had different understandings of biblical authority. Copernicus got in trouble because at the time people gave scientific authority to the Bible. But 400 or 1000 years earlier, Copernicus would've been fine.
 
 4. The claim that "God is the author of both Scripture and creation" is often used to reconcile faith and science. In practical terms, how does this principle help us resolve disagreements about origins and cosmology?
-	- 
+	- We should expect there to be agreement in the conclusions we reach, and if we don't, then we should reassess.
+
+5. What questions about the universe can science investigate, and which questions seem to lie beyond scientific methods? Where should we draw the boundary between scientific explanation, philosophy, and theology.
+	- Science studies things about the universe, but not really how it came to be.
+		- Sometimes this mixes, such as currently not understanding the origin of life, but being able to see a future in which we will.
+
+6. Scientists and Christians alike bring assumptions, commitments, and biases to their interpretation of evidence. What habits or practices can help us evaluate evidence fairly when the conclusions matter personally or spiritually?
+	- Often we have biases in how to interpret evidence.
+	- In community, with good trusted advisors, and in conversation with Christians in the sciences and other fields.
+
+7. If Genesis is primarily 
