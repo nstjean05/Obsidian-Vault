@@ -13,5 +13,36 @@
 	1. Sex and gender are exclusively biological
 	2. Sex is biological and gender is closely linked to sex; but gender can go beyond biology
 	- Each of these may be viewed as *gender essentialism*
-		- Fixed traits, sex/gender are male/female
-3. 
+		- Fixed traits, sex/gender are male/female, generative thus functionally opposing, crucial for human flourishing, sacramental
+	3. Gender is something completely different from sex
+		- Gender is subjective self-perception and supersedes biological reality
+		- God didn't define gender, and all reflect God's nature because He is neither male nor female.
+- Important terminology
+	- Sex
+		- Biological
+		- Male/Female, XX/XY
+		- Gamete size (sperm/egg)
+	- Sex Characteristics
+		- Observable traits associated with being male or female
+		- Resultant from biological factors
+		- Includes primary and secondary characteristics
+	- Gender
+		- Psychological, behavioural, social, cultural characteristics associated with being male and female. (APA, 2019)
+	- Gender Identity
+		- Psychological sense of self in relation to sex.
+		- "Deeply felt, inherent sense of being a boy, a man, or male; a girl, a woman, or female..." (APA, 2019)
+	- Gender Dysphoria
+		- Discomfort or distress related to perceived incongruence between one's gender identity and sex.
+	- Intersex
+		- Umbrella term to describe variation in make and female sex characteristics. Intersex people can have different, or a mixture of, sex characteristics (e.g. sex chromosomes, reproductive organs, etc.) (adapted from intersexcanada.org)
+- Sexual Differentiation
+	- Hormones - Chemicals, secreted by endocrine glands, that regulate target organs or tissues via the bloodstream
+	- Organization effects - Permanent alterations of the nervous system and subsequent behaviour
+	- Activation effects - Transient change in the behaviour of an adult animal due to influence of hormones
+	- Sex Determination
+		- Process by which a fetus will develop as male or female
+		- Starts at the chromosome level
+			- Mother - X
+			- Father - X or Y
+		- Indifferent gonads develop into testes or ovaries during the first month of differentiation
+	- Gon
