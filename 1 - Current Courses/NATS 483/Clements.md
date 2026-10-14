@@ -9,3 +9,11 @@
 - Our broken relationship with creation
 - We are currently in the UN Decade of Ecosystem restoration
 - We mustn't lose sight with the motivations that make us live out of harmony with creation.
+- Spent sabbatical in the Rio Grande
+	- It is very dry now
+	- Invasive species (Tamarix) making fires burn much more
+- Colossians 1:1-15
+- Redemption continues to sweep through creation, one soul at a time, one creature at a time
+- Medicine Wheel for the Planet - Dr. Jennifer Grenz
+- Matthew 15:37-40
+	- 
