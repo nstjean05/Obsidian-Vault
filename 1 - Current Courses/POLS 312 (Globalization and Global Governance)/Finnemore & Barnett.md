@@ -176,9 +176,7 @@
     1. vague mission
     2. weak feedback from environment
     3. strong professionalism
-
 #### Five mechanisms
-
 1. **Irrationality of rationalization**
     - Rules and procedures become ends in themselves, missions get tailored to the rulebook
     - ex. World Bank formulated goals from existing data-collection procedures
