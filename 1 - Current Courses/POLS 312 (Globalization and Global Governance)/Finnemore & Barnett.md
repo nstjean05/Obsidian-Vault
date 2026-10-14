@@ -25,7 +25,6 @@
     - Classical liberalism = IOs are a peaceful alternative to war
     - Neoliberal axiom: if an IO exists it must be Pareto improving, since states would pull the plug otherwise
     - Authors find this unsatisfying, IOs repeatedly produce bad outcomes without being dismantled
-
 - Explanation is **constitutive** (how is bureaucracy put together socially), not law-like “if X then Y”
     - Analogy: DNA structure makes causal claims about genetics possible
     - Makes behaviours _possible or probable_, not determined
@@ -33,15 +32,11 @@
     1. assumptions of org theory
     2. power of IOs (constructivist approach, UN examples)
     3. dysfunction, typology, and **pathologies**
-
 ### Theoretical Approaches to Organizations
-
 - Two strands
     1. **Economistic**: instrumental rationality, efficiency
     2. **Sociological**: legitimacy and power
-
-#### Economistic approach
-
+#### Economist approach
 - Origin: Coase and Williamson, why do firms exist if markets should be more efficient?
     - Orgs = efficient solutions to contracting problems, incomplete info, market imperfections
 - Neoliberals and neorealists (following Waltz) see world politics like a market of utility maximizers
