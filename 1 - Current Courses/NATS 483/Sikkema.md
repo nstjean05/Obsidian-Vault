@@ -96,4 +96,8 @@
 
 
 2. Many Christians do not read the "firmament" literally today. Why, then, do the six days of creation generate much more controversy? Are we being consistent in the way we interpret Genesis 1?
-	- 
+	- Some things are problematic, like light from the sun, when you are viewing it as a sequential process.
+	- Its easier to ignore things like the firmament that are less convenient.
+	- Ask whether plants or humans came first, and the creation accounts will differ
+
+3. 
