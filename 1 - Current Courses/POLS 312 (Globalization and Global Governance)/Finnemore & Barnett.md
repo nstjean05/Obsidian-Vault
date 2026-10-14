@@ -214,12 +214,9 @@
         - Tharoor: “extremely difficult to make war and peace with the same people on the same territory at the same time”
     - ex. UNHCR Protection Division (legalistic, “refugee’s lawyer”) vs regional bureaus (consider state pressures, peace deals)
         - clash when repatriation is contemplated in unstable areas
-
 - Mechanisms interact, and external environment still shapes internal culture
     - state demands can override internal culture or create pathology-prone structures
-
 ### Conclusion
-
 - We know little about IOs’ internal workings and effects, largely because of the _economistic lens_
     - Economists ask why firms exist, political scientists ask why IOs exist (cooperation as the anomaly)
     - So research focuses on bargains states strike, not day-to-day operations
@@ -233,9 +230,7 @@
         - Realists = stabilizing forces
         - Constructivists too often focus on humane, other-regarding features, but social construction doesn’t necessitate “good” outcomes
 - Not saying IOs are “bad,” normative evaluation should be _empirical and ethical_, not an analytic assumption
-
 **Do IOs have independent power from their member states?**
-
 - Yes
     - rational-legal authority plus control of expertise
     - classify, fix meanings, diffuse norms
