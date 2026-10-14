@@ -7,7 +7,6 @@
     - Apps on end systems = rapid development and propagation
 - Ex. apps: social networking, Web, text messaging, e-mail, multi-user games, streaming stored video, P2P file sharing, VoIP, video conferencing, search, remote login
 #### 2.1.2 Application architectures
-
 1. **Client-server**
     - **Server**: always-on host, permanent IP, often in data centres for scaling
     - **Clients**: contact the server, may be intermittently connected, may have dynamic IPs
@@ -23,9 +22,7 @@
         - Ex. if only one host has the info and it leaves, info is lost
     - Ex. BitTorrent, KanKan, Skype
 3. **Hybrid** systems have both client-server and P2P aspects
-
 #### 2.1.3 Processes communicating
-
 - **Process** is a program running within a host
     - Same host: processes use **inter-process communication** (defined by OS)
     - Different hosts: processes exchange **messages**
