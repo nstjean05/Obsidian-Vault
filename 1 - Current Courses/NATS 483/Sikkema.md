@@ -90,3 +90,5 @@
 - Scientific investigation
 - Creator's action
 - Each of the origin stories has a different explanation
+## Lecture Q&A
+### Genesis uses the language and cosmology of the ancient worl
