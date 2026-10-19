@@ -12,14 +12,13 @@
 
 I would collude with the other company to each robotize our factories, but hold prices artificially high. During this time, workers will continue to be paid as usual, but rather than going to work will pursue further education. After a period of five years, these workers will be laid off, and snowmobile prices will be lowered.
 
-For a more pragmatic (and legal) approach, we can use utilitarianism to come to a logical conclusion. If our two options are either keeping twenty-five jobs or zero jobs, then keeping the twenty-five workers and robotizing is the better approach. Perhaps even more workers can be maintained by transitioning them 
-
-
-
+For a more pragmatic (and legal) approach, we can use utilitarianism to come to a logical conclusion. If our two options are either keeping twenty-five jobs or zero jobs, then keeping the twenty-five workers and robotizing is the better approach. Perhaps even more workers can be maintained by transitioning them into sales roles and adjusting branding so customers may accept a higher price (for a more 'quality' product).
 
 18 - Research the extent to which transportation is now automated. Consider railways and airlines and describe their attempts to automate traffic. Now, propose a way to automate all automobile and truck traffic, or argue convincingly that this task is impractical.
 
+Both rail and flight are significantly automated, and only growing more so. There are several domains for this automation. First, the actual vehicle control. Both trains and flights are automated for almost all of the transportation process, with interventions in each for stopping/starting or takeoff/landing or other edge cases. Another domain is in the traffic automation. Currently, large audio models are being trained to take the load off of air traffic controllers, who have had a number of recent notable strikes. This is also happening for train routing.
 
+One way for automobile and truck traffic to be organized would be for each vehicle to have a transponder/receiver which can connect to a larger system. This system would give 
 
 21 - Argue for or against (economic, political, and ethical grounds) Stein’s specific assumption that teaching children from the home via the Metalibrary is such a good idea that it will become standard practice. The COVID experience with education may provide some guidance to your discussion.
 
