@@ -47,3 +47,7 @@
 	- Punched paper tape, 5 or 7 hole codes (ASCII) to dial much faster
 - Television and movies
 - Internet
+### Information Availability-Change
+- Professional practice and preparation
+	- Expertise moves from what to how
+	- Law/medicine/engineering/accounting/education/etc.
