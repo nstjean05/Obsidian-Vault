@@ -293,4 +293,7 @@ It is a classic security dilemma wrapped in an economic dependency.
 	- Interests can generally be framed in one or two positive-neutral words
 	- Underlying need/concern/value/fear/motivation
 - Look below positions towards their underlying interests
-- *Why* questions often invite 
+- *Why* questions often invite justifications
+	- Why? vs. How come?
+	- Defensiveness
+- 
