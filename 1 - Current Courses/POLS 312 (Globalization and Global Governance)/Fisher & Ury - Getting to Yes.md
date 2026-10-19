@@ -9,9 +9,7 @@
     - Used to be adversarial (_who wins, who loses?_), now **win-win** is recognized
     - Even w/o win-win, a _wise agreement_ can beat the alternative
     - Used to be few courses, now core competence (law, business, govt schools, even primary/high schools)
-
 #### The Work Ahead
-
 - Still a huge need for negotiation based on **mutual gains** and **legitimate standards**
 - Negotiation revolution brought _more_ conflict, not less
     - Hierarchies bottle up conflict, networks let it out
@@ -22,20 +20,7 @@
 - Challenge is to **transform** conflict, from destructive adversarial battling to hard-headed, **side-by-side problem-solving**
 - “First human family reunion”: communications revolution put all ~15,000 language communities in touch, with dissension and resentment of inequities
 - Need to “change the basic game of conflict”
-
-#### This Edition
-
-- Updated examples (younger readers confused by 30-yr-old references)
-- Didn’t summarize their later books (_Getting Past No_, _Difficult Conversations_, _Beyond Reason_, _The Power of a Positive No_), since the book’s virtue is being short and clear
-- Kept “**separate** the people from the problem” over “disentangle”
-    - Not meant as “ignore emotions” or “be rational”
-    - Deal with people issues from start to finish (“Negotiators are people first”)
-    - **Soft on the people, hard on the problem**
-- Added material on **means of communication** (email, texting, virtual orgs)
-- Closing quote (Wallace Stevens): “After the final no there comes a yes and on that yes the future world depends”
-
 #### Ten Questions (listed in the front matter)
-
 1. _Fairness and principled negotiation_
     1. Does positional bargaining ever make sense?
     2. What if the other side believes in a different standard of fairness?
@@ -50,9 +35,7 @@
     9. How do I try out these ideas without taking too much risk?
 4. _Power_  
     10. Can the way I negotiate make a difference if the other side is more powerful? How do I enhance my negotiating power?
-
 ### Introduction
-
 - Opening line: “Like it or not, you are a negotiator”
 - Negotiation is a fact of life, everyone negotiates daily
     - Ex. raise with boss, house price, lawsuit settlement, oil co. joint venture, transit strike, US/Russia arms control
@@ -78,9 +61,7 @@
 - Works for diplomats, bankers, couples, hostage negotiators
     - One issue or many, two parties or many, ritual (collective bargaining) or free-for-all (hijackers)
     - If the other side learns it, it gets _easier_ for you. If they read the book, all the better
-
 ### 1. Don’t Bargain Over Positions
-
 - **Positional bargaining** is each side taking a position, arguing for it, and making concessions to reach a compromise
     - Ex. the brass dish haggling (customer/shopkeeper)
 - Three criteria for judging any method
@@ -90,9 +71,7 @@
 - **Wise agreement** is one that meets each side’s legitimate interests to the extent possible, resolves conflicting interests fairly, is durable, and takes community interests into account
 - Positions do serve some purposes (tell the other side what you want, give an anchor, can eventually produce terms) but those can be served other ways
 - Positional bargaining fails all three criteria
-
 #### 1.1 Arguing Over Positions Produces Unwise Outcomes
-
 - Negotiators lock into positions
     - The more you defend it, the more committed you get
     - Ego becomes identified with position, new interest in **saving face**
@@ -109,9 +88,7 @@
     - Solution: farmers harvest, don’t impede prep work, oil co. may hire them later, can keep planting between derricks
 - More attention on positions = less on **underlying concerns**
     - Agreement less likely, or just a mechanical split-the-difference
-
 #### 1.2 Arguing Over Positions Is Inefficient
-
 - Takes a lot of time (breakdown or agreement either way)
 - Incentives stall settlement
     - Start extreme, hold stubbornly, deceive about true views, small concessions only as needed
@@ -119,15 +96,11 @@
 - Lots of individual decisions (offer, reject, how much to concede)
     - Each decision = yielding + pressure to yield more, so little incentive to move fast
     - Tactics: dragging feet, threatening to walk out, stonewalling
-
 #### 1.3 Arguing Over Positions Endangers an Ongoing Relationship
-
 - Becomes a **contest of will**
     - Ex. “If you want to go to the movies with me, it’s _Avatar_ or nothing”
 - Anger and resentment, relationships strained or shattered (business partners, neighbours, lifelong bitterness)
-
 #### 1.4 When There Are Many Parties, Positional Bargaining Is Even Worse
-
 - Almost every negotiation involves more than two (constituents, higher-ups, boards)
 - Ex. 150 countries at a UN conference, positional bargaining _next to impossible_
     - Takes all to say yes, only one to say no
@@ -136,18 +109,14 @@
     - Harder to develop a common position, then harder to change it
 - Same for absent higher authorities who must approve
 - _Ties to Zartman ch. 6 on coalitions in multilateral diplomacy_
-
 #### 1.5 Being Nice Is No Answer
-
 - **Soft positional bargaining**: friends, concede, trust, yield to avoid confrontation
     - Efficient, agreement likely, but may not be wise
     - Ex. O. Henry’s story (wife sells hair for watch chain, husband sells watch for hair combs)
     - Risk: sloppy agreement, relationship-focused
 - **In positional bargaining, a hard game dominates a soft one**
     - Soft response to hard bargaining = “you will probably lose your shirt”
-
 **Soft vs. hard positional bargaining (table)**
-
 - **Soft**
     1. Participants are friends
     2. Goal is agreement
@@ -176,9 +145,7 @@
     11. Insist on your position
     12. Try to win a contest of will
     13. Apply pressure
-
 #### 1.6 There Is an Alternative: Change the Game
-
 - Negotiation happens at **two levels**
     - Substance (salary, lease, price)
     - Procedure for dealing with substance (soft, hard, or other)
