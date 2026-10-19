@@ -233,3 +233,62 @@
 - Concepts are a _springboard for creativity_, not rigid restraints
 - Normal diplomacy and diplomacy as usual both have constraints that hinder track-one and block track-two intersection
 - Bottom line: managed conflicts, prevented conflicts, and negotiation make violent conflict the _exception_
+
+
+### 1. Interests in the scenario
+
+**Country A**
+
+- **Economic:** keeping cheap access to Country B’s rare earth minerals, keeping Country B as a market for its oil and gas, protecting its resource exports and manufacturing base
+- **Military:** keeping access to Country B’s strategic ports, keeping freedom of action (“unhampered options”), not being encircled by a rival alliance
+- **Social/political:** status as a major power, being included in global decision-making, regime stability and elite wealth
+
+**Country B**
+
+- **Economic:** ag exports reaching new allies on time, diversifying energy imports, getting fair value for its rare earths, growing its tech sector in 10 to 15 years
+- **Military:** sovereignty and territorial security, security guarantees, keeping its alliance partnerships and base arrangements
+- **Social/political:** consolidating its young democracy, being treated as an equal despite its size, expanding ties with other democracies
+
+**a. What threatens those interests?**
+
+- Country A sees Country B drifting toward democratic allies as encirclement, and the lapsed trade deal as a loss of resource access and leverage. Its sense of isolation and irrelevance after the last global crisis makes this worse.
+- Country B sees Country A’s overstay at the ports, the border exercises, and the refusal of security guarantees as threats to its sovereignty and economy. Its dependence on Country A for energy and its exposed location add to that.
+
+### 2. Common ground
+
+- Both depend on trade, resource exports, and the ports (A for access and projection, B for shipping), so a stable and open trade relationship benefits both
+- Both want to avoid a full war. Country A is a nuclear power but faces reputational and economic costs, and Country B would be devastated.
+- Both prioritize national interests first, so deals framed around security and economic gain should land better than appeals to values
+- Both have expressed willingness to cooperate (A with the international community, B with partners), so third-party mediation is acceptable to each
+- Both have a shared interest in clear, enforceable agreements, since trust broke down over unclear or violated terms
+
+### 3. What the conflict is really about
+
+On the surface it is about the border skirmishes, the ports, and the lapsed trade deal. Underneath, I think it comes down to:
+
+- **Security and trust.** Each side reads the other’s moves as aggression (A’s “administrative mistake” and B’s alliance ties and exercises), and neither will move first without guarantees.
+- **Strategic alignment.** Country B is shifting from A’s sphere toward democratic allies, and Country A fears losing influence, buffer territory, and resources.
+- **Status and recognition.** Country A wants to be treated as a major power, and Country B wants to be treated as a sovereign equal and not a buffer state.
+
+It is a classic security dilemma wrapped in an economic dependency.
+
+### 4. Negotiable issues
+
+1. **Trade:** renewing or restructuring the rare earth agreement (pricing, volume, duration), and energy supply terms
+2. **Port access:** clearer rules on duration, notification, and penalties, plus protections for agricultural shipping
+3. **Military posture:** buffer zones at the border, notification or limits on exercises near the border, de-escalation and troop withdrawal
+4. **Security guarantees:** what A would commit to regarding B’s sovereignty, and whether B’s allied bases and exercises could be limited or made more transparent
+5. **Verification and dispute resolution:** monitors, third-party mediation, and hotlines
+6. **Sequencing:** who de-escalates first, and what gets linked to what (for example, trade restoration in exchange for border withdrawal)
+7. **Responsibility for the skirmishes:** a joint inquiry or face-saving language to handle casualties without assigning blame
+## Lecture
+- The Iceberg - how to help people be transparent about showing their cards
+- **Position**
+	- Strongly held opinion or solution to a problem
+	- Their mechanism to meet their underlying needs
+	- Intransigent
+- **Interest**
+	- Underlying need or value that must be meaningfully addressed
+	- Interests can generally be framed in one or two positive-neutral words
+- Look below positions towards their underlying interests
+- 

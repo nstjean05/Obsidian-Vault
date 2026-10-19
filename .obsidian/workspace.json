@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "19d5ce9c5d4ac24f",
+        "id": "7ee5412e7c428cc8",
         "type": "tabs",
         "children": [
           {
-            "id": "a06cd5c43d5d5585",
+            "id": "fdf5a1c3ef1fbcda",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -171,10 +171,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a06cd5c43d5d5585",
+  "active": "fdf5a1c3ef1fbcda",
   "lastOpenFiles": [
-    "1 - Current Courses/POLS 312 (Globalization and Global Governance)/Fisher & Ury - Getting to Yes.md",
+    "Untitled.base",
+    "1 - Current Courses/POLS 312 (Globalization and Global Governance)/Untitled.md",
+    "README.md",
     "1 - Current Courses/POLS 312 (Globalization and Global Governance)/Zartman - Diplomacy as Negotiation and Mediation.md",
+    "1 - Current Courses/POLS 312 (Globalization and Global Governance)/Fisher & Ury - Getting to Yes.md",
     "1 - Current Courses/NATS 483/4th Civ Ch 2.md",
     "1 - Current Courses/NATS 483/4th Civ Ch 1.md",
     "1 - Current Courses/NATS 483/483-0.md",
@@ -190,7 +193,6 @@
     "1 - Current Courses/CMPT 325 (Computer Networking)/Chapter 1 - Computer Network and the Internet.md",
     "1 - Current Courses/POLS 312 (Globalization and Global Governance)/Fattor - After the Fall of Cesar.md",
     "1 - Current Courses/POLS 312 (Globalization and Global Governance)/Chatham House.md",
-    "Untitled.base",
     "y.md",
     "1 - Current Courses/NATS 483/Venema.md",
     "1 - Current Courses/NATS 483/Pimentel.md",
@@ -200,9 +202,6 @@
     "z. Images/Pasted image 20260929181339.png",
     "z. Images/Pasted image 20260930211037.png",
     "image.png",
-    "1 - Current Courses/CMPT 339 (Database Management)/Chapter 3 - Database Architectures and the Web.md",
-    "1 - Current Courses/POLS 312 (Globalization and Global Governance)/Snidal & Abbot - Hard and Soft Law in International Governance.md",
-    "1 - Current Courses/POLS 312 (Globalization and Global Governance)/UN Dialogue on AI Governance.md",
     "z. Images/Pasted image 20260930211051.png",
     "z. Images/Pasted image 20260917152503.png",
     "1 - Current Courses/NATS 483",
