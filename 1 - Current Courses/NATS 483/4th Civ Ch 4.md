@@ -36,4 +36,14 @@
 - Agricultural - start to need more organization, control of land
 - Industrial - banking to store wealth at scale
 - Information Age
-### Trans
+### Transmission
+- Courier
+- Signal towers
+	- Started to disrupt stock markets
+- Telegraph, fax
+- Telephone (POTS, operators, automations)
+	- Wire, radio, satellite, cell network, fibre
+- Teletype
+	- Punched paper tape, 5 or 7 hole codes (ASCII) to dial much faster
+- Television and movies
+- Internet
