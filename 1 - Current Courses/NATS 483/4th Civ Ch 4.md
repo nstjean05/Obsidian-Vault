@@ -3,7 +3,7 @@
 
 *1 - Describe the terms hypertext and Metalibrary and distinguish between them and “the (full) Metalibrary” as described in this chapter.*
 
-Hypertext 
+Hypertext is a specific technical framework/context that describes how informational content can be connected. With sufficient points in the network, a web will be formed that can track how all information is generated and from where. A metalibrary is the larger gathering of all civilizational information, and may use hypertexts to organize said information. The "full metalibrary" continues to expand the scope, encompassing the different ways in which people will access that information. This may be on mobile devices, implants, or non-portable terminals. 
 
 *7 - What effect would the Metalibrary have on a hobby like stamp collecting? Be careful! There is more to this question than may meet the eye.*
 
