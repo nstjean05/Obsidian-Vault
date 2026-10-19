@@ -3,15 +3,15 @@
 
 *1 - Describe the terms hypertext and Metalibrary and distinguish between them and “the (full) Metalibrary” as described in this chapter.*
 
-Hypertext is a specific technical framework/context that describes how informational content can be connected. With sufficient points in the network, a web will be formed that can track how all information is generated and from where. A metalibrary is the larger gathering of all civilizational information, and may use hypertexts to organize said information. The "full metalibrary" continues to expand the scope, encompassing the different ways in which people will access that information. This may be on mobile devices, implants, or non-portable terminals. 
+Hypertext is a specific technical framework/context that describes how informational content can be connected. With sufficient points in the network, a web will be formed that can track how all information is generated and from where. A Metalibrary is the larger gathering of all civilizational information, and may use hypertexts to organize said information. The "full Metalibrary" continues to expand the scope, encompassing the different ways in which people will access that information. This may be on mobile devices, implants, or non-portable terminals. 
 
 *7 - What effect would the Metalibrary have on a hobby like stamp collecting? Be careful! There is more to this question than may meet the eye.*
 
-
+From one perspective, a Metalibrary would completely nullify the point of collecting things like stamps. With all information stored digitally, anyone could instantly find any stamp they want. However, it could also make the hobby of physical collecting much more attractive. In recent years a renaissance of physical media like CDs, DVDs, and vinyl records has occurred in spite of an increasingly digital landscape. Similarly, physical stamps could increase in value as collectors seek to get their hands on an increasingly limited quantity of stamps.
 
 *17 - The body of the text argues that it is effectively impossible for government to control encryption technology. Refute this.*
 
-
+There are several levers a government could pull to take control of encryption technologies. First, they could place legal constraints on businesses at the forefront of encryption. In this way, governments can dictate what types of encryption are legal or mandated. Another method of control would be to make encryption technology completely illegal, and make some kind of API for all enr
 
 *28 - Argue that in the present state of its political fractiousness, the United States cannot survive as a single country, OR argue that there is a way for it to do so. Alternately, argue likewise for some other country that has one or more large minority group(s) that seem likely to either split the nation or be repressed. (Canada, Spain, India, or . . . )*
 
