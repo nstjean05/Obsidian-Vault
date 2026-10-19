@@ -18,13 +18,11 @@ For a more pragmatic (and legal) approach, we can use utilitarianism to come to 
 
 Both rail and flight are significantly automated, and only growing more so. There are several domains for this automation. First, the actual vehicle control. Both trains and flights are automated for almost all of the transportation process, with interventions in each for stopping/starting or takeoff/landing or other edge cases. Another domain is in the traffic automation. Currently, large audio models are being trained to take the load off of air traffic controllers, who have had a number of recent notable strikes. This is also happening for train routing.
 
-One way for automobile and truck traffic to be organized would be for each vehicle to have a transponder/receiver which can connect to a larger system. This system would give 
+One way for automobile and truck traffic to be organized would be for each vehicle to have a transponder/receiver which can connect to a larger system. This system would give vehicles general route directions. However, all the immediate pathfinding would be done by the vehicle itself, via LiDAR, computer vision, and other modern techniques. I think this could certainly be done practically - we already have part of this equation in apps like Google Maps or Apple Maps, which track vehicle locations and adjust routes automatically.
 
 21 - Argue for or against (economic, political, and ethical grounds) Stein’s specific assumption that teaching children from the home via the Metalibrary is such a good idea that it will become standard practice. The COVID experience with education may provide some guidance to your discussion.
 
+23 - A self-driving automobile mistakes a red light for a green light because of dense fog, runs the light, crashes into a car that did have the right-of-way, and several people are killed. Who is liable and to what extent? (1) the car’s manufacturer, (2) the person who programmed the software, (3) the maker of the traffic light for not having its colours distinguishable in foggy conditions, (4) the vehicle’s owner, (5) the vehicle’s “operator” who was asleep at the time, (6) some level of government for insufficient regulation of or control over, cars, software, intersections, or traffic lights?
 
-
-23 - A self-driving automobile mistakes a red light for a green light because of dense fog, runs the light, crashes into a car that did have the right-of-way, and several people are killed. Who is liable and to what extent? (1) the car’s manufacturer, (2) the person who programmed the software, (3) the maker of the traffic light for not having its colors distinguishable in foggy conditions, (4) the vehicle’s owner, (5) the vehicle’s “operator” who was asleep at the time, (6) some level of government for insufficient regulation of or control over, cars, software, intersections, or traffic lights?
-
-
-
+This is one of the most important discussions in the current day. Frequently discussed with regard to semi-automated drone technology, it is highly important that the buck stops somewhere, and someone takes responsibility. Currently, two groups take accountability. In many semi-automated vehicles (like a Tesla with Driver Assist), the driver is told they must watch the road and maintain control of the vehicle. In fully-automated vehicles like a WayMo, the company WayMo is responsible for its' vehicles errors.
+Generally, it is important to consider these things on a case-by-case basis. At some point in the future, self-driving may be highly reliable, and be far safer than any
