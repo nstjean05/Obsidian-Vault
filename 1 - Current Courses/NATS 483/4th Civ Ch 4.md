@@ -1,8 +1,23 @@
 # Questions
 **Chapter 4 #4.1, 4.7, 4.17, 4.28 or 4.29**
 
+*1 - Describe the terms hypertext and Metalibrary and distinguish between them and “the (full) Metalibrary” as described in this chapter.*
+
+Hypertext 
+
+*7 - What effect would the Metalibrary have on a hobby like stamp collecting? Be careful! There is more to this question than may meet the eye.*
 
 
+
+*17 - The body of the text argues that it is effectively impossible for government to control encryption technology. Refute this.*
+
+
+
+*28 - Argue that in the present state of its political fractiousness, the United States cannot survive as a single country, OR argue that there is a way for it to do so. Alternately, argue likewise for some other country that has one or more large minority group(s) that seem likely to either split the nation or be repressed. (Canada, Spain, India, or . . . )*
+
+
+
+*29 - Consider the value of freedom of speech. Either argue that there should never be any restrictions on what people say, OR argue that some forms of speech need to be restricted for the collective benefit of society or at least to protect its minorities.*
 
 
 
@@ -159,4 +174,34 @@
 - The role of govt, corps, media
 - What about errors?
 	- What is correct?
-	- Who can correct er
+	- Who can correct errors?
+- Is information a tangible commodity?
+- Who owns and profits from general information?
+	- Patent, copyright, trade secret
+	- Or is it not ownable?
+- Who owns personal information?
+	- Government, corporation, individuals?
+	- Your DNA, antibodies
+		- Ex. If your body is used to find a cure to some disease, do you get a kickback?
+		- Treatments derived therefrom?
+### Privacy
+- Is privacy a right?
+- Is privacy possible in the information age?
+- Can anyone hide their past or associations?
+- What about encryption?
+- Mail security an oxymoron?
+- Big brother vs. Little Sister - who is winning?
+	- Does the government win, having greater control over its populace?
+	- Do the individuals win, having greater knowledge and the ability to hold power accountable?
+### Analytics and Decisions
+- How and by whom are decisions made?
+- What individuals may participate?
+- Upon what data are decisions based?
+- Who collected the (reliable?) data?
+- Who filtered the data for relevance and how?
+### Availability and Society?
+- Will it make us into a peaceful global village?
+	- Can dictatorships survive?
+	- Can democracies?
+- Will it exacerbate old prejudices or mute them?
+- Does bad information drive out truth or decency?
