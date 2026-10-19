@@ -6,7 +6,7 @@
 
 1 - Desk jobs tend to be sedentary, having adverse effects on general health, and increasing the probability of heart disease, hypertension, and obesity. Discuss probable effects on the general health of a large increase in the percentage of the population employed at desk jobs. What about if a large percentage of the population is unemployed?
 
-
+Each of these has vast negative effects. Sedentary work has been repeatedly shown to increase risks of cancer, diabetes, and general mortality. Personally, I have noticed that during my time working a desk job, my cardio health faded. However, unemployment has even more significant impacts. There is a famous quote from *The Big Short*, a 2015 movie about the Great Financial Crisis, which states that "Every 1% unemployment goes up, 40,000 people die, did you know that?" While this is an out-of-date, innacurate statistic, it serves to illustrate the point. Mortality from unemployed people is 1.6 times higher in Germany than the employed. It has further adverse affects, such as learned helplessness, and elevated rates of alcoholism, heart attacks, and strokes.
 
 6 - You are the owner of a small snowmobile factory in Quebec that employs about 100 people and is your town’s major employer. These people have nearly all worked for you for more than ten years and are completely dependent on these jobs. You have just learned that your major competitor is about to robotize its factory and will be able to sell snowmobiles for half your retail price. You may either follow suit, laying off 75 employees or see your business become bankrupt in a year, costing everyone’s job. What should you do?
 
