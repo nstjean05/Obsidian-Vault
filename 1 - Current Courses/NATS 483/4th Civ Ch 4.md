@@ -11,7 +11,7 @@ From one perspective, a Metalibrary would completely nullify the point of collec
 
 *17 - The body of the text argues that it is effectively impossible for government to control encryption technology. Refute this.*
 
-There are several levers a government could pull to take control of encryption technologies. First, they could place legal constraints on businesses at the forefront of encryption. In this way, governments can dictate what types of encryption are legal or mandated. Another method of control would be to make encryption technology completely illegal, and make some kind of API for all enr
+There are several levers a government could pull to take control of encryption technologies. First, they could place legal constraints on businesses at the forefront of encryption. In this way, governments can dictate what types of encryption are legal or mandated. Another method of control would be to make encryption technology completely illegal, and make some kind of API for all encryption. This may be more possible once quantum computing is required for effective encryption, since the technology will be in few hands, and the state can more easily take control.
 
 *28 - Argue that in the present state of its political fractiousness, the United States cannot survive as a single country, OR argue that there is a way for it to do so. Alternately, argue likewise for some other country that has one or more large minority group(s) that seem likely to either split the nation or be repressed. (Canada, Spain, India, or . . . )*
 
