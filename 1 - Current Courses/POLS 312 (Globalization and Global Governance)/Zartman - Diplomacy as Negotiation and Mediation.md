@@ -287,8 +287,10 @@ It is a classic security dilemma wrapped in an economic dependency.
 	- Strongly held opinion or solution to a problem
 	- Their mechanism to meet their underlying needs
 	- Intransigent
+	- Stated demand/solution/outcome
 - **Interest**
 	- Underlying need or value that must be meaningfully addressed
 	- Interests can generally be framed in one or two positive-neutral words
+	- Underlying need/concern/value/fear/motivation
 - Look below positions towards their underlying interests
 - 
