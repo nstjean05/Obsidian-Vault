@@ -10,7 +10,12 @@
 
 6 - You are the owner of a small snowmobile factory in Quebec that employs about 100 people and is your town’s major employer. These people have nearly all worked for you for more than ten years and are completely dependent on these jobs. You have just learned that your major competitor is about to robotize its factory and will be able to sell snowmobiles for half your retail price. You may either follow suit, laying off 75 employees or see your business become bankrupt in a year, costing everyone’s job. What should you do?
 
-I would collude with the other company to each robotize our factories, bu
+I would collude with the other company to each robotize our factories, but hold prices artificially high. During this time, workers will continue to be paid as usual, but rather than going to work will pursue further education. After a period of five years, these workers will be laid off, and snowmobile prices will be lowered.
+
+For a more pragmatic (and legal) approach, we can use utilitarianism to come to a logical conclusion. If our two options are either keeping twenty-five jobs or zero jobs, then keeping the twenty-five workers and robotizing is the better approach. Perhaps even more workers can be maintained by transitioning them 
+
+
+
 
 18 - Research the extent to which transportation is now automated. Consider railways and airlines and describe their attempts to automate traffic. Now, propose a way to automate all automobile and truck traffic, or argue convincingly that this task is impractical.
 
