@@ -11,15 +11,11 @@
     - Unofficial side needs state auspices to conclude _binding_ agreements
 - Spread of democracy means public opinion and interest groups matter more
 - “Diplomacy” in the loose sense = smooth wording and good manners; chapter uses the state-oriented sense
-
 ### 6.2 Negotiation and Diplomacy
-
 - States are sovereign, self-centred, morally responsible to citizens for security and welfare
 - But sovereignty, self-centredness, and security aren’t the absolutes they were
     - States need cooperation from others, sovereignty not an indivisible shield anymore
-
 #### 6.2.1 Normal Diplomacy
-
 - **Normal diplomacy** is ongoing communication between formally equal parties to maintain relations, do business, and prevent/handle conflicts
 - Defuses the countless conflicts that _never_ turned violent
 - Handles day-to-day trade, tourism, culture, comms
@@ -30,9 +26,7 @@
 - **“Diplomacy as usual”** is the problem with #1
     - Ambassador adopts host’s position on a rebellion, ignores that rebellions signal a problem
     - Ex. US policy in Zaire (Mobutu) in the 1990s
-
 #### 6.2.2 Ripeness and Stalemate
-
 - **Negotiation** is the process of combining divergent positions into a joint decision
 - Happens when parties are blocked from their preferred unilateral solution and see the stalemate as the worst outcome
     - That’s **ripeness**
@@ -45,9 +39,7 @@
     - **Zero sum** is where one party’s gain = the other’s loss
     - **Relative gains** are measured against the other party; **absolute gains** are measured against your own goal
 - _Ties to the Country A/B scenario: the border stand-off is basically the MHS_
-
 #### 6.2.3 Zero-Sum vs. Positive-Sum
-
 - Zero-sum outcomes are unstable, loser looks to improve relative gains next round or elsewhere
 - Diplomacy = managing _ongoing_ relations, not a one-shot deal
     - Richelieu: aim for “solid and durable relations,” not opportunistic arrangements
@@ -67,16 +59,12 @@
 - _Third route in Key Points: concession or division (just splitting it)_
 - Box 6-2: women negotiators in the P5+1 (Mogherini, Schmid, Sherman)
     - Mogherini: many women at the table helped be “concrete and pragmatic”
-
 **Key points (6.2)**
-
 1. Normal diplomacy = daily exercise handling most interstate problems
 2. Ripeness required before states turn to cooperating with the opponent
 3. Positive-sum is preferable, more durable
 4. Three means to agreement: concession/division, compensation/exchange, construction/reframing
-
 ### 6.3 Expanding the Scope of Diplomacy
-
 - Globalization pushes subjects of negotiation _upward_ (intl security) and _downward_ (**human security**)
 - **Human security** is the security of people, populations, lives
     - Rise of humanitarian conditions, human rights, emergencies, intervention
@@ -84,9 +72,7 @@
     - NGOs are direct interveners and advocates; states follow
     - Ex. Libya 2011 (NATO, debatable motives)
     - Some states make mediation a _vocation_, ex. Norway (El Salvador, Israel, Sri Lanka, Indonesia, South Sudan)
-
 #### 6.3.1 Internal Conflict
-
 - End of Cold War questioned state centrality
     - Democracy legitimized opposition, free enterprise encouraged competition, structural adjustment shattered centralized economies
     - Loss of foreign support for single-party regimes
@@ -107,9 +93,7 @@
     - Needs continuing third-party attention: monitoring, reconstruction, peace dividends
     - Problem is donor fatigue and distraction
     - Ex. Haiti, also Palestine, Congo, Kosovo, Senegal, Somalia
-
 #### 6.3.2 New Norms: Self-Determination
-
 - After WWI: **national self-determination** (new states based on major nationalities), limited to Austro-Hungarian and Ottoman empires
 - After WWII: **state self-determination** (new state from a former administrative unit)
     - Locked in by _uti possidetis_ (“possession is nine-tenths of the law”), sanctified badly drawn colonial borders
@@ -117,18 +101,14 @@
     - Ignores ethnic criteria, many groups crammed into majority-dominated states
     - Claims rejected: Albanians in Macedonia, Serbs in Kosovo, Armenians in Azerbaijan, Chiapas, Tamils, Casamance
 - Creative middle path = **autonomy** short of independence (Zanzibar 1964, Mindanao, Aceh 2005)
-
 #### 6.3.3 New Norms: Sovereignty and R2P
-
 - **Responsibility to Protect (R2P)** is sovereignty defined as a state’s responsibility to care for its people, help other states do the same, and intervene if another state fails
     - Meant to replace Westphalian (1648) _sovereignty as protection of the state_
 - Both doctrines are dangerous
     - Old one: state can do what it wants to its people, shielded from interference
     - R2P: stronger states can intervene against weaker states
 - Limits and thresholds not worked out, risks have made R2P less prominent since the 2005 UN Summit
-
 **Should R2P replace sovereignty as protection?**
-
 - **Yes**
     - Shields people from their own state
     - Sovereignty comes with responsibility
@@ -137,18 +117,14 @@
     - Gives strong states an excuse to intervene in weak ones
     - Thresholds unclear (_who decides?_)
     - Libya 2011 shows mixed motives
-
 **Key points (6.3)**
-
 1. Globalization expands subjects of negotiation
 2. Human security expands state security to the inhabitants
 3. Internal conflicts challenge diplomacy (one state interfering in another’s internal matters)
 4. Self-determination shifted from nation to existing state unit, avoids drawing new lines but overlooks divided nationalities
 5. Conflict trap, conflict perpetuates itself by weakening the state
 6. R2P reinterprets sovereignty, legitimizes interference
-
 ### 6.4 Challenging the Processes of Negotiation: Mediation and Multilateral Diplomacy
-
 - Defining characteristics of negotiation (Iklé 1964)
     1. Unanimity as the decision rule
     2. Formal equality of parties
@@ -161,9 +137,7 @@
     - US: Sudan, Somalia, Philippines, Sahel (terrorism), Congo, Korea, Burma (stability)
     - Other UNSC members have wider concepts of interests too
     - UN-justified humanitarian interventions: Iraqi Kurdistan 1991, Somalia 1992, Libya 2011, South Sudan 2011
-
 #### 6.4.1 Mediation
-
 - States mediate in their _own interest_ (Zartman and Touval 2007)
     - Usually to end a disturbing conflict or improve relations with a party
 - Parties can’t perceive a ripe moment alone, so need a third party
@@ -189,9 +163,7 @@
         - Ex. US aid promise to Egypt and Israel 1975 (second Sinai disengagement)
         - Raises cost of stalemate or gain of agreement
         - Most involvement, _most dangerous_ for the mediator
-
 **Does a mediator have to be neutral?**
-
 - **Yes**
     - Trust in the process
     - Matters in labour relations and domestic counselling
@@ -199,9 +171,7 @@
     - Intl mediators have own interests
     - Only need to be trustworthy
     - Ties to a party can help deliver their assent
-
 #### 6.4.2 Multilateral Diplomacy
-
 - Expanded hugely since WWII and the creation of the UN
 - States negotiate **regimes** to resolve common problems and reduce transaction costs
 - **Regimes** are rules, regulations, norms, principles governing expectations in specific issue areas
@@ -222,18 +192,14 @@
     - Security becomes a collective responsibility states negotiate
 - Ex. Hill (2005) on Six-Party Talks: convince North Korea security is better assured by joining the intl community than by unilateral measures (nukes)
 - _Matches the narrow vs. enlightened interests language in the scenario handout_
-
 **Key points (6.4)**
-
 1. Negotiation processes challenged by demands for mediation and multilateral diplomacy
 2. Mediation = peaceful third-party involvement, necessary esp. in internal conflicts
 3. States mediate for direct national _and_ enlightened/humanitarian interests
 4. Mediator types: communicators, formulators, manipulators
 5. Multilateral negotiation = many states, coalitions
 6. Regimes = rules/norms made by recursive multilateral negotiation for problems no single state can handle
-
 ### 6.5 Facing the Future of Diplomatic Negotiation: Prevention
-
 - Normal diplomacy resolves _and_ prevents conflicts, testified by the conflicts that never happened
 - Preventive cases: Macedonia (1992, 2001, models), Russia in Nagorno-Karabakh 1994 (still holds), post-USSR cases (Baltics, Ukraine, Tatarstan, Tajikistan)
 - **Prevention** is keeping conflict from escalating into violence, not eliminating conflict itself
@@ -254,14 +220,10 @@
         - Targets resent it, governments demonize their enemies
         - Even more controversial for conflicts merely on the horizon
         - Big gap between structural prevention (dev aid vs. poverty) and operational prevention (relief to oppressed minorities)
-
 **Key points (6.5)**
-
 1. Prevention is the _hardest_ challenge since pressure of ripeness is weakest and efforts are most intrusive
 2. Still, normal diplomacy and intense ad hoc efforts have kept violence exceptional
-
 ### 6.6 Conclusion
-
 - 20th c.: great power concerns extended beyond their neighbourhood
 - Now: complex global system, no clear structure to preserve world order
 - Responsibility is spread around, small states play big roles, internal conflict outpaces interstate, immature norms (R2P) can’t yet replace old practice

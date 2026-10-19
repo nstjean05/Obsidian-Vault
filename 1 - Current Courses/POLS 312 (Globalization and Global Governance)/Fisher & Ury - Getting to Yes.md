@@ -153,9 +153,7 @@
 - Every move helps set the rules, even substantive ones
     - Usually unnoticed, except across cultures
 - Answer to soft vs. hard is **“neither,” change the game**
-
 **The four points of principled negotiation (negotiation on the merits)**
-
 1. **People**: separate the people from the problem
     - Humans aren’t computers: strong emotions, different perceptions, communication trouble
     - Emotions get tangled with the merits, positions make it worse
@@ -171,9 +169,7 @@
     - Stubbornness rewards intransigence and gives arbitrary results
     - Insist the agreement reflect a fair standard independent of either side’s will (market value, expert opinion, custom, law)
     - Neither side gives in to the other, both defer to a fair solution
-
 **Principled column of the table**
-
 - Participants are **problem-solvers**
 - Goal is a **wise outcome reached efficiently and amicably**
 - Be soft on people, hard on problem
@@ -182,9 +178,7 @@
 - Develop multiple options, decide later
 - Insist on objective criteria
 - Reason and be open to reason, **yield to principle, not pressure**
-
 **Three stages of negotiation** (all four points apply throughout)
-
 1. **Analysis**: diagnose the situation, gather and organize info
     - Note people problems (partisan perceptions, hostile emotions, unclear comms)
     - Identify your interests and theirs
@@ -196,6 +190,5 @@
     - Acknowledge perception differences, frustration, anger, comms problems
     - Understand each other’s interests
     - Jointly generate options, seek agreement on objective standards
-
 - Result: wise agreement, gradual consensus, no **transactional costs** of digging into positions and then out of them
 - Separating people from problem = deal with the other negotiator as a human regardless of substantive differences
