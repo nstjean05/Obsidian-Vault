@@ -296,4 +296,11 @@ It is a classic security dilemma wrapped in an economic dependency.
 - *Why* questions often invite justifications
 	- Why? vs. How come?
 	- Defensiveness
+- **Interest Based Conversation Pillars**
+	1. Opening - Invitation to the conversation and showing good intent
+	2. Identify issues -  Create a list of neutrally-framed issues needing resolution without solutions attached
+	3. Explore - Explore underlying needs/interests/values
+	4. Closing - Brainstorm options and solutions meeting the needs/interests of both parties to the greatest degree
+- Who is doing what for whom by when?
+- Conversation is organic and non-linear  — make sure to star/note issues as they come up
 - 
