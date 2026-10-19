@@ -103,4 +103,60 @@
 	- Group think - echo chambers
 	- Fake tolerance
 		- People speak about toleration, but only really want to hear their own view
-		- 
+	- Journalists mostly of one mind and education?
+		- Polarization in politics and other social issues
+	- Foreign interference in election
+	- Can Western "liberal democracy" survive?
+	- Can dictatorships survive?
+- Hypertext: The Ideal
+	- Follow research links in both directions
+	- Attach new links to older material
+		- Personally and/or automatically
+		- Make sure that the changes are sufficiently annotated
+	- Retractions editing possible
+	- Handle intellectual deficit with links
+	- Store and link everything
+		- Commercial, historical, educational, scholarly
+- Hypertext - not yet, because...
+	- Available storage is too small
+	- Transmission speeds too low
+	- Problems with verifying information
+	- Inconsistency of copies
+	- Issues with gov't, "Black Hat" interference
+		- Personal, institutional, national, global
+		- People have many reasons, good and bad, to change information
+- Metalibrary defined
+	- An (abstract) metalibrary is the entire collection of a society's data, information, and techniques, together with the means by which it is stored, accessed, and communicated.
+	- The Metalibrary of the fourth civilization is the complete, electronically linked and accessed version of its abstract metalibrary
+- Requirements and implications
+	- Better storage and transmission
+	- All media collected together
+	- Better display capability
+	- Editable ink in books and newspapers
+	- Video communication and conferencing
+	- Changes in the nature and location of work
+- Implementation
+	- Database of all information and creators
+		- With the share of each creator indexed
+			- Who has a universal information code
+		- And a cost for the item in total
+	- An accounting system to track debits and credits
+	- Fractions of a cent for access, more for use?
+- A Metalibrary Portable Terminal
+	- Voice activated, sound via implants
+	- Telephone, TV, mail device, movie theatre
+	- Mail and text terminal
+	- News, magazines, books, etc.
+	- Order and pay for food clothes, etc.
+	- Banking, travel, personal digital assistant
+	- This was drafted in the 90s, but sounds quite familiar
+- Nonportable Terminals
+	- Various forms, stored throughout the home
+### Information Accuracy and Security
+- Who is responsible
+	- To ensure accuracy and security
+	- What about black hats?
+- The role of govt, corps, media
+- What about errors?
+	- What is correct?
+	- Who can correct er
