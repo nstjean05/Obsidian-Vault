@@ -19,7 +19,7 @@ There are several levers a government could pull to take control of encryption t
 
 *29 - Consider the value of freedom of speech. Either argue that there should never be any restrictions on what people say, OR argue that some forms of speech need to be restricted for the collective benefit of society or at least to protect its minorities.*
 
-
+Freedom of speech is one of the most important underpinnings of a functioning society, as it grants assurance that they government will not pick sides, and an individual will not be prosecuted for their views. There are many examples of societies where speech becomes progressively more limited, to the detriment of its people. This is an understandable creep - some things are clearly hurtful to say, and governments will in good faith nibble around the edges to make these statements punishable. However, this can go too far, as in the current scenario in England. Regardless of whether the cause is moral, peaceful protesters are being arrested for speaking political views. Clearly detrimental to democracy, it's a prime example of why absolute freedom is necessary. It's not possible to draw the line anywhere else, without making an ambiguous moral claim. Rather, societies should self-regulate their speech, and allow natural consequences to reign in this domain.
 
 
 
