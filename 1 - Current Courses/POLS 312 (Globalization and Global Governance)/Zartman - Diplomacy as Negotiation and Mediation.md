@@ -303,4 +303,10 @@ It is a classic security dilemma wrapped in an economic dependency.
 	4. Closing - Brainstorm options and solutions meeting the needs/interests of both parties to the greatest degree
 - Who is doing what for whom by when?
 - Conversation is organic and non-linear  — make sure to star/note issues as they come up
+- **Final Considerations**
+	- Allow people to save face
+	- What can you take responsibility for
+		- How can harm be repaired
+	- De-escalate emotional situations
+	- Restoration: make the future better than the past
 - 
