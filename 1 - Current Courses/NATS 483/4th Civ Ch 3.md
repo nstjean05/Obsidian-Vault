@@ -4,11 +4,14 @@
 
 *5 - Is it always right to report to authorities the crime of another person that you have witnessed? That you have heard about from a third party? Do your answers change if the criminal is your friend? Why?*
 
-
+According to a Christian's biblical mandate, we are to "obey the laws of the land" and "give unto Caesar what is Caesar's." If you witness or hear of a crime, and the authorities are asking for information, you may be obligated to give it. Of course there is nuance to a discussion - often people make a mistake, and often the justice system can worsen their state. However, by participating in the system, and actively working to improve it, order and progress can be maintained.
 
 *15 - A man you know has been beating his wife. She kills him, not realizing that you have witnessed the crime, but otherwise successfully conceals her deed. Do you turn her in? Does it make any difference if she is (or he was) your close friend? A relative? Does it make any difference that you have just realized you are in love with her and want to marry her? Does it make any difference if she has two young children and no relatives who could care for them? What influence does your school of ethical thought have on your answer?*
 
-How should a person holding an important office deal with offers of gifts from people who may have dealings with that office? Why do you answer as you do? Some possible situations:
+Once more, the straightforward answer would be to turn her in 
+
+
+*30 - How should a person holding an important office deal with offers of gifts from people who may have dealings with that office? Why do you answer as you do? Some possible situations:*
 1. A prime minister is offered an all-expenses-pain ten day to a island resort owned by a wealthy industrialist, one of whose corporations is negotiating to purchase a tract of land owned by the government to build a new factory.
 2. A Supreme Court justice is offered a diamond necklace for his wife by the major stockholder of a company that is currently being sued and the case has been appealed to his court. Add this twist: your wife is the appellant’s lawyer.
 3. The president of a university is offered a gift of thirty million dollars to construct a new Science building to replace a 70-year-old firetrap, however, the donor wants you to name the building after her. Suppose in addition she wants the university to hire her son as the chair of a new Institute for Programming Languages that if the president agrees to establish, she will also endow. Does it make any difference if you add one or more of:
