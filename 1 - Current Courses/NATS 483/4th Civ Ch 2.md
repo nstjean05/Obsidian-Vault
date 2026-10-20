@@ -9,7 +9,9 @@ p151
 
 *3 - Compare and contrast (a) the methods of historical and scientific studies and (b) the modes of thinking in mathematics and science.*
 
+a. While historical and scientific studies share many of the same features, they are highly distinct methods of reasoning. Each consider the study of other historians and scientists as highly important, and there is a culture of peer review to check work. The primary difference is that scientists generally deal with experiments, as the study of science is one of replicability. History is usually more of a cross-examination of the past, often for the purpose of predicting future events.
 
+b. To many people, mathematics and science are roughly the same thing, attract the same people, and have the same modes of thinking. However, they are built on very different bases. Mathematics is, in some sense, almost entirely theoretical. Dealing in the abstract, math seeks to learn things by 
 
 *9 - Which is more probable and why: that technological developments will reduce class distinctions or that they will increase them? Consider both the short and long term. Consider the effects both within a single nation and between nations in various parts of the world.*
 
