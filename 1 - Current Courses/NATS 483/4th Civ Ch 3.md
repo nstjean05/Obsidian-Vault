@@ -1,11 +1,10 @@
 
-
-
-
 # Questions
 **Chapter 3 # 3.5, 3.15, 3.30 (any two parts)**
 
 *5 - Is it always right to report to authorities the crime of another person that you have witnessed? That you have heard about from a third party? Do your answers change if the criminal is your friend? Why?*
+
+
 
 *15 - A man you know has been beating his wife. She kills him, not realizing that you have witnessed the crime, but otherwise successfully conceals her deed. Do you turn her in? Does it make any difference if she is (or he was) your close friend? A relative? Does it make any difference that you have just realized you are in love with her and want to marry her? Does it make any difference if she has two young children and no relatives who could care for them? What influence does your school of ethical thought have on your answer?*
 
