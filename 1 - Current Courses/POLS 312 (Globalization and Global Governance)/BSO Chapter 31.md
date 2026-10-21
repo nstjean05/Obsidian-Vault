@@ -237,9 +237,7 @@
     3. intl recognition favouring civic, territorial legitimations + new interventions pressure nationalism away from ethnic and state-opposing language
     4. state-supporting ethno-nationalism grows in response to globalization threats, can get _stronger_ as the nation-state is weakened
     5. nationalism shifts from state focus to devolution, cultural recognition, transnational links
-
 ### 31.4 Conclusion
-
 - Nationalism and global politics have shaped each other since mid-18th c.
     - Anglo-French domination → British hegemony → imperialist conflict and world war → cold war → US hegemony after 1990 → erosion
     - more change coming (ex. rise of China), may not mean more nation-states
@@ -265,9 +263,7 @@
     - state-opposing: exploit powerful states’ readiness to intervene
     - new forms where the sovereign nation-state isn’t central (devolution, cultural recognition)
 - “It is too early to write the obituary of nationalism.”
-
 **Does NSD threaten stable international relations?** (Opposing Opinions 31.1)
-
 - Yes
     - constant challenges to existing states, hardly any state truly “national” (ethnic homogeneity, shared identity)
     - elites claiming to represent repressed minorities can always demand a state
@@ -283,9 +279,7 @@
     1. ‘The key problems with the principle of national self-determination are that no one can agree on what is a nation and what self-determination means.’ Discuss.
     2. Under what circumstances, if any, is it advisable to redraw the boundaries of existing states in the name of national self-determination?
     3. Could globalization and multiculturalism help separate the issue of national self-determination from that of state sovereignty?
-
 ### Questions
-
 1. Which came first: nations or nationalism?
 2. Is nationalism the major reason for the formation of nation-states?
 3. Why has nationalism spread across the world in the last two centuries?
