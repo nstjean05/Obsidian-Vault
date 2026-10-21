@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "c6e8a8490aec4702",
+        "id": "d589c02ee67fb4bc",
         "type": "tabs",
         "children": [
           {
-            "id": "96121bace38e0a8c",
+            "id": "703f11d7f25f6b9a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1 - Current Courses/NATS 483/Talk - Clements.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Talk - Clements"
+              "title": "New tab"
             }
           }
         ]
@@ -172,14 +168,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "96121bace38e0a8c",
+  "active": "703f11d7f25f6b9a",
   "lastOpenFiles": [
+    "1 - Current Courses/NATS 483/Talk - Clements.md",
     "1 - Current Courses/NATS 483/Talk - Palmer-Hague.md",
     "1 - Current Courses/NATS 483/Talk - Venema.md",
     "1 - Current Courses/NATS 483/Talk - Tsang.md",
     "1 - Current Courses/NATS 483/Talk - Pimentel.md",
     "1 - Current Courses/NATS 483/Talk - Sikkema.md",
-    "1 - Current Courses/NATS 483/Talk - Clements.md",
     "1 - Current Courses/NATS 483/4th Civ Ch 3.md",
     "1 - Current Courses/NATS 483/4th Civ Ch 2.md",
     "1 - Current Courses/CMPT 339 (Database Management)/Chapter 3 - Database Architectures and the Web.md",
