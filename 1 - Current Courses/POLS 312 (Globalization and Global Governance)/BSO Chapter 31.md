@@ -17,9 +17,7 @@
     - Box 31.2: Anderson (imagined political community, limited and sovereign), Hroch (3 irreplaceable ties: memory of common past, density of linguistic/cultural ties, equality of members), Hobsbawm (agnostic, no a priori definition)
 - Nationalism studied as **ideology**, **politics**, **sentiments**
     - significant, not necessarily intellectually coherent
-
 ##### Types
-
 - **Civic nationalism** is commitment to a state and its values
     - state membership determines nationality, ex. US
 - **Ethnic nationalism** is commitment to people of (imagined) common descent
@@ -31,9 +29,7 @@
     2. **state-supporting** (further nationalize the nation-state, “purify” internally or reclaim territory externally)
     3. **state-opposing** (seeks new state by separation and/or unification)
 - Combos matter, ex. elite + civic claims to secede ≠ popular + ethnic claims to further nationalize existing state
-
 ##### Origins debate (Table 31.1)
-
 - 4 questions
     1. Does nationalism need prior nations?
     2. Are nations modern or old?
@@ -45,9 +41,7 @@
     - **Primordialism** (socio-biological or sociological): van der Berghe, Connor
     - **Perennialism** (pre-modern nationalism): Hastings
     - **Ethno-symbolism** (myths and symbols over generations): Smith
-
 ##### “Nation-state”
-
 - Term is unclear, UN = “Divided States” would be more accurate
 - Not worth counting nation-states (fuzzy criteria, flawed data, implies accepting nationalist claims)
 - Chapter treats as **national states** those that
@@ -56,13 +50,9 @@
     3. are recognized internationally
 - Box 31.1: rough # of nation-states
     - 1500 = 2, 1800 = 6, 1900 = 30, 1923 = 45 (League), 1945 = 51 (UN), 1960 = 99, 1970 = 127, 2006 = 192, 2021 = 193
-
 #### 31.2.2 A brief history of nationalism in global politics
-
 - Nationalism as popular politics and sentiment matters after ~1750
-
 ##### Pre-1914
-
 - **Seven Years’ War** (1756-63) = arguably first “world war”, Britain vs France (Europe, Asia, Americas)
     - Europeans justified power via superior culture, religion, sometimes race
     - early nationalism = state-supporting, civic, elite
@@ -96,9 +86,7 @@
     - imperial states dominated, strongest nationalisms at the core of empires
     - empires couldn’t accept NSD (threatened their existence)
     - no international body or law for creating or recognizing new states before 1918
-
 ##### World wars and interwar
-
 - WWI went global, huge rise in state control
 - Western Allies claimed national + liberal democracy cause
     - undermined by alliance with Russia and failure to universalize after victory
@@ -120,9 +108,7 @@
     - communist states recognized limits (survived), Third Reich = escalating self-destructive radicalism
 - Nationalists who welcomed fascists as a way out of imperial rule got “a bad master for a worse one”
 - Nationalism could only succeed if old empires dismantled **but not replaced by new ones**
-
 ##### Post-1945
-
 - 1941-2: USSR and US forced out of isolationism
 - Stalin = expansion as defensive bulwark, but plus Chinese revolution made communism a global force
 - US: sole control of nukes at first = _coordinating_ rather than direct power
@@ -151,9 +137,7 @@
         - W. Europe: “civic” separatism (Scotland, Catalonia), “ethnic” state-supporting (UKIP, Rassemblement National)
         - Central/E. Europe: popular ethnic nationalism
         - beyond Europe: state breakdown sometimes stimulates nationalism, sometimes undermines all political movements or lets radical Islamism overshadow it
-
 #### Case Study 31.1: Germany
-
 - After 1815, weak zone under Habsburg and Hohenzollern
 - Liberal nationalists (elite, civic) shifted to **state-supporting** Prussia, mobilized popular support
     - industrialization (rail, coal, iron, steel) = wins over Austria (1866) and France (1870-1)
