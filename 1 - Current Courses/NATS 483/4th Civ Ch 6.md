@@ -7,7 +7,8 @@
 
 11 - Attack or defend the proposition “A human being is a machine made of meat.”
 
-14-
+14 - Argue that AI machines must be made autonomous moral agents and that the consequences for the human race will be good. Or, argue the contrary.
+
 
 
 
