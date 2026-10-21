@@ -157,15 +157,11 @@
 - Takeaway: “German” states since 1871 changed hugely in territory, institutions, ideology, position
 - Q1: Is German nationalism necessarily a threat to European stability?
 - Q2: Did Germany as a whole only become part of the ‘West’ after 1991?
-
 ### 31.3 The changing meanings of NSD since 1918
-
 - 3 waves of nation-state formation: after **1918**, **1945**, **1989**
     - each preceded by imperial collapse, each justified by NSD
     - meaning of NSD changes w/ global context (Fig. 31.1, Wimmer)
-
 #### 31.3.1 General outline
-
 - New state needs 3 things
     1. power
     2. legitimacy at home
@@ -183,9 +179,7 @@
     1. **Bolsheviks**: published secret treaties, backed national liberation movements
     2. **Wilson**: new open politics, states founded on NSD
 - (Text cut off here, pp. 496-498 not in what I have, see end)
-
 #### Case Study 31.4: Nationalisms in South Africa, not South African nationalism
-
 - 4 movements: British imperialism, Afrikaner nationalism, Zulu nationalism, African nationalism
 - **British**
     - Cape c. 1800 to defend sea route to Asia
@@ -218,9 +212,7 @@
     - haves vs have-nots gulf deepening
 - Q1: Can the ANC be described as nationalist?
 - Q2: What made it possible for a white minority to implement the extreme policies of apartheid?
-
-#### Post-1989 wave (section number not in my pages, text starts mid-sentence on p. 500)
-
+#### Post-1989 wave
 - Interventions (UN, NATO, states, NGOs) justified in **universalist** terms (human rights, democracy), not protecting ethnic minorities or state sovereignty
 - Nationalists adapt: intl community disapproves of ethno-nationalism, so frame cause as democracy or human rights
     - demand devolution or multiculturalism, not independence
