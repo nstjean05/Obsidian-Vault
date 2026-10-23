@@ -39,8 +39,12 @@
 
 
 12 - If genetic engineering could triple intelligence, should the requisite treatments be available for those who could afford them, only for those deemed to have made positive contributions to society, paid for by the government for anyone, or compulsory for everyone?
-	I think that this could be a good optional treatment, given that its availability did not discriminate based on wealth or contribution. While it may improve human intelligence and undoubtedly change society, I don't think it would change how humans truly *are*. The increase would be universal and constant, 
+	I think that this could be a good optional treatment, given that its availability did not discriminate based on wealth or contribution. While it may improve human intelligence and undoubtedly change society, I don't think it would change how humans truly *are*. The increase would be universal and constant, so humans could adjust to their new reality. At this point, however, I don't think I would trust humanity to be able to deal this out equally. Given that global hunger has not been solved, how can we expect to sufficiently disperse this treatment? There are also questions around it being optional, as those who choose not to take it will be put at an inherent disadvantage in life.
 	
-
-
 21 - What authority ought the state have to (a) permit, (b) require, or (c) forbid various medical procedures such as transfusions, surgeries, or vaccines? To what extent ought this to be done in defiance of, say, the religious or political beliefs of the patients, or their parents? Be specific and give an ethical argument to justify your conclusions.
+	I think the state’s authority should rest on one principle: it can limit a person’s choices only to protect others or someone who can’t decide for themselves. For competent adults, that means the state should permit procedures that have been properly tested and approved, and forbid those that haven’t, since it’s the only party positioned to check safety for everyone. It shouldn’t require anything. Bodily autonomy is the strongest argument here, so a Jehovah’s Witness adult who refuses a transfusion should be allowed to, even if I think it’s a mistake.
+
+Vaccines are the same. The state can’t mandate them, but refusing one does affect others, so social pressure is the right tool. Employers, schools, and communities can set their own expectations, and people can weigh that against their beliefs.
+
+Children are the exception, since a child can’t consent and a parent’s beliefs don’t give them the right to risk the child’s life. For serious, low-risk, life-saving treatment like a transfusion, the state should step in, but I’d keep that to serious cases.
+
