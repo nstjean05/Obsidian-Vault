@@ -26,15 +26,11 @@ https://www.nytimes.com/2026/04/30/opinion/ai-labor-work-force-silicon-valley.ht
 https://www.cambridge.org/core/journals/journal-of-economic-history/article/lifespans-of-the-european-elite-8001800/BE252C4B25C4AAC29ED62D591A1675AC
 
 11 - Attack or defend the proposition “A human being is a machine made of meat.”
-	From an evolutionary perspective, this is absolutely true. Humans evolved from micro-organisms, and we can track the evolutionary tree to see how humans are related to other animals. Biologically, humans function to provide resources to our cells, and reproduce to pass on our DNA. This effectively makes humans machines, 
-
-
-
-
-
+	From an evolutionary perspective, this is absolutely true. Humans evolved from micro-organisms, and we can track the evolutionary tree to see how humans are related to other animals. Biologically, humans function to provide resources to our cells, and reproduce to pass on our DNA. This view effectively portrays humans as machines, since we do the same things as them at a much higher level.
+	However, it is not fair to say that a human *being* is simply a machine made of meat. The noun being implies that humans have more transcendent to them than can be distilled physically. To be is to have an understanding of where you are, what your purpose is, and your relationship to the world. Mere mechanics are not sufficient for humanity.
 
 14 - Argue that AI machines must be made autonomous moral agents and that the consequences for the human race will be good. Or, argue the contrary.
-
+	
 
 
 
