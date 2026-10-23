@@ -110,6 +110,16 @@
 - Fundamental Q: How is data transferred on the net?
 	- **Packet Switching:** Sent through the net in discrete chunks
 	- **Circuit Switching:** Dedicated circuit for each call
+#### Packet Switching
+- Transmission delay: Takes L/R seconds to transmit L-bit packets into link at R bps
+- Store and forward: entire packet must arrive at router before it can be transmitted on
+- End-end Delay: 2L/R, assuming zero propagation delay
+- Forwarding is a local action - moving arriving packets from routers input to output links
+- Routing is a global action - determining source destination paths that packets traverse
+	- Uses routing algos (Dijkstra)
+- Queuing occurs when work arrives faster than it cna be serviced
+- Packet queuing and loss
+	- If arrival rate in bops
 
 # Performance
 
