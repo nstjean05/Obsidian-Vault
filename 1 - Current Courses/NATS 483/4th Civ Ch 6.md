@@ -30,7 +30,7 @@ https://www.cambridge.org/core/journals/journal-of-economic-history/article/life
 	However, it is not fair to say that a human *being* is simply a machine made of meat. The noun being implies that humans have more transcendent to them than can be distilled physically. To be is to have an understanding of where you are, what your purpose is, and your relationship to the world. Mere mechanics are not sufficient for humanity.
 
 14 - Argue that AI machines must be made autonomous moral agents and that the consequences for the human race will be good. Or, argue the contrary.
-	
+	It is an exceptionally dangerous thing for AI allowed to be made autonomous moral agents. With current agentic AI, morality is a result of alignment - a process by which the model is weighted to be most similar to its creator's values. This is already a challenging process, with many issues arising. On one hand, the AI cannot follow its guidelines properly. AI
 
 
 
