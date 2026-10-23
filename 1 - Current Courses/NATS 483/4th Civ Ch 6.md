@@ -10,8 +10,9 @@
 https://www.sciencedirect.com/science/article/pii/S2095809926004170
 
 10 - Write a paper attacking the concept of human brain downloading on either scientific or moral grounds, or both.
-	There are many reasons why it is unethical and unhelpful to the human race to conduct brain downloads. Pragmatically, this would be a disaster. Currently, the people pursuing transhumanism the most are in the wealthiest 0.01% of society. Anyone in lower income brackets would likely not be able to afford this care, exacerbating the already significant wealth imbalance. The wealthy today would gain access to t
-
+	There are many reasons why it is unethical and unhelpful to the human race to conduct brain downloads. Pragmatically, this would be a disaster. Currently, the people pursuing transhumanism the most are in the wealthiest 0.01% of society. Alcor Life Extension Foundation, the largest cryopreservation vault, currently hosts 5 of the world's 50 wealthiest individuals. Anyone in lower income brackets would likely not be able to afford this care, exacerbating the already significant wealth imbalance. The wealthy today would gain access to the technology, and then be able to pull the ladder up after them. Corporate consolidation would continue, and it is easy to see how this would lead to a dystopian future. Peter Thiel of Palantir and other wealthy AI CEOs have already been promoting the concept of a *permanent underclass*, which they believe will consist of everyone who is not an owner of the AI company to achieve AGI. While this should be a fantastical trajectory for society, is is being realistically discussed.
+	
+https://www.nytimes.com/2026/04/30/opinion/ai-labor-work-force-silicon-valley.html
 
 11 - Attack or defend the proposition “A human being is a machine made of meat.”
 
