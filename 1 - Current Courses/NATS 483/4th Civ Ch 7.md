@@ -24,7 +24,7 @@
 - Surgery to shorten a man’s left hand and foot to match the smaller right ones. Would it make a difference to your answer if functionality and appearance were not an issue, and the only reason the patient cites is the money to be saved by having to purchase two pairs of gloves and shoes so as to fit both feet and both hands?
 - Surgery to create gill-like structures in the lungs of a diver so she can effectively breathe the water and extract oxygen from it as a fish does.
 - The use of a drug that in tests appears to enhance intelligence.
-	I think this hinges on whether the drug or supplement has been approved by the FDA or local authority, for the purpose of which it is advertised. Especially in regions like the United States whe
+	I think this hinges on whether the drug or supplement has been approved by the FDA or local authority, for the purpose of which it is advertised. Especially in regions like the United States where healthcare is not free, insurance like this would allow working-class professionals access to this care. A truly intelligence-boosting drug would allow major societal progress. The danger is that this drug is rushed through testing because of its supposed effect. Insurance companies should be very careful when accepting coverage of a new drug - both for their own liability, and for the sake of their constituents.
 
 - The use of a very expensive drug that is known to be capable of temporarily slowing a deadly cancer, but that at best extends patient life by three to six months.
 	- What if the drug has life-threatening side effects of its own in up to five percent of patients? ten percent? twenty percent?
