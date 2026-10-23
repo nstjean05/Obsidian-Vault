@@ -1,0 +1,23 @@
+## Connectionless Transport: UDP
+- **User Diagram Protocol - UDP**
+- A no-frills internet transport protocol
+- UDP segments may be lost or delivered out of order
+	- "Best effort" service
+- Connectionless
+	- No handshaking between UDP, sender, receiver
+- A UDP is useful for simple applications without a connection being established
+	- Small header
+	- No congestion control
+- Used for
+	- Streaming apps
+	- DNS
+	- SNMP
+	- HTTP/3
+- If reliable transfer is needed over UDP, then...
+	- add reliability or congestion control at the application layer
+#### UDP: Transport Layer Actions
+- **Sender**
+	- is passed an application layer message
+	- determines UDP segment header fields values
+	- creates UDP segment, and passes it to IP
+- 
