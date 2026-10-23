@@ -39,6 +39,19 @@ https://cepr.org/voxeu/columns/ai-and-paperclip-problem
 
 
 
+Math is discovered
+
+Why does it reveal so much about a universe humans did not invent?
+
+
+
+
+
+
+
+
+
+
 
 
 
