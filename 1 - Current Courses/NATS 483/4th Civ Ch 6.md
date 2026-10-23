@@ -29,6 +29,10 @@ https://www.cambridge.org/core/journals/journal-of-economic-history/article/life
 
 
 
+
+
+
+
 14 - Argue that AI machines must be made autonomous moral agents and that the consequences for the human race will be good. Or, argue the contrary.
 
 
