@@ -1,7 +1,4 @@
 **Chapter 7 # 7.3 ( any three parts), 7.9, 7.12, 7.21***
-
-
-
 3 - Suppose you are in charge of an agency responsible for a medical insurance scheme run by the state. Which (if any) of the following treatments should the plan pay for, or not pay for, and why? 
 - Open-heart surgery on a 90- year-old, when the average life span is 80. Would it make a difference if the average life span were 150?
 - An experimental procedure (40 percent chance of success) to remove a tumor from the brain of an infant who has otherwise an 80 percent chance of dying within a year. 
@@ -27,6 +24,8 @@
 - Surgery to shorten a man’s left hand and foot to match the smaller right ones. Would it make a difference to your answer if functionality and appearance were not an issue, and the only reason the patient cites is the money to be saved by having to purchase two pairs of gloves and shoes so as to fit both feet and both hands?
 - Surgery to create gill-like structures in the lungs of a diver so she can effectively breathe the water and extract oxygen from it as a fish does.
 - The use of a drug that in tests appears to enhance intelligence.
+	I think this hinges on whether the drug or supplement has been approved by the FDA or local authority, for the purpose of which it is advertised. Especially in regions like the United States whe
+
 - The use of a very expensive drug that is known to be capable of temporarily slowing a deadly cancer, but that at best extends patient life by three to six months.
 	- What if the drug has life-threatening side effects of its own in up to five percent of patients? ten percent? twenty percent?
 - Tests or treatments done in a neighbouring country at considerable expense, but in a timely manner that can save lives. The country of residence has a medical system that is underfunded and overwhelmed with patients, so cannot do all the requisite tests or treatments in a timely way.
