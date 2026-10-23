@@ -5,7 +5,8 @@
 
 8 - Discuss the technical problems involved in simulating vision in a machine.
 	There are many technical problems in simulating vision. One of these is the density of compute required, as the brain is exceptionally efficient at processing visuals. A computer is very fast, but also quite bulky, especially for cutting-edge technology. Often this leads to much of it being done remotely, leading to some latency.
-	Other challenges arise with the identification of visuals. As AI has developed in the last decade, massive strides have been made in computer vision techniques. However, they are still imperfect. CaPTCha
+	Other challenges arise with the identification of visuals. As AI has developed in the last decade, massive strides have been made in computer vision techniques. However, they are still imperfect. CAPTCHAs still stop many bots, but fewer and fewer, since they've been used as training material. Computer's also aren't good at always noticing where in the frame of view to direct their focus - something that the human brain does naturally.
+	Finally, there are technical challenges in the sensors used to take in light. Modern cameras have gotten very good, but are still poor in many circumstances. The autonomous EV manufacturer Tesla decided to use cameras instead of LiDAR, since this better replicates how a human would view the road. But these cameras are imperfect at times, such as extremely rainy weather, or when the sun is on the horizon directly facing them. This highlights how strong human vision is, but also a weakness of it. Humans can do fine in th
 
 
 10 - Write a paper attacking the concept of human brain downloading on either scientific or moral grounds, or both.
