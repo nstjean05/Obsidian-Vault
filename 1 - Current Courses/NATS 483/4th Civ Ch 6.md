@@ -26,7 +26,7 @@ https://www.nytimes.com/2026/04/30/opinion/ai-labor-work-force-silicon-valley.ht
 https://www.cambridge.org/core/journals/journal-of-economic-history/article/lifespans-of-the-european-elite-8001800/BE252C4B25C4AAC29ED62D591A1675AC
 
 11 - Attack or defend the proposition “A human being is a machine made of meat.”
-
+	From an evolutionary perspective, this is absolutely true. Humans evolved from micro-organisms, and we can track the evolutionary tree to see how humans are related to other animals. Biologically, humans function to provide resources to our cells, and reproduce to pass on our DNA. This effectively makes humans machines, 
 
 
 
