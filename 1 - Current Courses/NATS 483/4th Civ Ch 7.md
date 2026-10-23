@@ -21,6 +21,9 @@
 - A transplant of the brain of an elderly man, the rest of whose body has experienced multiple failures so that he is on life support, into the head of a woman whose brain was effectively destroyed in an automobile accident, though the rest of her body is functional (the plot of an old science fiction novel).
 - The implant of a computing device in the head of a person with (i) damage in the portion of her brain responsible for computation; (ii) an accountant who wants to be able to quickly add columns of figures from ancient paper documents without having to type them into a spreadsheet; (iii) a day trader who wants to be able to make faster decisions on buying and selling stocks to maximize her daily profits; (iv) someone who wants extra memory storage capacity for their profession.
 - Cosmetic surgery to make the patient look younger and prolong her career as an actress, or entertainer.
+	I think this should be included in an insurance scheme. Assuming the state requires you to pay for your insurance, individuals who need more specialized insurance could pay for more specialized attention. If, however, this is a program funded by taxes, that is targeted for working class people, 
+
+
 - Surgery to shorten a man’s left hand and foot to match the smaller right ones. Would it make a difference to your answer if functionality and appearance were not an issue, and the only reason the patient cites is the money to be saved by having to purchase two pairs of gloves and shoes so as to fit both feet and both hands?
 - Surgery to create gill-like structures in the lungs of a diver so she can effectively breathe the water and extract oxygen from it as a fish does.
 - The use of a drug that in tests appears to enhance intelligence.
