@@ -35,11 +35,12 @@
 - Tests or treatments done in a neighbouring country at considerable expense, but in a timely manner that can save lives. The country of residence has a medical system that is underfunded and overwhelmed with patients, so cannot do all the requisite tests or treatments in a timely way.
 
 9 - A hospital has a wealthy patient who has been comatose and on life-support systems for five years with no discernible change in condition. The man’s family approaches the hospital and asks for the support to be removed so he can die in peace. The hospital refuses at first, citing the fact that brain waves are still present, though severely impaired. A family member cites the patient’s own expressed desire for release from such a state but can offer no written proof. What should be done, and why?
-	
+	After the point of 5 years, the man's right to bodily autonomy will likely have been passed on to a member of his family, and it will then be their decision to make. If suitable checks have been made that the brain waves are not signalling his sentience, or indicating he will come out of the coma, then the doctors may not have an obligation to object. Furthermore, given the patient's stated desire to not be in the state for an extended period, you would be doing his will to let him go.
 
 
 12 - If genetic engineering could triple intelligence, should the requisite treatments be available for those who could afford them, only for those deemed to have made positive contributions to society, paid for by the government for anyone, or compulsory for everyone?
-
+	I think that this could be a good optional treatment, given that its availability did not discriminate based on wealth or contribution. While it may improve human intelligence and undoubtedly change society, I don't think it would change how humans truly *are*. The increase would be universal and constant, 
+	
 
 
 21 - What authority ought the state have to (a) permit, (b) require, or (c) forbid various medical procedures such as transfusions, surgeries, or vaccines? To what extent ought this to be done in defiance of, say, the religious or political beliefs of the patients, or their parents? Be specific and give an ethical argument to justify your conclusions.
