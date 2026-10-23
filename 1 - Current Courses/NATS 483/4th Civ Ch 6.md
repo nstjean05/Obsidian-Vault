@@ -4,7 +4,8 @@
 	It is challenging to say whether it matters if an AI is truly self-aware, since we don't totally understand the nature of awareness and consciousness. The only person you can tell is conscious is oneself, and even then we are not totally sure where it comes from. From circumstantial evidence you can infer that others are conscious, since they exhibit the same behaviours and sensibilities as you do, but there isn't an absolute way to prove it. In some sense, it doesn't matter if a humanoid robot is actually conscious, as once it becomes indistinguishable from a human, then it will likely be treated as such. But perhaps, if consciousness arises from complexity, a suitably advanced AI can generate it.
 
 8 - Discuss the technical problems involved in simulating vision in a machine.
-	There are many technical problems in simulating vision. One of these is compute, as the brain is exceptionally efficient at 
+	There are many technical problems in simulating vision. One of these is the density of compute required, as the brain is exceptionally efficient at processing visuals. A computer is very fast, but also quite bulky, especially for cutting-edge technology. Often this leads to much of it being done remotely, leading to some latency.
+	Other challenges arise with the identification of visuals. As AI has developed in the last decade, massive strides have been made in computer vision techniques. However, they are still imperfect. CaPTCha
 
 
 10 - Write a paper attacking the concept of human brain downloading on either scientific or moral grounds, or both.
