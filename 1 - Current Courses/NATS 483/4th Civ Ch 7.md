@@ -6,7 +6,7 @@
 	- The surgery in b performed in another country at a cost higher than maintaining a bed in a hospital in the home country for an entire year.
 - A sex-change operation for a patient who claims to be in great distress over being in the wrong kind of body.
 - A sex-change operation for a patient who has already transitioned from male to female, now has second thoughts and wants to transition back.
-- Gender-affirming surgery for an infant born with a mix of female and male organs (intersex). (Note that although such surgery has in the past been routinely recommended in such rare cases, it can cause permanent scarring and lasting pain when done on infants, but this outcome is less likely when done for adults.) 
+- Gender-affirming surgery for an infant born with a mix of female and male organs (intersex). (Note that although such surgery has in the past been routinely recommended in such rare cases, it can cause permanent scarring and lasting pain when done on infants, but this outcome is less likely when done for adults.)
 - Sterilization (tubal ligations and vasectomies) for those who wish to have no further children but have no organic malfunction. Take into consideration that there are non-invasive means of achieving the latter.
 - Tubal or ovarian repairs (30 percent success rate) for a woman who wants to bear a first child.
 	- Surgery in the previous case for a woman who already had two children; five children; ten children.
@@ -18,11 +18,12 @@
 - Plastic surgery to remove small and harmless but unpleasant-looking growths from the face of a teenage boy.
 - Surgery for a worker in zero gravity who wants her legs replaced with arms and hands because the former are of no use there, and the latter would make her more productive.
 - A liver transplant for a boy whose body has already rejected two livers and whose older brother died after unsuccessful surgery of the same type.
+	This should certainly be covered by the plan. The way that liver transplants often work is on a donor-by-donor basis, and if the boy is able to find one, then the operation should go ahead. If liver transplants are already covered by insurance, how could one say that they will not operate on someone who has a transplant ready, and will die if not for it?
+
 - A transplant of the brain of an elderly man, the rest of whose body has experienced multiple failures so that he is on life support, into the head of a woman whose brain was effectively destroyed in an automobile accident, though the rest of her body is functional (the plot of an old science fiction novel).
 - The implant of a computing device in the head of a person with (i) damage in the portion of her brain responsible for computation; (ii) an accountant who wants to be able to quickly add columns of figures from ancient paper documents without having to type them into a spreadsheet; (iii) a day trader who wants to be able to make faster decisions on buying and selling stocks to maximize her daily profits; (iv) someone who wants extra memory storage capacity for their profession.
 - Cosmetic surgery to make the patient look younger and prolong her career as an actress, or entertainer.
-	I think this should be included in an insurance scheme. Assuming the state requires you to pay for your insurance, individuals who need more specialized insurance could pay for more specialized attention. If, however, this is a program funded by taxes, that is targeted for working class people, 
-
+	I think this should be included in an insurance scheme. Assuming the state requires you to pay for your insurance, individuals who need more specialized insurance could pay for more specialized attention. If, however, this is a program funded by taxes, cosmetic surgeries should not be covered. These state-funded programs are often already strapped for cash, and nonessential surgeries would only strain it further. While other surgeries for those with work may be warranted (such as for someone in a machining accident to retain use of their hands), a surgery like this is entirely optional.
 
 - Surgery to shorten a man’s left hand and foot to match the smaller right ones. Would it make a difference to your answer if functionality and appearance were not an issue, and the only reason the patient cites is the money to be saved by having to purchase two pairs of gloves and shoes so as to fit both feet and both hands?
 - Surgery to create gill-like structures in the lungs of a diver so she can effectively breathe the water and extract oxygen from it as a fish does.
@@ -34,7 +35,7 @@
 - Tests or treatments done in a neighbouring country at considerable expense, but in a timely manner that can save lives. The country of residence has a medical system that is underfunded and overwhelmed with patients, so cannot do all the requisite tests or treatments in a timely way.
 
 9 - A hospital has a wealthy patient who has been comatose and on life-support systems for five years with no discernible change in condition. The man’s family approaches the hospital and asks for the support to be removed so he can die in peace. The hospital refuses at first, citing the fact that brain waves are still present, though severely impaired. A family member cites the patient’s own expressed desire for release from such a state but can offer no written proof. What should be done, and why?
-
+	
 
 
 12 - If genetic engineering could triple intelligence, should the requisite treatments be available for those who could afford them, only for those deemed to have made positive contributions to society, paid for by the government for anyone, or compulsory for everyone?
