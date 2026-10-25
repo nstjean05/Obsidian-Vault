@@ -1,6 +1,9 @@
 #incomplete 
 # Videos
 - 1.1 - https://www.youtube.com/watch?v=74sEFYBBRAY
+	- Intro
+- 1.2 - https://www.youtube.com/watch?v=k8NmM-hImBU
+	- Network Edge
 # What is the internet?
 - The internet is made of many connected computing devices
 	- Hosts = endpoint systems
@@ -34,9 +37,16 @@
 - Network protocols
 	- Devices (computers)
 - Connection request phase, followed by a connection response phase
-	- Ex. Request for time: Hi
-
+	- Ex. Request for time: Hi --> Hi --> Got the time? --> 2:00 --> Thanks
+	- Ex. TCP connection request --> TCP connection response --> File transfer
+- Protocols define the format and order among network entities.
 ## Network Edge
+- Interconnected routers - inter net
+- There are several kinds of access networks
+	- Residential
+	- Institutional
+	- Mobile
+- What is the transmission rate, and how much is it shared between users?
 - *Connection Oriented*
 	- Prep data transfer ahead of time
 	- Establish a connection in the two communication hosts
@@ -52,18 +62,20 @@
 - **Network Core**
 	- Interconnected routers
 	- Network of networks
-- **Access Network Types**
-	1. Cable Based
-		- Frequency Division Multiplexing: Different channels transmitted in different frequency bands
-		- HFC: Hybrid fiber coax - high downstream transmission (1.2 Gbps), low upstream (100 Mbps) (1/10th)
-		- Network of cable, fiber attaches homes to ISP router
-	2. Digital Subscriber Line (DSL)
-		- Used existing telephone line to central office DSLAM
-			- Data over DSL phone line goes to internet
-			- Voice over DSL phone line goes to telephone net
-		- 24Mbps down, 3.5 Mbps upstream
-	3. Home Networks
-	4. Wireless Access Networks
+#### Residential Access Network 
+1. Cable Based
+	- Frequency Division Multiplexing: Different channels transmitted in different frequency bands
+	- HFC: Hybrid fibre coax - high downstream transmission (1.2 Gbps), low upstream (100 Mbps) (1/10th)
+		- If your neighbour is using a lot of it, you can feel your bitrate drop.
+	- Network of cable, fibre attaches homes to ISP router
+	- Sent at multiple frequencies which don't interfere with one another.
+2. Digital Subscriber Line (DSL)
+	- Used existing telephone line to central office DSLAM
+		- Data over DSL phone line goes to internet
+		- Voice over DSL phone line goes to telephone net
+	- 24Mbps down, 3.5 Mbps upstream
+#### Home Networks
+	1. Wireless Access Networks
 		- WLAN: Wireless Local Area Network
 			- 100ft range
 			- 11/54/450 Mbps transmission
@@ -71,12 +83,12 @@
 			- Provided by mobile network operator
 			- 10s of kms
 			- 4G/5G cellular networks
-	5. Enterprise Networks
+	2. Enterprise Networks
 		- Companies, universities, etc.
 		- Mix of wired/wireless, switches/routers
 		- Eth: 100Mbps, 1Gbps, 10Gbps
 		- WiFi: 11, 54, 450 Mbps
-	6. Data Center Networks
+	3. Data Center Networks
 		- High-bandwidth links (10s-100s Gbps) connect 100s of servers together
 - **Hosts**
 	- Sends packets of data
