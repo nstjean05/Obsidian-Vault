@@ -74,24 +74,27 @@
 		- Data over DSL phone line goes to internet
 		- Voice over DSL phone line goes to telephone net
 	- 24Mbps down, 3.5 Mbps upstream
-#### Home Networks
-	1. Wireless Access Networks
-		- WLAN: Wireless Local Area Network
-			- 100ft range
-			- 11/54/450 Mbps transmission
-		- Wide-area cellular access network
-			- Provided by mobile network operator
-			- 10s of kms
-			- 4G/5G cellular networks
-	2. Enterprise Networks
-		- Companies, universities, etc.
-		- Mix of wired/wireless, switches/routers
-		- Eth: 100Mbps, 1Gbps, 10Gbps
-		- WiFi: 11, 54, 450 Mbps
-	3. Data Center Networks
-		- High-bandwidth links (10s-100s Gbps) connect 100s of servers together
+#### Home Access Networks
+1. Wireless Access Networks
+	- WLAN: Wireless Local Area Network
+		- 100ft range
+		- 11/54/450 Mbps transmission
+	- Wide-area cellular access network
+		- Provided by mobile network operator
+		- 10s of kms
+		- 4G/5G cellular networks
+2. Enterprise Networks
+	- Companies, universities, etc.
+	- Mix of wired/wireless, switches/routers
+	- Eth: 100Mbps, 1Gbps, 10Gbps
+	- WiFi: 11, 54, 450 Mbps
+3. Data Center Networks
+	- High-bandwidth links (10s-100s Gbps) connect 100s of servers together
+#### Sending and Receiving Packets
 - **Hosts**
-	- Sends packets of data
+	- Take app message
+	- Breaks into smaller chunks (packets)
+	- Packets of data
 		- *L* bits long
 		- *R* transmission rate
 		- Link capacity = bandwidth
