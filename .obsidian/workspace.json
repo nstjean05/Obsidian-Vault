@@ -20,8 +20,19 @@
               "icon": "lucide-file",
               "title": "KR Chapter 1"
             }
+          },
+          {
+            "id": "af027d494adf015c",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -171,13 +182,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d6daa7df491fbbe8",
+  "active": "af027d494adf015c",
   "lastOpenFiles": [
+    "1 - Current Courses/CMPT 325 (Computer Networking)/KR Chapter 1.md",
     "1 - Current Courses/CMPT 325 (Computer Networking)/Chapter 1 - Computer Network and the Internet.md",
     "1 - Current Courses/CMPT 339 (Database Management)/Chapter 1 - Introduction.md",
     "1 - Current Courses/CMPT 339 (Database Management)/Video 1.1.md",
     "1 - Current Courses/CMPT 339 (Database Management)/Chapter 2 - DB Environment.md",
-    "1 - Current Courses/CMPT 325 (Computer Networking)/KR Chapter 1.md",
     "1 - Current Courses/NATS 483/4th Civ Ch 6.md",
     "1 - Current Courses/NATS 483/4th Civ Ch 7.md",
     "1 - Current Courses/CMPT 325 (Computer Networking)/Chapter 3 - Transport Layer.md",
