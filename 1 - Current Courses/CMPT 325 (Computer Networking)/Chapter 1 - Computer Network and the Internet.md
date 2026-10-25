@@ -82,6 +82,7 @@
 	- Wide-area cellular access network
 		- Provided by mobile network operator
 		- 10s of kms
+		- 10s Mbps
 		- 3G/4G/5G cellular networks
 2. Enterprise Networks
 	- Companies, universities, etc.
@@ -99,11 +100,11 @@
 		- *R* transmission rate
 		- Link capacity = bandwidth
 - **Physical Links**
-	- **Bit**: Propogates between transmitter/receiver pairs
+	- **Bit**: Propagates between transmitter/receiver pairs
 	- **Physical Link:** What lies between the transmitter and receiver
 	- **Guided Media:** Signals propagate in solid media (e.g. copper, fiber, coax, etc.)
 	- **Unguided Media:** Signals propagate freely (e.g. radio)
-- **Coaxial Cable**
+- **Coaxial Cable** (Twister Pair, TP)
 	- Two concentric copper conductors
 	- Bidirectional
 	- Broadband
@@ -115,14 +116,17 @@
 	- Low error rate
 		- Far-spaced repeaters
 		- Immune to electromagnetic noise
+	- Expensive
 - **Wireless Radio**
-	- Signal carried in various bands in electromag spectrum
+	- Signal carried in various bands in electromagnetic spectrum
 	- No physical wire
 	- Broadcast
-	- Propogration environment effects
+		- Any device near the receiver can also receive the message
+	- Propagation environment effects
 		- Reflection
 		- Obstruction by objects
 		- Interference/noise
+	- Requires a lot of work at the physical layer
 - **Radio Link Types**
 	1. Wireless LAN (WiFi)
 		1. 10-100s Mbps, 10s meters range
