@@ -1,4 +1,6 @@
 #incomplete 
+# Videos
+- 1.1 - https://www.youtube.com/watch?v=74sEFYBBRAY
 # What is the internet?
 - The internet is made of many connected computing devices
 	- Hosts = endpoint systems
@@ -11,12 +13,29 @@
 - **Networks**
 	- Collection of devices, routers, and links, which is managed by some organization.
 - **Internet**: A network of networks
+#### Nuts and Bolts View
 - **Protocols** control sending and receiving of messages
+	- They are everywhere, and describe the standard way of doing things
 - Standards:
 	- RFC: Request for comments
 	- IETF: Internet engineering task force
+#### Services View
 - As a service:
-	- Major infrastructure providing services to apps for web streaming, email, games, e-commerce, etc.
+	- Major infrastructure
+	- providing services to apps for web streaming, email, games, e-commerce, etc.
+- Provides a programming interface for distributed apps
+	- Hooks allowing send and receiving
+#### Internet Protocols
+- A protocol is a method of communicating
+- Rules for messages sent and actions taken
+- Human protocols
+	- What's the time?
+	- Do you have any questions?
+- Network protocols
+	- Devices (computers)
+- Connection request phase, followed by a connection response phase
+	- Ex. Request for time: Hi
+
 ## Network Edge
 - *Connection Oriented*
 	- Prep data transfer ahead of time
