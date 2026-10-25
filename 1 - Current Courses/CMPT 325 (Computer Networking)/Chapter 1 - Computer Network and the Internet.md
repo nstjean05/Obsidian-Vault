@@ -74,7 +74,7 @@
 		- Data over DSL phone line goes to internet
 		- Voice over DSL phone line goes to telephone net
 	- 24Mbps down, 3.5 Mbps upstream
-#### Home Access Networks
+#### Wireless Access Networks
 1. Wireless Access Networks
 	- WLAN: Wireless Local Area Network
 		- 100ft range
@@ -82,7 +82,7 @@
 	- Wide-area cellular access network
 		- Provided by mobile network operator
 		- 10s of kms
-		- 4G/5G cellular networks
+		- 3G/4G/5G cellular networks
 2. Enterprise Networks
 	- Companies, universities, etc.
 	- Mix of wired/wireless, switches/routers
@@ -135,6 +135,7 @@
 	5. Satellite
 		1. Up to 100Mbps downlink
 		2. 270 ms end-end delay
+#### Links: Physical Access Media
 # Network Core
 - Interconnected routers
 	- A network of networks
