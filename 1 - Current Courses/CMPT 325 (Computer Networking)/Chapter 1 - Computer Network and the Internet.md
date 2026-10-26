@@ -197,7 +197,22 @@
 # Performance
 #### Sources of Packet Delay
 - **Nodal Processing**
-	- 
+	- Check for bit errors
+	- Determine the output link
+	- Typically < microseconds
+- **Queuing Delay**
+	- Time waiting at the output link for transmission
+	- Depends on the congestion level of the router
+- **Transmission Delay**
+	- L: Packet length (bit)
+	- R: Link transmission rate (bps)
+	- d_trans = L/R
+- **Propagation Delay**
+	- d: Length of physical link
+	- s: propagation speed (~2•10^8 m/sec)
+	- d_prop = d/s
+- Total delay is the sum of these
+- 
 
 # Security
 
