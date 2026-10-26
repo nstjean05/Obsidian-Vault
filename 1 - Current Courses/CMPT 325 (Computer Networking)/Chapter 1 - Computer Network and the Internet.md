@@ -179,9 +179,25 @@
 		- N users
 - Circuit switching: 10 users
 - Packet switching, with 35 users, probability of > 10 active users at the same time is less than 0.0004%
-	- In some sense, packet switching could be declared the wi
+	- In some sense, packet switching could be declared the winner
+#### Internet Structure
+- A network of networks
+- Given millions of access ISPs, how can they be connected?
+	1. A global ISP that all ISPs are connected to
+	2. Broke into multiple global ISPs that compete
+		- A couple IXPs that connect the globals
+	3. Connected provider network
+		- Large companies like Google and Amazon who have national and international coverage
+	- All 3 of these levels overlap to the current internet
+- POP: Point of presence to and from other PoPs
+	- Ex. Verizon
+		- Lowest level: links to customer networks
+		- Customer networks link up to PoPs
+		- PoPs can link to peering networks and other PoPs
 # Performance
-
+#### Sources of Packet Delay
+- **Nodal Processing**
+	- 
 
 # Security
 
