@@ -169,7 +169,17 @@
 - No delay other than propagation delay
 - End-end resources are allocated and reserved for the call between source and destination
 - However, even if the circuit isn't full, 
-
+#### Examples
+- How many users can use a network under circuit vs packet switching?
+- Given:
+	- 1 Gb/s link
+	- Each user:
+		- 100 Mb/s when 'active'
+		- Active 10% of time
+		- N users
+- Circuit switching: 10 users
+- Packet switching, with 35 users, probability of > 10 active users at the same time is less than 0.0004%
+	- In some sense, packet switching could be declared the wi
 # Performance
 
 
