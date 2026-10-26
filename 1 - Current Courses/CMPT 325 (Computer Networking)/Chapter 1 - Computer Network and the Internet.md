@@ -212,6 +212,12 @@
 	- s: propagation speed (~2•10^8 m/sec)
 	- d_prop = d/s
 - Total delay is the sum of these
+#### Real Internet Delay and Routes
+- *Traceroute* is a program the provides delay measurement from source to router along end-end internet path towards the destination
+	- For all i:
+		- Send 3 packets that will reach router i on path towards destination
+		- Router i will return packets to the sender
+		- Sender measures time interval between transmission and reply
 - 
 
 # Security
