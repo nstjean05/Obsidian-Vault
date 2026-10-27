@@ -401,4 +401,33 @@
 - DNS query and reply messages, both with the same format
 - Header includes ID info, and flags for query/reply, recursion, etc.
 ![238](Pasted%20image%2020261027114640.png)
+#### Example - Get you info into the DNS
+- New startup *Network Utopia*
+	- Register name *networkutopia.com* at DNS registrar
+		- Provide names, IP addresses of authoritative name server
+		- Registrar inserts NS, a RRs into .com TLD server
+#### DNS Security
+- DDoS
+	- Bombard root servers with traffic
+		- Not successful to date
+		- Traffic filtering
+		- Local DNS servers cache IPs of TOLD servers, allowing root server bypass
+	- Bombard TLS servers
+		- Potentially more dangerous
+# 2.6 Video Streaming, CDNs
+- 80% of residential ISP traffic goes to video
+- Challenges of scale (reaching 1B users) and heterogeneity (different users with different capabilities)
+	- Solution: distributed, application level infrastructure.
+#### Video
+- Coding: Use redundancy within or between frames to decrease the number of bits used to encode each image
+- **CBR**
+	- Constant bit rate video
+	- Fixed encoding rate
+- **VBR**
+	- Variable bit rate
+	- Encoding rate changes as amount of spatial and temporal coding changes
+- Examples
+	- MPEG 1, 1.5 Mbps, CD-ROM
+	- MPEG 2, 3-6 Mbps, DVD
+	- MPEG 4, 65Kbps-12Mbps, Internet
 - 
