@@ -125,77 +125,44 @@
 	- Treat contents of UDP segment as a sequence of 16-bit integers
 	- Checksum: Addition of segment content
 	- Checksum value put into UDP checksum field
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-## Connectionless Transport: UDP
-- **User Diagram Protocol - UDP**
-- A no-frills internet transport protocol
-- UDP segments may be lost or delivered out of order
-	- "Best effort" service
-- Connectionless
-	- No handshaking between UDP, sender, receiver
-- A UDP is useful for simple applications without a connection being established
-	- Small header
-	- No congestion control
-- Used for
-	- Streaming apps
-	- DNS
-	- SNMP
-	- HTTP/3
-- If reliable transfer is needed over UDP, then...
-	- add reliability or congestion control at the application layer
-#### UDP: Transport Layer Actions
-- **Sender**
-	- is passed an application layer message
-	- determines UDP segment header fields values
-	- creates UDP segment, and passes it to IP
 - **Receiver**
-	- receives segment from IP
-	- Checks UDP checksum header vlaue
-	- extracts application-layer message
-	- demultiplexes message up to application via socket
-- **UDP Segment Header**
-- 32 bit segments, including:
-	- segment 1: source port number & desk port number
-	- segment 2: length & checksum
-	- segment 3+: application data (payload)
-- UDP ***checksum*** is meant to detect flipped bits in transmitted segment
-	- Example: Transmitted first and second numbers are 5 and 6, making the sum 11
-		- Receiver first and second numbers re 4 and 6, making the checksum 10 ≠ 11
-		- An error will be detected
-	- This is not a perfect system, as sometimes both numbers change, and the checksum is the same
-## Principles of Reliable Data Transfer
+	- Compute checksum of received segment
+	- Check if computer checksum equals checksum field value
+		- ≠ --> Error detected
+		- = -> No error detected
+	- In some cases this is imperfect, as different combinations of values can have the same sum
+	- There are stronger methods of bit detection, but this is a good starting point
+# 3.4 - Principles of Reliable Data Transfer
+- We want to send via a reliable channel from sender to receiver
 - 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
