@@ -2,6 +2,38 @@
 - Transport services and protocols provide logical communication between application processes running on different hosts
 - Transport protocol actions in end systems
 	- Sender: breaks application messages into segments
+#### Transport vs. Network Services and Protocols
+- **Network**: Logical communication between hosts
+- **Transport**: Logical communication between processes
+	- Relies on, enhances, network layer services
+#### Transport Layer Actions
+- Sender...
+	- Is passed an application-layer message
+	- Determines segment header fields values
+	- Creates Segment
+	- Passes segment to IP
+- Receiver...
+	- Receives segment from IP
+	- Checks header values
+	- Extract application layer message
+	- Demultiplexes message up to application layer socket
+#### TCP and UDP Protocols
+- **TCP** - Transmission Control Protocol
+	- Reliable, in-order delivery
+	- Congestion control
+	- Flow control
+	- Connection Setup
+- **UDP** - User Diagram Protocol
+	- Unreliable, unordered
+	- No-frills extension of best effort IP
+- Services not available:
+	- No service has delay guarantees
+	- No bandwidth guarantees
+# 3.2 Multiplexing and Demultiplexing
+- An internet host has datagrams
+- The 
+
+
 
 
 
