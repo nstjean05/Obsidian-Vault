@@ -146,3 +146,42 @@
 	- Server leaves connection open after sending response
 - Client sends requests as soon as it encounters a referenced object
 - As little as 1 RTT for all the referenced objects
+#### HTTP Request Message
+- Request starts with a single line
+	- (Method name) (URL) (HTTP version) (carriage return char) (Newline)
+	- Ex. GET /index.html HTTP/1.1\r\n
+- Followed by a number of header lines, containing a lot of information about the host, user, language, encoding, etc.
+	- Ended with a blank line (\r\n)
+- General format:
+![567](Pasted%20image%2020261026232916.png)
+- As networking students, we don't have to know all these details
+- Common HTTP request messages:
+	- **POST**
+		- Web page often includes form input
+		- User input send from client to server in entity body of HTTP POST req message
+	- **GET**
+		- Sending data to a server
+	- **HEAD**
+		- Request headers (only) that would be returned *if* specific URL were requested with an HTTP GET method
+	- **PUT**
+		- Uploads a new file (object) to server
+		- Completely replaces the file that exists at specified URL with content in entity body of POST HTTP GET message
+#### HTTP Response Message
+- Responds with the status line and code
+- Followed with header lines, including added info
+- Followed by the data of the document itself
+- **Several status codes:**
+	- 200 = OK
+	- 301 = Moved Permanently
+		- New location specified later in this message
+	- 400 = Bad Request
+	- 404 = Not Found
+	- 505 = HTTP Version Not Supported
+#### Cookies
+- Allow websites and clients browser to maintain states between some interaction
+- Four components:
+	1. Cookie header line of HTTP response message
+	2. Cookie header line in next HTTP *request* message
+	3. Cookie file kept on user's host, managed by user's browser
+	4. Back-end DB at Web site
+- 
