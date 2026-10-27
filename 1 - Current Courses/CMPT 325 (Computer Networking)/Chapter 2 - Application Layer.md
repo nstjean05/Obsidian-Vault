@@ -218,4 +218,31 @@
 - **Performance**
 	- Access link utilization: 0.97
 	- LAN utilization: 0.0015
-	- end-end de
+	- end-end delay = internet delay + access link delay + LAN delay = 2s + min + u secs
+- Possible upgrades
+	- Upgrade accessing link to 154 Mbps, lowering utilization
+	- Local web cache
+- **With Cache**
+	- Suppose cache hit rate is 0.4
+		- 40% of requests served by cache, with very low delay
+	- 60% requests satisfied at origin
+		- Rate to browsers over access link
+			- = 0.6 • 1.5 Mbps = 0.9 Mbps
+		- Access link utilization = 0.9/1.54 - 0.58
+			- Low (msec) queuing delay at access link
+	- Average end-end delay
+		- = 0.6 • delay from origin + 0.4 • delay from cache = 0.6(2.01) + 0.4(msecs) = ~1.2 secs
+	- Lowers the average end to end delay, without breaking the bank
+#### Conditional GET
+- Alternative caching method
+- Don't send object if cache already has an up to date version
+	- No object transmission delay
+- Client will specify the date of cached copy in HTTP request
+- Server will send an empty response if the cached copy is up to date
+	- 304 Not Modified
+- If not up to date, sends 200 OK
+#### HTTP/2
+- Goal of decreasing delay in multi-object HTTP requests
+- Objects get priority, not just FIFO
+- Additional info like status codes, extra methods
+- Push
