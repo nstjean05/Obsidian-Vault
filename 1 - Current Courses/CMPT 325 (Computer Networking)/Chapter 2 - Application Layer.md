@@ -108,4 +108,41 @@
 - **HTTP uses TCP**
 	1. Client init TCP connection to server, port 80
 	2. Server accepts TCP connection from client
-	3. HTTP messages (application layer protocol) exchanged between 
+	3. HTTP messages (application layer protocol) exchanged between browser and Web server
+	4. TCP connection closed
+- HTTP is a stateless protocol
+	- Server maintains no information about past client requests
+	- Doesn't know about past steps
+	- This keeps it simple, doesn't need to deal with cleanup on failure
+#### HTTP Connection Types
+- **Non-Persistent**
+	1. TCP Connection Opened
+	2. At most one object sent over TCP connectino
+	3. TCP connection closes
+	- Downloading multiple objects required multiple connections
+- **Persistent HTTP**
+	- TCP connection opened to a server
+	- Multiple objects are sent over a single TCP connection between client and server
+	- TCP connection is closed
+	- This is HTTP v. 1.1, the most common type in use today
+#### Non-Persistent HTTP Ex.
+1. HTTP client initiates TCP connection @80, HTTP host accepts the TCO connection @80
+2. HTTP client sends HTTP request message, indicating the desired object
+3. HTTP server receives the request, forms a response message containing the object, sending it back into its socket to the client.
+4. HTTP server closes TCP connection
+5. HTTP client receives the response containing the HTML file, finding the referenced JPEG object
+6. Repeat steps 1-5 for each of the 10 JPEG objects
+- RTT (Round trip time)
+	- Time needed for a very small packet to go client --> server --> client
+![413](Pasted%20image%2020261026232258.png)
+- **Response Time:** 2RTT + file transmission time
+- **Issues**
+	- Requires 2 RTTs per object
+	- OS overhead for each TCP connection
+	- Browsers often open multiple connections to fetch objects in parallel
+#### Persistent HTTP Ex.
+- HTTP 1.1
+- Subsequent HTTP messages between same client and server are sent over an open connection
+	- Server leaves connection open after sending response
+- Client sends requests as soon as it encounters a referenced object
+- As little as 1 RTT for all the referenced objects
