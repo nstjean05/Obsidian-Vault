@@ -58,9 +58,29 @@
 	- Checks destination port # in segment
 	- Directs UDP segment to socket with that port #
 - IP/UDP datagrams with same destination port #, but different source IP addresses and/or source port numbers will be directed to the same socket at receiving host
-	- UDP demultiplexing only happens on the basis
-
-
+	- UDP demultiplexing only happens on the basis of the destination port number
+![451](Pasted%20image%2020261027152601.png)
+- On the other side...
+	- P1 --> P4, Source: 6428, Dest: 5774
+	- P4 --> P1, Source: 5774, Dest: 6428
+#### TCP Connection-Oriented Demultiplexing
+- TCP socket identified by 4-tuple
+	1. Source IP
+	2. Source port number
+	3. Dest IP
+	4. Dest port number
+- Demux: (demultiplexing)
+	- Receiver uses all four values to direct segment to appropriate socket
+- Server may support many simultaneous TCP sockets
+	- Each identified by its own 4-tuple
+	- Each associated with a different connecting client process
+![449](Pasted%20image%2020261027153113.png)
+- Notice that the destination port number, in all diagrams, is 80
+- In **UDP**, we would have demultiplexed solely on the basis of that destination port number
+	- In **TCP**, because it is connection oriented, we demultiplex on the 4-tuple
+	- Each of the 4-tuples of the 3 messages arriving are unique
+# 3.3 Connectionless Transport: UDP
+- 
 
 
 
