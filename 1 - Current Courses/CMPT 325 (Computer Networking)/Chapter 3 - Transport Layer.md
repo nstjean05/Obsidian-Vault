@@ -149,9 +149,20 @@
 	3. Receiver, waiting, receives the packet
 	4. Extracts the packet data
 	5. Delivers the data to the machine
-#### RDT 2.0 - Channel with Bit Errors
-
-
+#### RDT 2.0 - Channel With Bit Errors
+- Underlying channel may flip bits in packet
+	- How do we recover from errors?
+- Acknowledgements (yes) and negative acknowledgements (no) are used in human communications
+	- ACKs - Receiver tells sender that pkt received OK
+	- NAKs - Receiver explicitly tells sender that pkt had errors
+		- Sender then retransmits pkt on receipt of NAK
+- Stop and wait method: sender sends a packet, then waits for a response
+![466](Pasted%20image%2020261027161210.png)
+- One major flaw: What happens when ACK/NAK is corrupted
+	- Can't just retransmit, or we get duplicates
+- Handling duplicates
+	- Sender retransmits current pkt if ACK/NAK corrupted
+	- Sender adds a sequ
 
 
 
