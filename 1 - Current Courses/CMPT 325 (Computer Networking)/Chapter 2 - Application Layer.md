@@ -505,4 +505,19 @@
 - Receiver extracts sender UP and port # from received packet
 - Transmitted data may be lost or received out of order
 - Provides unreliable transfer of datagrams (groups of bytes) between client and server processes
--  
+#### TCP Socket Programming
+- Client must contact server
+	- Server process must already be running
+	- Server must have created a socket that welcomes client's contact
+- Client contacts server by
+	- Creating TCP socket
+	- Specifying IP address
+	- Port number of server process
+	- When client creates socket, it must establish a TCP connection to the server's TCP
+- When contacted by client, server TCP creates a new socket for that particular client
+	- Allows server to talk with multiple clients
+	- Source port numbers to distinguish clients.
+- A new socket is created every time there is a new TCP connection
+	- Like a pipe
+	- Reliable byte-stream transfer
+- As soon as the connection is established at the server's listening socket, a new socket is created (often with the same name) for the communication
