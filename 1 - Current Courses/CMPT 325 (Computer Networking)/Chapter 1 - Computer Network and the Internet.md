@@ -238,7 +238,30 @@
 - A network scenario:
 ![](Pasted%20image%2020261026215448.png)
 - You can imagine it as three pipes going through one main pipe and splitting back into three
-- Let's say that R has a fair share between 10 connections
+- Let's say that R has a fair share between 10 connections at R bits/s
+	- Per connection end-end throughput
+		- min(R$_C$, R$_S$, R / 10)
+	- In practice: R$_C$ or R$_S$ is smaller than R/N
+		- Bottleneck link is therefore at the network edge
+- Bottlenecks tend to be at the edge of the network.
+# Layering, Services, & Encapsulation
+- Airline travel is a good example of a frequently used complex system
+	- It can be thought of a series of steps
+	- Ticket, baggage, gates, takeoff, etc...
+	- Flight
+	- Landing, gates, baggage, departure
+	- Each has its match on the other end of the trip (layers)
+- Layered internet protocol stack
+	1. Application: supporting network applications (HTTP, IMAP, SMTP, DNS)
+	2. Transport: Process-process data transfer (TCP, UDP)
+	3. Network: Routing of datagrams from source to destination (IP, routing protocols)
+	4. Link: Data transfer between neighbouring network elements (ethernet, 802.11 WiFi, PPP)
+	5. Physical: 'Bits on the wire'
+
+
+
+
+
 
 # Security
 
