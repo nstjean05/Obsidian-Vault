@@ -80,7 +80,51 @@
 	- In **TCP**, because it is connection oriented, we demultiplex on the 4-tuple
 	- Each of the 4-tuples of the 3 messages arriving are unique
 # 3.3 Connectionless Transport: UDP
-- 
+- **UDP**: User Datagram Protocol
+	- No-frills, bare bones, internet transport protocol
+	- Best effort service, and UDP segments may be lost or delivered out of order
+	- **Connectionless**:
+		- No handshaking between UDP sender and receiver
+		- Each UDP segment handled independently of others
+- Given how simple it is, why does it exist?
+	- No connection establishment delay
+	- Simple, no connection state
+	- Small header size
+	- No congestion control
+		- UDP can blast away as fast as desired
+		- Can function in the face of congestion
+- Usage of UDP in:
+	- Streaming multimedia apps
+	- DNS
+	- SNMP
+	- HTTP/3
+	- If reliable transfer is needed over UDP, (HTTP/3)
+		- Add needed reliability at application layer
+		- Add congestion control at application layer
+- UDP is outlined in RFC 768, 1980
+#### UDP Transport Layer Actions
+- **Sender Actions**
+	- Is passed an application-layer message
+	- Determines UDP segment header fields values
+	- Creates UDP segment
+	- Passes segment to IP
+		- IP then forwards the datagram to the receiving IP host
+- **Receiver Actions**
+	- Receives segment from IP
+	- Checks UDP checksum header value
+	- Extracts application-layer message
+	- Demultiplexes message up to applications via socket
+#### UDP Segment Header
+- Only 4 fields + payload
+- Length --> Length of payload
+![284](Pasted%20image%2020261027154117.png)
+#### Internet Checksum Field
+- Goal is to detect errors (flipped bits) in transmitted segment
+![275](Pasted%20image%2020261027154241.png)
+- **Sender**
+	- Treat contents of UDP segment as a sequence of 16-bit integers
+	- Checksum: Addition of segment content
+	- Checksum value put into UDP checksum field
 
 
 
