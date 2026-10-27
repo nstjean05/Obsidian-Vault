@@ -307,3 +307,49 @@
 - HTTP - gmail, hotmail, Yahoo, etc.
 	- Provides a web-based interface on top of SMTP (to send), IMAP (or POP) to retrieve
 # 2.4 - Domain Name System (DNS)
+- DNS is able to distribute its services at scale with relative efficiency
+- It is an application-layer service, using TCP and UDP
+#### DNS Structure & Function
+- DNS is all about names and identifiers
+	- *People* have many such identifiers, SSN, name, passport number
+	- *Internet hosts and routers* have identifiers too
+		- IP address, used to address datagrams
+		- Name, used by humans (URL)
+- **DNS**
+	- Distributed DB implemented in hierarchy of many name-servers
+	- Application layer protocol: hosts, DNS servers communicate to resolve names (address/name translation)
+	- Core internet function, implemented as application layer protocol
+	- Complexity at network's edge (rather than routers and switches in the network)
+		- This is a consistent design philosophy
+- **DNS Services and Structure**
+	- Services
+		- Hostname-to-IP-address translation
+		- Host aliasing
+			- Canonical, alias names
+		- Mail server aliasing
+		- Load distribution
+- Why not a central approach:
+	- Single point of failure
+	- Traffic volume
+	- Distant central DB (slow)
+	- Maintenance
+- DNS is an enormous distributed database
+- Handles trillions of queries per day
+- Very decentralized
+	- Millions of different organizations responsible for their records
+#### A Hierarchical DB
+- Root DNS servers direct to top-level domains, followed by authoritative domains
+- Ex. Client wants IP address for www.amazon.com
+	1. Client queries the root server to find .com DNS server
+	2. Client queries .com DNS server to get amazon.com DNS server
+	3. Client queries amazon.com DNS server to get IP address for amazon.com
+- **Root Servers**
+	- Official, contact of last resort by name servers that cannot resolve a name
+	- Incredible important internet function
+
+
+
+
+
+#### Resolving DNS Queries
+
