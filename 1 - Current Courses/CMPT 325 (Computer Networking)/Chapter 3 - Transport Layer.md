@@ -134,9 +134,22 @@
 	- There are stronger methods of bit detection, but this is a good starting point
 # 3.4 - Principles of Reliable Data Transfer
 - We want to send via a reliable channel from sender to receiver
-- 
-
-
+- Consider only unidirectional data transfer
+	- Sender and receiver only know about what the other is doing by what the other tells them
+#### RDT 1.0. - Reliable transfer, Reliable Channel
+- Underlying channel perfectly reliable
+	- No bit errors
+	- No loss of packets
+- *Separate* FSMs (finite state machines) for sender and receiver
+	- Sender sends data into underlying channel
+	- Receiver reads data from an underlying channel
+- Steps transfer:
+	1. Sender gets data and bundles it in a packet
+	2. Sends the packet into the reliable channel
+	3. Receiver, waiting, receives the packet
+	4. Extracts the packet data
+	5. Delivers the data to the machine
+#### RDT 2.0 - Channel with Bit Errors
 
 
 
