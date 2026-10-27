@@ -95,4 +95,17 @@
 	- Data integrity
 	- Endpoint auth
 # 2.2 Web and HTTP
-- 
+#### Review
+- Web page consists of objects, each of which can be stored on different Web servers
+- Object can be an HTML file, JPEG image, Java applet, audio, etc
+- Web page consists of base HTML-file, which includes several referenced objects, each addressable by a URL, e.g.
+	- www.someschool.ed/someDept/pic.gif
+	-        Hostname                Path name
+#### HTTP Overview
+- Uses the client-server model
+- Client is a browser that request, receives, and displays web objects using HTTP
+- Server sends objects using HTTP in response to requests
+- **HTTP uses TCP**
+	1. Client init TCP connection to server, port 80
+	2. Server accepts TCP connection from client
+	3. HTTP messages (application layer protocol) exchanged between 
