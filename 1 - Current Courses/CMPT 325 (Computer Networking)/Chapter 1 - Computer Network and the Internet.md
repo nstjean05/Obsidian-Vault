@@ -1,4 +1,4 @@
-#incomplete 
+#complete 
 # Videos
 - 1.1 - https://www.youtube.com/watch?v=74sEFYBBRAY
 	- Intro
