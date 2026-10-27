@@ -257,13 +257,12 @@
 	3. Network: Routing of datagrams from source to destination (IP, routing protocols)
 	4. Link: Data transfer between neighbouring network elements (ethernet, 802.11 WiFi, PPP)
 	5. Physical: 'Bits on the wire'
-
-
-
-
-
-
+- These layers each add information (headers) as the data moves down from app --> physical, and then undo themselves in reverse order at the destination end
 # Security
+
+
+
+
 
 
 # Protocol Layers, Service Models
