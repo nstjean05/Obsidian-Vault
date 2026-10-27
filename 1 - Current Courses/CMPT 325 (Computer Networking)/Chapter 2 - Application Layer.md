@@ -490,4 +490,19 @@
 	- An application level service, running on top of the ISP infrastructure
 # 2.7 - Socket Programming
 - Sockets are the only API that is available between application layer code and the transport layer services beneath it
-- 
+- Two socket types for two transport services;
+	1. UDP: Unreliable datagram
+	2. TCP: Reliable, byte stream-oriented
+- Example
+	1. Client reads data from its keyboard and sends it to the server
+	2. Server receives data and converts characters to uppercase
+	3. Server sends modified data to client
+	4. Client receives modified data and displays a line on screen
+#### UDP Socket Programming
+- No connection between client and server
+- No handshaking before sending data
+- Sender explicitly attaches IP destination address and port # to each packet
+- Receiver extracts sender UP and port # from received packet
+- Transmitted data may be lost or received out of order
+- Provides unreliable transfer of datagrams (groups of bytes) between client and server processes
+-  
