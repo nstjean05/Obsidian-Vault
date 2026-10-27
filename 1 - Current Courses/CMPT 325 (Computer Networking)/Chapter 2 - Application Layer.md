@@ -365,9 +365,40 @@
 		- MacOS: % scutil --dns
 		- Windows: >ipconfig /all
 #### Resolving DNS Queries
-- Iterated query
+- **Iterated query**
 	- Contacted server replies with name of server to contact
-		- "I don't know this name, but ask this s"
-
-
-
+		- "I don't know this name, but ask this server"
+	- This uses a lot of traffic, and DNS caching can speed this up
+![380](Pasted%20image%2020261027113749.png)
+- **Recursive Query**
+	- Puts burden of name resolution on contacted name server
+	- Heavy load at upper levels of the hierarchy
+![377](Pasted%20image%2020261027113947.png)
+#### Caching DNS Information
+- Once any name server learns mapping, it caches mapping, and immediately returns a cached mapping in response to a query
+	- Improves response time
+	- Cache entries time out (TTL - time to live)
+	- TOLD servers usually cached in local name servers
+- Cached entries may be out of date
+	- If named host changes the IP address, may not be known internet wide until all TTLs expire
+	- Best-effort name to address translation
+	- No need for a costly and complicated mechanism to purge info from caches
+#### DNS Records
+- DNS: Distributed database storing resource records (RR)
+	- RR Format: name, value, type, ttl
+- Type = A
+	- Name is hostname
+	- Value is IP address
+- Type = NS
+	- Name is domain
+	- *Value* is hostname of authoritative name server for this domain
+- Type = CNAME
+	- Name is alias name for some canonical name
+		- Ex. www.IBM.com is really servereast.backup2.ibm.com
+- Type = MX
+	- Value is the name of SMTP mail server associated with the name
+#### DNS Protocol Messages
+- DNS query and reply messages, both with the same format
+- Header includes ID info, and flags for query/reply, recursion, etc.
+![238](Pasted%20image%2020261027114640.png)
+- 
