@@ -277,4 +277,33 @@
 ![](Pasted%20image%2020261027000522.png)
 #### SMTP RFC 5321
 - Uses TCP to reliably transfer email message from client to server, port 25
-- Email messages are transferred directly from sending 
+- Email messages are transferred directly from sending to receiving servers
+- Three phases of transfer:
+	1. SMPT handshaking (greeting)
+	2. SMTP transfer of message
+	3. SMTP closure
+- Command/response interaction (like HTTP)
+	- Commands: ASCII text
+	- Response: Status code and phrase
+#### SMTP Observations
+- HTTP: Client Pull
+- SMTP: Client Push
+- Both have ASCII command/response interaction, status codes
+- HTTP: each object is encapsulated in its own response message
+- SMTP: multiple objects sent in multipart message
+- SMTP: Persistent connections
+- SMTP: Requires messages in 7-bit ASCII
+	- Terminated with a line with only a period
+- SMTP: protocol for exchanging email messages, defined in RFC 5321
+	- Header lines
+	- To:
+	- From:
+	- Subject:
+	- Contents:
+#### Retrieving Email
+- SMTP - Delivery and storage of email to receiver server
+- IMAP - Internet Mail Access Protocol
+	- Messages stored on server, IMAP provides retrieval, deletion, folders of stored messages on the server
+- HTTP - gmail, hotmail, Yahoo, etc.
+	- Provides a web-based interface on top of SMTP (to send), IMAP (or POP) to retrieve
+# 2.4 - Domain Name System (DNS)
