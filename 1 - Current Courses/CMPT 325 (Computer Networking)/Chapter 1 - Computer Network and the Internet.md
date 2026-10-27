@@ -275,13 +275,54 @@
 		1. Select target
 		2. Break into network
 		3. Send packets to the net from compromised hosts
-#### Defense
-- 
-
-
-
-
-# Protocol Layers, Service Models
-
-
+#### Defence
+- Authentication
+	- Prove who you are before access
+- Confidentiality
+	- Encryption
+- Integrity checks
+	- Digital signatures prevent and detect tampering
+- Access restrictions
+	- Password-protected VPNs
+- Firewalls
+	- Specialized 'middleboxes' in access and core networks
+	- Filter incoming packets etc.
 # History
+#### 1961-1972
+- Telephone network is dominant
+- 1961 - Kleinrock's queuing theory shows effectiveness of packet switching
+- 1964 - Baran's packet switching in military nets
+- 1967 - ARPAnet 
+- 1969 - First ARPAnet nodes
+#### 1972-1980
+- 1970 - ALOHAnet satellite network in Hawaii
+- 1974 - Cerf and Kahn paper on architecture for interconnecting netoworks
+	- Focus on minimalism, autonomy
+	- Best-effort sercvice
+	- Stateless routing
+	- Decentralized control
+- 1976 - Ethernet at Xerox PARC
+- late 70s - Proprietary architectures like DECnet, SNA, XNA
+#### 1980-1990
+- 1983 - Deployment of TCP/IP
+- 1982 - SMTP email protocl
+- 1983 - DNS defined for name to IP address translation
+- 1985 - FTP protocol defined
+- 1988 - TCP congestion control
+#### 1990-2000s
+- 1990s - ARPAnet decomissioned
+- 1991 - NSD lifts restrictions on commercial use of NSFnet
+	- ADs in emails allowed
+- 1990s - Web
+	- Berner's Lee
+	- Hypertext
+	- HTML, HTTP
+- 1994 - Mosaic, Netscape
+- Commercialization of the web
+- More killer apps
+- Network security is front of mind
+- 50M hosts, 100M+ users
+#### 2005-now
+- Aggressive deployment of broadband home access
+- 2008 - software defined networking
+- Ubiquity of high speed wir
