@@ -345,11 +345,29 @@
 	3. Client queries amazon.com DNS server to get IP address for amazon.com
 - **Root Servers**
 	- Official, contact of last resort by name servers that cannot resolve a name
-	- Incredible important internet function
-
-
-
-
-
+	- Incredible important internet function, without which everything would break
+	- DNSSEC provides security
+	- ICANN - Internet Corporation for Assigned Names and Numbers
+		- Manage root DNS domain
+- **Top Level Domain (TLD)**
+	- Each of the root servers at the top level domain is responsible for resolving one of the addresses of a TLD server (.com, .net, etc.)
+	- Country level domains, .us, .ca, .fr, etc.
+- **Authoritative DNS Servers**
+	- Organization's own DNS server(s), providing authoritative hostname to IP mappings for orgs named hosts
+	- Can be maintained by organization or service provider
+![](Pasted%20image%2020261027113300.png)
+- **Local DNS Server**
+	- When host makes a DNS query, it is sent to its local DNS server
+	- Local DNS server returns reply, answering:
+		- From its local cache of recent name-address translation pairs
+		- Forwarding request into DNS hierarchy for resolution
+	- Each ISP has a local DNS name server
+		- MacOS: % scutil --dns
+		- Windows: >ipconfig /all
 #### Resolving DNS Queries
+- Iterated query
+	- Contacted server replies with name of server to contact
+		- "I don't know this name, but ask this s"
+
+
 
