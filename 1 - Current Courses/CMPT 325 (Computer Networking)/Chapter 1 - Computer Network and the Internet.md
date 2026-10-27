@@ -218,7 +218,27 @@
 		- Send 3 packets that will reach router i on path towards destination
 		- Router i will return packets to the sender
 		- Sender measures time interval between transmission and reply
-- 
+#### Packet Loss
+- Queue (buffer) - Preceding link in buffer has finite capacity
+- Packet arriving to a full queue dropped (lost)
+- Lost packet may be retransmitted by a previous node, by source end system, or not at all
+#### Throughput
+- Rate in bits per second at which bits are being sent from sender to receiver
+	- Instantaneous: rate at given point in time
+	- Average: rate over longer period of time
+- Steps:
+	1. Server sends bits (fluid) into pipe
+	2. Pipe that can carry fluid at a rate of R1 bits/s
+	3. Arrives at first link
+	4. Pipe that can carry fluid at rate R2 bits/s'
+	5. Arrives at endpoint
+- Average throughput is limited to the the smaller pipe, whether R1 or R2
+	- Bottleneck link
+![](Pasted%20image%2020261026215419.png)
+- A network scenario:
+![](Pasted%20image%2020261026215448.png)
+- You can imagine it as three pipes going through one main pipe and splitting back into three
+- Let's say that R has a fair share between 10 connections
 
 # Security
 
