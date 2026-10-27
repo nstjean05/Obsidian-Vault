@@ -455,4 +455,37 @@
 	- Divides video into chunks
 	- Chunks encoded at different rates
 	- Different rate encodings stored in different files
-	- Files replicated in various 
+	- Files replicated in various CDN (server) nodes
+	- Manifest file: provides URLs for different chunks
+- **Client**
+	- Periodically estimate the amount of server-client bandwidth
+	- Consulting manifest, requesting one chunk at a time
+		- Chooses the maximum coding rate sustainable given current bandwidth
+		- Can choose various encoding rates at different points, and from different servers
+- *Intelligence* at client determines:
+	- When to request chunk
+	- What encoding rate to request
+	- Where tor request chunk from
+#### Content Distribution Networks (CDNs)
+- How to stream contents from millions of videos, to hundreds of thousands of simultaneous users
+1. Single, large, mega-server
+	- Single point of failure
+	- Congestion
+	- Long path to distant clients
+	- Poor scaling
+2. Distributed Infrastructure (CDN)
+	- Store and server multiple copies of videos at multiple geographically distributed sites
+	- 2 Approaches to CDN
+	1. **Enter Deep**
+		- Push CDN servers deep into many access networks
+		- Close to users
+	2. **Bring Home**
+		- Small number (10s) of larger clusters in POPs near access nets
+- Streaming video via CDN
+	- CDN stores copies of content at CDN nodes
+	- Subscriber requests content, service provider returns manifest
+		- Using manifest, client retrieves content at highest supportable rate
+		- May choose a diff rate or copy if network path congested
+- OTT: Over the top
+	- An application level service, running on top of the ISP infrastructure
+# 2.6 - Socket Programming
