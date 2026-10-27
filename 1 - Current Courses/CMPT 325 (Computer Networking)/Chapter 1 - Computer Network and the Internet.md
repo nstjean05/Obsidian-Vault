@@ -259,8 +259,24 @@
 	5. Physical: 'Bits on the wire'
 - These layers each add information (headers) as the data moves down from app --> physical, and then undo themselves in reverse order at the destination end
 # Security
-
-
+- Internet was originally designed for a group of mutually trusting users, on a transparent network
+	- Internet protocol designers have been playing catch-up
+	- Security is considered at each layer
+#### Interception
+- Packet sniffing
+	- Broadcast media (shared Ethernet, wireless)
+	- Promiscuous network interface reads and records all packets that pass it
+- IP Spoofing
+	- Injection of a packet with false source address
+	- Similar to how you might get a phishing email, claiming to be from someone it isn't
+#### Denial of Service
+- DoS
+	- Attackers make resources (server, bandwidth) unavailable to legitimate traffic by overwhelming with bogus traffic
+		1. Select target
+		2. Break into network
+		3. Send packets to the net from compromised hosts
+#### Defense
+- 
 
 
 
