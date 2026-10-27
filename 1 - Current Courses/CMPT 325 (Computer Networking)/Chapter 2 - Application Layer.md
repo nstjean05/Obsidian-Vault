@@ -245,4 +245,36 @@
 - Goal of decreasing delay in multi-object HTTP requests
 - Objects get priority, not just FIFO
 - Additional info like status codes, extra methods
-- Push
+- Push unrequested methods to client
+- Large objects are split into frames, and can be mixed in with other objects
+	- Gets more objects transmitted faster
+#### HTTP/3
+- Added security
+- Per-object error and congestion control over UDP
+# 2.3 Email
+- 3 Major components
+	1. User agents
+	2. Mail servers
+	3. Simple mail transfer protocol (SMTP)
+- **User Agents**
+	- a.k.a. mail reader
+	- Composing, editing, reading mail messages
+	- Outlook, Gmail, etc.
+	- Outgoing and incoming messages are stored on a server
+- **Email Servers**
+	- Mailbox containing incoming messages for user
+	- Message queue of outgoing mail messages
+	- SMTP Protocol between mail servers to send email messages
+		- Client: sending mail server
+		- Server: receiving mail server
+#### Example Email
+1. Alice uses gmail to compose email message to bob@someschool.edu
+2. Alice's gmail sends message to her mail server using SMTP; message placed in message queue
+3. Client side of SMTP at mail server opens TCP connection with Bob's mail server
+4. SMTP client sends Alice's message over the TCP connection
+5. Bob's mail server places the message in Bob's mailbox
+6. Bob invokes his user agent to read message
+![](Pasted%20image%2020261027000522.png)
+#### SMTP RFC 5321
+- Uses TCP to reliably transfer email message from client to server, port 25
+- Email messages are transferred directly from sending 
