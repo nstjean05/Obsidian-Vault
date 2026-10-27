@@ -184,4 +184,38 @@
 	2. Cookie header line in next HTTP *request* message
 	3. Cookie file kept on user's host, managed by user's browser
 	4. Back-end DB at Web site
-- 
+- Example:
+![](Pasted%20image%2020261026233816.png)
+- There are many uses for cookies
+	- Authentication
+	- Recommendations
+	- Shopping carts
+	- User sessions state
+- Challenges around cookies and privacy
+	- Cookies permit sites to learn a lot about you on their site
+	- Third party persistent tracking cookies
+#### Web Caching
+- Satisfies the clients requests without involving the origin server
+- User configures a local browser to point to a local *web cache*
+- Browser sends all HTTP req to cache
+	- If object is in cache, it returns the object to the client
+	- Else, cache request object, caches received object, then returns the object to the client
+- Can act as both a client and a server
+	- Server for original requesting client
+	- Client to origin server
+- Server tells cache about objects allowable caching in response header
+	- If it can be cached
+	- How long it can be cached for
+- Reduces response time for request
+- Reduce traffic
+- Internet is dense with caches, allowing worse providers better service
+#### Caching Example
+- Access link rate of 1.54 MBPS
+- RTT from institutional router to server: 2 sec
+- Web object size: 100K bits
+- Avg request rate from browsers to origin: 15/sec
+	- Avg data rate to browsers: 1.5 Mbps
+- **Performance**
+	- Access link utilization: 0.97
+	- LAN utilization: 0.0015
+	- end-end de
