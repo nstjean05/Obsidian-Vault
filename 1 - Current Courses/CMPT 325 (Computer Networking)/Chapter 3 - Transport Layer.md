@@ -1,3 +1,35 @@
+# 3.1 Introduction and Transport-Layer Services
+- Transport services and protocols provide logical communication between application processes running on different hosts
+- Transport protocol actions in end systems
+	- Sender: breaks application messages into segments
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## Connectionless Transport: UDP
 - **User Diagram Protocol - UDP**
 - A no-frills internet transport protocol
