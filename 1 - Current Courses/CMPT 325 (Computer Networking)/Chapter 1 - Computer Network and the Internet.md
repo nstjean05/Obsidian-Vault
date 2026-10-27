@@ -234,9 +234,9 @@
 	5. Arrives at endpoint
 - Average throughput is limited to the the smaller pipe, whether R1 or R2
 	- Bottleneck link
-![](Pasted%20image%2020261026215419.png)
+![](z.%20Images/Pasted%20image%2020261026215419.png)
 - A network scenario:
-![](Pasted%20image%2020261026215448.png)
+![](z.%20Images/Pasted%20image%2020261026215448.png)
 - You can imagine it as three pipes going through one main pipe and splitting back into three
 - Let's say that R has a fair share between 10 connections at R bits/s
 	- Per connection end-end throughput
