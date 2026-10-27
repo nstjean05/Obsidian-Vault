@@ -430,4 +430,29 @@
 	- MPEG 1, 1.5 Mbps, CD-ROM
 	- MPEG 2, 3-6 Mbps, DVD
 	- MPEG 4, 65Kbps-12Mbps, Internet
-- 
+#### Streaming Stored Video
+- Bandwidth between client and server will vary over time
+- Packet loss and delay due to congestion with delay play, or decrease video quality
+	1. Video is recorded
+	2. Sent by server
+	3. Played by client
+- Frames are sent in the order they were recorded
+- Video can still be filmed, sent, and played all at the same time
+	- Client playing an earlier part while server is sending a later part
+- Continuous play-out constraint:
+	- During client video playout, playout timing must match original timing
+	- But network delays are variable
+	- Buffering can be used to absorb some of the changes in delay
+- Other challenges
+	- Client interactivity (pause, fast forward, etc.)
+	- Video packets may be lost and retransmitted
+![543](Pasted%20image%2020261027120352.png)
+- You want to buffer as little video as possible, without dropping service
+#### Streaming multimedia: DASH
+- When buffering isn't enough to feed the client all the data they're asking for
+- DASH - Dynamic, Adaptive Streaming over HTTP
+- **Server**
+	- Divides video into chunks
+	- Chunks encoded at different rates
+	- Different rate encodings stored in different files
+	- Files replicated in various 
