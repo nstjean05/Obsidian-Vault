@@ -325,4 +325,7 @@
 #### 2005-now
 - Aggressive deployment of broadband home access
 - 2008 - software defined networking
-- Ubiquity of high speed wir
+- Ubiquity of high speed wireless 4G/5G/WiFi
+- Service providers creating their own networks
+- Enterprises run their services in cloud
+- Rise of smartphones and emphasis on mobility
