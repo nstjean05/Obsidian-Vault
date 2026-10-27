@@ -488,4 +488,6 @@
 		- May choose a diff rate or copy if network path congested
 - OTT: Over the top
 	- An application level service, running on top of the ISP infrastructure
-# 2.6 - Socket Programming
+# 2.7 - Socket Programming
+- Sockets are the only API that is available between application layer code and the transport layer services beneath it
+- 
