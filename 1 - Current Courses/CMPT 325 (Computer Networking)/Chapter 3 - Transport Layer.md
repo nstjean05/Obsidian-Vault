@@ -221,6 +221,21 @@
 - Example: 1Gbps link, 15 ms prop delay, 8000 bit packet
 	- Time to transmit packet into channel:
 		- D_trans = L/R = 8000 bits/ 10$^9$ bits/sec = 8 microseconds
+#### Go Back N: Sender
+- Sender: window of up to N, consecutive transmitted but unACKed pkts
+	- K-bit sequence number in pkt header
+- Cumulative ACK(n): ACKs all packets up to, and including seq num n
+	- On receiving ACK(n): move window forward and begin at n+1
+- Timer for oldest in-flight packet
+- Timeout(n): Retransmit packet n and all higher seq num packets in window
+#### Go Back N: Receiver
+- ACK only: Always send ACK for correctly-received packet so far, with highest in-order seq num
+	- May generate duplicate ACKs
+	- Need only remember rcv_base
+- On receipt of out of order packet,
+	- Can discard (don't buffer) or buffer - an implementation decision
+	- re-ACK pkt with highest in-order seq num
+![509](Pasted%20image%2020261027174702.png)
 
 
 
