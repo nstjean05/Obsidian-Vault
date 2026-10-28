@@ -260,9 +260,45 @@
 	- Otherwise, ignore
 ![490](Pasted%20image%2020261027175500.png)
 # 3.5 - Connection-Oriented Transport (TCP)
-
-
-
+#### TCP Overview
+- Point to point
+	- One sender, one receiver
+- Reliable, in-order byte stream
+	- no message boundaries
+- Full duplex data
+	- Bi directional data flow in the same connection
+	- MSS: Maximum segment size
+- Cumulative ACks
+- Pipelining
+	- TCP Congestion and flow control set window size
+- Connection oriented
+	- Handshaking initializes sender, receiver state before data exchange
+- Flow controlled
+	- Sender will not overwhelm receiver
+![555](Pasted%20image%2020261027190354.png)
+#### TCP Sequence Numbers, ACKs
+- Sequence Numbers
+	- Byte stream 'number' of first byte in segment's data
+- Acknowledgements
+	- Sequence number of next byte expected from the other side
+	- Cumulative ACK
+- TCP spec doesn't decide how to handle out of order packets
+![](Pasted%20image%2020261027190659.png)
+- Sequence numbers go up alternating
+	- ACK goes up on each send from A --> B
+	- Seq goes up on each send B --> A
+#### TCP Round Trip Time and Timeout
+- How to set TCP timeout value?
+	- Longer than RTT, but RTT varies
+	- Too short: premature timeout, unnecessary retransmission
+	- Too long: Slow reaction to segment loss
+- How to estimate RTT?
+	- SampleRTTs
+		- Measured time from segment transmission until ACK receipt
+			- Ignore retransmissions
+		- Will vary, want estimated RTT to be smoother
+			- Average several recent measurements, not just current SampleRTT
+- 
 
 
 
