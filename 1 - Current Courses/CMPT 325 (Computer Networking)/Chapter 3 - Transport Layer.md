@@ -360,8 +360,41 @@
 - Guarantees receive buffer will not overflow
 #### TCP Connection Management
 - Before exchanging data, sender/receiver 'handshake'
-	- 
+	- Agree to establish connection
+	- Agree on connection parameters
+- Will a 2-way handshake always work in a network?
+	- variable delays
+	- Retransmitted messages due to message loss
+	- Message reordering
+	- Can't 'see' the other side
+#### 2-Way Handshake Scenarios
+- Flawless scenario:
+![345](Pasted%20image%2020261027193213.png)
+- Server is left hanging open with an established connection, but the client has already completed its work and terminated
+![277](Pasted%20image%2020261027193450.png)
+- A connection has been re-established, and data retransmitted, but the connection is left open and duplicate data is accepted
+![275](Pasted%20image%2020261027193548.png)
+#### TCP 3-Way Handshake
+![](Pasted%20image%2020261027193853.png)
+#### TCP 3-Way Handshake
+- **Setup**
+	- **Server:** creates socket → `bind()` → `listen()` → waits in **LISTEN** state, then `accept()`
+	- **Client:** creates socket → calls `connect((serverName, serverPort))`
+- *The 3 Steps*
 
+|Step|Who|Message|Meaning|
+|---|---|---|---|
+|1|Client → Server|`SYNbit=1, Seq=x`|"I want to connect" — client picks random initial seq # x|
+|2|Server → Client|`SYNbit=1, Seq=y; ACKbit=1, ACKnum=x+1`|"Agreed — and I'm alive too" — server picks its own seq # y, ACKs client's SYN|
+|3|Client → Server|`ACKbit=1, ACKnum=y+1`|"Confirmed" — final ACK; **may also carry client-to-server data**|
+- State Transitions
+	- **Client:** `CLOSED` → **SYNSENT** (after sending SYN) → **ESTAB** (after receiving SYNACK)
+	- **Server:** **LISTEN** → **SYN RCVD** (after receiving SYN) → **ESTAB** (after receiving ACK)
+- Why It Works
+	- Server learns client is **live** when it receives the SYNACK's ACK
+	- Client learns server is **live** as soon as the SYNACK arrives
+	- Both sides agree on **initial sequence numbers** (x, y), which sync byte ordering and detects old/duplicate segments
+	- After step 3, both are in **ESTAB** and data can flow in both directions
 
 
 
