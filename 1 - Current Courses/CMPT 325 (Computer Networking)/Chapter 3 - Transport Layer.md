@@ -376,7 +376,6 @@
 ![275](Pasted%20image%2020261027193548.png)
 #### TCP 3-Way Handshake
 ![](Pasted%20image%2020261027193853.png)
-#### TCP 3-Way Handshake
 - **Setup**
 	- **Server:** creates socket → `bind()` → `listen()` → waits in **LISTEN** state, then `accept()`
 	- **Client:** creates socket → calls `connect((serverName, serverPort))`
@@ -395,7 +394,15 @@
 	- Client learns server is **live** as soon as the SYNACK arrives
 	- Both sides agree on **initial sequence numbers** (x, y), which sync byte ordering and detects old/duplicate segments
 	- After step 3, both are in **ESTAB** and data can flow in both directions
-
+#### Closing a TCP Connection
+- Client, server each close their side of connection
+	- Send TCP segment with FIN bit = 1
+- Respond to received FIN with ACk
+	- On receiving FIN, ACK can be combined with own FIN
+- Simultaneous FIN exchanges can be handled
+- This way, each can wait around a bit for the other, ensuring a graceful closing
+# 3.6 Principles of Congestion Control
+- 
 
 
 
