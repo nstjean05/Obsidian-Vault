@@ -402,7 +402,8 @@
 - Simultaneous FIN exchanges can be handled
 - This way, each can wait around a bit for the other, ensuring a graceful closing
 # 3.6 Principles of Congestion Control
-- 
+- Congestion
+	- All about too many sources sending too
 
 
 
