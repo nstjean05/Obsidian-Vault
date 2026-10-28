@@ -193,9 +193,34 @@
 		- Retransmission will be a duplicate, but sequence numbers handle this
 		- Receiver must specify the sequence number of packet being ACKed
 	- Use countdown timer to interrupt after a reasonable amount of time is passed
-
-
-
+![413](Pasted%20image%2020261027172714.png)
+- **Example**
+	1. Sender send pkt0 to Receiver
+	2. Receiver receives pkt0
+	3. Receiver sends ack0
+	4. Sender receives ack0
+	5. Sender sends pkt1
+		- Repeat (no loss)
+	6. Packet 1 is lost
+	7. Sender waits until timeout
+	8. Sender resend pkt1
+	9. Receiver receives pkt1, sends ack1
+	10. Ack1 is lost
+	11. Sender waits until timeout
+	12. Sender resend pkt1
+	13. Receiver receives pkt1, detects duplicate, sends ack1
+	14. Receiver receives ack1
+	15. Sender sends pkt0
+	16. Receiver receives pkt0, Sender times out prematurely, Receiver sends ack0
+	17. Sender sends pkt0 again, ignores the first ack0
+	18. Receiver receives pkt0, detects duplicate, sends ack0
+	19. Sender receives ack0
+- Remember to alternate between 0 and 1
+- The performance metric we are interested in is utilization
+	- Fraction of time sender is busy sending
+- Example: 1Gbps link, 15 ms prop delay, 8000 bit packet
+	- Time to transmit packet into channel:
+		- D_trans = L/R = 8000 bits/ 10$^9$ bits/sec = 8 microseconds
 
 
 
