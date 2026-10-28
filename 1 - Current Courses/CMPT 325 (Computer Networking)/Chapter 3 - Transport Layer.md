@@ -183,7 +183,17 @@
 	- Must check if received packet is a duplicate
 		- State indicates whether 0 or 1 is expected pkt sequence number
 	- Note: Receiver cannot know if its lack ACK/NAk received OK at sender
-	- 
+#### RDT 3 - Channels with Errors and Loss
+- New Channel Assumption
+	- Underlying channel can also *lose* packets
+		- Checksum, sequence numbers, ACKs, retransmission will be of help, but insufficient
+- Approach: Sender waits a reasonable amount of time for ACK
+	- Retransmits if no ACK is received in time
+	- If pkt or ACK just delayed, not lost:
+		- Retransmission will be a duplicate, but sequence numbers handle this
+		- Receiver must specify the sequence number of packet being ACKed
+	- Use countdown timer to interrupt after a reasonable amount of time is passed
+
 
 
 
