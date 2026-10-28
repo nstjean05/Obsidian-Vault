@@ -412,10 +412,34 @@
 - One router, infinite buffers
 - Input, output link capacity: R
 - Two Flows
-- What happens as arrival rate ßƒ©
+- What happens as arrival rate approaches R/2?
 
-
-
+![368](Pasted%20image%2020261027203329.png)
+#### Scenario 2: Finite Buffer
+- One router, finite buffers
+- Sender retransmits lost, timed-out packets
+	- Application layer input = application layer output ƛin = ƛout
+	- Transport layer input includes retransmissions, ƛ'in ≥ ƛin
+- Idealization
+	- Packets can be lost due to full buffers
+	- Sender know when packet has been dropped, only resending if packet is known to be lost
+![494](Pasted%20image%2020261027203842.png)
+![249](Pasted%20image%2020261027203852.png)
+#### Scenario 3: Realistic
+- Realistic scenario: Un-needed duplicates
+- Packets can be lost, dropped at router due to full buffers
+	- Requires retransmission
+- But sender times can time out prematurely, sending two copies, both of which are delivered.
+![417](Pasted%20image%2020261027204043.png)
+- Costs of congestions:
+	- More work (retransmission) for given receiver throughput
+	- Unneeded retransmissions: link carries multiple copies of a packet
+		- Decreasing maximum achievable throughput
+#### Scenario 4
+- Four senders
+- Multi-hop paths
+- Timeout/retransmission
+- 
 
 
 
