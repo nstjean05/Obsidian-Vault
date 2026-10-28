@@ -259,7 +259,8 @@
 		- ACK(n)
 	- Otherwise, ignore
 ![490](Pasted%20image%2020261027175500.png)
-# 3.5 - TCP Reliability
+# 3.5 - Connection-Oriented Transport (TCP)
+
 
 
 
