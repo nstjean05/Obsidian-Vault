@@ -155,6 +155,9 @@
 	- Low-level passing of info between routers
 #### Packet Switching
 - Transmission delay: Takes L/R seconds to transmit L-bit packets into link at R bps
+	- L = Length of packet
+	- R = transmission rate
+	- Answer in L/R seconds
 - Store and forward: entire packet must arrive at router before it can be transmitted on
 - End-end Delay: 2L/R, assuming zero propagation delay
 - Forwarding is a local action - moving arriving packets from routers input to output links
@@ -329,3 +332,7 @@
 - Service providers creating their own networks
 - Enterprises run their services in cloud
 - Rise of smartphones and emphasis on mobility
+# Msc.
+- ASL - Subscribers get more downstream bandwidth than upstream
+- Datagram networks need no call setup. Each router forwards packets hop by hop.
+- Virtual circuits use per-connection state in the switches (VC numbers and tables). Datagram networks don't.
