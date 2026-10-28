@@ -403,7 +403,16 @@
 - This way, each can wait around a bit for the other, ensuring a graceful closing
 # 3.6 Principles of Congestion Control
 - Congestion
-	- All about too many sources sending too
+	- All about too many sources sending too much data too quickly for the network to handle
+- Manifestations
+	- Long delays - queuing in router buffers
+	- Packet loss - Buffer overflow at routers
+- Flow control is different - single sender and receiver
+#### Simplest Example
+- One router, infinite buffers
+- Input, output link capacity: R
+- Two Flows
+- What happens as arrival rate ßƒ©
 
 
 
