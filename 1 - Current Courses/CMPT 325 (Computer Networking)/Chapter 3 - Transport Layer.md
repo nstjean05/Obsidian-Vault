@@ -439,7 +439,29 @@
 - Four senders
 - Multi-hop paths
 - Timeout/retransmission
-- 
+- If a packet makes it through one router, but fails at the second, then the host must resend it from the beginning
+- As one host increases its packets, all arriving packets from host2 are dropped, leading to host2's throughput going to 0
+	- If the host is farther away from the link, it has less priority (as host2 did)
+- Another cost of congestion
+	- When packet is dropped, any upstream transmission capacity and buffering used for that packet was wasted
+#### Insights
+- Throughput can never exceed capacity
+- Delay increases as capacity is approached
+- Loss/retransmission decreases effective throughput
+- Un-needed duplicates further decrease effective throughput
+- Upstream transmission capacity and buffering is wasted for packets lost downstream
+	- Going to 0 --> congestion collapse
+# 3.7 - TCP Congestion Control
+- Approach: Senders can increase sending rate until packet loss occurs, then decrease sending rate on a loss event
+![362](Pasted%20image%2020261027204956.png)
+- AIMD - Additive increase, multiplicative decrease
+	- Algorithm dictating how much to cut send rate
+	- Goes up, then drops by a factor of 2
+- Multiplicative Decrease
+	- Sending rate is cut in half on loss detected by triple duplicate ACK
+	- Sending rate is cut to 1 MSS (max segment size) when loss detected by timeout (TCP Tahoe)
+- Why AIMD?
+	- Concern of a multiplicative increase 
 
 
 
