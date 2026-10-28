@@ -162,7 +162,28 @@
 	- Can't just retransmit, or we get duplicates
 - Handling duplicates
 	- Sender retransmits current pkt if ACK/NAK corrupted
-	- Sender adds a sequ
+	- Sender adds a sequence number to each packet
+	- Receiver discards the duplicate packer
+		- Don't deliver it up to the application layer
+#### RDT 2.1 - Sender, handling garbled ACK/NAKs
+- Stop and wait protocol
+	- 1 bit sequence number
+	- Four states:
+		- First two are for sending when sequence number is 0
+		- Second two for sequence number 1
+![450](Pasted%20image%2020261027171237.png)
+- Either way, the corruption is caught and resolved.
+- **Sender**
+	- Sequence number added to packet
+	- Two sequence numbers will suffice
+	- Must check if received ACK/NAK corrupted
+	- Twice as many states
+		- They must remember whether expected pkt is 1 or 0
+- **Receiver**
+	- Must check if received packet is a duplicate
+		- State indicates whether 0 or 1 is expected pkt sequence number
+	- Note: Receiver cannot know if its lack ACK/NAk received OK at sender
+	- 
 
 
 
