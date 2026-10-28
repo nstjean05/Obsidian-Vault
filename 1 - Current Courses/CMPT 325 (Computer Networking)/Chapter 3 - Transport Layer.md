@@ -492,13 +492,39 @@
 	- Larger increases when further away from K
 	- Smaller increases when nearer K
 #### TCP and the Congested Bottleneck Link
-- TCP (classic, CUBIC) increase TCP's sending rate until packet loss occurs at some router's 
-
-
-
-
-
-
+- TCP (classic, CUBIC) increase TCP's sending rate until packet loss occurs at some router's output: the bottleneck link
+- Understanding congestions: Useful to focus on congested bottleneck link
+- Insight: Increasing TCP sending rate will not increase end-end throughout with congested bottleneck
+	- Increasing TCP sending rate will increase measured RTT
+	- Goal: Keep the end-end pipe full, but not fuller
+- **Delay-based approach**
+	- RTT_min --> Minimum observed RTT (uncongested path)
+	- Uncongested throughput with congestion window cwnd/RTT_min
+- Throughput = (bytes sent in last RTT interval)/(RTT_measured)
+- If throughput is very close to uncongested throughput, increase cwnd linearly
+- If throughput is far below uncongested throughput, decrease cwnd linearly
+- **cwnd** = Congestion window
+	- The amount of data (in bytes) that a TCP sender may have in flight (unACKed) at once
+- Congestion control without inducing loss
+- Maximize throughput while keeping delay low
+- Several deployed TCPs take a delay-based approach
+#### Explicit Congestion Notification
+- TCP deployments often implement *network assisted* congestion control
+	- Two bits in IP header marked by network router to indicate congestion
+	- Congestion indication carried to destination
+	- Destination sets ECE bit on ACK segment to notify sender of congestion
+	- Involves both IP and TCP
+#### TCP Fairness
+- If K TCP sessions share same bottleneck link of bandwidth R, each should have an average rate of R/K
+![384](Pasted%20image%2020261027211035.png)
+- TCP is fair under ideal assumptions
+	- Same RTT
+	- Fixed number of sessions only in congestion avoidance
+- **Fairness and UDP**
+	- Multimedia apps often don't use TCP
+		- Don't want rate throttled by congestion control
+	- Instead use UDP
+		- Send audio/video at constant rate, toler
 
 
 
