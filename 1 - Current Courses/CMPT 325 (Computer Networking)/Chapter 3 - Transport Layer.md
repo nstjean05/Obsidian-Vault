@@ -461,8 +461,38 @@
 	- Sending rate is cut in half on loss detected by triple duplicate ACK
 	- Sending rate is cut to 1 MSS (max segment size) when loss detected by timeout (TCP Tahoe)
 - Why AIMD?
-	- Concern of a multiplicative increase 
-
+	- Concern of a multiplicative increase is that it grows too fast
+	- Optimize congested flow rates network ride
+	- Stability
+#### Control Details
+- TCP Sender limits `transmission LastByteSent - LastByteAcjed ≤ cwnd`
+- cwnd is dynamically adjusted in response to observed network congestion
+- TCP Sending behaviour:
+	- Roughly, send cwnd bytes, wait for RTT for ACKs, then send more bytes
+	- TCP rate ~= cwnd/RTT bytes/sec
+#### TCP Slow Start
+- When connection begins, increase rate exponentially until first loss event
+	- Initially cwnd = 1 MSS
+	- Double cwnd = cwnd every RTT
+	- Done by incrementing cwnd for every ACK received
+- Summary: Initial rate is slow, but ramps up exponentially fast
+![226](Pasted%20image%2020261027205637.png)
+#### From Slow Start to Congestion Avoidance
+- The exponential increase should switch to linear when cwnd gets to 1/2 of its value before timeout
+- Implementation:
+	- Variable ssthresh
+	- On loss event, ssthresh is set to 1/2 just before loss event
+#### TCP Cubic
+- W_max - Sending rate at which congestion loss was detected
+- Congestion state of bottleneck link probably hasn't changed much 
+- After cutting rate in half on loss, ramp quickly back up to almost the loss, then increase very slowly
+- K: point in time when TCP window size will reach W_max
+	- K itself is tuneable
+- Increase W as a function of the cube of the distance between current time and K
+	- Larger increases when further away from K
+	- Smaller increases when nearer K
+#### TCP and the Congested Bottleneck Link
+- TCP (classic, CUBIC) increase TCP's sending rate until packet loss occurs at some router's 
 
 
 
