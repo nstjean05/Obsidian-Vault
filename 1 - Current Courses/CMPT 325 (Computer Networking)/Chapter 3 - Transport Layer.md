@@ -298,7 +298,36 @@
 			- Ignore retransmissions
 		- Will vary, want estimated RTT to be smoother
 			- Average several recent measurements, not just current SampleRTT
-- 
+- Timeout interval
+	- EstimatedRTT plus 'safety margin'
+	- Large variation in EstimatedRTT --> want a safer margin
+	- TimeoutInterval = Estimated RTT + 4•DevRTT
+- DevRTT EWMA of SampleRTT deviation from EstimatedRTT
+	- DevRTT = (1-ß)•DevRTT + ß • |SampleRTT - EstimatedRTT|
+	- Usually, ß = 0.25
+#### TCP Sender
+- Event: Data received
+	- Create segment with seq number
+	- Sequence number is a byte stream number of first data byte in segment
+	- Start timer if not alr running
+		- Think of timer as for oldest unACKed segment
+		- Expiration interval: TimeOutInterval'
+- Event: Timeout
+	- Retransmit segment that caused timeout
+	- Restart timer
+- Event: ACK received
+	- If ACK acknowledges previously unACKed segments
+		- Update what is know to be ACKed
+		- Start timer if there are still unACKed segments
+#### TCP Receiver: ACK Generation
+
+|**Event at receiver**|**TCP receiver action**|
+|---|---|
+|arrival of in-order segment with expected seq #. All data up to expected seq # already ACKed|delayed ACK. Wait up to 500ms for next segment. If no next segment, send ACK|
+|arrival of in-order segment with expected seq #. One other segment has ACK pending|immediately send single cumulative ACK, ACKing both in-order segments|
+|arrival of out-of-order segment higher-than-expect seq. #. Gap detected|immediately send _duplicate ACK_, indicating seq. # of next expected byte|
+|arrival of segment that partially or completely fills gap|immediate send ACK, provided that segment starts at lower end of gap|
+
 
 
 
