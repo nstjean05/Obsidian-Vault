@@ -524,8 +524,18 @@
 	- Multimedia apps often don't use TCP
 		- Don't want rate throttled by congestion control
 	- Instead use UDP
-		- Send audio/video at constant rate, toler
-
+		- Send audio/video at constant rate, tolerate packet loss
+	- There is no internet police - yet it stays relatively balanced
+- **Fairness and TCP**
+	- Application can open multiple parallel connections between two hosts
+	- Web browsers do this
+		- Ex. Link of rate R with 9 existing connections
+			- New app asks for 1 TCP, gets rate R/10
+			- New app asks for 11 TCPs, gets R/2
+# 3.8 - Evolution of Transport-Layer Functionality
+- There have been several specialized flavours of TCP developed for specific scenarios
+- Again, security almost always added at the application layer
+- HTTP/3 has transitioned to UDP
 
 
 
