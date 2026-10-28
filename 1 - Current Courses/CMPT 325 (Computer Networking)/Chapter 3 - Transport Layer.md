@@ -327,8 +327,40 @@
 |arrival of in-order segment with expected seq #. One other segment has ACK pending|immediately send single cumulative ACK, ACKing both in-order segments|
 |arrival of out-of-order segment higher-than-expect seq. #. Gap detected|immediately send _duplicate ACK_, indicating seq. # of next expected byte|
 |arrival of segment that partially or completely fills gap|immediate send ACK, provided that segment starts at lower end of gap|
-
-
+1. Lost ACK
+	- Host A → Host B: `Seq=92, 8 bytes of data`
+	- ACK (`ACK=100`) is **lost**
+	- No confirmation → A's **timeout** fires
+	- A **retransmits** `Seq=92` → B sends `ACK=100` again
+	- Note: B discards duplicate data, resends ACK
+2. Premature Timeout
+	- A sends `Seq=92` (8 bytes), then `Seq=100` (20 bytes) — both received
+	- B ACKs both, but **timeout fires before ACKs arrive**
+	- A retransmits `Seq=92` → B **re-ACKs with cumulative `ACK=120`**
+	- Key points:
+	    - SendBase advances: 92 → 100 → 120
+	    - Duplicate segments are **discarded**, but **re-ACKed**
+	    - Retransmission is wasteful but safe
+3. Cumulative ACK Rescues Lost ACK
+	- A sends `Seq=92`, `Seq=100`; B's `ACK=100` is lost (✗)
+	- B receives `Seq=120, 15 bytes` next
+	- B replies `ACK=120` — **cumulative ACK covers the lost ACK**
+	- No retransmission needed
+- **TCP Fast Retransmit**
+	- If sender receives 3 ACKs for same data, resend unACKed segment with smallest sequence number
+		- Likely that unACKed segment was lost, so don't wait for a timeout
+![249](Pasted%20image%2020261027192241.png)
+#### TCP Flow Control
+- Sometimes network layer data is delivered faster than application layer can remove data from socket buffers
+	- Ex. Trying to drink from a fire hose
+- TCP receiver advertises free buffer space in *rwnd* field in TCP header
+	- RcvBuffer size set via socket options (usually 4096 bytes)
+	- Many OSs autoadjust RcvBuffer
+- Sender limits amount of unACKed ('in-flight') data to received rwnd
+- Guarantees receive buffer will not overflow
+#### TCP Connection Management
+- Before exchanging data, sender/receiver 'handshake'
+	- 
 
 
 
