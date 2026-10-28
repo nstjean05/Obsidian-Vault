@@ -236,8 +236,30 @@
 	- Can discard (don't buffer) or buffer - an implementation decision
 	- re-ACK pkt with highest in-order seq num
 ![509](Pasted%20image%2020261027174702.png)
-
-
+#### Selective Repeat
+- Receiver individually ACKs all correctly received packets
+	- Buffers packets, as needed, for eventual in-order delivery to upper layer
+- Sender times out or retransmits individually for unACKed packets
+	- Sender maintains time for each unACKed packet
+![508](Pasted%20image%2020261027174930.png)
+- **Sender**
+	- Data from above:
+		- If next available seq num in window, send packetg
+	- Timeout(n):
+		- Resend packet n, restart timer
+	- ACK(n) in (sendbase, sendbase + N)
+		- Mark packet n as received
+		- If n smallest unACKed packet, advance window base to next unACKed seq num
+- **Receiver**
+	- Packet n in (rcvbase, rcvbase + N -1)
+		- Send ACK(n)
+		- Out of order: buffer
+		- In order: deliver, advance window to next not yet received packet
+	- Packet n in (rcvbase - N, rcvbase - 1)
+		- ACK(n)
+	- Otherwise, ignore
+![490](Pasted%20image%2020261027175500.png)
+# 3.5 - TCP Reliability
 
 
 
