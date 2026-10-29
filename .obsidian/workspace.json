@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "ffc5d3d43c462fff",
+        "id": "80b73e1f15e97105",
         "type": "tabs",
         "children": [
           {
-            "id": "d6daa7df491fbbe8",
+            "id": "4d83aae9fd8906d9",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -172,19 +172,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d6daa7df491fbbe8",
+  "active": "4d83aae9fd8906d9",
   "lastOpenFiles": [
+    "1 - Current Courses/CMPT 339 (Database Management)/Chapter 12 - ER Modelling.md",
+    "1 - Current Courses/CMPT 339 (Database Management)/Midterm Final.md",
+    "1 - Current Courses/CMPT 339 (Database Management)/Chapter 11 - DB Analysis.md",
+    "1 - Current Courses/CMPT 339 (Database Management)/Chapter 1 - Introduction.md",
     "1 - Current Courses/CMPT 339 (Database Management)/Chapter 6 - SQL Data Manipulation.md",
     "1 - Current Courses/CMPT 339 (Database Management)/Chapter 7 - SQL Data Definition.md",
-    "1 - Current Courses/CMPT 339 (Database Management)/Chapter 12 - ER Modelling.md",
-    "1 - Current Courses/CMPT 339 (Database Management)/Chapter 11 - DB Analysis.md",
     "1 - Current Courses/CMPT 339 (Database Management)/Chapter 10 - Database System Development Cycle.md",
     "1 - Current Courses/CMPT 339 (Database Management)/Chapter 8 - Advanced SQL.md",
     "1 - Current Courses/CMPT 339 (Database Management)/Chapter 5 - Relational Algebra and Relational Calculus.md",
     "1 - Current Courses/CMPT 339 (Database Management)/Chapter 4 - The Relational Model.md",
     "1 - Current Courses/CMPT 339 (Database Management)/Chapter 3 - Database Architectures and the Web.md",
     "1 - Current Courses/CMPT 339 (Database Management)/Chapter 2 - DB Environment.md",
-    "1 - Current Courses/CMPT 339 (Database Management)/Chapter 1 - Introduction.md",
     "1 - Current Courses/CMPT 325 (Computer Networking)/Chapter 2 - Application Layer.md",
     "1 - Current Courses/CMPT 325 (Computer Networking)/Chapter 3 - Transport Layer.md",
     "1 - Current Courses/CMPT 325 (Computer Networking)/Chapter 1 - Computer Network and the Internet.md",
@@ -210,7 +211,6 @@
     "1 - Current Courses/POLS 312 (Globalization and Global Governance)/Fattor - After the Fall of Cesar.md",
     "1 - Current Courses/CMPT 339 (Database Management)/Video 1.1.md",
     "1 - Current Courses/NATS 483/4th Civ Ch 6.md",
-    "1 - Current Courses/NATS 483/4th Civ Ch 7.md",
     "1 - Current Courses/NATS 483",
     "1 - Current Courses",
     "1 - Current Courses/CMPT 339 (Database Management)",

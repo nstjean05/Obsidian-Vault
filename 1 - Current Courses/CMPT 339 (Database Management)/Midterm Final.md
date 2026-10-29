@@ -1,0 +1,3 @@
+- Multiplicity of Newspaper Advertises relationship
+	- Ch 12
+- 
