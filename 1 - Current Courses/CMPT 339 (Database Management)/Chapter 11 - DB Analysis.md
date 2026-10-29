@@ -43,4 +43,61 @@
 	- Dependent on interviewee for direction
 - **Structured**
 	- Better suited for DB design
-	- 
+	- Specific question set
+	- Carefully placed open-ended questions
+#### Operation
+- Effective for understanding a system
+- Good for questioning validity of data already collected
+- Observers can see exactly what is occurring, and do measurements
+	- Inexpensive
+- May miss realistic use cases
+#### Research
+- Gain outside understanding of an application and/or problem
+#### Questionnaires
+- Allow bulk collection of facts and feedback
+- 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
