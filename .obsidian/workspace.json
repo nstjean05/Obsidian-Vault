@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 - Current Courses/CMPT 339 (Database Management)/Chapter 7 - SQL Data Definition.md",
+                "file": "1 - Current Courses/POLS 312 (Globalization and Global Governance)/Snidal & Abbot - Hard and Soft Law in International Governance.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Chapter 7 - SQL Data Definition"
+              "title": "Snidal & Abbot - Hard and Soft Law in International Governance"
             }
           }
         ]
@@ -80,8 +80,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 271.5,
-    "collapsed": true
+    "width": 271.5
   },
   "right": {
     "id": "1c1db9715e53cd8f",
@@ -174,13 +173,13 @@
   },
   "active": "4d83aae9fd8906d9",
   "lastOpenFiles": [
+    "1 - Current Courses/CMPT 339 (Database Management)/Chapter 7 - SQL Data Definition.md",
     "1 - Current Courses/CMPT 339 (Database Management)/Chapter 11 - DB Analysis.md",
     "Untitled.md",
     "1 - Current Courses/CMPT 339 (Database Management)/Chapter 12 - ER Modelling.md",
     "1 - Current Courses/CMPT 339 (Database Management)/Midterm Final.md",
     "1 - Current Courses/CMPT 339 (Database Management)/Chapter 1 - Introduction.md",
     "1 - Current Courses/CMPT 339 (Database Management)/Chapter 6 - SQL Data Manipulation.md",
-    "1 - Current Courses/CMPT 339 (Database Management)/Chapter 7 - SQL Data Definition.md",
     "1 - Current Courses/CMPT 339 (Database Management)/Chapter 10 - Database System Development Cycle.md",
     "1 - Current Courses/CMPT 339 (Database Management)/Chapter 8 - Advanced SQL.md",
     "1 - Current Courses/CMPT 339 (Database Management)/Chapter 5 - Relational Algebra and Relational Calculus.md",
