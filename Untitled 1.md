@@ -1,8 +1,23 @@
 UK
 - Multilateralism, sovereignty
 Netherlands
--
-Education
+- 
+US
+- Video games in trafficking
+Russia
+- Importance of enforcement
+UK
+- Stay ahead of HT
+- Education
+Nigeria
+- 
+Mexico
+- 
+India
+- 
+
+
+
 Developing tools
 Insentivising intl cooperation
 Information sharing
