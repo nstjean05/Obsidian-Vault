@@ -172,5 +172,17 @@ WHERE rent > 350;
 ```
 - Example: How many different properties were viewed in April 2025?
 ```SQL
+SELECT COUNT(*) AS aprilViewing
+FROM Viewing
+WHERE viewDate BETWEEN '2015-04-01' AND '2015-04-28'
 
+--Returns myCount 2
 ```
+- Example: Find number of managers and the sum of their salaries
+```SQL
+SELECT COUNT(staffNo AS myCount),
+	SUM(Salary) AS mySUM
+FROM Staff
+WHERE position = 'Manager'
+```
+![201](Pasted%20image%2020261114121910.png)
