@@ -29,4 +29,43 @@ WHERE salary > 10000;
 - 1976, revised version named SQL
 - Oracle was the first commercial RDBMS based on SQL (1970s)
 - SQL 2023 was the most recent update
-- 
+# Writing SQL
+- Reserved words - fixed part of SQL and must be spelt exactly as required for its function
+- User-Defined words - Made up by user to represent names of various objects
+	- Relations, columns, views
+- Each clause should begin on a new line
+- Parts of a clause are on new indented lines
+	- None of this is necessary for function, but for readability
+- Extended BNF notation
+	- Upper case letters for reserved words
+	- Lower case for user-defined words
+	- | indicates a choice among alternatives
+	- {} for a required element
+	- [] for an optional element
+	- ... for optional repetition (0 or more)
+# Literals
+- Literals are constants in SQL statements
+	- Non-numerics are enclosed in single quotes
+		- 'london'
+	- Numerics aren't enclosed in quotes
+		- 650.00
+# SELECT
+```sql
+SELECT [DISTINCT | ALL]
+FROM TableName[alias][,...]
+WHERE condition
+GROUP BY columnList HAVING condition
+ORDER BY columnList
+```
+- **SELECT** specifies which columns are to appear in output
+- **FROM** specifies table(s) to be used
+- **WHERE** filters rows
+- **GROUP BY** forms rows with same column value
+- **HAVING** filters groups subject to some condition
+- **ORDER BY** specifies the order of the output
+- The order of the clauses cannot be changed
+- Only SELECT and FROM are mandatory
+- Example: List the full details of all staff
+```
+
+```
