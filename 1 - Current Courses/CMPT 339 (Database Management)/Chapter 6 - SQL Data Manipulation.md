@@ -202,3 +202,13 @@ FROM Staff;
 		- Aggregate functions
 		- Constants
 		- Expression involving combinations of the above
+- All column names in the select list must appear in GROUP BY, unless name is used only in an aggregate function
+- If WHERE is used with GROUP BY, WHERE is applied first
+- ISO standard considers two nulls to be equal
+- Example: Find number of staff in each branch and their total salaries
+```sql
+SELECT branchNo,
+	COUNT(staffNo) AS myCount,
+	SUM(salary) AS mySum
+
+```
