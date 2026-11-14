@@ -103,3 +103,30 @@ FROM Staff
 SELECT staffNo, fName, lName, salary/12 AS monthlySalary
 FROM Staff
 ```
+- Example: List all staff with a salary greater than 10,000
+```sql
+SELECT staffNo, fName, lName, salary
+FROM Staff
+WHERE salary > 10000;
+```
+- Example: List addresses of all branch offices in London or Glasgow
+```sql
+SELECT branchNo, street, city
+FROM Branch
+WHERE city = 'London' OR city = 'Glasgow'
+```
+- Example: List all staff with a salary between 20,000 and 30,000
+```sql
+SELECT staffNo, fName, lName, salary
+FROM Staff
+WHERE salary >= 20000 AND salary <= 30000;
+
+-- Alternatively, use salary BETWEEN 20000 AND 30000;
+```
+![250](Pasted%20image%2020261114115346.png)
+- Example: List all managers and supervisors
+```sql
+SELECT staffNo, fName, lName, position
+FROM Staff
+WHERE position = 'Manager' OR position = 'Supervisor';
+```
