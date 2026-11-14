@@ -66,6 +66,40 @@ ORDER BY columnList
 - The order of the clauses cannot be changed
 - Only SELECT and FROM are mandatory
 - Example: List the full details of all staff
-```
+```sql
+SELECT staffNo, fName, lName, position, sex, DOB, salary, branchNo
+FROM Staff;
 
+-- One may also use SELECT * to select all elements
+```
+![365](Pasted%20image%2020261114113625.png)
+- Example: Produce a list of salaries for all staff, showing only staff number, first and last names, and salary
+```sql
+SELECT staffNo, fName, lName, salary
+FROM Staff;
+```
+![293](Pasted%20image%2020261114113723.png)
+- Example: List the property numbers of all properties that have been viewed
+```sql
+SELECT propertyNo
+FROM Viewing;
+```
+![109](Pasted%20image%2020261114113936.png)
+- Example: List distinct viewed property numbers
+```sql
+SELECT DISTINCT propertyNo
+FROM Viewing;
+```
+![111](Pasted%20image%2020261114114024.png)
+- Example: Produce list of monthly salaries for all staff, showing staff numbers, names, and salaries
+```sql
+SELECT staffNo, fName, lName, salary/12
+FROM Staff
+```
+![285](Pasted%20image%2020261114114201.png)
+- Example: Name a column using AS
+	- AS creates an alias, a temp name for a column in the output
+```sql
+SELECT staffNo, fName, lName, salary/12 AS monthlySalary
+FROM Staff
 ```
