@@ -210,5 +210,9 @@ FROM Staff;
 SELECT branchNo,
 	COUNT(staffNo) AS myCount,
 	SUM(salary) AS mySum
-
+FROM Staff
+GROUP BY branchNo
+ORDER BY branchNo;
 ```
+![234](Pasted%20image%2020261114143503.png)
+- The GROUP BY column doesn't have to be in the SELECT list
