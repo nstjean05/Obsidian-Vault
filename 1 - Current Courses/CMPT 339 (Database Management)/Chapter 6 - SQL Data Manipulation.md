@@ -129,4 +129,37 @@ WHERE salary >= 20000 AND salary <= 30000;
 SELECT staffNo, fName, lName, position
 FROM Staff
 WHERE position = 'Manager' OR position = 'Supervisor';
+
+-- Alternatively, use position IN('Manager', 'Supervisor')
 ```
+- Example: List salaries for all staff, arranged in descending order of salary
+```sql
+SELECT staffNo, fName, lName, salary
+FROM Staff
+ORDER BY salary DESC;
+```
+- Example: Produce an abbreviated list of properties in order of property type
+```sql
+SELECT propertyNo, type_, rooms, rent
+FROM PropertyForRent
+ORDER BY type_;
+
+--The _ after type occurs because type is a reserved word in SQL, and _ avoids it
+```
+![226](Pasted%20image%2020261114120205.png)
+- Example: Further order the above by ordering the flats by rooms
+```sql
+SELECT propertyNo, type_, rooms, rent
+FROM PropertyForRent
+ORDER BY type_, rent DESC;
+```
+![228](Pasted%20image%2020261114120326.png)
+# SELECT Aggregate statements
+- 5 standard aggregate functions:
+	- **COUNT** returns number of values in a column
+	- **SUM** returns sum of values in a column
+	- **AVG** returns the average of values in a column
+	- **MIN** returns smallest val in a column
+	- **MAX** returns largest value in a column
+- Each operates on a single column of a table and returns a single value
+- COUNT, 
