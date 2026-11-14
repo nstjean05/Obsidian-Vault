@@ -186,3 +186,19 @@ FROM Staff
 WHERE position = 'Manager'
 ```
 ![201](Pasted%20image%2020261114121910.png)
+- Example: Find min, max, and avg staff salary
+```sql
+SELECT MIN(salary) AS minSalary,
+	MAX(salary) AS minSalary,
+	AVG(salary) AS avgSalary,
+FROM Staff;
+```
+![248](Pasted%20image%2020261114141242.png)
+# Select Statement for Grouping
+- GROUP BY is used to get subtotals
+- SELECT and GROUP BY are closely integrated
+	- Each item in SELECT list must be single-valued per group, and select clause may only contain:
+		- Col names
+		- Aggregate functions
+		- Constants
+		- Expression involving combinations
