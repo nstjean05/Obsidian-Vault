@@ -162,4 +162,15 @@ ORDER BY type_, rent DESC;
 	- **MIN** returns smallest val in a column
 	- **MAX** returns largest value in a column
 - Each operates on a single column of a table and returns a single value
-- COUNT, 
+- COUNT, MIN, and MAX apply to numeric and non-numeric, but SUM and AVG may only be used on numbers
+- Apart from COUNT(`*`), each function eliminates NULLs first and operates on remaining values
+- Example: How many properties cost more than 350/month to rent?
+```SQL
+SELECT COUNT(*) AS myCount
+FROM PropertyForRent
+WHERE rent > 350;
+```
+- Example: How many different properties were viewed in April 2025?
+```SQL
+
+```
