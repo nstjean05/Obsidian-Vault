@@ -201,4 +201,4 @@ FROM Staff;
 		- Col names
 		- Aggregate functions
 		- Constants
-		- Expression involving combinations
+		- Expression involving combinations of the above
