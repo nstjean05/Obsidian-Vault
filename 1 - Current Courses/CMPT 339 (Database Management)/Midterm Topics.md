@@ -101,35 +101,31 @@
 	- 1976 npaper
 - **ER Model**
 	- Top-down approach to DB design
-	- 
-
-
-
-
-• ANSI-SPARC architecture (external level, conceptual, level, internal level, etc.)
-• Three-tier client–server architecture (middle tier, middleware)
-• Data independence (logical and physical)
-• Different data models
-• Identify what the diagram is about (Chapter 3
-• File-server vs. client-server architectures
-• Teleprocessing, web service, REST, SOA, microservices, NoSQL, NewSQL,
-transaction processing monitor
-• Distributed processing, distributed DBMS
-• Data warehousing, data lake, and lakehouse
-• Cloud computing
-• Cloud-based database solutions (diagrams)CommentHighlight
-• Schema, system catalog, data directory, etc.
-• Degree and cardinality
-• Relational model terminology (candidate key, primary key, foreign key, etc.)
-• null
-• Entity integrity and referential integrity
-• Updates of a view
-• Advantages and disadvantages of views
-• PostgreSQL: basic and advanced (study both interactive and reference slides)
-• PostgreSQL functions and triggers (PL/pgSQL)
-• Relational algebra (operations, particularly join operations)
-• Database system development lifecycle
-• Users’ requirements specification and systems specification
-• Fact-finding techniques
-• ER diagrams (UML, Chen, and Crow’s feet notations) and multiplicities
-• Two connection traps
+	- Identify entities/relationships, then add attributes/constraints
+	- Basis for ER diagrams
+# ANSI-SPARC Architecture
+- Levels allowing users to see only the data they need, without worrying about how it is stored.
+1. **External Level**
+	- Describes the part of the DB relevant to a specific user group
+	- Different views can show the same data differently
+	- Many external views
+2. **Conceptual Level**
+	- Describes what data is stored, and the relationships among it
+	- All entities, attributes, relationships, and constraints on data
+	- Mapping and independence between external/internal levels
+	- Only 1 conceptual schema per DB
+3. **Internal Level**
+	- Physical representation of the DB on the computer
+	- Data structures and file organization
+	- Concerned with storage space, record placement, data compression, and encryption
+- This design allows for any of the layers to be changed, without disruption to the others
+	- Logical and physical data independence
+# Three-tier client–server architecture (middle tier, middleware)
+- **Two-Tier**
+	- Client holds the UI and business logic, while server supplies data services
+	- Results in a fat client, with logic living on each machine, making updates challenging
+- 3-tier splits an application into 3 layers, each running on its own machine
+- **Tier 1**: Client
+	- Handles the UI only
+	- Usually a web browser or light app
+- **Tier 2**: 
