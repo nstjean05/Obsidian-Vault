@@ -128,4 +128,27 @@
 - **Tier 1**: Client
 	- Handles the UI only
 	- Usually a web browser or light app
-- **Tier 2**: 
+- **Tier 2**: Middle
+	- Business logic and data processing
+	- This is the application server
+	- Concurrency, network connection, DB connect, load balancing, etc
+- **Tier 3:** DB Server
+	- DBMS and DB itself
+	- Only the application server talks to it, so the clients never connect to the DB directly
+- **Advantages**
+	- Cheaper hardware (clients are thin)
+	- App logic in one place
+	- Modularity
+	- Load balancing
+- **Middleware**
+	- Software that mediates between other software and lets distinct apps communicate
+	- The application server is itself a kind of middleware
+- **Transaction Processing Monitor**
+	- TP monitor
+	- Type of middleware
+	- Control data transfer between clients and servers to give a consistent environment
+	- Online transactions are a common case
+# Data independence (logical and physical)
+- **Logical Independence**
+	- External schema cannot affect logic of the conceptual schema
+	- 
