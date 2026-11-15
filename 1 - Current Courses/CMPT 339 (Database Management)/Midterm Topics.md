@@ -39,13 +39,30 @@
 5. Backups and crash recovery
 6. Role permissions and security
 - **Disadvantages**
-1. 
+1. High cost of development
+	- Ongoing license
+2. Complex system
+3. Performance overhead
+4. Single point of failure
+	- MS365 Outage
+5. Migration costs
+- When to avoid a DBMS:
+	- Dataset is small, static, and used by one application
+	- Real time, low latency constraints
+	- Data is heavily unstructured
+# DDL and DML
+- **Data Definition Language**
+	- DDL
+	- Defines and modifies the DB schema/structural objects
+	- Updates metadata
+- **Data Manipulation Language**
+	- DML
+	- Retrieves, inserts, modifies the actual data rows inside tables
+# Characteristics of views
+
+# The components of DBMS environment
 
 
-
-• DDL and DML
-• Characteristics of views
-• The components of DBMS environment
 • Various roles (DA, DBA, Database Designer, Application Designer, End Users, etc.)
 • Edgar F. Codd and Peter Chen
 • ANSI-SPARC architecture (external level, conceptual, level, internal level, etc.)
