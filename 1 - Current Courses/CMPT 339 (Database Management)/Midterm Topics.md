@@ -276,4 +276,27 @@
 # Cloud-based database solutions (diagrams)
 - DBaaS
 	- A fully managed DB by the provider
-	- 
+- DaaS
+	- Provides the data itself as a service through APIs, but doesn't give an DBMS interface like SQL
+- 5 DBaaS architectures
+1. **Separate servers**
+	- 1 server per tenant
+	- Best for tenants with large DBs and many users
+2. **Shared Server, Separate DB Processes**
+	- Resources on one server machine are subdivided for each tenant
+	- Each tenant still has their own DB server process
+3. **Shared DBMS, separate DB**
+	- One DB server shared by all tenants, each with their own DB
+	- Single process can share resources like a DB cache, leading to fuller utilization of the machine
+4. **Shared DB, Separate Schema**
+	- One shared DB server, and each tenant's data is grouped into a schema created for that tenant
+5. **Shared DB, shared schema**
+	- Maximum sharing, lowest cost
+	- A tenant ID column identifies whose row is whose
+	- Best for a large number of tenants with a small number of servers
+# Schema, system catalog, data directory, etc.
+- **Schema**
+	- A description of the DB structure
+	- ANSI-SPARC has 3 schemas; external/conceptual/internal
+- **System Catalogue*d*
+- 
