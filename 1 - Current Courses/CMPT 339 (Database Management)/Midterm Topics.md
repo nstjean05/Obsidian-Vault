@@ -178,4 +178,23 @@
 		- Record orderings
 		- Access paths
 	- ANSI-SPARC internal level
-- 
+# File-server vs. client-server architectures
+- **File-Server**
+	- Central DB on the file server, connected to several workstations
+	- Similar to a shared hard drive
+	- Distributed processing
+	- A full copy of the DBMS on each workstation
+	- When a station needs data, it sends for it from the file server
+- **Client-Server**
+	- Server holds the DBMS and the DB
+	- Client manages the UI and runs apps
+	- Client sends requests to the server, and is given only the results
+- **Weaknesses**
+	- File server leads to heavy network traffic and redundant DBMSs
+- **Strengths**
+	- Client server has increased performance and consistency
+# Teleprocessing, web service, REST, SOA, microservices, NoSQL, NewSQL, transaction processing monitor
+- **Teleprocessing**
+	- Traditional architecture
+	- One central computer with 1 CPU, and several dumb terminals
+	- Terminals only send input and show output
