@@ -348,4 +348,9 @@
 # Entity integrity and referential integrity
 - **Entity Integrity**
 	- In a base relation, no attribute of a primary key can be null
-	- 
+- **Referential Integrity**
+	- If a foreign key exists in a relation, its value must either
+		- Match a candidate key value of some tuple in its home
+		- Be wholly null
+- Referential integrity blocks inserting or updating a child row with a foreign key that has no matching parnet
+	- Blocks deleting a
