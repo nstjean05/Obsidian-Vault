@@ -15,10 +15,19 @@
 - **Data Mining**: Compute process to find patterns and models in large datasets
 - **Informatics**: Study of how information is represented/processed/etc in a domain
 # File-based approach (limitations)
-
-
-
-• DBMS advantages and disadvantages
+- Pre-Relational DBMS
+- Data stored in separate flat files, each managed directly by custom apps
+1. Data became over-redundant and inconsistent
+	- When one file updates, a related file elsewhere wasn't
+2. Data is isolated across various apps and formats
+3. The structure of the data file is hardcoded into how it interacts with the program
+4. Rule cannot be enforced at the storage layer
+	- Ex. a value (like GPA) must be in a certain range, but the app can't enforce that in storage
+5. If programs crash mid operation, information is lost
+6. Concurrency breaks down
+7. Security and access control issues
+	- Hard to separate access to data within a file
+# DBMS advantages and disadvantages
 • DDL and DML
 • Characteristics of views
 • The components of DBMS environment
