@@ -162,4 +162,20 @@
 - Three parts of a data model:
 	1. Structural: Rules for how the DB is built
 	2. Manipulative: Types of operations allowed
-	3. Integrity: Keep the data accurac
+	3. Integrity: Keep the data accurate
+- **Object-Based Models**
+	- Built from entities, attributes, and relationships
+	- Ex. ER Model
+- **Record-Based Models**
+	- DB made of fixed-format records, with different types of fixed length
+	- Three variants:
+		1. Relational - based on relations, organized as tables
+		2. Network - data stored as collections of records, relationships represented as sets
+		3. Hierarchical - A tree, with each node having one parent
+- **Physical Data Models**
+	- Describes how data is stored in the computer
+		- Record structures
+		- Record orderings
+		- Access paths
+	- ANSI-SPARC internal level
+- 
