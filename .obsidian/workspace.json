@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 - Current Courses/CMPT 339 (Database Management)/Chapter 6 - SQL Data Manipulation.md",
+                "file": "1 - Current Courses/CMPT 339 (Database Management)/Midterm Topic.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Chapter 6 - SQL Data Manipulation"
+              "title": "Midterm Topic"
             }
           }
         ]
@@ -80,8 +80,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 271.5,
-    "collapsed": true
+    "width": 271.5
   },
   "right": {
     "id": "1c1db9715e53cd8f",
@@ -174,6 +173,9 @@
   },
   "active": "40e46897a0819338",
   "lastOpenFiles": [
+    "1 - Current Courses/CMPT 339 (Database Management)/Midterm Final.md",
+    "1 - Current Courses/CMPT 339 (Database Management)/Midterm Topic.md",
+    "1 - Current Courses/CMPT 339 (Database Management)/Chapter 6 - SQL Data Manipulation.md",
     "Pasted image 20261114143503.png",
     "Pasted image 20261114141242.png",
     "Pasted image 20261114121910.png",
@@ -184,7 +186,6 @@
     "Pasted image 20261114114024.png",
     "Pasted image 20261114113936.png",
     "Pasted image 20261114113723.png",
-    "Pasted image 20261114113625.png",
     "1 - Current Courses/CMPT 339 (Database Management)/Chapter 2 - DB Environment.md",
     "1 - Current Courses/CMPT 339 (Database Management)/Chapter 1 - Introduction.md",
     "1 - Current Courses/POLS 312 (Globalization and Global Governance)/Snidal & Abbot - Hard and Soft Law in International Governance.md",
@@ -193,8 +194,6 @@
     "1 - Current Courses/CMPT 339 (Database Management)/Chapter 11 - DB Analysis.md",
     "Untitled.md",
     "1 - Current Courses/CMPT 339 (Database Management)/Chapter 12 - ER Modelling.md",
-    "1 - Current Courses/CMPT 339 (Database Management)/Midterm Final.md",
-    "1 - Current Courses/CMPT 339 (Database Management)/Chapter 6 - SQL Data Manipulation.md",
     "1 - Current Courses/CMPT 339 (Database Management)/Chapter 10 - Database System Development Cycle.md",
     "1 - Current Courses/CMPT 339 (Database Management)/Chapter 8 - Advanced SQL.md",
     "1 - Current Courses/CMPT 339 (Database Management)/Chapter 5 - Relational Algebra and Relational Calculus.md",
