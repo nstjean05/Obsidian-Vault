@@ -346,4 +346,6 @@
 - Any comparison (>, <, =) with null returns null (unknown)
 - Aggregate functions (SUM, AVG, etc.) eliminate nulls before operating
 # Entity integrity and referential integrity
-- 
+- **Entity Integrity**
+	- In a base relation, no attribute of a primary key can be null
+	- 
