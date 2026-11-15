@@ -28,6 +28,21 @@
 7. Security and access control issues
 	- Hard to separate access to data within a file
 # DBMS advantages and disadvantages
+- **Advantages**
+1. Redundancy and consistency
+	- Duplicate data can be eliminated and controlled, preventing conflicting updates
+2. Data is independent, allowing apps to interact with logic rather than a storage layout
+	- Storage can be changed without affecting code
+3. Constraints can be enforced automatically at the DB level regardless of which app modifies the data
+	- Primary/Foreign keys 
+4. Concurrency
+5. Backups and crash recovery
+6. Role permissions and security
+- **Disadvantages**
+1. 
+
+
+
 • DDL and DML
 • Characteristics of views
 • The components of DBMS environment
