@@ -265,4 +265,15 @@
 	- Combines low cost storage of a lake with ACID of a warehouse
 	- Open table formats
 	- Supports SQL analytics and ML on the same data
-- 
+# Cloud computing
+- Model for enabling ubiquitous and convenient on-demand access to a shared pool of computing resources
+- 5 Key Characteristics
+	1. On-demand self service
+	2. Broad network access
+	3. Resource pooling
+	4. Rapid elasticity (of resources based on demand)
+	5. Measured service (pay as you go)
+# Cloud-based database solutions (diagrams)
+- DBaaS
+	- A fully managed DB by the provider
+	- 
