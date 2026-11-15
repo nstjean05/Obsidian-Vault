@@ -298,5 +298,28 @@
 - **Schema**
 	- A description of the DB structure
 	- ANSI-SPARC has 3 schemas; external/conceptual/internal
-- **System Catalogue*d*
-- 
+- **System Catalogue**
+	- Repository of metadata describing the data in the DB
+# Degree and cardinality
+- Degree is the number of attributes in a relation
+	- Columns
+- Cardinality
+	- Number of tuples (rows) in a relation
+# Relational model terminology (candidate key, primary key, foreign key, etc.)
+- **Relation**
+	- A table with columns and rows
+	- Logical structure
+- **Attribute**
+	- A named column of a relation
+- **Tuple**
+	- A row of a relation
+- **Domain**
+	- The set of allowable rules for one or more attributes
+- **Degree**
+	- Number of attributes (columns)
+- **Cardinality**
+	- Number of tuples (rows)
+- **Relational DB**
+	- Collection of normalized relations with distinct names
+- **Superkey**
+	- An attribute or set of them that uniquely
