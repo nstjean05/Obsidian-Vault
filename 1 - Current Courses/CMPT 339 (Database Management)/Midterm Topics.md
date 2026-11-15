@@ -151,4 +151,15 @@
 # Data independence (logical and physical)
 - **Logical Independence**
 	- External schema cannot affect logic of the conceptual schema
-	- 
+	- Adding or removing entities/attributes/relationships in conceptual shouldn't break user views
+- **Physical Independence**
+	- Physical changes should not affect the conceptual schema
+	- Various file orgs or storage structures shouldn't require changes to higher levels
+- Logical independence is generally hard to achieve in practice
+	- Structural changes to the data can affect what users and programs need
+# Different data models
+- Data models integrate concepts for describing data
+- Three parts of a data model:
+	1. Structural: Rules for how the DB is built
+	2. Manipulative: Types of operations allowed
+	3. Integrity: Keep the data accurac
