@@ -241,4 +241,28 @@
 - **Distributed DB**
 	- Logically interrelated collection of shared data, physically distributed over a computer network
 - **Distributed DBMS**
-	- The software system managing the DD
+	- The software system managing the DDB, and making the distribution transparent to users (they can't tell it's there)
+	- Appears centralized
+# Data warehousing, data lake, and lakehouse
+- **Warehousing**
+	- Consolidated view of an org's data for disparate sources
+	- End-users have tools that let them do queries
+	- Four properties:
+		1. Subject oriented
+			- Organized around major subjects (customers/sales)
+			- Not around application areas (invoicing/stock control)
+		2. Integrated
+			- Data from many sources
+		3. Time-variant
+			- Data is accurate at a specific point, and history is preserved
+		4. Non-volatile
+			- Data isn't updated in real time, but refreshed on schedule (ex. nightly)
+- **Lake**
+	- Raw data in its native format at scale
+	- Structure is only applied when data is queried
+	- Risk of becoming a data swamp, without quality control or metadata
+- **Lakehouse**
+	- Combines low cost storage of a lake with ACID of a warehouse
+	- Open table formats
+	- Supports SQL analytics and ML on the same data
+- 
