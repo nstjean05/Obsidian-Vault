@@ -198,3 +198,20 @@
 	- Traditional architecture
 	- One central computer with 1 CPU, and several dumb terminals
 	- Terminals only send input and show output
+	- Huge burden on central computer, bad scaling
+- **Web Service**
+	- Software system for machine to machine interaction over a network
+	- No UI
+	- Shares business logic and data
+		- B2B integration
+- **REST**
+	- Representational State Transfer
+	- Architecture for web APIs
+	- Resources are identified by URIs and manipulated with HTTP verbs
+- **SOA**
+	- Service-Oriented Architecture
+	- Business centric architecture for building apps from services
+- **Microservices**
+	- Modern evolution of SOA
+	- Many small, independently deployable services
+	- 
