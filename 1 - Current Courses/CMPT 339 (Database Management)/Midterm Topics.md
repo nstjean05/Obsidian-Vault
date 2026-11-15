@@ -214,4 +214,31 @@
 - **Microservices**
 	- Modern evolution of SOA
 	- Many small, independently deployable services
-	- 
+	- Each service owns its own DB and comms through light APIs
+	- Ex. Docker/Kubernetes
+- **NoSQL**
+	- Not Only SQL
+	- DBs that store and retrieve data without the traditional relational table model
+	- Flexible data structures, very large datasets, high throughput
+- **NewSQL**
+	- Distributed relational DBs that give NoSQL's scalability while keeping full SQL and ACID transactions
+- **Transaction Teleprocessing Monitor**
+	- Middleware for online transaction processing
+	- Provides a consistent environment for data transfer between client/server
+- **ACID**
+	- Atomicity
+		- Transactions as a single unit
+	- Consistency
+		- A transaction moves the DB from one valid state to another
+	- Isolation
+		- Concurrent transaction execute without interfering with one another
+	- Durability
+		- Once a transaction is committed, its changes are permanent, and survive system restart/crash
+# Distributed processing, distributed DBMS
+- **Distributed Processing**
+	- Processing is spread over a network of computers, while data is centralized in a DB
+	- Communicate over a network
+- **Distributed DB**
+	- Logically interrelated collection of shared data, physically distributed over a computer network
+- **Distributed DBMS**
+	- The software system managing the DD
