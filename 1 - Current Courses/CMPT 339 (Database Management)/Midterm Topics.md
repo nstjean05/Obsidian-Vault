@@ -321,5 +321,29 @@
 	- Number of tuples (rows)
 - **Relational DB**
 	- Collection of normalized relations with distinct names
-- **Superkey**
-	- An attribute or set of them that uniquely
+- **Super Key**
+	- An attribute or set of them that uniquely identifies a tuple
+- **Candidate Key**
+	- A super key with no proper subset
+	- It is unique and irreducible
+- **Composite Key**
+	- A key made up of more than one attribute
+- **Primary Key**
+	- Candidate key selected to identify tuples uniquely within the relation, only one per table
+	- Can't be NULL
+- **Alternate Keys**
+	- Candidate keys that weren't chosen as the primary key
+- **Foreign Key**
+	- An attribute or set of them within a relation that matches the candidate key of some relation
+# NULL
+- Null is a value for an attribute that is currently unknown or not applicable for a tuple
+- Deals with incomplete or exceptional data
+- Null is not:
+	- Zero
+	- An empty string
+	- Spaces
+- Null is the absence of a value
+- Any comparison (>, <, =) with null returns null (unknown)
+- Aggregate functions (SUM, AVG, etc.) eliminate nulls before operating
+# Entity integrity and referential integrity
+- 
