@@ -61,10 +61,51 @@
 # Characteristics of views
 
 # The components of DBMS environment
+- **Hardware**
+	- Physical equipment the system runs on
+	- From 1 PC to a network of computers
+- **Software**
+	- DBMS, OS, and network software
+	- Application programs using the DB
+- **Data**
+	- Org data, plus its description (schema)
+	- Link connecting machine and human parts
+- **Procedures**
+	- Instructions and rules for DB design/use
+- **People**
+	- Covered next.
+# Various roles (DA, DBA, Database Designer, Application Designer, End Users, etc.)
+- **Data Admin**
+	- DA
+	- Manages data resource
+	- Planning/standards/policies/design
+- **DB Admin**
+	- DBA
+	- Physical side
+	- Implementation/security/integrity/backups/perfomance
+- **DB Designer**
+	- Identify data and relationships/constraints
+- **End Users**
+	- Clients served by the whole system
+- **Application Developers**
+	- Write the programs that give end users functionality
+# Edgar F. Codd and Peter Chen
+- **Edgar Codd**
+	- Inventor of the relational model
+	- IBM Research lab, 1970s
+- **Relational Model**
+	- Data stored as relations (tables) of rows and columns
+- Codd's paper led to SEQUEL and then SQL
+- **Peter Chen**
+	- Inventor of the entity-relationship model
+	- 1976 npaper
+- **ER Model**
+	- Top-down approach to DB design
+	- 
 
 
-• Various roles (DA, DBA, Database Designer, Application Designer, End Users, etc.)
-• Edgar F. Codd and Peter Chen
+
+
 • ANSI-SPARC architecture (external level, conceptual, level, internal level, etc.)
 • Three-tier client–server architecture (middle tier, middleware)
 • Data independence (logical and physical)
