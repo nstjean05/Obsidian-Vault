@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "901e8f8ad1222baf",
+        "id": "fda9f165da55d7df",
         "type": "tabs",
         "children": [
           {
-            "id": "40e46897a0819338",
+            "id": "276fbf8b4934c21d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1 - Current Courses/CMPT 339 (Database Management)/Midterm Topics.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Midterm Topics"
+              "title": "New tab"
             }
           }
         ]
@@ -172,10 +168,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "40e46897a0819338",
+  "active": "276fbf8b4934c21d",
   "lastOpenFiles": [
-    "Untitled 2.md",
     "1 - Current Courses/CMPT 339 (Database Management)/Midterm Topics.md",
+    "Untitled 2.md",
     "1 - Current Courses/CMPT 339 (Database Management)/Midterm Final.md",
     "1 - Current Courses/CMPT 339 (Database Management)/Chapter 6 - SQL Data Manipulation.md",
     "Pasted image 20261114143503.png",
