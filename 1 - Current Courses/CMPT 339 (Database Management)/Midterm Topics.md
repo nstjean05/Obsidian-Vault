@@ -352,5 +352,7 @@
 	- If a foreign key exists in a relation, its value must either
 		- Match a candidate key value of some tuple in its home
 		- Be wholly null
-- Referential integrity blocks inserting or updating a child row with a foreign key that has no matching parnet
-	- Blocks deleting a
+- Referential integrity blocks inserting or updating a child row with a foreign key that has no matching parent
+	- Blocks deleting or updating a parent row that a child row still points to
+# Updates of a view
+- There are several rules governing the updating of a view
