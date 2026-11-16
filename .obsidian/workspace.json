@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "fda9f165da55d7df",
+        "id": "66d7384864006c40",
         "type": "tabs",
         "children": [
           {
-            "id": "276fbf8b4934c21d",
+            "id": "503af8b8ea43d76e",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -76,8 +76,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 271.5,
-    "collapsed": true
+    "width": 271.5
   },
   "right": {
     "id": "1c1db9715e53cd8f",
@@ -168,7 +167,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "276fbf8b4934c21d",
+  "active": "503af8b8ea43d76e",
   "lastOpenFiles": [
     "1 - Current Courses/CMPT 339 (Database Management)/Midterm Topics.md",
     "Untitled 2.md",
