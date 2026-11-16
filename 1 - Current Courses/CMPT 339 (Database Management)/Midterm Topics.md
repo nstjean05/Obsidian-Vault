@@ -386,12 +386,37 @@ ORDER BY
 | Join              |        | A selection on a Cartesian product             |
 | Division          | R / S  | Tuples of R matching **every** tuple of S      |
 - **Join Variants**
-|Join|Rule|Result|
-|---|---|---|
-|**Theta**|`R join_F S` = sigma_F(R x S), with any comparison (<, >, =...)|All columns of both|
-|**Equijoin**|A theta join using only `=`|The matching column appears **twice**|
-|**Natural**|An equijoin on all common attributes|The matching column appears **once**; unmatched tuples dropped|
-|**Left outer**|Natural join plus unmatched tuples of the left relation|Nulls fill the right side|
-|**Right outer**|Same for the right relation|Nulls fill the left side|
-|**Full outer**|Unmatched tuples of both|Nulls on whichever side is missing|
-|**Semijoin**|Tuples of R that match something in S|Only **R’s** columns|
+
+| Join            | Rule                                                            | Result                                                         |
+| --------------- | --------------------------------------------------------------- | -------------------------------------------------------------- |
+| **Theta**       | `R join_F S` = sigma_F(R x S), with any comparison (<, >, =...) | All columns of both                                            |
+| **Equijoin**    | A theta join using only `=`                                     | The matching column appears **twice**                          |
+| **Natural**     | An equijoin on all common attributes                            | The matching column appears **once**; unmatched tuples dropped |
+| **Left outer**  | Natural join plus unmatched tuples of the left relation         | Nulls fill the right side                                      |
+| **Right outer** | Same for the right relation                                     | Nulls fill the left side                                       |
+| **Full outer**  | Unmatched tuples of both                                        | Nulls on whichever side is missing                             |
+| **Semijoin**    | Tuples of R that match something in S                           | Only **R’s** columns                                           |
+# DB System Development Lifecycle
+1. DB Planning
+2. System definition
+3. Requirements collection and analysis
+4. DB Design
+5. DBMS selection
+6. Application design
+7. Prototyping
+8. Implementation
+9. Data conversion and loading
+10. Testing
+11. Operational maintenance
+- There are 3 design phases
+	1. Conceptual
+	2. Logical
+	3. Physical
+# Fact Finding Techniques
+- **Examining Documentation**
+	- Shows need for a DB
+	- Current system
+- **Interviewing**
+- **Observing the organization**
+- **Research**
+- **Questionnaires**
