@@ -354,5 +354,44 @@
 		- Be wholly null
 - Referential integrity blocks inserting or updating a child row with a foreign key that has no matching parent
 	- Blocks deleting or updating a parent row that a child row still points to
-# Updates of a view
-- There are several rules governing the updating of a view
+# Advantages and disadvantages of views
+- **Advantage**
+	- Data independence
+	- Security - columns and rows can be hidden
+	- Reduced complexity
+	- Convenient for users to only see what they need
+- **Disadvantage**
+	- Only simple views can be updated easily
+	- The structure is fixed when created
+		- Can't add new columns
+	- The view query has to run each time
+# PostgreSQL Basics
+```SQL
+SELECT
+FROM
+WHERE
+GROUP BY
+HAVING
+ORDER BY
+```
+# Relational Algebra
+| Operation         | Symbol | Explanation                                    |
+| ----------------- | ------ | ---------------------------------------------- |
+| Selection         | σ      | Picks **rows** by a predicate (WHERE)          |
+| Projection        | ∏      | Picks **columns**, removes duplicates (SELECT) |
+| Union             | R U S  | Rows in either (union-compatible)              |
+| Set difference    | R - S  | Rows in R but not in S                         |
+| Intersection      | R n S  | Rows in both: R - (R - S)                      |
+| Cartesian product | R x S  | Every R row with every S row                   |
+| Join              |        | A selection on a Cartesian product             |
+| Division          | R / S  | Tuples of R matching **every** tuple of S      |
+- **Join Variants**
+|Join|Rule|Result|
+|---|---|---|
+|**Theta**|`R join_F S` = sigma_F(R x S), with any comparison (<, >, =...)|All columns of both|
+|**Equijoin**|A theta join using only `=`|The matching column appears **twice**|
+|**Natural**|An equijoin on all common attributes|The matching column appears **once**; unmatched tuples dropped|
+|**Left outer**|Natural join plus unmatched tuples of the left relation|Nulls fill the right side|
+|**Right outer**|Same for the right relation|Nulls fill the left side|
+|**Full outer**|Unmatched tuples of both|Nulls on whichever side is missing|
+|**Semijoin**|Tuples of R that match something in S|Only **R’s** columns|
