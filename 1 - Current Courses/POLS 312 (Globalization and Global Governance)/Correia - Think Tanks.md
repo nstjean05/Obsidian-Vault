@@ -1,3 +1,18 @@
 - To face climate change, we need
 	- a robust evidence base
-	- 
+	- institutionalized collaboration
+	- technical capacity for policymakers
+- "Think tanks serve as concentration points for data and research"
+- Interface between knowledge and public policy
+	- A "knowledge ecology"
+- Distilling complexity and strengthening the evidence base
+	- *Aggregators of data and information*
+- Bridge between science and policy
+- Platform for multi-stakeholder collaboration
+	- Coalition builders
+		- Govt
+		- Private sector
+		- Experts
+		- Policymakers
+- Vehicles for capacity building and training
+- https://www.asiapathways-adbi.org/2024/12/the-knowledge-ecology-the-role-of-think-tanks-in-global-environmental-governance/
