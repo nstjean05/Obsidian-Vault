@@ -1,2 +1,14 @@
 - Mental health crisis amongst young adults
-- Explanations for this arise in c
+- Explanations for this arise in contentious issues
+	- Climate change
+	- Racism
+	- Gun violence
+- Protests and political activism are common for late millenials/Gen Z
+	- 70% are involves in a political or social cause
+- Gen Z: “We have been conscripted as child soldiers in the Baby Boomers’ culture war.”
+- Activism is connected to the generations psychological distress
+- 60% report that advocacy work harms their mental health
+- Activism can involve anger and contempt for the 'other'
+	- Guilt, shame, anxiety
+- During periods of protest, activists end off worse than non-activists
+- Don't abandon politics for apathy, but balance fighting with loving
