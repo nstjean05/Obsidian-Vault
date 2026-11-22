@@ -35,4 +35,29 @@ https://link.springer.com/book/10.1007/978-3-032-13646-6
 - Deep interconnection between domestic politics and regional power projection
 #### EU
 - Most advanced example of regional integration
-	- 
+	- Inherent tensions between supranational integration and national sovereignty
+- Brexit exposed underlying fractures
+- Representation Gap: Economic integration has advanced more rapidly than political integration
+	- Not enough time to form a shared European identity
+- Euro Crisis
+	- Structural imbalances leading to and being shown in the financial crisis
+	- Spillover from 2008
+	- German led fiscal austerity and budgetary discipline
+	- Norther/Southern state tension
+- EU shown a remarkable capacity for adaptation in the face of crises
+	- Crises can act as catalysts for greater integration
+- Permanent tension between forces of integration and fragmentation
+#### AfCFTA
+- African Continental Free Trade Area (2019)
+- Potential to become worlds largest free trade area by population
+- Challenges of economic disparities between countries
+	- Low infrastructure
+	- Non-tariff barriers
+- Nigeria resisted signing for fear of local industry loss, tariff revenue loss
+	- Signed in 2019
+	- Also had to close land borders because of smuggling
+	- Exemplifies the instability
+- AfCFTA still represents a potential turning point in Africa's development trajectory
+	- Strengthening Africa's negotiating position in the global trade system
+	- Reduce foreign dependence
+- 
