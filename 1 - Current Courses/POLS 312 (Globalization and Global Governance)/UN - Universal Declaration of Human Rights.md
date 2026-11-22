@@ -7,7 +7,7 @@
 - Notes that disregard for human rights led to atrocities, and that rights should be protected by the rule of law
 - Calls the Declaration a common standard for all peoples and nations, to be promoted through teaching and education
 ## Foundational principles (Articles 1-2)
-- All people are born free and equal in dignity and rights
+- All people are born free and equal in dignity and rights 
 - Rights apply to everyone without distinction (race, sex, religion, opinion, origin, status, etc.)
 ## Life, liberty, and security (Articles 3-5)
 - Right to life, liberty, and personal security
