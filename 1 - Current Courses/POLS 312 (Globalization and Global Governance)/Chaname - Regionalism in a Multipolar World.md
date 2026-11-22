@@ -66,4 +66,11 @@ https://link.springer.com/book/10.1007/978-3-032-13646-6
 - Witnessing a more fragmented and more diverse global economic order
 	- Regional blocs play an increasingly central role
 ## Interregional Interactions
-- 
+- Potential developments:
+	- Multiplex World
+		- Multiple layers of governance and a diversity of actors
+		- Regional blocs as intermediaries
+	- Regional Blocs establish deep links with one another
+		- Global network of interregional cooperation
+		- Region-to-region agreements
+	- 
