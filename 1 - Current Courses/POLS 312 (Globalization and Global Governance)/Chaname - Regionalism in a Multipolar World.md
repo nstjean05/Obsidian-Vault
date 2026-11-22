@@ -60,4 +60,10 @@ https://link.springer.com/book/10.1007/978-3-032-13646-6
 - AfCFTA still represents a potential turning point in Africa's development trajectory
 	- Strengthening Africa's negotiating position in the global trade system
 	- Reduce foreign dependence
+- AfCFTA is a more recent approach than the EU on integration
+	- Centred on trade
+	- Aspirations for gradual deepening of ties
+- Witnessing a more fragmented and more diverse global economic order
+	- Regional blocs play an increasingly central role
+## Interregional Interactions
 - 
