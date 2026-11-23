@@ -10,4 +10,5 @@
 - States are the fundamental actors in international relations
 #### Evolution of Regionalism
 - Modern idea of regionalism was forged in the 20/21st centuries
+- European Coal and Steel Community (1951) preceded the EU
 - 
