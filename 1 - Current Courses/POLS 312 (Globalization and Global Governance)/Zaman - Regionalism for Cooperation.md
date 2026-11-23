@@ -74,3 +74,5 @@
 - Shanghai Cooperation Organisation (SCO)
 	- Dominating Chinese influence
 	- Hindering other states from pursuing autonomous foreign policy
+- Regional military alliances formed for security considerations often foster distrust and competition amongst neighbours.
+- 
