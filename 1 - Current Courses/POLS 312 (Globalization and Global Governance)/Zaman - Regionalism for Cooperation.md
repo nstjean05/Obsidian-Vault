@@ -75,4 +75,17 @@
 	- Dominating Chinese influence
 	- Hindering other states from pursuing autonomous foreign policy
 - Regional military alliances formed for security considerations often foster distrust and competition amongst neighbours.
+- Ex. NATO has had continued Eastward expansion
+	- Russia views this as a danger
+- Concerns voiced at NAFTA mat redirect trade from other regions
+#### Balancing Regionalism with Cooperation
+- Regionalism's full potential lies in inclusivity and dialogue
+- EU has free trade agreements with several countries outside the bloc
+- Prioritize universal concerns
+- BRICS has facilitated a lot of dialogue on global economic governance
+## Challenges Toward Inclusivity
+- Must balance national sovereignty with regional commitments
+- Regional organizations often encounter asymmetrical power dynamics
+- Large economic disparities
+	- Ex. EU Northern vs. Southern member states
 - 
