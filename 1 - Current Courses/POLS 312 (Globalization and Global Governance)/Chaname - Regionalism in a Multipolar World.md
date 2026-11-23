@@ -73,4 +73,14 @@ https://link.springer.com/book/10.1007/978-3-032-13646-6
 	- Regional Blocs establish deep links with one another
 		- Global network of interregional cooperation
 		- Region-to-region agreements
-	- 
+	- Functional Regionalism
+		- Cooperation organized around shared interests and challenges
+		- Regions may be social constructs organized around various principles
+	- Regionalism for fragmentation
+		- Exacerbating tensions between power blocs
+		- Competitive trade/tech blocs
+		- Military allienaces
+		- Erosion of global norms and institutions
+- Future trajectory dependent on how the tension between cooperation and competition is managed
+## Conclusion
+- 
