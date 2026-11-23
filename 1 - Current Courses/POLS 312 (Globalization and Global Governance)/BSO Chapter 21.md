@@ -5,13 +5,13 @@
 - It is made up of:
 - A central system headquartered in New York.
 	- Specialized agencies, such as the World Health Organization (WHO) and International Labour Organization (ILO).
-  - Funds and programmes, such as UNICEF and the United Nations Development Programme (UNDP).
+    - Funds and programmes, such as UNICEF and the United Nations Development Programme (UNDP).
 - The UN is the only global institution with near-universal membership and a mandate covering security, development, human rights, and environmental protection.
 - Its central tension is the relationship between **state sovereignty** and the protection of people.
-  - The UN was created by states and traditionally respects their authority within their borders.
-  - However, it increasingly addresses problems within states, including human rights violations, civil wars, and humanitarian crises.
+    - The UN was created by states and traditionally respects their authority within their borders.
+    - However, it increasingly addresses problems within states, including human rights violations, civil wars, and humanitarian crises.
 - The UN's responsibilities have expanded, but its effectiveness remains contested.
-  - The Iraq War (2003), intervention in Libya (2011), the Syrian conflict, and the war in Ukraine have raised questions about its authority and ability to respond to crises.
+    - The Iraq War (2003), intervention in Libya (2011), the Syrian conflict, and the war in Ukraine have raised questions about its authority and ability to respond to crises.
 ### 21.2 A Brief History of the UN and Its Principal Organs
 - The UN was officially established on **24 October 1945** by 51 countries. By 2022, membership had grown to 193 states.
 - The UN Charter established four main purposes:
@@ -86,60 +86,60 @@
 **Case Study 21.1 — The UN and Conflict in Syria**
 - The Syrian conflict began in 2011 when the government used deadly force against pro-democracy demonstrations.
 - The conflict became increasingly complicated as foreign powers supported different groups:
-  - Russia and Iran supported the Syrian government.
-  - The United States and other countries initially supported some opposition groups.
-  - The Islamic State gained territory beginning in 2013, leading to further international military involvement.
+    - Russia and Iran supported the Syrian government.
+    - The United States and other countries initially supported some opposition groups.
+    - The Islamic State gained territory beginning in 2013, leading to further international military involvement.
 - The UN struggled to respond because Russia and China vetoed proposed Security Council action against the Syrian government.
 - The UN did achieve some progress:
-  - Security Council resolutions addressed humanitarian assistance and peace negotiations.
-  - A Commission of Inquiry investigated alleged human rights violations and chemical weapons attacks.
-  - The UN organized negotiations in Geneva between the government and opposition groups.
+    - Security Council resolutions addressed humanitarian assistance and peace negotiations.
+    - A Commission of Inquiry investigated alleged human rights violations and chemical weapons attacks.
+    - The UN organized negotiations in Geneva between the government and opposition groups.
 - However, the negotiations failed to resolve major disagreements, including whether President Assad would remain in power.
 - **Main lesson:** The Syrian conflict demonstrates how great power rivalry and the Security Council veto can prevent international action, even during major humanitarian crises.
 ### 21.4 The UN and Economic and Social Questions
 - The UN Charter identifies economic and social development as important goals, including improving living standards and promoting social progress.
 - The UN's economic work has been shaped by two major divisions:
-  - **Cold War rivalry:** The US and USSR disagreed over the best approaches to economic development.
-  - **North–South divide:** Developed and developing countries disagreed over global economic inequality and the distribution of resources.
+    - **Cold War rivalry:** The US and USSR disagreed over the best approaches to economic development.
+    - **North–South divide:** Developed and developing countries disagreed over global economic inequality and the distribution of resources.
 - Initially, the Bretton Woods institutions played a major role in international economic development. Their voting structures and policies gave wealthy Western countries significant influence.
 - **Decolonization and developing countries**
-  - As newly independent states joined the UN, developing countries gained greater influence in the General Assembly.
-  - They pushed for greater attention to global inequality and more equitable economic arrangements.
-  - **UNCTAD** became an important forum for discussing trade and development.
-  - The **Group of 77** formed as a coalition of developing countries seeking to advance their shared economic interests.
+    - As newly independent states joined the UN, developing countries gained greater influence in the General Assembly.
+    - They pushed for greater attention to global inequality and more equitable economic arrangements.
+    - **UNCTAD** became an important forum for discussing trade and development.
+    - The **Group of 77** formed as a coalition of developing countries seeking to advance their shared economic interests.
 - **The United Nations Development Programme (UNDP)**
-  - Established in 1965 to support development and reduce poverty.
-  - Helped promote the concept of **human development**, which considers people's well-being and opportunities rather than economic growth alone.
-  - Since 1990, it has published the annual Human Development Report.
+    - Established in 1965 to support development and reduce poverty.
+    - Helped promote the concept of **human development**, which considers people's well-being and opportunities rather than economic growth alone.
+    - Since 1990, it has published the annual Human Development Report.
 - **Global conferences and new priorities**
-  - During the 1990s, the UN organized major conferences on environmental protection, human rights, population, and women's rights.
-  - These conferences helped turn broad international concerns into specific programmes and policy goals.
-  - They also demonstrated the growing recognition that economic, social, and environmental problems are interconnected.
+    - During the 1990s, the UN organized major conferences on environmental protection, human rights, population, and women's rights.
+    - These conferences helped turn broad international concerns into specific programmes and policy goals.
+    - They also demonstrated the growing recognition that economic, social, and environmental problems are interconnected.
 - **Millennium Development Goals (MDGs)**
-  - Established in 2000 with targets for reducing poverty, improving education, and combating diseases such as HIV/AIDS and malaria.
-  - They produced significant progress, but results varied between countries and regions.
+    - Established in 2000 with targets for reducing poverty, improving education, and combating diseases such as HIV/AIDS and malaria.
+    - They produced significant progress, but results varied between countries and regions.
 - **Sustainable Development Goals (SDGs)**
-  - Adopted in 2015, with 17 goals intended to guide global development through 2030.
-  - They cover poverty, hunger, health, education, gender equality, environmental protection, and other development priorities.
+    - Adopted in 2015, with 17 goals intended to guide global development through 2030.
+    - They cover poverty, hunger, health, education, gender equality, environmental protection, and other development priorities.
 - **Climate change cooperation**
-  - The UN provides a forum for international climate negotiations.
-  - The 1992 Earth Summit helped establish the UN Framework Convention on Climate Change.
-  - The 1997 Kyoto Protocol introduced binding emissions targets for certain countries.
-  - The 2015 Paris Agreement established a global framework for limiting temperature increases, with countries setting their own emissions targets.
-  - Climate negotiations remain difficult because countries disagree over responsibility, costs, and how emissions reductions should be achieved.
+    - The UN provides a forum for international climate negotiations.
+    - The 1992 Earth Summit helped establish the UN Framework Convention on Climate Change.
+    - The 1997 Kyoto Protocol introduced binding emissions targets for certain countries.
+    - The 2015 Paris Agreement established a global framework for limiting temperature increases, with countries setting their own emissions targets.
+    - Climate negotiations remain difficult because countries disagree over responsibility, costs, and how emissions reductions should be achieved.
 - **Financial limitations**
-  - The UN depends on assessed contributions from member states for its regular budget.
-  - Many funds and programmes rely on voluntary contributions.
-  - Late or unpaid contributions can create serious financial difficulties and restrict the organization's ability to operate.
+    - The UN depends on assessed contributions from member states for its regular budget.
+    - Many funds and programmes rely on voluntary contributions.
+    - Late or unpaid contributions can create serious financial difficulties and restrict the organization's ability to operate.
 ### 21.5 Conclusion
 - The UN has developed from an organization primarily concerned with preventing war between states into one that also addresses internal conflict, human rights, development, and environmental issues.
-- Its universal membership gives it an important degree of international legitimacy.
-- However, its effectiveness depends heavily on the willingness of member states to cooperate.
+    - Its universal membership gives it an important degree of international legitimacy.
+    - However, its effectiveness depends heavily on the willingness of member states to cooperate.
 - Its main challenges include:
-  - Great power rivalry and the Security Council veto.
-  - Disagreements over state sovereignty and humanitarian intervention.
-  - Limited financial resources.
-  - Unequal global development and competing national interests.
+	- Great power rivalry and the Security Council veto.
+    - Disagreements over state sovereignty and humanitarian intervention.
+    - Limited financial resources.
+    - Unequal global development and competing national interests.
 - **Overall argument:** The UN is essential to international cooperation, but it is not an independent world government. Its ability to act is ultimately limited by the political interests and cooperation of its member states.
 ### Opposing Opinions 21.1 — Has the United Nations Outlived Its Usefulness?
 **For:**

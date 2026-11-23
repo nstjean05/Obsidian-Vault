@@ -76,7 +76,7 @@
 	- Large corporations have far greater resources than most NGOs.
 	- Climate litigation has a North–South imbalance, with many cases initiated by US- and European-based organizations.
 	- NGOs often need coalitions and support from affected communities in the Global South.
-#### Case Study 22.2 — `#BlackLivesMatter`: The Rise of a Global Movement
+#### Case Study 22.2 — #BlackLivesMatter: The Rise of a Global Movement
 - Black Lives Matter (BLM) developed from the longer struggle against racial injustice and police violence.
 - The movement's origins include the 2013 campaign created by three Black women following the acquittal of Trayvon Martin's killer.
 - The death of George Floyd in May 2020 became a major catalyst for global mobilization.
