@@ -1,337 +1,162 @@
 #AISummary
-
 ## Chapter 22 — NGOs in World Politics
-
 ### 22.1 Introduction
-
 - **Non-governmental organizations (NGOs)** have moved from the margins to the centre of international relations.
-    
-- Their growth has been especially significant since the end of the Cold War.
-    
-- In 2020, there were approximately **66,425 international NGOs (INGOs)**, compared with 7,825 intergovernmental organizations (IGOs).
-    
+	- Their numbers and influence expanded significantly after the Cold War.
+	- In 2020, there were approximately 66,425 international NGOs (INGOs), compared with 7,825 IGOs.
 - NGOs contribute to international governance by:
-    
-    - Helping develop international laws and norms.
-        
-    - Raising awareness about transnational problems.
-        
-    - Providing humanitarian and development assistance.
-        
-    - Lobbying governments and international organizations.
-        
-- Their influence is increasingly recognized, although their independence, accountability, and democratic legitimacy remain debated.
-    
-
-### 22.2 What are NGOs?
-
-- NGOs are generally understood as **voluntary, non-state organizations** that work toward common or principled goals rather than profit.
-    
-- They vary significantly in size, purpose, structure, and influence.
-    
-- Some focus on specific issues, such as environmental protection or human rights, while others have broader humanitarian or religious objectives.
-    
-- Two common categories:
-    
-    - **Delivery organizations:** Provide services such as humanitarian assistance or development aid.
-        
-    - **Advocacy organizations:** Raise awareness, campaign, and attempt to influence policy.
-        
-- The chapter uses the term **transnational NGO (TNGO)** because national organizations increasingly operate internationally, while international organizations also influence domestic politics.
-    
-
+	- Developing international law and norms, including those against torture, slavery, and chemical weapons.
+	- Raising awareness of transnational problems such as human trafficking and HIV/AIDS.
+	- Providing humanitarian assistance and participating in international policy discussions.
+- Their growing influence became more visible as liberal and constructivist approaches challenged realism's focus on states.
+- Two major debates shape the study of NGOs:
+	- **Definition:** Their relationships with states, corporations, and social movements make them difficult to distinguish from other actors.
+	- **Democracy:** Supporters see NGOs as representatives of civil society, while critics question their accountability and representativeness.
+### 22.2 What Are NGOs?
+- NGOs are voluntary organizations that generally seek to advance principled goals or the common good rather than pursue profit.
+- They vary considerably in:
+	- Size: from small volunteer groups to large international organizations.
+	- Purpose: from single-issue advocacy to broad humanitarian or development work.
+	- Function: some deliver services, while others focus on campaigning and advocacy.
+	- Orientation: some are religious, while others are secular.
+- **Delivery organizations** provide services such as humanitarian relief or development assistance.
+- **Advocacy NGOs** raise awareness, lobby governments, and campaign for policy changes.
+- The chapter uses **transnational NGOs (TNGOs)** because national organizations increasingly participate internationally, while international organizations also influence domestic politics.
 #### 22.2.1 TNGOs vs. Other International Actors
-
-- TNGOs have characteristics that distinguish them from states, transnational corporations (TNCs), and transnational social movements (TSMOs).
-    
-- However, their relationships with these actors often blur the boundaries between them.
-    
-- Their identities are not fixed; they are shaped by their own activities and relationships with other organizations.  
-    **TNGOs and states**
-    
-- In theory, TNGOs are independent of governments and represent civil society rather than national interests.
-    
-- They generally lack international legal personality and are governed by the laws of the countries where they are established.
-    
-- Some organizations have closer relationships with states:
-    
-    - **ICRC:** A hybrid organization whose creation was supported by states.
-        
-    - **GONGOs:** Government-organized NGOs.
-        
-    - **QUANGOs:** Quasi-governmental NGOs.
-        
-- Governments increasingly rely on NGOs to provide services or implement policies.
-    
-- TNGOs can offer:
-    
-    - Specialized expertise and research.
-        
-    - Access to communities and vulnerable populations.
-        
-    - Greater flexibility and faster responses than governments.
-        
-    - Additional legitimacy for government policies.
-        
-- However, government funding and partnerships can compromise NGO independence.  
-    **TNGOs and corporations**
-    
-- Unlike most TNCs, TNGOs are generally non-profit and claim to pursue the common good.
-    
-- Their relationships with corporations can involve both conflict and cooperation.
-    
-- NGOs may:
-    
-    - Campaign against corporate practices.
-        
-    - Publicly expose harmful behaviour.
-        
-    - Participate in partnerships with businesses.
-        
-    - Join **multi-stakeholder dialogues (MSDs)** and **public-private partnerships (PPPs)**.
-        
-- NGOs have also adopted practices associated with corporations, including professional management, commercialization, and competition for funding.  
-    **TNGOs and social movements**
-    
-- **Transnational social movements (TSMOs)** are often less formally organized than NGOs.
-    
-- NGOs may emerge from social movements and help give their campaigns more permanent organizational structures.
-    
-- NGOs frequently participate in **transnational advocacy networks (TANs)**, which connect organizations, activists, governments, and other actors around shared concerns.
-    
-- These networks allow organizations to coordinate campaigns and increase their influence.
-    
-
-> **Case Study 22.1 — Friends of the Earth vs. Royal Dutch Shell**
-> 
-> - In May 2021, a Dutch court ruled that Royal Dutch Shell was responsible for contributing to dangerous climate change.
->     
-> - Shell was ordered to reduce its carbon emissions by 45% by 2030 compared with 2019 levels.
->     
-> - Friends of the Earth Netherlands joined six other NGOs and more than 17,000 co-plaintiffs in bringing the case.
->     
-> - The case illustrates how environmental NGOs increasingly use **climate litigation** rather than relying exclusively on protests and lobbying.
->     
-> - NGOs can use legal action to challenge corporations directly, not just governments.
->     
-> - However, climate litigation is expensive and resource-intensive, creating disadvantages for smaller organizations and NGOs in the Global South.
->     
-> - **Main lesson:** NGOs can influence international environmental policy through legal strategies, but unequal resources affect who can participate successfully.
->     
-> - **Questions:** What are the advantages and disadvantages of litigation? What challenges do Global South NGOs face when pursuing this strategy?
->     
-
+- TNGOs are distinct from other actors in theory, but their relationships with them blur these boundaries.
+- **TNGOs and states**
+	- TNGOs are theoretically independent from governments and often rely on private donations.
+	- They claim to represent civil society and are guided by moral principles rather than national interests.
+	- They generally lack international legal personality because international law is primarily built around states.
+	- Some organizations have close government ties:
+		- **ICRC:** Often considered a hybrid organization because its origins are closely connected to states and the Geneva Conventions.
+		- **GONGOs:** Government-organized NGOs.
+		- **QUANGOs:** Quasi-governmental NGOs.
+	- Governments increasingly rely on NGOs to provide services or implement policies.
+	- Reasons states cooperate with NGOs:
+		- NGOs possess specialized knowledge and expertise.
+		- They are often closer to affected communities and may be more trusted.
+		- They can respond more flexibly and quickly during emergencies.
+		- Their involvement can increase the legitimacy of government policies.
+	- However, dependence on governments can threaten NGO independence.
+		- Organizations may prioritize the interests of funders over their constituents.
+		- NGOs can become substitutes for state responsibilities.
+		- Unlike elected officials, NGO representatives cannot be removed through elections.
+	- Many NGOs have responded to accountability concerns by publishing financial reports and evaluating their effectiveness.
+- **TNGOs and transnational corporations (TNCs)**
+	- TNGOs are generally non-profit, whereas TNCs operate for profit.
+	- Their relationship involves both conflict and cooperation.
+	- NGOs increasingly challenge corporations over environmental damage, labour conditions, and human rights.
+	- They also cooperate through:
+		- **Multi-stakeholder dialogues (MSDs):** Discussions involving NGOs, corporations, and governments to develop common standards.
+		- **Public–private partnerships (PPPs):** Cooperation intended to achieve shared goals and encourage compliance with agreed rules.
+		- **Corporate social responsibility (CSR):** Corporate attention to environmental protection, human rights, and community well-being.
+	- Cooperation can improve corporate practices, but it may also allow businesses to improve their public image without meaningful change.
+	- WWF has faced criticism for partnerships with corporations such as Monsanto, Coca-Cola, and GAP.
+	- NGOs have also become more business-like through:
+		- **Professionalization:** Hiring permanent staff with specialized expertise instead of relying primarily on volunteers.
+		- **Commercialization:** Using branding, merchandise, and other business practices to generate revenue.
+- **TNGOs and transnational social movements (TSMOs)**
+	- TSMOs are generally informal networks of individuals and organizations pursuing social change.
+	- TNGOs have more formal structures, including permanent staff, scheduled meetings, and decision-making procedures.
+	- NGOs frequently emerge from social movements and may become their institutionalized representatives.
+	- NGOs also participate in **transnational advocacy networks (TANs)**.
+		- TANs connect NGOs with other organizations, governments, IGOs, and sometimes corporations.
+		- They coordinate campaigns and allow organizations to divide responsibilities.
+		- Some organizations focus on lobbying, while others organize protests.
+		- However, powerful **gatekeeper NGOs**, often based in the Global North, can dominate agendas and marginalize smaller organizations from the Global South.
+#### Case Study 22.1 — Friends of the Earth vs. Royal Dutch Shell
+- In 2021, a Dutch court ruled that Royal Dutch Shell was liable for contributing to dangerous climate change.
+- Shell was ordered to reduce its carbon emissions by 45% by 2030 compared with 2019 levels.
+- The lawsuit was brought by Friends of the Earth Netherlands and six other NGOs, alongside more than 17,000 co-plaintiffs.
+- The case illustrates how NGOs increasingly use **climate litigation** rather than relying only on protests, public awareness, and lobbying.
+- NGOs can use human rights arguments, including the right to life and the right to family life, to challenge corporate emissions.
+- Limitations:
+	- Legal cases are expensive and can take years.
+	- Large corporations have far greater resources than most NGOs.
+	- Climate litigation has a North–South imbalance, with many cases initiated by US- and European-based organizations.
+	- NGOs often need coalitions and support from affected communities in the Global South.
+#### Case Study 22.2 — `#BlackLivesMatter`: The Rise of a Global Movement
+- Black Lives Matter (BLM) developed from the longer struggle against racial injustice and police violence.
+- The movement's origins include the 2013 campaign created by three Black women following the acquittal of Trayvon Martin's killer.
+- The death of George Floyd in May 2020 became a major catalyst for global mobilization.
+- Factors contributing to BLM's international growth:
+	- **Symbolic events:** George Floyd's death brought widespread attention to police violence and racism.
+	- **Resonance with local experiences:** Activists adapted the movement's message to different national contexts.
+	- **Social media:** Facebook, WhatsApp, Twitter, and Instagram helped activists organize, communicate, and develop collective identities.
+- BLM's ideas were adapted to address racial and colonial injustices in different countries.
+- The movement also built coalitions with women's groups, LGBTQ communities, immigrants, and other marginalized groups.
+- The case demonstrates how social media can help movements cross national borders, although online mobilization does not automatically produce lasting political change.
 ### 22.3 The Growing Importance of TNGOs
-
-#### 22.3.1 The Growth of TNGOs
-
-- The number and influence of TNGOs increased significantly after the Cold War.
-    
-- Several developments contributed to this growth:
-    
-    - **Democratization:** Political liberalization created more opportunities for civil society organizations.
-        
-    - **Globalization:** Increased international connections created new issues that crossed national borders.
-        
-    - **Communication technologies:** The internet and social media made it easier to share information and organize campaigns internationally.
-        
-    - **UN conferences:** Major conferences created opportunities for NGOs to lobby governments and build networks.
-        
-    - **Privatization and economic liberalization:** NGOs increasingly took on responsibilities previously handled by governments.
-        
-- Important UN conferences included:
-    
-    - Rio de Janeiro Conference on Environment and Development (1992).
-        
-    - International Conference on Population and Development in Cairo (1994).
-        
-    - World Conference on Women in Beijing (1995).
-        
-- These conferences allowed NGOs to coordinate campaigns, submit policy proposals, and organize parallel meetings.
-    
-- International Relations scholarship also began taking NGOs more seriously:
-    
-    - **Realism** traditionally emphasized states and treated non-state actors as relatively unimportant.
-        
-    - **Liberal approaches** recognized the importance of societal groups and transnational relations.
-        
-    - **Constructivism** emphasized the role of NGOs in shaping international norms and ideas.
-        
-    - **Global governance approaches** examined how non-state actors contribute to regulating transnational problems.
-        
-
-#### 22.3.2 The Role and Power of TNGOs in IGOs
-
-- TNGOs have helped shape international rules, norms, and agreements.
-    
-- Examples include:
-    
-    - UN Convention against Torture (1984).
-        
-    - UN Declaration on the Elimination of Violence against Women (1993).
-        
-    - International campaign to ban landmines (1997).
-        
-    - Arms Trade Treaty (2013).
-        
-- Their influence often depends on the **opportunity structure** provided by international organizations.
-    
-- The UN provides one of the most important opportunities through **consultative status**, based on Article 71 of the UN Charter.
-    
-- NGOs with consultative status can participate in certain UN activities, attend meetings, submit statements, and access documents.
-    
-- Eligibility requirements include:
-    
-    - At least two years of existence.
-        
-    - An established headquarters.
-        
-    - A democratically adopted constitution.
-        
-    - A representative structure and accountability mechanisms.
-        
-    - Transparent decision-making.
-        
-    - Funding primarily from members or national affiliates.
-        
-- However, access is unequal:
-    
-    - Some NGOs have greater access than others.
-        
-    - Participation differs between UN bodies.
-        
-    - NGOs are generally more influential during agenda-setting than final decision-making.
-        
-    - Organizations based in North America and Europe are disproportionately represented.
-        
-- Consultative status does not guarantee influence. Governments can still reject NGO proposals or restrict access.
-    
-
-#### 22.3.3 Strategies Used by TNGOs
-
-- NGOs use several strategies to influence governments, corporations, and international organizations.
-    
-- **Information politics:**
-    
-    - Providing alternative information, research, statistics, and testimonies.
-        
-    - Drawing attention to problems that governments or corporations may ignore.
-        
-- **Symbolic politics:**
-    
-    - Using visible protests, public events, and symbolic actions to attract media attention.
-        
-    - Connecting campaigns to significant historical events or anniversaries.
-        
-- **Leverage politics:**
-    
-    - Using relationships with powerful allies to pressure governments or corporations.
-        
-    - Allies may use financial assistance, political influence, or institutional authority to support NGO campaigns.
-        
-- **Accountability politics:**
-    
-    - Monitoring governments and corporations to ensure they honour international commitments.
-        
-    - Publicly exposing violations through reporting and **naming and shaming**.
-        
-- These strategies can be used together to strengthen campaigns.
-    
-- **Limits to NGO influence:**
-    
-    - States retain sovereignty and can reject NGO demands.
-        
-    - Corporations and governments may have resources that allow them to resist pressure.
-        
-    - NGOs may disagree internally about campaign strategies.
-        
-    - Complex problems can be difficult to communicate through simple campaigns.
-        
-    - Campaigns may prioritize the views of powerful organizations over less influential groups.
-        
-- Issues involving bodily harm to vulnerable individuals or legal inequality are often easier to mobilize around because the harm and responsible parties can be clearly identified.
-    
-
-> **Case Study 22.2 — #BlackLivesMatter**
-> 
-> - The Black Lives Matter movement illustrates how social movements and digital communication can mobilize people across national borders.
->     
-> - Social media helped spread information, organize protests, and connect activists internationally.
->     
-> - The movement demonstrates the relationship between grassroots activism, transnational networks, and more formally organized NGOs.
->     
-> - It also illustrates how campaigns can influence international conversations about racism, policing, and human rights.
->     
-> - **Main lesson:** Digital communication can amplify civil society activism and make domestic political issues part of international debate.
->     
-
+#### 22.3.1 From the Margins to the Centre
+- The development of TNGOs has occurred in several historical phases:
+	- **Emergence (1775–1918):** Early organizations developed around issues such as anti-slavery, peace, women's rights, and nationality rights.
+	- **Engagement (1919–34):** NGOs increasingly interacted with international institutions, particularly the League of Nations.
+	- **Disengagement (1935–44):** The Second World War interrupted much of this activity.
+	- **Formalization (1945–49):** The creation of the UN provided new opportunities for NGO participation.
+	- **Underachievement (1950–71):** The Cold War constrained international cooperation, although important humanitarian organizations such as Médecins Sans Frontières (MSF) emerged.
+	- **Intensification (1972–91):** East–West rapprochement and growing attention to arms control and environmental issues increased NGO activity.
+	- **Empowerment (1992–present):** NGOs gained unprecedented influence and access to international institutions.
+#### 22.3.2 Explanations for TNGO Empowerment
+- **End of the Cold War:** Reduced political restrictions and encouraged the growth of civil society organizations.
+- **Democratization:** The retreat of authoritarian governments, especially in Eastern Europe and Latin America, created opportunities for new organizations.
+- **UN conferences:** Major conferences in Rio de Janeiro (1992), Cairo (1994), and Beijing (1995) gave NGOs opportunities to lobby, organize, and build networks.
+- **Communication technologies:** The internet and social media made it easier to exchange information and mobilize people across borders.
+- **Globalization:** Economic liberalization and privatization created new problems for NGOs to challenge and new service-delivery roles for them to fill.
+- **Changing IR theories:**
+	- **Realism** traditionally treated non-state actors as relatively unimportant.
+	- **Liberal approaches** emphasized complex interdependence and the influence of societal groups.
+	- **Constructivism** highlighted how NGOs help create and spread international norms.
+	- **Global governance approaches** emphasized the role of non-state actors in addressing transnational problems.
+#### 22.3.3 The Role and Power of TNGOs in IGOs
+- NGOs have contributed to major international agreements and norms, including:
+	- The UN Convention against Torture (1984).
+	- The UN Declaration on the Elimination of Violence against Women (1993).
+	- The International Campaign to Ban Landmines, which contributed to the 1997 treaty.
+	- The Arms Trade Treaty (2013).
+- Their influence depends partly on the **opportunity structure** provided by international organizations.
+	- Institutional rules determine whether NGOs can participate in meetings, provide information, and influence policy.
+	- The UN is particularly important because Article 71 of its Charter allows the Economic and Social Council (ECOSOC) to establish consultative arrangements with NGOs.
+	- NGOs with consultative status can attend certain meetings, submit statements, and access documents.
+	- Eligibility requires an established organization, a representative structure, accountability mechanisms, and transparent decision-making.
+- Access is unequal:
+	- NGOs have more opportunities in some UN bodies and policy areas than others.
+	- Participation is generally easier during agenda-setting than during final decision-making.
+	- NGOs have greater access to the General Assembly than to the Security Council.
+	- Organizations based in North America and Europe are overrepresented compared with those from other regions.
+	- Consultative status does not guarantee actual influence.
+- **TNGO strategies for influence**
+	- **Information politics:** Providing alternative information, research, testimony, and evidence about neglected problems.
+	- **Symbolic politics:** Using dramatic events, protests, and historical anniversaries to attract public and media attention.
+	- **Leverage politics:** Working with influential allies who can use political, economic, or military resources to pressure governments.
+	- **Accountability politics:** Monitoring governments and corporations to ensure they honour international commitments.
+	- **Naming and shaming:** Publicly exposing actors responsible for violations or harmful policies.
+- **Limits of NGO influence**
+	- States retain sovereignty and can refuse NGO demands or restrict access.
+	- Governments and corporations may be resistant to moral or material pressure.
+	- NGOs may disagree over strategy and compete for resources.
+	- Some issues are too complex to communicate through simple campaigns.
+	- Successful campaigns may privilege the priorities of powerful organizations while excluding less influential groups.
 ### 22.4 Conclusion
-
-- TNGOs are important actors in international politics, but their identities and independence are not always clear.
-    
-- Their relationships with states, corporations, IGOs, and social movements can make them more influential while also creating dependencies.
-    
-- NGOs have contributed to the development of international norms, legal frameworks, and awareness of transnational problems.
-    
-- Their influence is limited by state sovereignty, unequal resources, and differences in access to international institutions.
-    
-- Whether NGOs make international politics more democratic remains contested.
-    
-- Despite these limitations, NGOs have helped expand the international political agenda and influence how global problems are understood.
-    
-
-### Opposing Opinions 22.1 — TNGOs contribute to more democracy at the international level
-
-**For**
-
-- NGOs represent civil society and provide voices outside of governments.
-    
-- They can criticize state policies and offer alternative perspectives.
-    
-- They increase transparency by monitoring governments and international organizations.
-    
-- Their participation can improve the quality of international decision-making through expertise and information.
-    
-- They help bring marginalized groups and neglected issues into international discussions.  
-    **Against**
-    
-- NGOs do not necessarily have democratic mandates or represent the people they claim to speak for.
-    
-- Their internal decision-making may not be democratic or transparent.
-    
-- Wealthier Northern NGOs often have more influence than organizations from the Global South.
-    
-- NGO involvement can make international decision-making less transparent by introducing additional actors and informal negotiations.
-    
-- NGOs may prioritize their own organizational interests over those of their constituents.  
-    **Questions**
-    
-
-1. Do NGOs make international politics more democratic, or do they create additional accountability problems?
-    
-2. How can NGOs claim to represent civil society without an official democratic mandate?
-    
-3. Does the influence of wealthy Northern NGOs undermine the democratic potential of international civil society?
-    
-
+- TNGOs are important actors in global politics, but their identities and independence are not fixed.
+- Their relationships with states, IGOs, TNCs, and social movements shape their activities and influence.
+- Cooperation with governments and businesses can provide resources and access, but can also compromise independence.
+- NGOs have helped create international norms, raise awareness, and expand the global policy agenda.
+- Their influence is limited by state sovereignty, unequal resources, and questions about their accountability and democratic legitimacy.
+- Constructivist and global governance approaches help explain their importance because they emphasize ideas, norms, and the role of non-state actors.
+### Opposing Opinions 22.1 — TNGOs Contribute to More Democracy at the International Level
+- **For**
+	- NGOs give marginalized groups a voice in international institutions.
+	- They increase transparency by monitoring negotiations and exposing violations.
+	- They introduce ethical concerns and moral principles into a state-centred international system.
+	- They offer alternative perspectives that governments and corporations might otherwise ignore.
+- **Against**
+	- NGOs may be co-opted by governments or corporations and become less willing to criticize them.
+	- They are not elected and may lack a democratic mandate.
+	- Wealthy Northern NGOs are often better represented than organizations from the Global South.
+	- Some NGOs have centralized internal structures and become disconnected from their constituents.
 ### Chapter Questions
-
 1. What distinguishes TNGOs theoretically from other international actors?
-    
 2. What explains the exponential growth of TNGOs over the past two decades?
-    
 3. What contributes to the blurring of lines among TNGOs, states, and TNCs?
-    
-4. What consequences, both positive and negative, might follow from TNGOs' cooperation with states or TNCs?
-    
-5. How may the increasing number of TNGOs affect their work as well as their relations with others?
-    
-6. What are the necessary institutional prerequisites for TNGOs to potentially exert influence in IGOs?
-    
-7. What are TNGOs' likely strategies, and what might determine how and when they are used?
-    
-8. What factors might contribute to the unequal representation of Northern- and Southern-based NGOs in IGOs?
-    
-9. Why do issues involving bodily harm or questions of equality lend themselves more to TNGO campaigns compared to other concerns?
-    
-10. To what extent is TNGO involvement in international politics desirable?
+4. What consequences, both positive and negative, might follow from TNGOs’ cooperation with states or with TNCs?

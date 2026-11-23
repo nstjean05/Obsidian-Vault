@@ -55,7 +55,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "mx",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -174,9 +174,9 @@
   },
   "active": "503af8b8ea43d76e",
   "lastOpenFiles": [
-    "1 - Current Courses/POLS 312 (Globalization and Global Governance)/BSO Chapter 20.md",
-    "1 - Current Courses/POLS 312 (Globalization and Global Governance)/BSO Chapter 21.md",
     "1 - Current Courses/POLS 312 (Globalization and Global Governance)/BSO Chapter 22.md",
+    "1 - Current Courses/POLS 312 (Globalization and Global Governance)/BSO Chapter 21.md",
+    "1 - Current Courses/POLS 312 (Globalization and Global Governance)/BSO Chapter 20.md",
     "1 - Current Courses/POLS 312 (Globalization and Global Governance)/BSO Chapter 31.md",
     "1 - Current Courses/POLS 312 (Globalization and Global Governance)/BSO Chapter 19.md",
     "1 - Current Courses/POLS 312 (Globalization and Global Governance)/BSO Chapter 32.md",
