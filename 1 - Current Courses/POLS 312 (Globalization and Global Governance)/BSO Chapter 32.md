@@ -140,9 +140,7 @@
 > - Techniques of inclusion/exclusion: assimilation, essentializing, treating as threat
 > - "Dark side" may be **constitutive**, not an aberration
 > - Meanings shift based on encounters w/ difference
-
 ### 32.4 Doing human rights advocacy
-
 - Core question: how to advocate w/o doing more harm or reproducing stereotypes?
 - Critical approach = fine line
     - Don't reject HR outright (plays into populist and nationalist hands)
@@ -196,17 +194,13 @@
 > - Rights can liberate _and_ confine
 > - Need to be **historicized and contextualized**
 > - Rights are complex, contradictory, contingent, so **no permanent victories**, constant monitoring and questioning
-
 ### 32.5 Conclusion
-
 - Covered formal structure (treaties, conventions, committees, reporting) and the politics of HR
 - HR shaped by legacies of colonialism, slavery, apartheid, and engagements w/ sexual, religious, racial difference
 - Question progressive/universal/common subject claims, they can hide **power relations**
 - HR can't be steered by good intentions alone, can lead to harmful effects
 - Goal: more mindful, reflective advocacy and policy work in IR
-
 ### Questions
-
 1. In the international human rights structure and apparatus, what is the most effective model for alleviating extreme forms of cruelty and suffering inflicted by states?
 2. Can you think of examples in which the conferment of human rights has manifestly transformed the lives of the individual recipients of those rights? In what ways?
 3. Has the world become a better place with the establishment of human rights and the international human rights structure?
