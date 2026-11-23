@@ -56,4 +56,21 @@
 	- Ebola in West Africa
 - Great value in regional collaboration
 #### Knowledge Sharing
-- Andean Community of Nations (CAN) 
+- Andean Community of Nations (CAN)
+	- Collaborate on agriculture, education, and healthcare
+#### Regional Stability and Security
+- Organisation for Security and Cooperation in Europe
+	- OSCE
+	- Conflict prevention, crisis management
+	- Post-ware reconstruction
+#### A Broader Agenda
+- Economic integration isn't the only driving force
+	- Also includes larger social, cultural, and political goals
+- Gulf Cooperation Council (GCC)
+	- Collaborate on socials and cultural issues
+	- Feeling of common identity
+## Pitfalls of Closed Regionalism
+- Regionalism can become a source of division when embraced with self-interest
+- Shanghai Cooperation Organisation (SCO)
+	- Dominating Chinese influence
+	- Hindering other states from pursuing autonomous foreign policy
