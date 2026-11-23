@@ -1,0 +1,264 @@
+#AISummary
+## Chapter 23: Regionalism in International Affairs
+### 23.1 Introduction
+- **Regionalism** has become a major feature of international affairs.
+	- Regional trade agreements, security cooperation, and political institutions have expanded around the world.
+	- Regional arrangements challenge the traditional centrality of individual states in international relations.
+- In this chapter, regionalism refers to special relationships among neighbouring sovereign countries that go beyond normal diplomatic relations.
+- Regional organizations differ in their goals, institutional structures, and levels of integration.
+- The chapter examines regional cooperation in the Americas, Africa, Asia, and Europe, with particular attention to the unique development of the European Union.
+### 23.2 Regional Cooperation and Regional Integration
+- **Regionalization** refers to the growth of social and economic interaction within a region.
+	- It can produce greater interdependence and shared regional identities.
+	- It may be driven by governments or by market forces.
+- Regionalism includes different dimensions:
+	- Economic: trade, investment, and shared markets.
+	- Political: shared values, institutions, and policies.
+	- Social: migration, cultural ties, and societal interaction.
+	- Security: cooperation on conflict prevention, defence, and peacekeeping.
+#### Cooperation vs. Integration
+- **Regional cooperation** involves states working together while retaining their independent authority.
+	- **Functional cooperation:** Limited collaboration in areas such as transportation, energy, or health.
+	- **Economic cooperation:** Preferential trade arrangements without necessarily harmonizing domestic rules.
+	- **Political cooperation:** Mutual support for certain political values and practices.
+	- **Foreign and security cooperation:** Governments coordinate policies, consult one another, and sometimes conduct joint actions.
+- **Regional integration** goes further by creating a regional space governed by common rules.
+	- Economic integration can develop through several stages:
+		- **Free trade area:** Members remove trade barriers between themselves but maintain separate external trade policies.
+		- **Customs union:** Members also adopt a common external tariff.
+		- **Common market:** Allows greater movement of goods, services, capital, and labour.
+		- **Economic and monetary union:** Includes deeper economic coordination and potentially a shared currency.
+	- Integration can involve **positive integration**, meaning the harmonization of rules and policies.
+	- It may also involve **pooling sovereignty**, delegating authority to supranational institutions, and accepting binding legal commitments.
+- Cooperation and integration are not mutually exclusive.
+	- Regional organizations often combine both approaches in different policy areas.
+	- Formal institutions do not necessarily indicate how deeply integrated a region actually is.
+	- The Nordic countries, for example, developed a passport union and common labour market without extensive supranational institutions.
+#### Why Do States Pursue Regionalism?
+- **Management of independence**
+	- Newly independent states use regional arrangements to establish stable relations with neighbours, former colonial powers, and other major powers.
+	- Regionalism can help states establish their international identity and ability to act collectively.
+- **Management of interdependence**
+	- States cooperate to manage economic and social connections.
+	- Regional institutions can promote security communities, where states develop dependable expectations of peaceful relations.
+	- Cooperation can establish common rules and encourage trust.
+- **Management of internationalization**
+	- Regional organizations help states respond to globalization and participate in wider international negotiations.
+	- Regional arrangements can connect local, regional, and global governance.
+- **Pursuit of spheres of interest or influence**
+	- Major powers may sponsor regional organizations to strengthen their political, economic, or security influence.
+#### Regionalism: Building Blocks or Stumbling Blocks?
+- **Building-block argument**
+	- Regional agreements can prepare states for broader multilateral cooperation.
+	- They encourage liberalization and reduce resistance to international economic agreements.
+	- Regional arrangements can generate political cooperation and strengthen international stability.
+	- They may create useful examples for other regions to follow.
+- **Stumbling-block argument**
+	- Preferential agreements can divert trade away from more efficient global suppliers.
+	- Regional negotiations may distract states from multilateral institutions.
+	- Competing regional agreements can create incompatible rules and standards.
+	- Multiple legal frameworks may complicate international trade and dispute settlement.
+	- Rival regional blocs can increase international tensions.
+#### Opposing Opinions 23.1 — Regional Cooperation Strengthens the State
+- **For**
+	- States establish regional organizations to advance their national interests.
+	- Many regional organizations require unanimity for major decisions, preserving state control.
+	- Smaller states gain security and stability by cooperating with neighbours.
+	- Regional cooperation gives states more influence over global markets and cross-border economic activity.
+- **Against**
+	- Regional institutions can develop expertise and authority independent of their member states.
+	- Regional rules and courts create additional constraints on national sovereignty.
+	- Regional cooperation encourages non-state actors, such as NGOs and business groups, to participate in international affairs.
+	- These networks can challenge the state's traditional monopoly over external representation.
+### 23.3 Regional Cooperation in a Global Context
+#### 23.3.1 Regionalism in the Americas
+- Regionalism in the Americas has developed through several overlapping and sometimes competing arrangements.
+- **Inter-American regionalism**
+	- The first Pan-American Conference took place in Washington in 1889–90.
+	- The Pan-American Union eventually became the **Organization of American States (OAS)** in 1948.
+	- The wider Inter-American system includes institutions such as the Inter-American Development Bank and the Inter-American Court of Human Rights.
+	- During the Cold War, many countries viewed the system with suspicion because of US influence and interventionism.
+- **North American integration**
+	- The United States, Canada, and Mexico established the **North American Free Trade Agreement (NAFTA)** in 1994.
+	- NAFTA covered agriculture and included supplementary agreements on labour and the environment.
+	- It did not create supranational institutions.
+	- The **United States–Mexico–Canada Agreement (USMCA)** replaced NAFTA in July 2020.
+- **Latin American regionalism**
+	- Early integration efforts were influenced by import-substituting industrialization and the desire to reduce dependence on primary commodity exports.
+	- Initial arrangements included:
+		- Central American Common Market (CACM, 1960).
+		- Latin American Free Trade Association (LAFTA, 1961).
+		- Andean Pact (1969).
+	- A new wave of regionalism developed in the 1980s and 1990s.
+		- Central American Integration System (SICA, 1991).
+		- Common Market of the South (**Mercosur**, 1991).
+		- Andean Community of Nations (CAN, renamed in 1997).
+	- Regionalism reflects both economic interests and differing attitudes towards the United States.
+#### Case Study 23.1 — Mercosur: Great Potential, Unfulfilled Ambition
+- Mercosur was established in 1991 by Argentina, Brazil, Paraguay, and Uruguay.
+- It aimed to deepen economic cooperation and establish a common market in South America.
+- Its creation reflected the desire to strengthen regional economic ties and overcome limitations of national economic strategies.
+- Mercosur demonstrated the potential for regional integration among major South American economies.
+- However, political disagreements, economic differences, and changes in national priorities limited its development.
+- The case illustrates the difficulty of turning ambitious regional goals into sustained integration when member governments have different interests.
+#### 23.3.2 Regionalism in Africa
+- African regionalism developed in the context of decolonization, state-building, and economic dependence.
+- Regional organizations have sought to:
+	- Reduce economic dependence on former colonial powers.
+	- Promote economic development and trade.
+	- Strengthen political cooperation.
+	- Address conflict and regional security problems.
+- **Southern African Development Coordination Conference (SADCC)**
+	- Established in 1980 by Frontline States opposed to apartheid South Africa.
+	- Sought to reduce regional dependence on South Africa.
+	- Became the **Southern African Development Community (SADC)** in 1992.
+- **Intergovernmental Authority on Development (IGAD)**
+	- Established in 1986 to address drought and desertification.
+	- Its mandate expanded in 1996 to include conflict prevention and management.
+- **Organization of African Unity (OAU)**
+	- Established in 1963.
+	- Focused primarily on ending colonialism and achieving political liberation.
+- **African Union (AU)**
+	- Established in 2002, replacing the OAU and incorporating the African Economic Community.
+	- Modelled partly on the European Union.
+	- Built around eight Regional Economic Communities (RECs), which serve as foundations for continental cooperation.
+	- The African Continental Free Trade Area (AfCFTA) began operating in 2021 among countries that had ratified the agreement.
+	- The AU has also developed mechanisms for governance monitoring, including the African Peer Review Mechanism.
+- African regional organizations have increasingly participated in conflict management.
+	- ECOWAS deployed the ECOMOG force in Liberia, Sierra Leone, and Guinea-Bissau.
+	- The AU established its Peace and Security Council in 2003 and deployed missions in several conflict-affected countries.
+- Despite progress, deeper political and economic integration remains difficult, and implementation is often uneven.
+#### 23.3.3 Regionalism in Asia
+- Asian regionalism is shaped by both market forces and international security concerns.
+- Relations among major powers—particularly China, India, and Japan—limit the prospects for continent-wide cooperation.
+- **South Asia**
+	- The **South Asian Association for Regional Cooperation (SAARC)** includes Afghanistan, Bangladesh, Bhutan, India, Maldives, Nepal, Pakistan, and Sri Lanka.
+	- Cooperation is limited by the rivalry between India and Pakistan, the Kashmir dispute, and instability in Afghanistan.
+- **Southeast Asia**
+	- The **Association of Southeast Asian Nations (ASEAN)** has become a major institution for regional cooperation and trade liberalization.
+	- The ASEAN Regional Forum (ARF), established in 1994, promotes confidence-building, preventive diplomacy, and conflict resolution.
+- **East Asia**
+	- China, Japan, and South Korea established a Trilateral Cooperation Secretariat in 2011.
+	- Cooperation remains limited by territorial disputes, historical grievances, and disagreements over North Korea.
+- **Economic integration**
+	- Asian economies have become closely connected through trade and regional supply chains.
+	- The **Regional Comprehensive Economic Partnership (RCEP)** brought together the ten ASEAN members, Australia, China, Japan, South Korea, and New Zealand. It entered into force in 2022.
+	- The **Comprehensive and Progressive Agreement for Trans-Pacific Partnership (CPTPP)** developed after the United States withdrew from the original Trans-Pacific Partnership.
+	- **Asia-Pacific Economic Cooperation (APEC)** is a relatively informal forum of 21 Pacific economies that promotes trade facilitation and open regionalism.
+#### Case Study 23.2 — Regionalism in Southeast Asia: Beyond Intergovernmentalism?
+- ASEAN has developed one of the most extensive systems of regional cooperation outside Europe.
+- Its achievements include:
+	- Greater economic cooperation and trade liberalization.
+	- Visa-free travel among members.
+	- The ASEAN Economic Community.
+	- A shared regional identity expressed through symbols, an anthem, and ASEAN Day.
+- The **ASEAN way** emphasizes:
+	- Consensus-based decision-making.
+	- Non-interference in members' domestic affairs.
+	- Quiet diplomacy.
+	- Avoidance of binding and enforceable decisions.
+- These principles help maintain cooperation among diverse states but also limit ASEAN's ability to respond decisively to crises.
+- Challenges include military coups, the Rohingya crisis, and disputes in the South China Sea.
+- Great-power rivalry has also challenged ASEAN's centrality.
+	- China's Belt and Road Initiative and US-backed arrangements such as the Quad and AUKUS create competing regional structures.
+	- These developments may weaken ASEAN's influence and make global power politics more important than regional cooperation.
+#### 23.3.4 Eurasia and the Post-Soviet States
+- Regionalism in Eurasia developed after the dissolution of the Soviet Union.
+- Former Soviet republics sought new forms of cooperation while navigating competition between Russia, China, the EU, and the United States.
+- **Commonwealth of Independent States (CIS)**
+	- Established in 1991 among most former Soviet republics.
+	- Provided a framework for cooperation after the Soviet collapse.
+- **Eurasian Economic Union (EAEU)**
+	- Established in 2015 by Russia, Armenia, Belarus, Kazakhstan, and Kyrgyzstan.
+	- Based on a customs union and intended to create a single market.
+- **Collective Security Treaty Organization (CSTO)**
+	- Developed from the 1992 Collective Security Treaty.
+	- Became an organization in 2002, linking Russia and several former Soviet republics.
+- **Shanghai Cooperation Organization (SCO)**
+	- Developed from the Shanghai Five mechanism established in 1996 by China, Russia, Kazakhstan, Kyrgyzstan, and Tajikistan.
+	- Became the SCO in 2002.
+	- India and Pakistan joined as full members in 2017.
+	- Provides a framework for cooperation involving major Eurasian powers.
+- **Competition between Russia and the EU**
+	- The EU's Eastern Partnership, launched in 2009, involved Ukraine, Belarus, Moldova, Azerbaijan, Georgia, and Armenia.
+	- Russia sought to maintain influence over former Soviet republics through its own regional arrangements.
+	- Ukraine became a major point of conflict because its potential EU association agreement conflicted with Russian plans for Eurasian integration.
+	- The 2013 political crisis in Ukraine was followed by Russian annexation of Crimea in 2014 and the full-scale invasion of Ukraine in February 2022.
+- Eurasian regionalism demonstrates how regional arrangements can reflect competition among major powers rather than simply cooperation among neighbouring states.
+### 23.4 The Process of European Integration
+- European integration developed after the Second World War, initially to promote reconciliation between France and Germany and prevent renewed conflict.
+- The original six states began cooperation in the 1950s through the supranational management of coal and steel.
+- Integration gradually expanded into:
+	- A common internal market.
+	- Trade and competition policy.
+	- Agriculture and transportation.
+	- Environmental policy, justice, and internal security.
+	- Monetary union and the euro.
+- The **Maastricht Treaty**, signed in 1992 and effective from 1993, established the European Union and expanded cooperation into additional policy areas.
+- European integration combines supranational decision-making with intergovernmental cooperation.
+#### EU Institutions and Governance
+- **European Parliament**
+	- Directly elected representatives of EU citizens.
+	- Scrutinizes other institutions and shares legislative powers with the Council of the EU in many areas.
+- **European Council**
+	- Brings together national leaders and the Commission.
+	- Sets the EU's broad political direction and helps resolve major disagreements.
+- **Council of the European Union**
+	- Represents national governments.
+	- Shares responsibility for adopting legislation with the European Parliament in many areas.
+- **European Commission**
+	- Proposes, administers, and oversees the implementation of EU policies and legislation.
+- **Court of Justice of the EU**
+	- Interprets EU law and ensures that member states and institutions comply with it.
+- **European Central Bank**
+	- Manages monetary policy and the euro.
+- **Court of Auditors**
+	- Audits EU revenue and expenditure.
+- EU decision-making varies by policy area.
+	- Some decisions use majority voting, meaning individual states can be outvoted.
+	- Other areas require unanimity, giving each state the ability to block decisions.
+- The EU is increasingly understood as a system of **multilevel governance**.
+	- Authority and political influence operate at supranational, national, and sub-state levels.
+	- Governments are not the only actors involved; political groups, businesses, and other organizations also influence EU policy.
+#### Challenges to European Integration
+- **Eurozone crisis (from 2009)**
+	- Sovereign debt problems led to disagreements over bailouts and austerity measures.
+	- Debates emerged between creditor countries and states requiring financial assistance.
+- **Refugee and migration crisis (from 2015)**
+	- Large numbers of refugees and migrants placed pressure on EU border and asylum policies.
+	- Some states reintroduced border controls, challenging free movement within the Schengen Area.
+- **Brexit**
+	- The 2016 referendum resulted in a majority vote for the United Kingdom to leave the EU.
+	- The UK's withdrawal challenged the assumption that European integration would continually expand.
+- **Threats to liberal values**
+	- Governments in Hungary and Poland faced criticism for undermining judicial independence, media freedom, and civil rights.
+	- EU institutions struggled to respond decisively because some decisions require unanimity.
+- **Covid-19 pandemic**
+	- Initial national border closures and travel restrictions threatened the single market and Schengen mobility.
+	- The EU later coordinated medical procurement, vaccine purchases, and recovery measures.
+	- **NextGenerationEU** introduced an unprecedented recovery programme financed through bonds issued by the European Commission.
+	- The crisis encouraged further discussion of a common European health policy.
+- **War in Ukraine**
+	- Russia's 2014 annexation of Crimea and the 2022 full-scale invasion challenged European security.
+	- The EU responded with sanctions, financial and military support for Ukraine, and humanitarian assistance.
+	- The crisis strengthened EU cooperation with NATO and encouraged greater attention to European defence.
+- These crises created what scholars describe as an EU **polycrisis**.
+	- Multiple challenges threatened the EU's cohesion and political legitimacy.
+	- However, the EU also demonstrated institutional resilience by expanding cooperation in areas such as banking, health, border management, and defence.
+### 23.5 Conclusion
+- Regionalism is a global phenomenon and is not necessarily opposed to globalization.
+	- Regional arrangements are one way states and societies adapt to an increasingly interconnected world.
+- Regional organizations vary considerably in their institutional structures and ambitions.
+	- Some are relatively loose arrangements based on cooperation.
+	- Others, particularly the EU, have developed extensive supranational institutions and common rules.
+- There is no single path to regional integration.
+	- Regionalism is shaped by internal political conditions, economic relationships, historical experiences, and external power rivalries.
+- Regional cooperation remains important even as global multilateralism faces challenges.
+- The EU is a particularly advanced example of integration, but its development should not be assumed to represent a universal model.
+### Chapter Questions
+1. What have been the driving forces behind processes of regional integration and cooperation?
+2. What are the relative weights of economic and political factors in explaining the emergence of regional institutions?
+3. How have the dynamics of regionalism changed since the 1990s?
+4. What role can regional organizations play in maintaining peace and security?
+5. What impact have processes of regional integration and cooperation had on the Westphalian state?
+6. Compare and contrast European integration with the process of regional cooperation in at least one other continent.
