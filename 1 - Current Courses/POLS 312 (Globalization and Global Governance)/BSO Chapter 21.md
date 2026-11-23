@@ -12,61 +12,32 @@
     - Now addresses non-state threats, political/economic/social conditions within states
     - Greater involvement in development and human rights
 - Effectiveness remains contested
-    
     - Iraq War (2003): US/UK failed to obtain clear Security Council authorization
-        
     - Libya (2011): controversy over implementation of Security Council mandate
-        
     - Syria (2011–) and Ukraine (2022): Security Council unable to agree on effective responses
-        
 - Central question: **Can the UN balance state sovereignty, great power politics, and universal interests?**
-    
-
 ### 21.2 A brief history of the United Nations and its principal organs
-
 - Established **24 October 1945** by 51 countries
-    
     - 193 members by 2022; South Sudan (2011) was the newest
-        
     - Members agree to obligations of the **UN Charter**
-        
 - 4 purposes of the UN
-    
     1. Maintain international peace and security
-        
     2. Develop friendly relations among nations
-        
     3. Cooperate in solving international problems and promoting human rights
-        
     4. Harmonize the actions of nations
-        
 - Charter recognizes both state rights and peoples' needs
-    
     - Article 1(2): equal rights and self-determination of peoples
-        
     - Article 2(7): limits UN intervention in domestic affairs
-        
     - Chapter VI: peaceful settlement of disputes
-        
     - Chapter VII: action against threats to peace, breaches of peace, aggression
-        
     - Article 42: Security Council may authorize military action
-        
     - Article 99: Secretary-General can bring threats to international peace to the Security Council
-        
-
 #### 21.2.1 The League of Nations and the creation of the UN
-
 - UN designed to correct weaknesses of its predecessor, the **League of Nations**
-    
     - League established after WWI to prevent future wars
-        
 - League's weaknesses
-    
     - No clear division of responsibility between Council and Assembly
-        
     - Both could only make recommendations, not binding resolutions
-        
     - Decisions required unanimity
         
     - States could reject recommendations
