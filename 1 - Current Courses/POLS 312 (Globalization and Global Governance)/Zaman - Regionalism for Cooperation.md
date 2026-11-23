@@ -38,4 +38,22 @@
 - Common identities
 ## Power of Regional Collaboration
 #### Economic Integration
-- 
+- The EU's single market has provided an economic model for other regions
+	- NAFTA
+	- Mercosur
+	- AfCFTA
+- ASEAN aspires to turn into a unified market and production base
+	- Increased investor appeal and global competitiveness
+#### United Fronts
+- Stronger bargaining positions
+- African Union has an important role in African peace/security
+	- Deploys peacekeeping missions
+	- Mediate crises
+	- AU's combined voice can be more successful at advocating for Africa on the global stage
+#### Addressing Transnational Issues
+- EU collective climate initiatives seek to make Europe the first climate-neutral continent by 2050
+- AU efforts to address health difficulties
+	- Ebola in West Africa
+- Great value in regional collaboration
+#### Knowledge Sharing
+- Andean Community of Nations (CAN) 
