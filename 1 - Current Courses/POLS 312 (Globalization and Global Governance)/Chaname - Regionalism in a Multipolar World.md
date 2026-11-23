@@ -79,7 +79,7 @@ https://link.springer.com/book/10.1007/978-3-032-13646-6
 	- Regionalism for fragmentation
 		- Exacerbating tensions between power blocs
 		- Competitive trade/tech blocs
-		- Military allienaces
+		- Military alliances
 		- Erosion of global norms and institutions
 - Future trajectory dependent on how the tension between cooperation and competition is managed
 ## Conclusion
