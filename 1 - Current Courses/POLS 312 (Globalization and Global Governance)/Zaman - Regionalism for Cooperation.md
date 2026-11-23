@@ -88,4 +88,12 @@
 - Regional organizations often encounter asymmetrical power dynamics
 - Large economic disparities
 	- Ex. EU Northern vs. Southern member states
-- 
+## Navigating Power Dynamics
+- Hegemonic powers create discrepancies which must be addressed for effective regionalism
+- Several domains are critical for cooperation
+	- Climate change
+	- Pandemics
+	- Cybersecurity
+## Conclusion
+- Regionalism presents a pivotal alternative to nation-states, for promoting a more cooperative and effective global order
+- It also has many obstacles, including fragmentation, economic disparities, and sovereignty vs integration
