@@ -54,4 +54,9 @@
 	- Year-long strategy
 #### Changing International Environment
 - Fundamentally new issues as new realities emerge (ex. 9/11)
-- 
+- Many new actors have joined the scene
+	- UN membership growth
+	- Non-state actors
+		- UN High Commissioner for Human Rights
+		- International Criminal Tribunal
+		- International Criminal Court
