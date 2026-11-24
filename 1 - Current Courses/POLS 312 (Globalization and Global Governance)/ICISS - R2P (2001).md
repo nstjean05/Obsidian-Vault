@@ -37,4 +37,13 @@
 		- Were peaceful means exhausted?
 		- Acting without permission from UN or Security Council
 	- NATO intervened, and a possible bloody civil war may have been averted
-- Bos
+- Bosnia was another shortcoming
+	- Massacre in Srebrenica in 1995
+	- Supposed to be a 'UN safe area'
+		- No real military backing
+		- 8,000 Bosniak killed
+	- Betrayal of a promise of protection
+- Each of the four massacres (adding Somalia) occurred at a time when it was expected for more collaboration, post Cold War
+- Challenging to balance between those who say the international community is not intervening enough and those who say it is too often
+	- Others take issue over legality, process, precedent, etc.
+- 
