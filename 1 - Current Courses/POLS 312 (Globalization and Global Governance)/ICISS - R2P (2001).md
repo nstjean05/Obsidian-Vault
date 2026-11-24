@@ -22,4 +22,19 @@
 	- Clear objectives
 	- Unified approach between states
 	- Do not attempt to defeat a state, but rather protect its population
-	- Adhere to rules of engagement and intl hum
+	- Adhere to rules of engagement and intl humanitarian law
+	- Accept that force protection cannot become the principle objective
+	- Maximize collaboration with humanitarian organizations
+# Chapter 1. The Policy Challenge
+- Rwanda (1994) was a major failure
+	- UN forces were present
+	- Security council knew of genocide planning
+	- Credible strategies for mitigation were available
+	- Security Council refused to take necessary action
+- Kosovo, 5 years later, did have an intervention
+	- Lots of questioning as to whether the cause was just
+		- Was it for selfish purposes
+		- Were peaceful means exhausted?
+		- Acting without permission from UN or Security Council
+	- NATO intervened, and a possible bloody civil war may have been averted
+- Bos
