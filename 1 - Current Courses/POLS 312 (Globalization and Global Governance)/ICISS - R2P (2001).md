@@ -65,4 +65,7 @@
 - New security issues
 	- Conflict has been redirected towards the capture of resources and plunder
 - Internal conflicts more complex and lethal because of modern technology/comms
-- Dilemma of disengagement vs complici
+- Dilemma of disengagement vs complicit bystanders
+- Challenge of crafting consistent responses
+	- Some humanitarian crises receive a lot of attention, while others are neglected
+- 
