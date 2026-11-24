@@ -60,3 +60,9 @@
 		- UN High Commissioner for Human Rights
 		- International Criminal Tribunal
 		- International Criminal Court
+		- UN High Commissioner for Refugees
+		- NGOs
+- New security issues
+	- Conflict has been redirected towards the capture of resources and plunder
+- Internal conflicts more complex and lethal because of modern technology/comms
+- Dilemma of disengagement vs complici
