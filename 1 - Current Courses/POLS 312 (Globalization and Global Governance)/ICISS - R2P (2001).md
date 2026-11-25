@@ -26,7 +26,7 @@
 	- Accept that force protection cannot become the principle objective
 	- Maximize collaboration with humanitarian organizations
 # Chapter 1. The Policy Challenge
-#### Intervenetion Dillemma
+#### Intervention Dilemma
 - Rwanda (1994) was a major failure
 	- UN forces were present
 	- Security council knew of genocide planning
@@ -47,7 +47,7 @@
 - Each of the four massacres (adding Somalia) occurred at a time when it was expected for more collaboration, post Cold War
 - Challenging to balance between those who say the international community is not intervening enough and those who say it is too often
 	- Others take issue over legality, process, precedent, etc.
-- Government of Canada established the International Comission on Intervention and State Sovereignty (ICISS) (2000)
+- Government of Canada established the International Commission on Intervention and State Sovereignty (ICISS) (2000)
 	- Build a broader understanding of reconciliation intervention
 		- Human Protection
 		- Sovereignty
@@ -89,4 +89,3 @@
 - They avoid using the term 'humanitarian intervention' in exchange for *intervention* or *military intervention*
 	- *Humanitarian* has been appropriated for political branding
 	- Using the word inherently prejudges the issue
-- 
