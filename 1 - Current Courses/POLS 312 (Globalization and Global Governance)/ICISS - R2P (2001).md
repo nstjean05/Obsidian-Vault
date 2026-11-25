@@ -69,4 +69,6 @@
 - Challenge of crafting consistent responses
 	- Some humanitarian crises receive a lot of attention, while others are neglected
 - Technological revolution resulting in an enormously heightened awareness of conflicts
-- The document has a lot of hope for effectiveness in the near
+- The document has a lot of hope in the UN for effectiveness in the near future
+#### The Implications for State Sovereignty
+- 
