@@ -71,4 +71,6 @@
 - Technological revolution resulting in an enormously heightened awareness of conflicts
 - The document has a lot of hope in the UN for effectiveness in the near future
 #### The Implications for State Sovereignty
+- Sovereignty is often States' best defence, and sometimes their only
+- Many modern states are still in the process of consolidating their identity
 - 
