@@ -73,4 +73,20 @@
 #### The Implications for State Sovereignty
 - Sovereignty is often States' best defence, and sometimes their only
 - Many modern states are still in the process of consolidating their identity
+- While a state must have sovereignty, it can't do whatever it wants to its people
+	- 'Dual responsibility'
+#### The Meaning of Intervention
+- Intervention means different things to different people.
+	- Any application of pressure to a state
+		- Ex. Conditional support programs
+	- Any non-consensual interference
+	- Coercive actions
+		- Military action
+		- Sanctions
+	- Only military force
+- Def here: Action taken against a state or its leaders, without its consent, for purposes which are claimed to be humanitarian or protective
+- Military is the most common form
+- They avoid using the term 'humanitarian intervention' in exchange for *intervention* or *military intervention*
+	- *Humanitarian* has been appropriated for political branding
+	- Using the word inherently prejudges the issue
 - 
