@@ -35,7 +35,8 @@
               "title": "Seminar Presentation Peer Feed"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -185,10 +186,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "503af8b8ea43d76e",
+  "active": "c768b2ffd123074b",
   "lastOpenFiles": [
-    "1 - Current Courses/POLS 312 (Globalization and Global Governance)/ICISS - R2P (2001).md",
+    "Untitled 3.md",
     "1 - Current Courses/POLS 312 (Globalization and Global Governance)/UN - R2P (2025).md",
+    "1 - Current Courses/POLS 312 (Globalization and Global Governance)/ICISS - R2P (2001).md",
     "1 - Current Courses/POLS 312 (Globalization and Global Governance)/UN - Universal Declaration of Human Rights.md",
     "1 - Current Courses/POLS 312 (Globalization and Global Governance)/UN - UN Dialogue on AI Governance.md",
     "Seminar Presentation Peer Feed.md",
@@ -212,7 +214,6 @@
     "1 - Current Courses/POLS 312 (Globalization and Global Governance)/Brooks - Activism.md",
     "1 - Current Courses/NATS 483/4th Civ Ch 9.md",
     "1 - Current Courses/CMPT 339 (Database Management)/Midterm Topics.md",
-    "1 - Current Courses/NATS 483/4th Civ Ch 8.md",
     "Pasted image 20261114143503.png",
     "Pasted image 20261114141242.png",
     "Pasted image 20261114121910.png",
