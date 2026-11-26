@@ -5,11 +5,11 @@ This is the short path for a server that already has a tunnel and no need for Do
 
 ## What you have
 
-| Download | What is in it |
-|---|---|
-| `omada-frontend.zip` | The pages: 4 HTML files, 1 CSS file, 5 JavaScript files |
-| `omada-database.zip` | The database: 5 SQL scripts, the single combined `omada_full.sql`, the install script |
-| `omada-scheduler-full.zip` | Everything above **plus the backend** and the docs. Use this one to install. |
+| Download                   | What is in it                                                                         |
+| -------------------------- | ------------------------------------------------------------------------------------- |
+| `omada-frontend.zip`       | The pages: 4 HTML files, 1 CSS file, 5 JavaScript files                               |
+| `omada-database.zip`       | The database: 5 SQL scripts, the single combined `omada_full.sql`, the install script |
+| `omada-scheduler-full.zip` | Everything above **plus the backend** and the docs. Use this one to install.          |
 
 **The pages cannot work on their own.** Every screen fetches its data from `/api/...` on the same web address, and that is the backend (the Python program in `backend/`). The backend also serves the pages, so you only run one thing and your tunnel points at one place: `http://localhost:8000`.
 
